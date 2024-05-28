@@ -23,11 +23,17 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklis
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png" group-title="TV Colombia", Red + -HD-
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canaltro.com/wp-content/uploads/2024/05/cropped-cropped-cropped-IMG_8827-e1716841858233.png" group-title="TV Colombia", Trece -HD-
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV Colombia", Telepacifico -HD-
+https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TV Deportes", Claro Sports -HD-
-https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/1931df5b-4cea-4772-a5ac-636ccb0ec7e1:TUL/variant/f51319a769e6100e1e9e68139df578da/bandwidth/3577125.m3u8
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Colombia",  -HD-
+https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index_16_0.m3u8
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Colombia",  -HD-
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w922965213_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVdiVElMeEJ0RG92MmdOMVQ2MUZoNEdsT21KeEhMWkYwRkNnS2tDY3lhTVE9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?181.143.233.179
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Colombia",  -HD-
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 
  --- TV Religion --
 
