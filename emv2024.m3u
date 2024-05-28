@@ -1,8 +1,9 @@
 #EXTM3U
 
 --- Televisión Premium ---
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", ESPN 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", ESPN 3
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/1715074287585item-07item_Segment-18384901053760.m4a
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/1715074287585item-06item_Segment-18384900877093.m4v
 
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", La Kalle -HD-
 https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream/58d191f07290fbb058025843/publish/media_250.m3u8?aid=589b127df30bc52f54100dcb&uid=9fIs9AA6pkPEeSdxNJ63o1ce0A5TfSlK&sid=03TDNkDpitHh3M6suWOZLnVA39VTrr0b&pid=AAjLmYIT033JOoOm5gAMP04ZdsMEwcPj&ref=https%3A%2F%2Flakalle.bluradio.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1716998967607&ot=FHQ3tVyzJQLhNle823_dxg&proto=https&pz=us
