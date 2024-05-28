@@ -1,13 +1,15 @@
 #EXTM3U
 
+--- Televisión Colombia ---
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG" group-title="TV Colombia", RCN -HD-
 https://live-b2.cf.dmcdn.net/sec2(BuE5Ldd6r44LoDmS8CsqepNDSuImQG-h4OM8Bz5aiHvsxwn0GuYfFKil2mJh192pCS8kLg-lqS5PERqc54Y2WaUc7PJ0m8FxJK-qHQxWbgQ)/cloud/3/x7vyv0z/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/694px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV Colombia", Canal Caracol -SD-
 https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/fc68c0d8-ed79-4caf-8ab9-d255b37b021f/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/664px-Telecaribe2017.png" group-title="TV Colombia", Tele Caribe -HD-
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8?DVR   
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4fSDBvC8STsOb-thjCu-511-4_jfddoz1c7zQFZiQg&s" group-title="TV Colombia", CNC -HD-
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/tracks-v1a1/mono.m3u8   
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="TV Colombia", Canal Uno -HD-
 https://ssh101-fl.bozztv.com/ssh101/unocoltvhd/tracks-v1a1/mono.m3u8
@@ -21,8 +23,8 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklis
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png" group-title="TV Colombia", Red + -HD-
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/100px-Canal_Trece_logo.svg.png" group-title="TV Colombia", Trece -HD-
-https://liveingesta318.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://www.canaltro.com/wp-content/uploads/2024/05/cropped-cropped-cropped-IMG_8827-e1716841858233.png" group-title="TV Colombia", Trece -HD-
+https://liveingesta118.cdnmedia.tv/canaltro2live/live-900/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TV Deportes", Claro Sports -HD-
 https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/1931df5b-4cea-4772-a5ac-636ccb0ec7e1:TUL/variant/f51319a769e6100e1e9e68139df578da/bandwidth/3577125.m3u8
