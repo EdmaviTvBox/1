@@ -24,7 +24,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklis
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canaltro.com/wp-content/uploads/2024/05/cropped-cropped-cropped-IMG_8827-e1716841858233.png" group-title="TV Colombia", Trece -HD-
-https://liveingesta118.cdnmedia.tv/canaltro2live/live-900/chunklist.m3u8
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TV Deportes", Claro Sports -HD-
 https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/1931df5b-4cea-4772-a5ac-636ccb0ec7e1:TUL/variant/f51319a769e6100e1e9e68139df578da/bandwidth/3577125.m3u8
