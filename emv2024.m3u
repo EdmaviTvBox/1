@@ -18,16 +18,16 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a04c&token=tecnotvGeneradorTV&f=.m3
 
 --- Televisión Deportes ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV PREMIUM", Win Sports+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV Deportes", Win Sports+
 http://clubtv.link/27Mm/key4513/lista1.php?c=a03j&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TV Deportes", ESPN 4
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0dx&token=tecnotvGeneradorTV&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="TV PREMIUM", ESPN 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="TV Deportes", ESPN 6
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02d&token=tecnotvGeneradorTV&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="TV PREMIUM", ESPN Premium 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="TV Deportes", ESPN Premium 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0dt&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="TV Deportes", Gol Peru
@@ -47,7 +47,7 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a01l&token=tecnotvGeneradorTV&f=.m3
 
 --- Televisión Cultural ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV PREMIUM", Discovery World 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV Cultural ", Discovery World 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.southerncable.bz/wp-content/uploads/2017/03/discovery-theatre-hd-790x790.png" group-title="TV Cultural", Discovery Theater
