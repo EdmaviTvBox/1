@@ -1,5 +1,12 @@
 #EXTM3U
 
+--- Televisión Premium ---
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", Universal Channel -HD-
+https://1242-vos.dtvott.com/DASH/stream_06/Segment-4179739406654693.m4v
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", Universal Comedy -HD-
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/1715157095309item-07item_Segment-17547006295998.m4a
+
 --- Televisión Colombia ---
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG" group-title="TV Colombia", RCN -HD-
@@ -27,12 +34,12 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Colombia",  -HD-
-https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index_16_0.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Colombia",  -HD-
+
+#EXTINF:-1 tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV Colombia", Cali Tv -HD-
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w922965213_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVdiVElMeEJ0RG92MmdOMVQ2MUZoNEdsT21KeEhMWkYwRkNnS2tDY3lhTVE9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?181.143.233.179
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Colombia",  -HD-
+#EXTINF:-1 tvg-logo="https://www.canalcapital.gov.co/themes/custom/bootstrap_capital/source/images/Logo_Capital.png?v=new" group-title="TV Colombia", Canal Capital -HD-
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 
  --- TV Religion --
