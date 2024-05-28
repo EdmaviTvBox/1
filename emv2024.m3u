@@ -1,6 +1,28 @@
 #EXTM3U
 
---- Televisión Premium ---
+--- Televisión Cine ---
+
+#EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV Cine", Cinema +
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV Cine", Retrox TV
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
 
 --- Televisión Colombia ---
 
