@@ -7,11 +7,34 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a01s&token=tecnotvGeneradorTV&f=.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC
 http://clubtv.link/27Mm/key4513/lista1.php?c=a039&token=tecnotvGeneradorTV&f=.m3u8
 
+--- Televisión Deportes ---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="TV Deportes", CDO SD
+http://clubtv.link/27Mm/key4513/lista1.php?c=a01l&token=tecnotvGeneradorTV&f=.m3u8
+
 
 
 --- Televisión Variedades ---
 
-#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/ad439186ad33635a0f57b35bbb537b45-520x293.jpeg" group-title="TV PREMIUM", Antena3  
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E1BAQH4qhA2oqviqA/company-background_10000/0/1653353128104/creo_televisin_cover?e=2147483647&v=beta&t=mkI6B-I_k8Wh7zOptdY34C1jEwVySHv2dDuyesbJilE" group-title="TV Variedades", Creo TV
+http://clubtv.link/27Mm/key4513/lista1.php?c=a00k&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chilevision_NoEffect.svg/2066px-Chilevision_NoEffect.svg.png" group-title="TV Variedades", Chv
+http://clubtv.link/27Mm/key4513/lista1.php?c=a027&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706464915-TZGC0SHVP2DJG9OSKEVT/network_cinemadinamita.png" group-title="TV Variedades", Cinema Dinamita
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0dg&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="TV Variedades", ATV Sur
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0ba&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="TV Variedades", ATV +
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0e6&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="TV Variedades", Atreseries
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02g&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/ad439186ad33635a0f57b35bbb537b45-520x293.jpeg" group-title="TV Variedades", Antena3  
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0c3&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV Variedades", Cinema +
@@ -38,7 +61,8 @@ https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Variedades", ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades", Cinema +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="TV Variedades", Canal N
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0bd&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades", Cinema +
 
@@ -47,7 +71,10 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG" group-title="TV Colombia", RCN -HD-
 https://live-b2.cf.dmcdn.net/sec2(BuE5Ldd6r44LoDmS8CsqepNDSuImQG-h4OM8Bz5aiHvsxwn0GuYfFKil2mJh192pCS8kLg-lqS5PERqc54Y2WaUc7PJ0m8FxJK-qHQxWbgQ)/cloud/3/x7vyv0z/s/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/694px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV Colombia", Canal Caracol -SD-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="TV Colombia", Caracol -HD-
+http://clubtv.link/27Mm/key4513/lista1.php?c=a04a&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es/694px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV Colombia", Canal Caracol -SD-
 https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/fc68c0d8-ed79-4caf-8ab9-d255b37b021f/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4fSDBvC8STsOb-thjCu-511-4_jfddoz1c7zQFZiQg&s" group-title="TV Colombia", CNC -HD-
@@ -67,6 +94,9 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="TV Colombia", Telepacifico -HD-
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg" group-title="TV Colombia", Canal 13 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0bc&token=tecnotvGeneradorTV&f=.m3u8
 
 
 
