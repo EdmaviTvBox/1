@@ -1,6 +1,27 @@
 #EXTM3U
 --- Televisión Premium ---
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TV PREMIUM", TNT Series
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02y&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="TV PREMIUM", Paramount Network
+http://clubtv.link/27Mm/key4513/lista1.php?c=a03e&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="TV PREMIUM", HBO 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a03b&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TV PREMIUM", HBO 2
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0dn&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="TV PREMIUM", HBO Pop
+http://clubtv.link/27Mm/key4513/lista1.php?c=a01y&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="TV PREMIUM", HBO Xtreme
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0dc&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s" group-title="TV PREMIUM", HBO Family 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a04g&token=tecnotvGeneradorTV&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wyruzsbxbTXXlraUsET0mYvJti-hIO218w&s" group-title="TV PREMIUM", Golden Plus
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0br&token=tecnotvGeneradorTV&f=.m3u8
 
@@ -17,6 +38,9 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a020&token=tecnotvGeneradorTV&f=.m3
 http://clubtv.link/27Mm/key4513/lista1.php?c=a04c&token=tecnotvGeneradorTV&f=.m3u8
 
 --- Televisión Deportes ---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TV Deportes", Movistar Deportes 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0ca&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV Deportes", Win Sports+
 http://clubtv.link/27Mm/key4513/lista1.php?c=a03j&token=tecnotvGeneradorTV&f=.m3u8
@@ -47,6 +71,12 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a01l&token=tecnotvGeneradorTV&f=.m3
 
 --- Televisión Cultural ---
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TV PREMIUM", Love Nature 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0bo&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png" group-title="TV Cultural", History 2 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a04f&token=tecnotvGeneradorTV&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV Cultural ", Discovery World 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
 
@@ -56,10 +86,44 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a02q&token=tecnotvGeneradorTV&f=.m3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT2pXKLxJWc4udhddOcDUE6sgvquw1V8CjLqdjiwGlLQB5hiGB7Xxr5eJZVZzRKk4wpY&usqp=CAU" group-title="TV Cultural", Discovery H&H HD
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02p&token=tecnotvGeneradorTV&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV Cultural", ID
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02j&token=tecnotvGeneradorTV&f=.m3u8
+
+--- Televisión Infantil ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TV Infantil", Nick 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a023&token=tecnotvGeneradorTV&f=.m3u8
+
 --- Televisión Variedades ---
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/adult-swim-2001-logo-F3A874934A-seeklogo.com.png" group-title="TV Variedades", Adult Swing
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02k&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="TV Variedades", Sun Channel 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02n&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="TV Variedades", Star Tve Channel
+http://clubtv.link/27Mm/key4513/lista1.php?c=a022&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logotipo_alternativo_de_NTV.png" group-title="TV Variedades", NTV
+http://clubtv.link/27Mm/key4513/lista1.php?c=a033&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="TV Variedades", Mega
+http://clubtv.link/27Mm/key4513/lista1.php?c=a035&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg" group-title="TV Variedades", La Red 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a024&token=tecnotvGeneradorTV&f=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV Variedades", HOLA TV HD
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02a&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="TV Variedades", E! 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a03s&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.megavisiontvrd.com/assets/img/Nuevo%20Logo%20Mega%20Oficial%20en%20PNG.png" group-title="TV Variedades", Megavision TV
+https://server2grupocam.com/megavision/MV/chunklist_w1516020014.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopTxdFCIdwpzK8qvSKMQljOReB_4narXmsw&s" group-title="TV Variedades", Monitor TV
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0cx&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="TV Variedades", Comedy Central
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02i&token=tecnotvGeneradorTV&f=.m3u8
@@ -146,13 +210,23 @@ https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg" group-title="TV Colombia", Canal 13 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0bc&token=tecnotvGeneradorTV&f=.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsuy6nHq-HfJnsnxl58E9k24IM6pCulLt7Y3XENjXug&s" group-title="TV Colombia", Cali TV -HD-
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w922965213_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVdiVElMeEJ0RG92MmdOMVQ2MUZoNEdsT21KeEhMWkYwRkNnS2tDY3lhTVE9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?181.143.233.179
 
 #EXTINF:-1 tvg-logo="https://www.canalcapital.gov.co/themes/custom/bootstrap_capital/source/images/Logo_Capital.png?v=new" group-title="TV Colombia", Canal Capital -HD-
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
+
+--- TV Novelas --
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="TV Novelas", Kanal D Drama HD
+http://clubtv.link/27Mm/key4513/lista1.php?c=a03c&token=tecnotvGeneradorTV&f=.m3u8
+
+--- TV Music --
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", MTV Live
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02t&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/2560px-Stingray_Concerts.svg.png" group-title="TV Music", Stingray Concerts
+http://clubtv.link/27Mm/key4513/lista1.php?c=a03u&token=tecnotvGeneradorTV&f=.m3u8
 
  --- TV Religion --
 
