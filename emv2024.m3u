@@ -1,20 +1,68 @@
 #EXTM3U
 --- Televisión Premium ---
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wyruzsbxbTXXlraUsET0mYvJti-hIO218w&s" group-title="TV PREMIUM", Golden Plus
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0br&token=tecnotvGeneradorTV&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="TV PREMIUM", A&E
 http://clubtv.link/27Mm/key4513/lista1.php?c=a01s&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC
 http://clubtv.link/27Mm/key4513/lista1.php?c=a039&token=tecnotvGeneradorTV&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es" group-title="TV PREMIUM", Clover Channel
+http://clubtv.link/27Mm/key4513/lista1.php?c=a020&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="TV PREMIUM", DHE 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a04c&token=tecnotvGeneradorTV&f=.m3u8
+
 --- Televisión Deportes ---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV PREMIUM", Win Sports+
+http://clubtv.link/27Mm/key4513/lista1.php?c=a03j&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TV Deportes", ESPN 4
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0dx&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="TV PREMIUM", ESPN 6
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02d&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="TV PREMIUM", ESPN Premium 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0dt&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="TV Deportes", Gol Peru
+http://clubtv.link/27Mm/key4513/lista1.php?c=a03z&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/p4AhR_fNqYwwmZIEKTQTbr0zBeg=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NAHGNGJ4RNHHTAFFQJX3NXGIPM.jpg" group-title="TV Deportes", El Canal del Futbol 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a040&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png" group-title="TV Deportes", Gol TV 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a03t&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVGBCu5O7haiyPOOakvUvzN1-S9sNAebJNA&s" group-title="TV Deportes", Directv Sports
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0em&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="TV Deportes", CDO SD
 http://clubtv.link/27Mm/key4513/lista1.php?c=a01l&token=tecnotvGeneradorTV&f=.m3u8
 
+--- Televisión Cultural ---
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV PREMIUM", Discovery World 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.southerncable.bz/wp-content/uploads/2017/03/discovery-theatre-hd-790x790.png" group-title="TV Cultural", Discovery Theater
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02q&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT2pXKLxJWc4udhddOcDUE6sgvquw1V8CjLqdjiwGlLQB5hiGB7Xxr5eJZVZzRKk4wpY&usqp=CAU" group-title="TV Cultural", Discovery H&H HD
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02p&token=tecnotvGeneradorTV&f=.m3u8
 
 --- Televisión Variedades ---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="TV Variedades", E! 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a03s&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="TV Variedades", Comedy Central
+http://clubtv.link/27Mm/key4513/lista1.php?c=a02i&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E1BAQH4qhA2oqviqA/company-background_10000/0/1653353128104/creo_televisin_cover?e=2147483647&v=beta&t=mkI6B-I_k8Wh7zOptdY34C1jEwVySHv2dDuyesbJilE" group-title="TV Variedades", Creo TV
 http://clubtv.link/27Mm/key4513/lista1.php?c=a00k&token=tecnotvGeneradorTV&f=.m3u8
