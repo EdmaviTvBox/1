@@ -6,13 +6,13 @@ https://live-b2.cf.dmcdn.net/sec2(BuE5Ldd6r44LoDmS8CsqepNDSuImQG-h4OM8Bz5aiHvsxw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/694px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV Colombia", Canal Caracol -SD-
 https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/fc68c0d8-ed79-4caf-8ab9-d255b37b021f/0.m3u8
 
-0000#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/664px-Telecaribe2017.png" group-title="TV Colombia", Tele Caribe -HD-
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/664px-Telecaribe2017.png" group-title="TV Colombia", Tele Caribe -HD-
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8?DVR   
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="TV Colombia", Canal Uno -HD-
 https://ssh101-fl.bozztv.com/ssh101/unocoltvhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.boyaca.gov.co/wp-content/uploads/2014/10/images_Noticias2014_Octubre2_Senalcolombia3486527346.jpg" group-title="TV Colombia", Señal Colombia -HD-
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/275/625/png-transparent-senal-colombia-rtvc-sistema-de-medios-publicos-colombia-oro-y-paz-television-logo-bola-television-text-spiral-thumbnail.png" group-title="TV Colombia", Señal Colombia -HD-
 https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/5900f479dd42a_CanalInstitucional.png.87cd7921d43875e3286d60f44993ca38.png/revision/latest/scale-to-width-down/250?cb=20170428223320" group-title="TV Colombia", Canal Institucional -HD-
@@ -21,13 +21,40 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklis
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png" group-title="TV Colombia", Red + -HD-
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 
-000#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/100px-Canal_Trece_logo.svg.png" group-title="TV Colombia", Trece -HD-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/100px-Canal_Trece_logo.svg.png" group-title="TV Colombia", Trece -HD-
 https://liveingesta318.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
 
-000#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TV Deportes", Claro Sports -HD-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TV Deportes", Claro Sports -HD-
 https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/1931df5b-4cea-4772-a5ac-636ccb0ec7e1:TUL/variant/f51319a769e6100e1e9e68139df578da/bandwidth/3577125.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="TV Religion", TV Familia -HD-
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2051236249.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee ",  -HD-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/799px-New_EWTN_logo.jpg" group-title="TV Religion", EWTN España -HD-
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest/scale-to-width-down/1200?cb=20210326224941&path-prefix=es" group-title="TV Religion", Bethel -HD-
+https://d1h3uwvc88ypd2.cloudfront.net/out/v1/4331f5126d944a21b7be0a5068cce910/index_video_3_0_2501697.mp4?m=1716205085
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Avivamiento -HD-
+https://s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=19725569
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Cristovision -HD-
+https://liveingesta118.cdnmedia.tv/cristovisiontvlive/rtmp01/chunklist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Maria Vision -HD-
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Canal Luz -HD-
+https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Es Ne -HD-
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1716993597~acl=%2f*~data=hdntl~hmac=8881a6f56cd59de7b22df870e8a144619fabff141d0eefc01497e1aefda6ba8f/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Aliento Vision -HD-
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w765584052.m3u8
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Sophia TV -HD-
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee",  -HD-
