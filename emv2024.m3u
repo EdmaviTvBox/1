@@ -1,6 +1,18 @@
 #EXTM3U
+--- Televisión Premium ---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="TV PREMIUM", A&E
+http://clubtv.link/27Mm/key4513/lista1.php?c=a01s&token=tecnotvGeneradorTV&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC
+http://clubtv.link/27Mm/key4513/lista1.php?c=a039&token=tecnotvGeneradorTV&f=.m3u8
+
+
 
 --- Televisión Variedades ---
+
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/ad439186ad33635a0f57b35bbb537b45-520x293.jpeg" group-title="TV PREMIUM", Antena3  
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0c3&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV Variedades", Cinema +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
