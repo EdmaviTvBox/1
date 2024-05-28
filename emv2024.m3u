@@ -27,34 +27,30 @@ https://liveingesta318.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="TV Deportes", Claro Sports -HD-
 https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/1931df5b-4cea-4772-a5ac-636ccb0ec7e1:TUL/variant/f51319a769e6100e1e9e68139df578da/bandwidth/3577125.m3u8
 
+ --- TV Religion --
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="TV Religion", TV Familia -HD-
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2051236249.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/799px-New_EWTN_logo.jpg" group-title="TV Religion", EWTN España -HD-
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/EWTN-Deutsch-Live-TV-Online.png" group-title="TV Religion", EWTN España -HD-
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest/scale-to-width-down/1200?cb=20210326224941&path-prefix=es" group-title="TV Religion", Bethel -HD-
-https://d1h3uwvc88ypd2.cloudfront.net/out/v1/4331f5126d944a21b7be0a5068cce910/index_video_3_0_2501697.mp4?m=1716205085
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/3ABN_2011_stacked.svg/revision/latest/scale-to-width-down/250?cb=20230917194627" group-title="TV Religion", 3abn -HD-
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Avivamiento -HD-
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/197-1972045_home-centro-de-avivamiento-logo-hd-png-download.png" group-title="TV Religion", Avivamiento -HD-
 https://s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=19725569
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Cristovision -HD-
-https://liveingesta118.cdnmedia.tv/cristovisiontvlive/rtmp01/chunklist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Maria Vision -HD-
+#EXTINF:-1 tvg-logo="https://fondify-media.s3.amazonaws.com/organizations/logos/2020-05-23/picture_XtDtOFq.png" group-title="TV Religion", Maria Vision -HD-
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Canal Luz -HD-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Capture_2018-08-07-15-48-46.png/revision/latest?cb=20180807185050" group-title="TV Religion", Canal Luz -HD-
 https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Es Ne -HD-
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1716993597~acl=%2f*~data=hdntl~hmac=8881a6f56cd59de7b22df870e8a144619fabff141d0eefc01497e1aefda6ba8f/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Aliento Vision -HD-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2oY9zJjt5AWf3BI4Mtv0do1LQqM2dgFlvvdeuYvNPeJ7jUyDRcRchtgrXfGI8QENqVM7VrnOwfo=s900-c-k-c0x00ffffff-no-rj" group-title="TV Religion", Aliento Vision -HD-
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w765584052.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Religion", Sophia TV -HD-
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV Religion", Sophia TV -HD-
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee",  -HD-
