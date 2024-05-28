@@ -1,30 +1,34 @@
 #EXTM3U
 
---- Televisión Cine ---
+--- Televisión Variedades ---
 
-#EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV Cine", Cinema +
+#EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV Variedades", Cinema +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV Cine", Retrox TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV Variedades", Retrox TV
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="TV Cine", Cinerama TV
+#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="TV Variedades", Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1775902226.m3u8
 
-#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/fb/9e/5d5912ff9bd6879166e80b9f115b-lec.jpg?x-oss-process=style/hq" group-title="TV Cine", Gen TV
+#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/fb/9e/5d5912ff9bd6879166e80b9f115b-lec.jpg?x-oss-process=style/hq" group-title="TV Variedades", Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV Variedades", Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w530986241_b2000000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="TV Variedades", Somos del Este TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w1582604302.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="TV Variedades", Tele Clasica
+https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Variedades", ZAZ TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades", Cinema +
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Cine", Cinema +
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades", Cinema +
 
 --- Televisión Colombia ---
 
