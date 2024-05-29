@@ -282,9 +282,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/3ABN_2011_stacked.svg/revision/latest/scale-to-width-down/250?cb=20230917194627" group-title="TV Religion", 3abn -HD-
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/197-1972045_home-centro-de-avivamiento-logo-hd-png-download.png" group-title="TV Religion", Avivamiento -HD-
-https://s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=19725569
-
 #EXTINF:-1 tvg-logo="https://fondify-media.s3.amazonaws.com/organizations/logos/2020-05-23/picture_XtDtOFq.png" group-title="TV Religion", Maria Vision -HD-
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
