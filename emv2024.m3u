@@ -59,6 +59,9 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a04c&token=tecnotvGeneradorTV&f=.m3
 
 --- Televisión Deportes ---
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="TV Deportes", Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TV Deportes", Movistar Deportes 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0ca&token=tecnotvGeneradorTV&f=.m3u8
 
