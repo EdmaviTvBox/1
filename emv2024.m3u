@@ -123,6 +123,15 @@ ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 --- Televisión Variedades ---
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades",
+
+ESTRELLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV Variedades",
+http://cincotv.org:25461/andres1403/pacheco1405/23729
+
+NBC UNIVERSO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title=" group-title="TV Variedades", NBC Universo
+http://cincotv.org:25461/andres1403/pacheco1405/23730
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/adult-swim-2001-logo-F3A874934A-seeklogo.com.png" group-title="TV Variedades", Adult Swing
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02k&token=tecnotvGeneradorTV&f=.m3u8
