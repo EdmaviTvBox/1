@@ -1,6 +1,10 @@
 #EXTM3U
 --- Televisión Premium ---
 
+RUNTIME
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="TV PREMIUM", Runtime 
+https://stream.ads.ottera.tv/cl/240529cpblspc3ffmtvr5amc20/1280x720_3071200_0_f.m3u8?i=728_2550
+
 WARNER
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="TV PREMIUM", Warner Channel 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a01u&token=tecnotvGeneradorTV&f=.m3u8
