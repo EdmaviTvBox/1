@@ -106,8 +106,14 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a02p&token=tecnotvGeneradorTV&f=.m3
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02j&token=tecnotvGeneradorTV&f=.m3u8
 
 --- Televisión Infantil ---
+
+NICK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TV Infantil", Nick 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a023&token=tecnotvGeneradorTV&f=.m3u8
+
+ZAZ TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Variedades", ZAZ TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 --- Televisión Variedades ---
 
@@ -186,13 +192,8 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w158260
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="TV Variedades", Tele Clasica
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Variedades", ZAZ TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="TV Variedades", Canal N
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0bd&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades", Cinema +
 
 --- Televisión Colombia ---
 
@@ -289,6 +290,7 @@ https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV Religion", Sophia TV -HD-
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee",  -HD-
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", 
+
 
 
