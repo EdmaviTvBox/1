@@ -119,7 +119,7 @@ NICK
 http://clubtv.link/27Mm/key4513/lista1.php?c=a023&token=tecnotvGeneradorTV&f=.m3u8
 
 ZAZ TV
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Variedades", ZAZ TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Infantil", ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 --- Televisión Variedades ---
