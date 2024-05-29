@@ -1,5 +1,6 @@
 #EXTM3U
 --- Televisión Premium ---
+#EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM", 
 
 RUNTIME
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="TV PREMIUM", Runtime 
@@ -93,13 +94,19 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a0em&token=tecnotvGeneradorTV&f=.m3
 http://clubtv.link/27Mm/key4513/lista1.php?c=a01l&token=tecnotvGeneradorTV&f=.m3u8
 
 --- Televisión Cultural ---
-
+LOVE NATURE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TV Cultural", Love Nature 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0bo&token=tecnotvGeneradorTV&f=.m3u8
 
+HISTORY 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png" group-title="TV Cultural", History 2 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a04f&token=tecnotvGeneradorTV&f=.m3u8
 
+DISCOVERY CHANNEL -COL-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV Cultural", Discovery Channel -Col-
+http://cincotv.org:25461/andres1403/pacheco1405/23756
+
+DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV Cultural", Discovery World 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
 
@@ -127,7 +134,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 ESTRELLA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV Variedades",
-http://cincotv.org:25461/andres1403/pacheco1405/23729
+
 
 NBC UNIVERSO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV Variedades", NBC Universo
