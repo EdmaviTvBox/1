@@ -2,16 +2,13 @@
 --- Televisión Premium ---
 #EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM",
 
-
-#EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM",
-
 UNIVERSAL REALITY
 #EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", Universal Reality
 http://cincotv.org:25461/andres1403/pacheco1405/23850
 
 RUNTIME
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="TV PREMIUM", Runtime 
-https://stream.ads.ottera.tv/cl/240529cpblspc3ffmtvr5amc20/1280x720_3071200_0_f.m3u8?i=728_2550
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="TV PREMIUM", De Pelicula
+http://cincotv.org:25461/andres1403/pacheco1405/24040
 
 WARNER
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="TV PREMIUM", Warner Channel 
@@ -44,6 +41,10 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a0dc&token=tecnotvGeneradorTV&f=.m3
 HBO FAMILY
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDpvw6ibT7iAdfRv36k-zniJWGWekgIEZElq-v1t1VtdewziGcybopZefJ_6WmmOBgeHBFDDmZoo1eib5TWDMW3vu_cT_Rm3uf4GLcPa4ep7p4QDQeYC34KCrazA8gXoNRWbYOgVXRBz5XSKEik1RBgkb6VWptc-hwiYYQ531nJdxj-l0HkQjSwnBl8YkS/s320/HBO%20Family.png" group-title="TV PREMIUM", HBO Family 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a04g&token=tecnotvGeneradorTV&f=.m3u8
+
+GOLDEN 
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV PREMIUM",
+http://cincotv.org:25461/andres1403/pacheco1405/24301
 
 GOLDEN PLUS
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3gq6o5yzTTF7ERs3DcstdsAVCLO1kZH3C1uPl-hgZkco0eib458QB_hvdhyry-Ebm1KGgCA-AzSzo1wEAqNFNINes1DqO5Vl95F7oj0Hw_7aCwoEn3qrzuUgfoP0mz7JUh_Uqb-4OYeFGf664dySSMx6fNuFpf2IoX5gCklJJ-BeC6Dsea5qxPEMYcenp/s320/Golden%20plus.png" group-title="TV PREMIUM", Golden Plus
@@ -119,7 +120,6 @@ DISCOVERY CHANNEL -MEX-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV Cultural", 
 http://cincotv.org:25461/andres1403/pacheco1405/23757
 
-
 DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV Cultural", Discovery World 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
@@ -134,6 +134,7 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a02p&token=tecnotvGeneradorTV&f=.m3
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02j&token=tecnotvGeneradorTV&f=.m3u8
 
 --- Televisión Infantil ---
+#EXTINF:-1 tvg-logo="logo.png" group-title="TV Infantil", 
 
 NICK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TV Infantil", Nick 
@@ -143,12 +144,15 @@ ZAZ TV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Infantil", ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
+BOING KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV Infantil", Boing Kids
+http://cincotv.org:25461/andres1403/pacheco1405/23857
+
 --- Televisión Variedades ---
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades",
 
 ESTRELLA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV Variedades",
-
 
 NBC UNIVERSO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV Variedades", NBC Universo
@@ -292,16 +296,23 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a0ct&token=tecnotvGeneradorTV&f=.m3
 
 --- TV Music --
 
+MTV LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", MTV Live
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02t&token=tecnotvGeneradorTV&f=.m3u8
 
+STINGRAY CONCERTS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/2560px-Stingray_Concerts.svg.png" group-title="TV Music", Stingray Concerts
 http://clubtv.link/27Mm/key4513/lista1.php?c=a03u&token=tecnotvGeneradorTV&f=.m3u8
 
+TELEHIT MUSIC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="TV Music", Telehit Musica
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0bu&token=tecnotvGeneradorTV&f=.m3u8
 
- --- TV Religion --
+NICKMUSIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", Nickmusic
+http://cincotv.org:25461/andres1403/pacheco1405/23878
+
+--- TV Religion --
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="TV Religion", TV Familia -HD-
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2051236249.m3u8
@@ -324,7 +335,57 @@ https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV Religion", Sophia TV -HD-
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", 
+--- TV 24/7 --
+CINE DISNEY PIXAR 1
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV 24/7", Cine Disney Pixar
+http://cincotv.org:25461/andres1403/pacheco1405/24490
 
+CINE MARVEL STUDIO
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV 24/7", Cine Marvel Studio
+http://cincotv.org:25461/andres1403/pacheco1405/24495
+
+CINE MARVEL ANIMADO
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV 24/7", Cine Marvel Animado
+http://cincotv.org:25461/andres1403/pacheco1405/24496
+
+CHESPIRITO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zPtzGV0/chespirito.png" group-title="TV 24/7", Chespirito
+http://cincotv.org:25461/andres1403/pacheco1405/25154
+
+PAW PATROL
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="TV 24/7", Paw Patrol
+http://cincotv.org:25461/andres1403/pacheco1405/25155
+
+2 PERROS TONTOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hg3yhz8/pngwing-com-3.png" group-title="TV 24/7", 2 Perros Tontos
+http://cincotv.org:25461/andres1403/pacheco1405/25156
+
+EL PAJARO LOCO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X7k2bsj/PAJARO.png" group-title="TV 24/7", El Pajaro Loco
+http://cincotv.org:25461/andres1403/pacheco1405/25158
+
+LA FAMILIA MONSTER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1NCJwW/MONSTER.png" group-title="TV 24/7", La Familia Monster
+http://cincotv.org:25461/andres1403/pacheco1405/25159
+
+LOS SUPER CAMPEONES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVZ2mFf/SUPER-CAMPEONES.jpg" group-title="TV 24/7", Los Super Campeones
+http://cincotv.org:25461/andres1403/pacheco1405/25160
+
+LA CASA DE MICKEY MOUSE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKkHdLw/Nice-Png-mickey-mouse-logo-png-478826.png" group-title="TV 24/7", La Casa de Mickey Mouse
+http://cincotv.org:25461/andres1403/pacheco1405/23964
+
+ALF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV 24/7", Alf
+http://cincotv.org:25461/andres1403/pacheco1405/23940
+
+MALCOLM EL DEL MEDIO
+#EXTINF:-1 tvg-logo="https://images5.alphacoders.com/407/thumb-1920-407425.png" group-title="TV 24/7", Malcolm el del Medio
+http://cincotv.org:25461/andres1403/pacheco1405/23974
+
+SCOOBY DOO
+#EXTINF:-1 tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/ScoobyDooMystery_icon.png" group-title="TV 24/7", Scoobv Doo
+http://cincotv.org:25461/andres1403/pacheco1405/23854
 
 
