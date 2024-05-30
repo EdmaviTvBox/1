@@ -11,8 +11,11 @@ SUNDANCE
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM", Sundance
 http://cincotv.org:25461/andres1403/pacheco1405/25196
 
+Universal TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="TV PREMIUM", Universal TV
+http://cincotv.org:25461/andres1403/pacheco1405/25795
 
-UNIVERSAL REALITY
+Universal Reality
 #EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", Universal Reality
 http://cincotv.org:25461/andres1403/pacheco1405/23850
 
@@ -95,6 +98,13 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a02d&token=tecnotvGeneradorTV&f=.m3
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="TV Deportes", ESPN Premium 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0dt&token=tecnotvGeneradorTV&f=.m3u8
+
+Tigo Sports 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVAWwmFivDgzR7Mwa8w5gF1jvqT1WvJ0dRw&s" group-title="TV Deportes", Tigo Sports 1
+http://cincotv.org:25461/andres1403/pacheco1405/26452
+
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsport-tv-guide.live%2Fes%2Fprogramacion-tv-vivo%2Ftigo-sports-2-bo&psig=AOvVaw39BioKsq7f6CKZbWxyaroj&ust=1717185187028000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC8-bmTtoYDFQAAAAAdAAAAABAJ" group-title="TV Deportes", Tigo Sports 2
+http://cincotv.org:25461/andres1403/pacheco1405/26453
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="TV Deportes", Gol Peru
 http://clubtv.link/27Mm/key4513/lista1.php?c=a03z&token=tecnotvGeneradorTV&f=.m3u8
@@ -346,9 +356,10 @@ https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
 --- TV 24/7 --
-CINE DISNEY PIXAR 1
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV 24/7", Cine Disney Pixar
-http://cincotv.org:25461/andres1403/pacheco1405/24490
+
+CASO CERRADO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HG4yScF/Sin-t-tulo-2.png" group-title=" group-title="TV 24/7", CASO CERRADO
+http://cincotv.org:25461/andres1403/pacheco1405/25636
 
 CINE MARVEL STUDIO
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV 24/7", Cine Marvel Studio
