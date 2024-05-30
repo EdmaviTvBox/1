@@ -1,6 +1,13 @@
 #EXTM3U
 --- Televisión Premium ---
-#EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM", 
+#EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM",
+
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM",
+
+UNIVERSAL REALITY
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", Universal Reality
+http://cincotv.org:25461/andres1403/pacheco1405/23850
 
 RUNTIME
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="TV PREMIUM", Runtime 
@@ -94,6 +101,8 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a0em&token=tecnotvGeneradorTV&f=.m3
 http://clubtv.link/27Mm/key4513/lista1.php?c=a01l&token=tecnotvGeneradorTV&f=.m3u8
 
 --- Televisión Cultural ---
+#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", 
+
 LOVE NATURE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TV Cultural", Love Nature 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0bo&token=tecnotvGeneradorTV&f=.m3u8
@@ -105,6 +114,11 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a04f&token=tecnotvGeneradorTV&f=.m3
 DISCOVERY CHANNEL -COL-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV Cultural", Discovery Channel -Col-
 http://cincotv.org:25461/andres1403/pacheco1405/23756
+
+DISCOVERY CHANNEL -MEX-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV Cultural", 
+http://cincotv.org:25461/andres1403/pacheco1405/23757
+
 
 DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV Cultural", Discovery World 
