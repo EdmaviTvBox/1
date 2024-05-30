@@ -42,6 +42,10 @@ Vivid Red
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2020/01/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png" group-title="TV Adultos", Vivid Red -HD-  
 https://s.oxax.tv/e_JbkaZxb16kNk_JN5REkA/7/1717055094/index.m3u8
 
+Hustler HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"TV Adultos", Hustler TV -HD-
+https://s.oxax.tv/Ig5XLBKDJEy5MOjraPoUpA/10/1717057690/index.m3u8
+
 Babes TV
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DXtrE2uV4AA4pla.jpg" group-title="TV Adultos", Babes TV -HD-
 https://s.oxax.tv/vKylas4BWafU1bSDzLYhHg/14/1717050450/index.m3u8
@@ -57,10 +61,6 @@ https://s.oxax.tv/V8xw6vqbHSJItNxZVA7uwQ/42/1717050819/index.m3u8
 Pink O TV
 #EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/media/e7e96839ebae73291bbe72b74f245b26.jpeg" group-title="TV Adultos", Pink O TV -SD-
 https://s.oxax.tv/fEJeabLJvxYK8qm1K3F3og/22/1717057354/index.m3u8
-
-Hustler TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png"TV Adultos", Hustler TV -SD-
-https://s.oxax.tv/Ig5XLBKDJEy5MOjraPoUpA/10/1717057690/index.m3u8
 
 Super One TV
 #EXTINF:-1 tvg-logo="https://epgx.site/p/super-one.png" group-title="TV Adultos", Super One TV -SD-
