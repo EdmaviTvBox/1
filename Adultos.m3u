@@ -1,7 +1,15 @@
 #EXTM3U
 
 --- TV Adultos ---
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png/revision/latest?cb=20180213192129" group-title="TV Adultos",  TV
+#EXTINF:-1 tvg-logo="https://5555555555555.com" group-title="TV Adultos",  TV
+
+Brazzers TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Brazzers_TV_2.svg/revision/latest?cb=20230102013147" group-title="TV Adultos", Brazzers TV
+https://s.oxax.tv/vstBvko-AIl2OHhP36KYRg/46/1717055695/index.m3u8
+
+OX-AX
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/84df8e933aba3a14d7d1be6021a94b29.jpeg" group-title="TV Adultos", OX-AX TV
+https://s.oxax.tv/9Gw_jv9MzAueJDikQrdrnQ/1/1717055510/index.m3u8
 
 Vivid Red 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2020/01/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png" group-title="TV Adultos", Vivid Red  
