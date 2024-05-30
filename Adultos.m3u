@@ -5,7 +5,10 @@
 
 #EXTINF:-1 tvg-logo="https://5555555555555.com" group-title="TV Adultos",  TV
 #EXTINF:-1 tvg-logo="https://5555555555555.com" group-title="TV Adultos",  TV
-#EXTINF:-1 tvg-logo="https://5555555555555.com" group-title="TV Adultos",  TV
+
+Super One TV
+#EXTINF:-1 tvg-logo="https://epgx.site/p/super-one.png" group-title="TV Adultos", Super One TV
+https://w2.btstream.xyz:2053/tv/superone/chunks.m3u8?nimblesessionid=17340786&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI0IDQ6NTQ6MDggQU0maGFzaF92YWx1ZT1wQ1JMWmRpOFBOa1VjRGNOVjdMSVZ3PT0mdmFsaWRtaW51dGVzPTYw
 
 Venus
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png", Venus
