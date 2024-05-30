@@ -1,12 +1,22 @@
 #EXTM3U
+
+--- Televisión Eventos ---
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV Eventos PPV", UFC
+http://cincotv.org:25461/andres1403/pacheco1405/25184
+
 --- Televisión Premium ---
 #EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM",
+
+SUNDANCE
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM", Sundance
+http://cincotv.org:25461/andres1403/pacheco1405/25196
+
 
 UNIVERSAL REALITY
 #EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", Universal Reality
 http://cincotv.org:25461/andres1403/pacheco1405/23850
 
-RUNTIME
+DE PELICULA
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="TV PREMIUM", De Pelicula
 http://cincotv.org:25461/andres1403/pacheco1405/24040
 
@@ -385,7 +395,7 @@ MALCOLM EL DEL MEDIO
 http://cincotv.org:25461/andres1403/pacheco1405/23974
 
 SCOOBY DOO
-#EXTINF:-1 tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/ScoobyDooMystery_icon.png" group-title="TV 24/7", Scoobv Doo
+#EXTINF:-1 tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/ScoobyDooMystery_icon.png" group-title="TV 24/7", Scooby Doo
 http://cincotv.org:25461/andres1403/pacheco1405/23854
 
 
