@@ -1,9 +1,14 @@
 #EXTM3U
 
- --- TV Adultos ---
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babes_TV.svg/revision/latest?cb=20211001144154" group-title="TV Adultos", Babes TV
+--- TV Adultos ---
+Babes TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DXtrE2uV4AA4pla.jpg" group-title="TV Adultos", Babes TV
 https://s.oxax.tv/vKylas4BWafU1bSDzLYhHg/14/1717050450/index.m3u8
 
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Colombia", 
+Barely Legal TV
+#EXTINF:-1 tvg-logo="https://epgx.site/p/barely-legal.png" group-title="TV Adultos", Barely Legal TV
+https://s.oxax.tv/V8xw6vqbHSJItNxZVA7uwQ/42/1717050819/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BRAZZ.png" group-title="TV Adultos", Brazzers TV
+https://s.oxax.tv/Y-o9qRWge8h7GxVmmbP6ag/46/1717051526/index.m3u8
 
