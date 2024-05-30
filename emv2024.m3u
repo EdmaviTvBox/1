@@ -144,12 +144,15 @@ DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV Cultural", Discovery World 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
 
+Discovery Theater
 #EXTINF:-1 tvg-logo="https://www.southerncable.bz/wp-content/uploads/2017/03/discovery-theatre-hd-790x790.png" group-title="TV Cultural", Discovery Theater
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02q&token=tecnotvGeneradorTV&f=.m3u8
 
+Discovery H&H
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT2pXKLxJWc4udhddOcDUE6sgvquw1V8CjLqdjiwGlLQB5hiGB7Xxr5eJZVZzRKk4wpY&usqp=CAU" group-title="TV Cultural", Discovery H&H HD
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02p&token=tecnotvGeneradorTV&f=.m3u8
 
+ID
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV Cultural", ID
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02j&token=tecnotvGeneradorTV&f=.m3u8
 
@@ -167,6 +170,10 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 BOING KIDS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV Infantil", Boing Kids
 http://cincotv.org:25461/andres1403/pacheco1405/23857
+
+BABY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="TV Infantil", Baby TV
+http://cincotv.org:25461/andres1403/pacheco1405/26346
 
 --- Televisión Variedades ---
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades",
