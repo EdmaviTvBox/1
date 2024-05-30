@@ -1,25 +1,10 @@
 #EXTM3U
 
 --- TV Adultos ---
-Pornbox
-#EXTINF:-1 tvg-logo="https://forum.pornbox.com/forum/download/file.php?id=197871" group-title="TV Adultos", Pornbox
-https://live.sdfgnksbounce.com:8080/MTgxLjIzNi4xNTkuMjA2/124_.m3u8?token=BPY7I2AH1tKBwuJ9htuh0g&expires=1717061320
-
-Cento X Cento
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/CentoXCento.png/revision/latest/scale-to-width-down/300?cb=20200711121604" group-title="TV Adultos", Cento X Cento 
-https://w2.btstream.xyz:2053/tv/evilangel/chunks.m3u8?nimblesessionid=17342042&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI0IDU6MjM6MzEgQU0maGFzaF92YWx1ZT11SjRFQzlXbVlmNFZ6SUVIQnFmUmJnPT0mdmFsaWRtaW51dGVzPTYw
 
 TV erótica rosa
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/Pink-Erotic-TV-logo.png" group-title="TV Adultos", TV erótica rosa -HD-
 https://w2.btstream.xyz:2053/tv/pinkerotic1/chunks.m3u8?nimblesessionid=17341043&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI0IDU6MDA6NTUgQU0maGFzaF92YWx1ZT1qOUtuOStweEsxRkZSK3ZtejQyZkZnPT0mdmFsaWRtaW51dGVzPTYw
-
-Hustler TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/2560px-HustlerTV.svg.png" group-title="TV Adultos", Hustler TV -HD-
-https://nimble.adultstvlive.com/jinxtv/ca-servo-HustlerTV/chunks.m3u8?nimblesessionid=905609&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI0IDQ6MzY6MDggQU0maGFzaF92YWx1ZT1iZzAzcGs2ODQ2dXdNYlJoRytNWDJnPT0mdmFsaWRtaW51dGVzPTcmaWQ9MTcxNzA0Mzc2ODM4MSZzdHJtX2xlbj0yNQ==
-
-Extasy
-#EXTINF:-1 tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/exstasy.png" group-title="TV Adultos", Extasy -HD-
-https://s.oxax.tv/lVVsQJlH8pFZp8Y-QQ3AaA/29/1717059107/index.m3u8
 
 Dorcel TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1024px-Dorcel_TV.svg.png" group-title="TV Adultos", Dorcel TV -HD-
@@ -65,6 +50,10 @@ Babes TV
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DXtrE2uV4AA4pla.jpg" group-title="TV Adultos", Babes TV -HD-
 https://s.oxax.tv/vKylas4BWafU1bSDzLYhHg/14/1717050450/index.m3u8
 
+Extasy
+#EXTINF:-1 tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/exstasy.png" group-title="TV Adultos", Extasy -HD-
+https://s.oxax.tv/lVVsQJlH8pFZp8Y-QQ3AaA/29/1717059107/index.m3u8
+
 Barely Legal TV
 #EXTINF:-1 tvg-logo="https://epgx.site/p/barely-legal.png" group-title="TV Adultos", Barely Legal TV -SD-
 https://s.oxax.tv/V8xw6vqbHSJItNxZVA7uwQ/42/1717050819/index.m3u8
@@ -88,6 +77,15 @@ https://nimble.adultstvlive.com/jinxtv/lidtv_vividhd/chunks.m3u8?nimblesessionid
 XY Max
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/c/c7/Xy_max.png/revision/latest?cb=20220202103046&path-prefix=bg" group-title="TV Adultos", XY Max -SD-
 https://s.oxax.tv/mE0cwucuowwQh-Gy0XOoWw/43/1717056772/index.m3u8
+
+Hustler TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/2560px-HustlerTV.svg.png" group-title="TV Adultos", Hustler TV -SD-
+https://nimble.adultstvlive.com/jinxtv/ca-servo-HustlerTV/chunks.m3u8?nimblesessionid=905609&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI0IDQ6MzY6MDggQU0maGFzaF92YWx1ZT1iZzAzcGs2ODQ2dXdNYlJoRytNWDJnPT0mdmFsaWRtaW51dGVzPTcmaWQ9MTcxNzA0Mzc2ODM4MSZzdHJtX2xlbj0yNQ==
+
+Cento X Cento
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/CentoXCento.png/revision/latest/scale-to-width-down/300?cb=20200711121604" group-title="TV Adultos", Cento X Cento 
+https://w2.btstream.xyz:2053/tv/evilangel/chunks.m3u8?nimblesessionid=17342042&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI0IDU6MjM6MzEgQU0maGFzaF92YWx1ZT11SjRFQzlXbVlmNFZ6SUVIQnFmUmJnPT0mdmFsaWRtaW51dGVzPTYw
+
 
 #EXTINF:-1 tvg-logo="https://5555555555555.com" group-title="TV Adultos",  TV
 
