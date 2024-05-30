@@ -7,8 +7,13 @@
 #EXTINF:-1 tvg-logo="https://5555555555555.com" group-title="TV Adultos",  TV
 #EXTINF:-1 tvg-logo="https://5555555555555.com" group-title="TV Adultos",  TV
 
+Venus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png", Venus
+https://nimble.adultstvlive.com/jinxtv/lidtv_vividhd/chunks.m3u8?nimblesessionid=905675&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI0IDQ6Mzk6MzQgQU0maGFzaF92YWx1ZT1ZY0kxM3lWcVdOS29tTXVtVG9WRDB3PT0mdmFsaWRtaW51dGVzPTcmaWQ9MTcxNzA0Mzk3NDQ2MyZzdHJtX2xlbj0yMA==
 
-#EXTINF:-1 tvg-logo="https://5555555555555.com" group-title="TV Adultos",  TV
+Hustler TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/2560px-HustlerTV.svg.png" group-title="TV Adultos", Hustler TV
+https://nimble.adultstvlive.com/jinxtv/ca-servo-HustlerTV/chunks.m3u8?nimblesessionid=905609&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI0IDQ6MzY6MDggQU0maGFzaF92YWx1ZT1iZzAzcGs2ODQ2dXdNYlJoRytNWDJnPT0mdmFsaWRtaW51dGVzPTcmaWQ9MTcxNzA0Mzc2ODM4MSZzdHJtX2xlbj0yNQ==
 
 Extasy
 #EXTINF:-1 tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/exstasy.png" group-title="TV Adultos", 
