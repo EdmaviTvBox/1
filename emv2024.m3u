@@ -81,23 +81,32 @@ http://clubtv.link/27Mm/key4513/lista1.php?c=a04c&token=tecnotvGeneradorTV&f=.m3
 
 --- Televisión Deportes ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="TV Deportes", Real Madrid
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1,ES: (HD) DAZN LALIGA
+http://uberly.top:8080/1234567/1234567/25125
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TV Deportes", Movistar Deportes 
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0ca&token=tecnotvGeneradorTV&f=.m3u8
-
+Win Sports+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV Deportes", Win Sports+
 http://clubtv.link/27Mm/key4513/lista1.php?c=a03j&token=tecnotvGeneradorTV&f=.m3u8
 
+ESPN 4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TV Deportes", ESPN 4
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0dx&token=tecnotvGeneradorTV&f=.m3u8
 
+ESPN 6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="TV Deportes", ESPN 6
 http://clubtv.link/27Mm/key4513/lista1.php?c=a02d&token=tecnotvGeneradorTV&f=.m3u8
 
+ESPN Premium 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="TV Deportes", ESPN Premium 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0dt&token=tecnotvGeneradorTV&f=.m3u8
+
+Real Madrid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Real_Madrid_TV.png" group-title="TV Deportes", Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+Movistar Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TV Deportes", Movistar Deportes 
+http://clubtv.link/27Mm/key4513/lista1.php?c=a0ca&token=tecnotvGeneradorTV&f=.m3u8
 
 Tigo Sports 1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVAWwmFivDgzR7Mwa8w5gF1jvqT1WvJ0dRw&s" group-title="TV Deportes", Tigo Sports 1
