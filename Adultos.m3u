@@ -1,53 +1,207 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Cine" tvg-logo="https://docdog.top/logo/countries/spain/MCINE.png" group-title="ES | CINE & SERIES",ES: M+ Cine
-http://uberly.top:8080/401693232259107/21708374623572/57286
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ Indie" tvg-logo="https://docdog.top/logo/countries/spain/MINDIE.png" group-title="ES | CINE & SERIES",ES: M+ Indie
-http://uberly.top:8080/401693232259107/21708374623572/57282
-#EXTINF:-1 tvg-id="M+ Estrenos 2" tvg-name="ES: M+ SUSPENSE" tvg-logo="https://docdog.top/logo/countries/spain/Suspense_por_Movistar.png" group-title="ES | CINE & SERIES",ES: M+ SUSPENSE
-http://uberly.top:8080/401693232259107/21708374623572/5646
-#EXTINF:-1 tvg-id="M+ Series" tvg-name="ES: M+ SERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar-series-es.png" group-title="ES | CINE & SERIES",ES: M+ SERIES
-http://uberly.top:8080/401693232259107/21708374623572/5675
-#EXTINF:-1 tvg-id="Movistar Series 2" tvg-name="ES: M+ SERIES 2" tvg-logo="https://docdog.top/logo/countries/spain/M_Series_2.png" group-title="ES | CINE & SERIES",ES: M+ SERIES 2
-http://uberly.top:8080/401693232259107/21708374623572/5673
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/canal-hollywood-es.png" group-title="ES | CINE & SERIES",ES: HOLLYWOOD
-http://uberly.top:8080/401693232259107/21708374623572/5619
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/paramount-network-es.png" group-title="ES | CINE & SERIES",ES: PARAMOUNT CHANNEL
-http://uberly.top:8080/401693232259107/21708374623572/5727
-#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/somos-es.png" group-title="ES | CINE & SERIES",ES: SOMOS
-http://uberly.top:8080/401693232259107/21708374623572/5730
-#EXTINF:-1 tvg-id="TNT" tvg-name="ES: TNT" tvg-logo="https://docdog.top/logo/countries/spain/tnt-es.png" group-title="ES | CINE & SERIES",ES: TNT
-http://uberly.top:8080/401693232259107/21708374623572/5739
-#EXTINF:-1 tvg-id="TCM" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/tcm-es.png" group-title="ES | CINE & SERIES",ES: TCM
-http://uberly.top:8080/401693232259107/21708374623572/5733
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Action" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Action
-http://uberly.top:8080/401693232259107/21708374623572/29311
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Action 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Action 2
-http://uberly.top:8080/401693232259107/21708374623572/29312
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Box Office" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Box Office
-http://uberly.top:8080/401693232259107/21708374623572/29313
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Box Office 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Box Office 2
-http://uberly.top:8080/401693232259107/21708374623572/29314
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Comedy" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Comedy
-http://uberly.top:8080/401693232259107/21708374623572/29315
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Discovery" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Discovery
-http://uberly.top:8080/401693232259107/21708374623572/29317
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Drama" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Drama
-http://uberly.top:8080/401693232259107/21708374623572/29318
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Horror" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Horror
-http://uberly.top:8080/401693232259107/21708374623572/29319
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Horror 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Horror 2
-http://uberly.top:8080/401693232259107/21708374623572/29320
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Kids" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Kids
-http://uberly.top:8080/401693232259107/21708374623572/29321
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Kids 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Kids 2
-http://uberly.top:8080/401693232259107/21708374623572/29322
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Movies" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Movies
-http://uberly.top:8080/401693232259107/21708374623572/29323
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Movies 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Movies 2
-http://uberly.top:8080/401693232259107/21708374623572/29324
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Thriller" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Thriller
-http://uberly.top:8080/401693232259107/21708374623572/29325
-#EXTINF:-1 tvg-id="" tvg-name="ES: Netflix Thriller 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="ES | CINE & SERIES",ES: Netflix Thriller 2
-http://uberly.top:8080/401693232259107/21708374623572/29326
+--- TV CULTURA ---
+
+HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="TV CULTURA", HISTORY CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235599
+
+HISTORY 2
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/83efd1c16d8b2e36a51328154284c500.png" group-title="TV CULTURA", HISTORY 2
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235563
+
+DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/f5be5d6686f2b4da516564958f23fbbe.png" group-title="TV CULTURA", DISCOVERY CHANNEL FHD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235540
+
+DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/4495f589679d8a3ad2fe6b0a9e04e052.png" group-title="TV CULTURA", DISCOVERY SCIENCE
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235538
+
+DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b81a665146e1da497605839db3ef2474.png" group-title="TV CULTURA", DISCOVERY THEATER
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235590
+
+DISCOVERY H&H
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d1b24814bb18ab76f8fb62f6250d8c55.png" group-title="TV CULTURA", DISCOVERY H&H
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235554
+
+DISCOVERY WORLD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/71738b7d6ed94a40d405882a754e472c.png" group-title="TV CULTURA", DISCOVERY WORLD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235559
+
+DISCOVERY ID HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/dde2debfde17b6923c846631dfe7e4a5.png" group-title="TV CULTURA", DISCOVERY ID HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235577
+
+DISCOVERY TURBO HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d6e57a5bed14a6d6df1754af1f7396e5.png" group-title="TV CULTURA", DISCOVERY TURBO HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235585
+
+NAT GEO FHD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/409d71a9403fa6a3ac56b17b6e306812.png" group-title="TV CULTURA", NAT GEO FHD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235565
+
+LIFETIME
+EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/0c4408d480b783ccb279ea84bedda77a.png" group-title="TV CULTURA", LIFETIME
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/234805
+
+ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/f1a58250ff7372dbe98be9e2bfaea3be.png" group-title="TV CULTURA", ANIMAL PLANET HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235596
+
+EL GOURMET HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/2097db9f5b658da659c675ef731dd12b.png" group-title="TV CULTURA", EL GOURMET HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235608
+
+HOLA TV
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b6e2464d3b805560e653f0a487b071d1.png" group-title="TV CULTURA", HOLA TV
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235613
+
+--- TV CINE ---
+A&E
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/cae225005c906bd2add646a81468a376.png" group-title="TV CINE", A&E
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235757
+
+CINEMAX
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/ea561c74560f38d405a67622947bae32.png" group-title="TV CINE", CINEMAX
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235763
+
+FX
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="TV CINE", FX
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235771
+
+GOLDEN
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d6bbd1a75f8002dc05cdfc1b71ef7b94.png" group-title="TV CINE", GOLDEN
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235772
+
+GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/c69730bf4d37264d8b8bae48980f4488.png" group-title="TV CINE", GOLDEN PREMIER
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235775
+
+GOLDEN PLUS HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5e087b6bf056d6b11c55d88cc73670aa.png" group-title="TV CINE", GOLDEN PLUS HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235842
+
+HBO
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="TV CINE", HBO
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235776
+
+HBO FAMILY
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/976ea24cbb444445837bb684e806199b.png" group-title="TV CINE", HBO FAMILY
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235778
+
+HBO PLUS
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/a9ecc77fb6b37f8e5292ceb9fb5130e6.png" group-title="TV CINE", HBO PLUS
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235780
+
+HBO POP
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/cff3e73fe240e8ca4904e6f31d8ad804.png" group-title="TV CINE", HBO POP
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235781
+
+HBO XTREME
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/26fb26ded947c6bc6221327ee9890dc4.png" group-title="TV CINE", HBO XTREME
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235783
+
+PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235785" group-title="TV CINE", PARAMOUNT CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235785
+
+STAR CHANNEL
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/18fab524dcf342837d7dc0eb9d075c05.png" group-title="TV CINE", STAR CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235788
+
+TNT
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/3ed8d415ab1bbac628429a85851e53b6.png" group-title="TV CINE", TNT
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235791
+
+WARNER CHANNEL
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/2cae5bd633ee3e847c5f01560dbbe785.png" group-title="TV CINE", WARNER CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235799
+
+DE PELICULA
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d7029c4206d65bfd10580ac23232e088.png" group-title="TV CINE", DE PELICULA
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235906
+
+--- TV COLOMBIA ---
+CARACOL TV FHD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7c140915b0e2b2371cd693051fef767a.png" group-title="TV COLOMBIA", CARACOL TV FHD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237189
+
+RCN HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d449c38c8d558224de10ff15dc764568.png" group-title="TV COLOMBIA", RCN HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237200
+
+WIN SPORTS
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/99d40f3512a2a17ad62a473cc64db866.png" group-title="TV COLOMBIA", WIN SPORTS
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237224
+
+WIN SPORTS +
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b0cfd0fd4f16915852fcb7e54234d2e5.png" group-title="TV COLOMBIA", WIN SPORTS +
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237227
+
+CABLE NOTICIAS FHD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/db5d9fbf3a74d76eb043cf0ac34c30a7.png" group-title="TV COLOMBIA", CABLE NOTICIAS FHD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237186
+
+NTN24
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/715ddbc6d6d5fca3d2d09abbd9963044.png" group-title="TV COLOMBIA", NTN24
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237195
+
+TELECAFE
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/764a5a5959c4b19d2ee3b139e0f45dfe.png" group-title="TV COLOMBIA", TELECAFE
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237208
+
+TELEMEDELLIN
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/094ca0e9d24dc3335822f221c1486e55.png" group-title="TV COLOMBIA", TELEMEDELLIN
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237210
+
+CALI TV
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d517a05ab418280030659fc2e5aee524.png" group-title="TV COLOMBIA", CALI TV
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237212
+
+BUENÍSIMA TV
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/de0cf59dc980c62b719651939b82b0cc.png" group-title="TV COLOMBIA", BUENÍSIMA TV
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237213
+
+--- TV INFANTIL ---
+CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7b14c41031075bac0a2cbeb9e821e809.png" group-title="TV INFANTIL", CARTOON NETWORK HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238769
+
+CARTOONITO
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/6e094af70c32179f39f7f1b201a8e906.png" group-title="TV INFANTIL", CARTOONITO
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238772
+
+NICK HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/752426dbe1a539250d564270c20a27f2.png" group-title="TV INFANTIL", NICK HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238779
+
+DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/552d2e2a7ccaf0822f4d3feb49aff2a6.png" group-title="TV INFANTIL", DISNEY CHANNEL HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238785
+
+DISNEY JR HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/21fd3cfff2c26a1eaef970e75686f2c3.png" group-title="TV INFANTIL", DISNEY JR HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238788
+
+DISCOVERY KIDS HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/1aeb6793c20b5b818d301ac54216d50b.png" group-title="TV INFANTIL",  DISCOVERY KIDS HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238801
+
+PAKA PAKA
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/4f66f1e8a1c9377da1233a68228cd0f8.png" group-title="TV INFANTIL", PAKA PAKA
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238790
+
+TOONCAST
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="TV INFANTIL", TOONCAST
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238791
+
+BABY FIRST HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/3349efd0e596d81b164c1cffa9cd314b.png" group-title="TV INFANTIL", BABY FIRST HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238797
+
+BABY TV
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/25316e82fcbb632375d1299047c31c99.png" group-title="TV INFANTIL", BABY TV
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238798
 
 
