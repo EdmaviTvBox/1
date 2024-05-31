@@ -46,12 +46,12 @@ NAT GEO  WILD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311562
 
 LIFETIME
-EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/0c4408d480b783ccb279ea84bedda77a.png" group-title="TV CULTURA", LIFETIME
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="TV CULTURA", LIFETIME
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/234805
 
 ANIMAL PLANET HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/f1a58250ff7372dbe98be9e2bfaea3be.png" group-title="TV CULTURA", ANIMAL PLANET HD
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235596
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="TV CULTURA", ANIMAL PLANET HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244217
 
 EL GOURMET HD
 #EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/2097db9f5b658da659c675ef731dd12b.png" group-title="TV CULTURA", EL GOURMET HD
