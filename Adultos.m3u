@@ -112,7 +112,7 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92725
 
 STUDIO UNIVERSAL HD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Studio_Universal_2010.svg/revision/latest/scale-to-width-down/300?cb=20200323005448&path-prefix=es" group-title="TV CINE",STUDIO UNIVERSAL HD 
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22225
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/266239
 
 UNIVERSAL COMEDY
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="TV CINE",UNIVERSAL COMEDY
@@ -125,7 +125,6 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/239540
 UNIVERSAL PREMIERE
 #EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/Universal_Premiere.png" group-title="TV CINE",UNIVERSAL PREMIERE
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92622
-
 
 UNIVERSAL CHANNEL FHD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV CINE", UNIVERSAL CHANNEL FHD
@@ -152,12 +151,16 @@ DE PELICULA
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235906
 
 --- TV COLOMBIA ---
-CARACOL TV FHD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7c140915b0e2b2371cd693051fef767a.png" group-title="TV COLOMBIA", CARACOL TV FHD
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237189
+CARACOL TV 
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7c140915b0e2b2371cd693051fef767a.png" group-title="TV COLOMBIA", CARACOL TV 
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22429
+
+CARACOL INTERNACIONAL
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/Caracol-Internacional-Colombia.png" group-title="Colombia",COLOMBIA - CARACOL INTERNACIONAL 
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92847
 
 RCN HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d449c38c8d558224de10ff15dc764568.png" group-title="TV COLOMBIA", RCN HD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d449c38c8d558224de10ff15dc764568.png" group-title="TV COLOMBIA", RCN 
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237200
 
 WIN SPORTS
@@ -169,7 +172,7 @@ WIN SPORTS +
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237227
 
 CABLE NOTICIAS FHD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/db5d9fbf3a74d76eb043cf0ac34c30a7.png" group-title="TV COLOMBIA", CABLE NOTICIAS FHD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/db5d9fbf3a74d76eb043cf0ac34c30a7.png" group-title="TV COLOMBIA", CABLE NOTICIAS 
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237186
 
 NTN24
