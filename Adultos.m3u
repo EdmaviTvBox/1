@@ -102,6 +102,14 @@ HBO XTREME
 #EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/26fb26ded947c6bc6221327ee9890dc4.png" group-title="TV CINE", HBO XTREME
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235783
 
+UNIVERSAL CINEMA
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/26fb26ded947c6bc6221327ee9890dc4.png" group-title="TV CINE", UNIVERSAL CINEMA
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/239540
+
+UNIVERSAL CHANNEL FHD
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/efdf42268a0b80fde8ee68f3ca2de640.png" group-title="TV CINE", UNIVERSAL CHANNEL FHD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/239544
+
 PARAMOUNT CHANNEL
 #EXTINF:-1 tvg-logo="http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235785" group-title="TV CINE", PARAMOUNT CHANNEL
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235785
