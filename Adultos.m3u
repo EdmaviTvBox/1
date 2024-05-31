@@ -2,12 +2,12 @@
 --- TV CULTURA ---
 
 HISTORY CHANNEL
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="TV CULTURA", HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="TV CULTURA", HISTORY CHANNEL
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235599
 
 HISTORY 2
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/83efd1c16d8b2e36a51328154284c500.png" group-title="TV CULTURA", HISTORY 2
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235563
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="TV CULTURA", HISTORY 2
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235602
 
 DISCOVERY CHANNEL FHD
 #EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/f5be5d6686f2b4da516564958f23fbbe.png" group-title="TV CULTURA", DISCOVERY CHANNEL FHD
