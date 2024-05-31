@@ -13,6 +13,10 @@ DISCOVERY CHANNEL FHD
 #EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="TV CULTURA", DISCOVERY CHANNEL 
 http://cincotv.org:25461/andres1403/pacheco1405/23756
 
+DISCOVERY TLC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Tlc2012.png/revision/latest/scale-to-width-down/250?cb=20170828223827&path-prefix=es" group-title="TV CULTURA",DISCOVERY TLC
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22269
+
 DISCOVERY SCIENCE
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Science_channel_2011logo.png/revision/latest/scale-to-width-down/200?cb=20110415120454" group-title="TV CULTURA", DISCOVERY SCIENCE
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235538
@@ -30,7 +34,7 @@ DISCOVERY WORLD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235559
 
 DISCOVERY ID 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV CULTURA", DISCOVERY ID 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV CULTURA", DISCOVERY ID -SD-
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244219
 
 DISCOVERY TURBO 
@@ -38,11 +42,11 @@ DISCOVERY TURBO
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235585
 
 NAT GEO 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="TV CULTURA", NAT GEO 
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311560
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="TV CULTURA", NAT GEO -Rev-
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22286
 
 NAT GEO  WILD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="TV CULTURA", NAT GEO wILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="TV CULTURA", NAT GEO WILD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311562
 
 LIFETIME
@@ -55,7 +59,7 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244217
 
 EL GOURMET HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="TV CULTURA", EL GOURMET HD
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235608
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22277
 
 HOLA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV CULTURA", HOLA TV
