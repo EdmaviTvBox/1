@@ -10,7 +10,7 @@ HISTORY 2
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/305371
 
 DISCOVERY CHANNEL FHD
-#EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="TV CULTURA", DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="TV CULTURA", DISCOVERY CHANNEL 
 http://cincotv.org:25461/andres1403/pacheco1405/23756
 
 DISCOVERY SCIENCE
@@ -29,17 +29,21 @@ DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="TV CULTURA", DISCOVERY WORLD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235559
 
-DISCOVERY ID HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV CULTURA", DISCOVERY ID HD
+DISCOVERY ID 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV CULTURA", DISCOVERY ID 
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244219
 
-DISCOVERY TURBO HD
+DISCOVERY TURBO 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="TV CULTURA", DISCOVERY TURBO HD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235585
 
-NAT GEO FHD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/409d71a9403fa6a3ac56b17b6e306812.png" group-title="TV CULTURA", NAT GEO FHD
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235565
+NAT GEO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="TV CULTURA", NAT GEO 
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311560
+
+NAT GEO  WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="TV CULTURA", NAT GEO wILD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311562
 
 LIFETIME
 EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/0c4408d480b783ccb279ea84bedda77a.png" group-title="TV CULTURA", LIFETIME
