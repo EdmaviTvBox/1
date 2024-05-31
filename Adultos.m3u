@@ -197,43 +197,43 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237213
 
 --- TV INFANTIL ---
 CARTOON NETWORK HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7b14c41031075bac0a2cbeb9e821e809.png" group-title="TV INFANTIL", CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/150px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="TV INFANTIL", CARTOON NETWORK HD
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22297
 
 CARTOONITO
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/6e094af70c32179f39f7f1b201a8e906.png" group-title="TV INFANTIL", CARTOONITO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" group-title="TV INFANTIL", CARTOONITO
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/238772
 
 NICK HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/752426dbe1a539250d564270c20a27f2.png" group-title="TV INFANTIL", NICK HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/2285px-Nick_logo_2009.svg.png" group-title="TV INFANTIL", NICK 
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22315
 
 DISNEY CHANNEL HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/552d2e2a7ccaf0822f4d3feb49aff2a6.png" group-title="TV INFANTIL", DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="TV INFANTIL", DISNEY CHANNEL 
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22304
 
 DISNEY JR HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/21fd3cfff2c26a1eaef970e75686f2c3.png" group-title="TV INFANTIL", DISNEY JR HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" group-title="TV INFANTIL", DISNEY JR 
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22301
 
 DISCOVERY KIDS HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/1aeb6793c20b5b818d301ac54216d50b.png" group-title="TV INFANTIL",  DISCOVERY KIDS HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Discovery_Kids_2009.svg/revision/latest?cb=20240112004410&path-prefix=es" group-title="TV INFANTIL",  DISCOVERY KIDS 
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22313
 
-PAKA PAKA
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/4f66f1e8a1c9377da1233a68228cd0f8.png" group-title="TV INFANTIL", PAKA PAKA
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/886
+FMH KIDS
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="TV INFANTIL", FMH KIDS
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92547
 
 TOONCAST
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="TV INFANTIL", TOONCAST
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22325
+         tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="TV INFANTIL", TOONCAST
+
 
 BABY FIRST HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/3349efd0e596d81b164c1cffa9cd314b.png" group-title="TV INFANTIL", BABY FIRST HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20140309125146" group-title="TV INFANTIL", BABY FIRST HD
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22291
 
 BABY TV
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/25316e82fcbb632375d1299047c31c99.png" group-title="TV INFANTIL", BABY TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="TV INFANTIL", BABY TV
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/53883
 
 
