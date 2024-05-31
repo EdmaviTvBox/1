@@ -77,11 +77,12 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
 
 DHE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="TV PREMIUM", DHE 
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92530
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92486
 
 --- Televisión Deportes ---
 
-#EXTINF:-1,ES: (HD) DAZN LALIGA
+DAZN LA LIGA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s" group-title="TV Deportes", Dazn La Liga
 http://uberly.top:8080/1234567/1234567/25125
 
 Win Sports+
