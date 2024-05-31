@@ -152,47 +152,47 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235906
 
 --- TV COLOMBIA ---
 CARACOL TV 
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7c140915b0e2b2371cd693051fef767a.png" group-title="TV COLOMBIA", CARACOL TV 
+#EXTINF:-1 tvg-logo="https://d1.awsstatic.com/case-studies/Latam%20Cases%20Assets/CaracolTV_LOGO.8c809bee8fb041fde85fd103087a55a427afd1a8.png" group-title="TV COLOMBIA", CARACOL TV 
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22429
 
 CARACOL INTERNACIONAL
-#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/Caracol-Internacional-Colombia.png" group-title="TV COLOMBIA", CARACOL INTERNACIONAL 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/CARACOL_INTERNACIONAL.png/revision/latest?cb=20140814221309&path-prefix=es" group-title="TV COLOMBIA", CARACOL INTERNACIONAL 
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92847
 
 RCN HD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d449c38c8d558224de10ff15dc764568.png" group-title="TV COLOMBIA", RCN 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/colombia/images/2/27/OfficialRCNlogo1998.png/revision/latest/scale-to-width-down/1200?cb=20180323000152&path-prefix=es" group-title="TV COLOMBIA", RCN 
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237200
 
 WIN SPORTS
 #EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/99d40f3512a2a17ad62a473cc64db866.png" group-title="TV COLOMBIA", WIN SPORTS
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/23219
+https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png
 
 WIN SPORTS +
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b0cfd0fd4f16915852fcb7e54234d2e5.png" group-title="TV COLOMBIA", WIN SPORTS +
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="TV COLOMBIA", WIN SPORTS +
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/34697
 
 CABLE NOTICIAS FHD
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/db5d9fbf3a74d76eb043cf0ac34c30a7.png" group-title="TV COLOMBIA", CABLE NOTICIAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" group-title="TV COLOMBIA", CABLE NOTICIAS 
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237186
 
 NTN24
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/715ddbc6d6d5fca3d2d09abbd9963044.png" group-title="TV COLOMBIA", NTN24
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237195
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NTN24_logo_2019.svg/2560px-NTN24_logo_2019.svg.png" group-title="TV COLOMBIA", NTN24
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NTN24_logo_2019.svg/2560px-NTN24_logo_2019.svg.png
 
 TELECAFE
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/764a5a5959c4b19d2ee3b139e0f45dfe.png" group-title="TV COLOMBIA", TELECAFE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Canal_Telecaf%C3%A9.png/revision/latest/scale-to-width-down/225?cb=20201219143630&path-prefix=es" group-title="TV COLOMBIA", TELECAFE
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237208
 
 TELEMEDELLIN
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/094ca0e9d24dc3335822f221c1486e55.png" group-title="TV COLOMBIA", TELEMEDELLIN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV COLOMBIA", TELEMEDELLIN
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237210
 
 CALI TV
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d517a05ab418280030659fc2e5aee524.png" group-title="TV COLOMBIA", CALI TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="TV COLOMBIA", CALI TV
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237212
 
 BUENÍSIMA TV
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/de0cf59dc980c62b719651939b82b0cc.png" group-title="TV COLOMBIA", BUENÍSIMA TV
+#EXTINF:-1 tvg-logo="https://streaminghd.co/uploads/buenisima.jpg" group-title="TV COLOMBIA", BUENÍSIMA TV
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237213
 
 --- TV INFANTIL ---
