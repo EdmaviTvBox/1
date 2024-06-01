@@ -10,12 +10,12 @@ DAZN 2
 http://cincotv.org:25461/andres1403/pacheco1405/69250
 
 DAZN 3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV EVENTOS", DAZN 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest?cb=20220119161736" group-title="TV EVENTOS", DAZN 3
 http://cincotv.org:25461/andres1403/pacheco1405/69249
 
 DAZN 4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfG_obVAL58JVH3hWlek_n5Ck0FUI71LtLuA&s" group-title="TV EVENTOS", DAZN 4
-http://uberly.top:8080/1234567/1234567/25125
+http://cincotv.org:25461/andres1403/pacheco1405/41819
 
 UFC
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV EVENTOS", UFC
@@ -50,7 +50,11 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235788
 
 TNT
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/TNT_2016_%28Red_2%29.svg/revision/latest/scale-to-width-down/250?cb=20170609121017" group-title="TV CINE Y SERIES", TNT
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235791
+http://cincotv.org:25461/andres1403/pacheco1405/186477
+
+TNT SERIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="TV CINE Y SERIES", STAR CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/279699
 
 WARNER CHANNEL
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/de97dye-ef010453-5659-4dee-ab93-d5dc5d7d7912.png/v1/fill/w_1280,h_1156/logotipo_de_warner_channel_que_se_parece_a_mi_logo_by_wbblackofficial_de97dye-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1NiIsInBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGU5N2R5ZS1lZjAxMDQ1My01NjU5LTRkZWUtYWI5My1kNWRjNWQ3ZDc5MTIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Y-vW6AM66xlvyhK08QyNL5OhMPODeS9zfPL7rtGMUug" group-title="TV CINE Y SERIES", WARNER CHANNEL
