@@ -91,15 +91,19 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/23219
 
 DIRECTV SPORTS 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/800px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="TV Deportes", DIRECTV SPORTS 2
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/11029
+http://cincotv.org:25461/andres1403/pacheco1405/92580
 
 DIRECTV SPORTS +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/250?cb=20200706230244&path-prefix=es" group-title="TV Deportes", DIRECTV SPORTS +
-http://uberly.top:8080/1234567/1234567/18715
+http://cincotv.org:25461/andres1403/pacheco1405/92583
+
+AZTECA DEPORTES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="TV Deportes", AZTECA DEPORTES
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92694
 
 AFIZZIONADOS HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="TV Deportes", AFIZZIONADOS HD
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92694
+http://cincotv.org:25461/andres1403/pacheco1405/92567
 
 BEIN SPORTS XTRA Ñ
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/096E3675-4280-46E8-A2F2-410E841190A2/3-1x1.png/900" group-title="TV Deportes", BEIN SPORTS XTRA Ñ
@@ -107,18 +111,30 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/90048
 
 COMBATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="TV Deportes", COMBATE
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92699
+http://cincotv.org:25461/andres1403/pacheco1405/92574
 
 CLARO SPORTS
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="TV Deportes", CLARO SPORTS
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/61600
+http://cincotv.org:25461/andres1403/pacheco1405/92573
 
 CLARO SPORTS 2
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tRBkZ5Vcc2_LbW-uiXpbryuB3n4bQr0VFKZBLIG-X_elnBBZZE6vyDWXJiZ5S2VCdD8agG900YLfYJtNYccdA70erVBHFgjFHlXJsnSI1UAu57qRGOk-U72BmNgS6LehGa5ls6BWTYH0QzVbRetiVnsrB4mmBMCZc0fu2oKZEBEW076JSKNBlC9y9bcV/s1600/images-removebg-preview.png" group-title="TV Deportes", CLARO SPORTS 2
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92529
 
-DAZN LA LIGA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s" group-title="TV Deportes", Dazn La Liga
+DAZN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="TV Deportes", DAZN 
+http://cincotv.org:25461/andres1403/pacheco1405/96927
+
+DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV Deportes", DAZN 2
+http://cincotv.org:25461/andres1403/pacheco1405/69249
+
+DAZN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV Deportes", DAZN 3
+http://cincotv.org:25461/andres1403/pacheco1405/69250
+
+DAZN 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s" group-title="TV Deportes", DAZN 4
 http://uberly.top:8080/1234567/1234567/25125
 
 ESPN
@@ -127,7 +143,7 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92722
 
 ESPN 2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/300?cb=20130819193813" group-title="TV Deportes", ESPN 2
-http://clubtv.link/27Mm/key4513/lista1.php?c=a03z&token=tecnotvGeneradorTV&f=.m3u8
+http://cincotv.org:25461/andres1403/pacheco1405/92592
 
 ESPN 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV Deportes", ESPN 3
@@ -135,45 +151,32 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/22109
 
 ESPN 4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TV Deportes", ESPN 4
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92721
+http://cincotv.org:25461/andres1403/pacheco1405/92604
 
 ESPN DEPORTES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="TV Deportes", ESPN DEPORTES
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22591
 
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22116
+ESPN NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="TV Deportes", ESPN NEWS
+http://cincotv.org:25461/andres1403/pacheco1405/92602
 
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
+ESPN PREMIUN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="TV Deportes", ESPN PREMIUN
+http://cincotv.org:25461/andres1403/pacheco1405/89731
 
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
+FOX SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="TV Deportes", FOX SPORTS
+http://cincotv.org:25461/andres1403/pacheco1405/92610
 
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
+FOX SPORTS 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="TV Deportes", FOX SPORTS 2 
+http://cincotv.org:25461/andres1403/pacheco1405/92614
 
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
+FOX SPORTS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="TV Deportes", FOX SPORTS 3
+http://cincotv.org:25461/andres1403/pacheco1405/92618
 
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
-
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
-
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
-
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
-
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
-
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="logo  .png" group-title="TV Deportes", ESPN EXTRA
 
 --- Televisión Cultural ---
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", 
