@@ -1,24 +1,24 @@
 #EXTM3U
 
---- Televisión Eventos ---
+--- Televisión EVENTOS ---
 DAZN
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6s1qKcs0wnSCLM9sbMYPZ0Xre2k4Df8gzzu_Wvr4yb9yozvalVcnhgFYiWKYoVxl9u64&usqp=CAU" group-title="TV Deportes", DAZN 1 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6s1qKcs0wnSCLM9sbMYPZ0Xre2k4Df8gzzu_Wvr4yb9yozvalVcnhgFYiWKYoVxl9u64&usqp=CAU" group-title="TV EVENTOS", DAZN 1 
 http://cincotv.org:25461/andres1403/pacheco1405/96927
 
 DAZN 2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV Deportes", DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV EVENTOS", DAZN 2
 http://cincotv.org:25461/andres1403/pacheco1405/69250
 
 DAZN 3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV Deportes", DAZN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV EVENTOS", DAZN 3
 http://cincotv.org:25461/andres1403/pacheco1405/69249
 
 DAZN 4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfG_obVAL58JVH3hWlek_n5Ck0FUI71LtLuA&s" group-title="TV Deportes", DAZN 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfG_obVAL58JVH3hWlek_n5Ck0FUI71LtLuA&s" group-title="TV EVENTOS", DAZN 4
 http://uberly.top:8080/1234567/1234567/25125
 
 UFC
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV Eventos PPV", UFC
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV EVENTOS", UFC
 http://cincotv.org:25461/andres1403/pacheco1405/25184
 
 --- Televisión CINE Y SERIES ---
@@ -126,6 +126,10 @@ UNIVERSAL REALITY
 #EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", UNIVERSAL REALITY
 http://cincotv.org:25461/andres1403/pacheco1405/23850
 
+UNIVERSAL KIDS
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", UNIVERSAL KIDS
+http://cincotv.org:25461/andres1403/pacheco1405/25201
+
 CLOVER CHANNEL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", Clover Channel
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
@@ -228,33 +232,65 @@ LOVE NATURE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TV Cultural", Love Nature 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0bo&token=tecnotvGeneradorTV&f=.m3u8
 
-HISTORY 2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png" group-title="TV Cultural", History 2 
-http://clubtv.link/27Mm/key4513/lista1.php?c=a04f&token=tecnotvGeneradorTV&f=.m3u8
+HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="TV CULTURA", HISTORY CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235599
 
-DISCOVERY CHANNEL -COL-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV Cultural", Discovery Channel -Col-
+HISTORY 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="TV CULTURA", HISTORY 2
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/305371
+
+DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="TV CULTURA", DISCOVERY CHANNEL 
 http://cincotv.org:25461/andres1403/pacheco1405/23756
 
-DISCOVERY CHANNEL -MEX-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV Cultural", 
-http://cincotv.org:25461/andres1403/pacheco1405/23757
+DISCOVERY TLC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Tlc2012.png/revision/latest/scale-to-width-down/250?cb=20170828223827&path-prefix=es" group-title="TV CULTURA",DISCOVERY TLC
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22269
+
+DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Science_channel_2011logo.png/revision/latest/scale-to-width-down/200?cb=20110415120454" group-title="TV CULTURA", DISCOVERY SCIENCE
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235538
+
+DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png/revision/latest/scale-to-width-down/250?cb=20201106134933&path-prefix=es" group-title="TV CULTURA", DISCOVERY THEATER
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235590
 
 DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV Cultural", Discovery World 
 http://clubtv.link/27Mm/key4513/lista1.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
 
-Discovery Theater
-#EXTINF:-1 tvg-logo="https://www.southerncable.bz/wp-content/uploads/2017/03/discovery-theatre-hd-790x790.png" group-title="TV Cultural", Discovery Theater
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02q&token=tecnotvGeneradorTV&f=.m3u8
+DISCOVERY H&H
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest/scale-to-width-down/210?cb=20190926042803&path-prefix=es" group-title="TV CULTURA", DISCOVERY H&H
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235592
 
-Discovery H&H
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT2pXKLxJWc4udhddOcDUE6sgvquw1V8CjLqdjiwGlLQB5hiGB7Xxr5eJZVZzRKk4wpY&usqp=CAU" group-title="TV Cultural", Discovery H&H HD
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02p&token=tecnotvGeneradorTV&f=.m3u8
+DISCOVERY WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="TV CULTURA", DISCOVERY WORLD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235559
 
-ID
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV Cultural", ID
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02j&token=tecnotvGeneradorTV&f=.m3u8
+DISCOVERY ID 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV CULTURA", DISCOVERY ID -SD-
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244219
+
+DISCOVERY TURBO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="TV CULTURA", DISCOVERY TURBO HD
+http://cincotv.org:25461/andres1403/pacheco1405/186505
+
+NAT GEO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="TV CULTURA", NAT GEO 
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22286
+
+NAT GEO  WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="TV CULTURA", NAT GEO WILD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311562
+
+LIFETIME
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="TV CULTURA", LIFETIME
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/234805
+
+ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="TV CULTURA", ANIMAL PLANET HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244217
 
 --- Televisión Infantil ---
 #EXTINF:-1 tvg-logo="logo.png" group-title="TV Infantil", 
