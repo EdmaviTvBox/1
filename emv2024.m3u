@@ -314,108 +314,91 @@ http://cincotv.org:25461/andres1403/pacheco1405/26346
 --- Televisión Variedades ---
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades",
 
+EL GOURMET HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="TV CULTURA", EL GOURMET HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22277
+
+HOLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV CULTURA", HOLA TV
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235613
+
 ESTRELLA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV Variedades",
+http://cincotv.org:25461/andres1403/pacheco1405/23729
 
 NBC UNIVERSO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV Variedades", NBC Universo
 http://cincotv.org:25461/andres1403/pacheco1405/23730
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/adult-swim-2001-logo-F3A874934A-seeklogo.com.png" group-title="TV Variedades", Adult Swing
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02k&token=tecnotvGeneradorTV&f=.m3u8
+SUN CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="TV Variedades", SUN CHANNEL 
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/91860
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="TV Variedades", Sun Channel 
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02n&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="TV Variedades", Star Tve Channel
-http://clubtv.link/27Mm/key4513/lista1.php?c=a022&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logotipo_alternativo_de_NTV.png" group-title="TV Variedades", NTV
-http://clubtv.link/27Mm/key4513/lista1.php?c=a033&token=tecnotvGeneradorTV&f=.m3u8
-
+MEGA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="TV Variedades", Mega
-http://clubtv.link/27Mm/key4513/lista1.php?c=a035&token=tecnotvGeneradorTV&f=.m3u8
+http://cincotv.org:25461/andres1403/pacheco1405/186849
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg" group-title="TV Variedades", La Red 
-http://clubtv.link/27Mm/key4513/lista1.php?c=a024&token=tecnotvGeneradorTV&f=.m3u8 
+HOLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV Variedades", HOLA TV 
+http://cincotv.org:25461/andres1403/pacheco1405/186780
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV Variedades", HOLA TV HD
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02a&token=tecnotvGeneradorTV&f=.m3u8
-
+E!
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="TV Variedades", E! 
-http://clubtv.link/27Mm/key4513/lista1.php?c=a03s&token=tecnotvGeneradorTV&f=.m3u8
+http://cincotv.org:25461/andres1403/pacheco1405/170735
 
-#EXTINF:-1 tvg-logo="https://www.megavisiontvrd.com/assets/img/Nuevo%20Logo%20Mega%20Oficial%20en%20PNG.png" group-title="TV Variedades", Megavision TV
-https://server2grupocam.com/megavision/MV/chunklist_w1516020014.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopTxdFCIdwpzK8qvSKMQljOReB_4narXmsw&s" group-title="TV Variedades", Monitor TV
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0cx&token=tecnotvGeneradorTV&f=.m3u8
-
+COMEDY CENTRAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="TV Variedades", Comedy Central
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02i&token=tecnotvGeneradorTV&f=.m3u8
+http://cincotv.org:25461/andres1403/pacheco1405/186432
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E1BAQH4qhA2oqviqA/company-background_10000/0/1653353128104/creo_televisin_cover?e=2147483647&v=beta&t=mkI6B-I_k8Wh7zOptdY34C1jEwVySHv2dDuyesbJilE" group-title="TV Variedades", Creo TV
-http://clubtv.link/27Mm/key4513/lista1.php?c=a00k&token=tecnotvGeneradorTV&f=.m3u8
+CHV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chilevision_NoEffect.svg/2066px-Chilevision_NoEffect.svg.png" group-title="TV Variedades", CHV
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311747
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chilevision_NoEffect.svg/2066px-Chilevision_NoEffect.svg.png" group-title="TV Variedades", Chv
-http://clubtv.link/27Mm/key4513/lista1.php?c=a027&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706464915-TZGC0SHVP2DJG9OSKEVT/network_cinemadinamita.png" group-title="TV Variedades", Cinema Dinamita
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0dg&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="TV Variedades", ATV Sur
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0ba&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="TV Variedades", ATV +
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0e6&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="TV Variedades", Atreseries
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02g&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/ad439186ad33635a0f57b35bbb537b45-520x293.jpeg" group-title="TV Variedades", Antena3  
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0c3&token=tecnotvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV Variedades", Cinema +
+CINEMA +
+#EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV Variedades", CINEMA +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV Variedades", Retrox TV
+RETROX TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV Variedades", RETROX TV
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="TV Variedades", Cinerama TV
+CINERAMA TV
+#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="TV Variedades", CINERAMA TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1775902226.m3u8
 
-#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/fb/9e/5d5912ff9bd6879166e80b9f115b-lec.jpg?x-oss-process=style/hq" group-title="TV Variedades", Gen TV
+GEN TV
+#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/fb/9e/5d5912ff9bd6879166e80b9f115b-lec.jpg?x-oss-process=style/hq" group-title="TV Variedades", GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
+WOW TV
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV Variedades", Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w530986241_b2000000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="TV Variedades", Somos del Este TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w1582604302.m3u8
-
-#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="TV Variedades", Tele Clasica
+TELECLASICA
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="TV Variedades", TELECLASICA
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="TV Variedades", Canal N
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0bd&token=tecnotvGeneradorTV&f=.m3u8
 
 --- Televisión Colombia ---
 
-WIN SPORTS +
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV Colombia", WIN SPORTS +
-http://uberly.top:8080/1234567/1234567/18711
+CARACOL TV 
+#EXTINF:-1 tvg-logo="https://d1.awsstatic.com/case-studies/Latam%20Cases%20Assets/CaracolTV_LOGO.8c809bee8fb041fde85fd103087a55a427afd1a8.png" group-title="TV COLOMBIA", CARACOL TV 
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22429
 
-RCN
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWhI5fWz4VF_IKljqlqPMqJNB7XqhcXirpV97FJa1FJ0vBVGyXBb8adLUqVphJjUaaRGFLMALXRrVpBWNbUG2tzFdgrpDfH0t3XqSwcJQm6Fga1UlxPiKDsU9UspGRFY89rdz9iwvFv7GJ_XF_VDPbuE3cpg0eVMzD2bsJoZgPkzmmX0kIGEZzZj5oi_o/s320/RCN%20Act.png" group-title="TV Colombia", RCN Nuestra Tele
-https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/293afa1c-cfcc-4a52-b248-4e55d7d398df/0.m3u8
-
-CARACOL HD
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQzvlkkgUZf1z7gTZIdV64hPze4NjjdTk-mLrPHBG-Dhf-OzRnA8qF7ZorExoJ4C1dAoQP-M9BGviR82MD33BloFWr0eg0JnQp2I3I7dk-px1ARoi1AMJOqBMsWYNfFiK4bJVnNtHEmT8IYWQd9rNJjqgl3tgg9_7wsE8lpTee9oPtbr8RWSZ8w18_9Wb_/s320/Caracol%20Act.png" group-title="TV Colombia", Caracol -HD-
-http://clubtv.link/27Mm/key4513/lista1.php?c=a04a&token=tecnotvGeneradorTV&f=.m3u8
+CARACOL INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/CARACOL_INTERNACIONAL.png/revision/latest?cb=20140814221309&path-prefix=es" group-title="TV COLOMBIA", CARACOL INTERNACIONAL 
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92847
 
 CARACOL SD
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInAe7G_MVgcUrq3q4DSlk4xhkglk4lEt2p52RHGh8T7OzV3lfLqXWXJbfFE5wV7isMcrzbmgwtTdkQNvNRQ4lBrCDZplWqvFUTUQR5MBKpSl486WeCgULKHGnowUAlotR43CxulLxAoehyUYhSqn55cVuC2izw1Op1uQIUiWL9-Ye-gk3jVJScSxKOn5I/s320/Caracol%202010.png" group-title="TV Colombia", Canal Caracol -SD-
 https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/fc68c0d8-ed79-4caf-8ab9-d255b37b021f/0.m3u8
+
+RCN HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/colombia/images/2/27/OfficialRCNlogo1998.png/revision/latest/scale-to-width-down/1200?cb=20180323000152&path-prefix=es" group-title="TV COLOMBIA", RCN 
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/237200
+
+WIN SPORTS +
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="TV COLOMBIA", WIN SPORTS +
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/34697
 
 CNC MEDELLIN
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSVoe5KyleJ9w1Y3ua_NQwtP53F3q4-oUhkYajM-sfwzYBnQ55bz-Du3SZtTnw2igP8XXfQZK9gEW1i9RBBTBhTJwmStzmNfSBw-VCFLXSseALPMgIE0YuBsayQRnvnJENc5344jGNaE0eAvtrFM-SCsUo713f3cDigxwqhkRsq_ecAig69_pMOR0e6lL/s1600/canal%20cnc%20medellin%20act.png" group-title="TV Colombia", CNC -HD-
@@ -433,17 +416,13 @@ CANAL INSTITUCIONAL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizIgHzwPTBt9E6Y-stb7XHbU9DiGxgPiT4Ab2-RL1JILBCEVpRXZtHiXVL_9bEMDve5eY2Z58Yh0YIycQZQZ4LmsqvVMJKepzKwqL2MeL8eBKUoTOLYLuGteDvpHgbWWtCa6-UqglY9cIS9ux9ZCqWdvScEvTndQuQlRzk8YE3gzQlPsvva-Om3lULeJFb/s1600/Canal%20Institucional%20act%20Red.png" group-title="TV Colombia", Canal Institucional -HD-
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
-RED +
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZZUUIAhqj2DP_sVP6AdIGq-VcvHyjyVU5d3A9tcTQc_kzpDobya0ZtZFTtRGDRMOOi_nmS4PDbk5vKRyMnmgyJuD3cEqeTHaC1Se_Yfcl_1JvMheBr9YjwxC4bcwTne2b1rOwYV5hh2kYFpkX3Uebq4ldsFevQ8pU1ZvPbfG1__TUiTZVDa4urJyZKUb8/s320/Red+%20act.png" group-title="TV Colombia", Red + -HD-
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
-
 TELEPACIFICO
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge7UPYDXShcvC7W39Z7rpjLeOxoZV-gaDh2DOQv9HeASHC5iHhWXHypNhh4p4k-jpMDoOYvrS3d6WVawQsdWtlN9QkJ7AvXFr7Eu9Iwnz7Yj0mA1Wz_-iu0bRfrWAHZONjTAKKpDb9nY82xxWI4kKXUnoNJb4-V18SiANMMsSoliKLpjJ2Pvoh4Jp7m_RF/s320/Telepac%C3%ADfico%20act.png" group-title="TV Colombia", Telepacifico -HD-
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
 
-CANAL 13
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgmhglcjI_-3_5ff9eI_i64p4Z5pY_AQA-MhHYYMhjGhcz_ZCEtDF9ywFbUkcOPuobU17GDkhUiU859y8tMQ3kV6E-QIbi5RvybDXZVWbxz_SJKqGLJjxCW8JqMi9wJ6X5thnh-Q9XiXi6HSm0pQ6S-3k1lFUYDd8DOnRcxHRQ5uRgEuB2dwZLc8JPVii/s320/Canal_13_HD.png" group-title="TV Colombia", Canal 13 
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0bc&token=tecnotvGeneradorTV&f=.m3u8
+TRECE
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgmhglcjI_-3_5ff9eI_i64p4Z5pY_AQA-MhHYYMhjGhcz_ZCEtDF9ywFbUkcOPuobU17GDkhUiU859y8tMQ3kV6E-QIbi5RvybDXZVWbxz_SJKqGLJjxCW8JqMi9wJ6X5thnh-Q9XiXi6HSm0pQ6S-3k1lFUYDd8DOnRcxHRQ5uRgEuB2dwZLc8JPVii/s320/Canal_13_HD.png" group-title="TV Colombia", TRECE
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22441
 
 CALI TV
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir3jSwobe_CVdoC-DMWETptXkbPHPhzL3KJmvngCIVadHrc_18kCa2bWjOTuq6mpNZ-LCyCLav8Zyp4WduIbGij-bx3jzjr6HRSQPY8jy3KoQA5G6zMKtwwCHhdBe7T12fHj-hsTHl4ikUkn2TLwXI44Fg0mVU3lkgpakDOQftpnJnjWWaETSsGB_lsxr1/s320/Cali%20TV.png", Cali TV -HD-
@@ -451,7 +430,11 @@ https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w92
 
 CANAL CAPITAL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjlVSvCmt-cjHQzGBdVHNUPP_3NgZqshjDn7Iupnp0t9IoQMWTUrKC0p5AEYaf9lacv7uUMrqdn9U_Nh7PKVMH0R__faICT8YpZIulVVmLqlZlPDUf-f1Porv68qqE27AmLpEve64gMY1oUlH13Gt0D7cD6Kf1KOa4e_2UE5OxRSKsU06D-FPqwpdbxIY/s320/Canal_Capital.png" group-title="TV Colombia", Canal Capital -HD-
-https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92720
+
+RCN XTRA
+#EXTINF:-1 tvg-logo="https://rcn-images.ercdn.net//content/v/Vr/2128/Logo.png?v=638240718056256153" group-title="TV COLOMBIA", RCN XTRA
+http://cincotv.org:25461/andres1403/pacheco1405/110832
 
 --- TV Novelas --
 
