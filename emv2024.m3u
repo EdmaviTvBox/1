@@ -55,6 +55,10 @@ HBO FAMILY
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDpvw6ibT7iAdfRv36k-zniJWGWekgIEZElq-v1t1VtdewziGcybopZefJ_6WmmOBgeHBFDDmZoo1eib5TWDMW3vu_cT_Rm3uf4GLcPa4ep7p4QDQeYC34KCrazA8gXoNRWbYOgVXRBz5XSKEik1RBgkb6VWptc-hwiYYQ531nJdxj-l0HkQjSwnBl8YkS/s320/HBO%20Family.png" group-title="TV PREMIUM", HBO Family 
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235778
 
+HBO +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV PREMIUM", HBO +
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22153
+
 GOLDEN 
 #EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV PREMIUM",
 http://cincotv.org:25461/andres1403/pacheco1405/24301
@@ -69,7 +73,7 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235757
 
 AMC
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK1glS0OYObmzQGdTQK2WXJ5yDPhdzEz2AJA5K4XKFF-IM9tfUQ4NsP6N-B1ExWDjE0NB5DOfQtlkHuofwosyVyp7s6l_qNTy108AOmooqVIYzcH_eKHWzNrJQExBazPgikaWPqnLF4LQWEwnCFN0XBAHk1o6SfJsunT9LrIDOrnfrS56RGe60oWLoNOAT/s320/amc.png" group-title="TV PREMIUM", AMC
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22153
+http://uberly.top:8080/1234567/1234567/18508
 
 CLOVER CHANNEL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", Clover Channel
@@ -77,7 +81,7 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
 
 DHE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="TV PREMIUM", DHE 
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92486
+http://cincotv.org:25461/andres1403/pacheco1405/186481
 
 --- Televisión Deportes ---
 
@@ -91,7 +95,7 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/11029
 
 DIRECTV SPORTS +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/250?cb=20200706230244&path-prefix=es" group-title="TV Deportes", DIRECTV SPORTS +
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22103
+http://uberly.top:8080/1234567/1234567/18715
 
 AFIZZIONADOS HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="TV Deportes", AFIZZIONADOS HD
@@ -314,6 +318,10 @@ https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
 http://clubtv.link/27Mm/key4513/lista1.php?c=a0bd&token=tecnotvGeneradorTV&f=.m3u8
 
 --- Televisión Colombia ---
+
+WIN SPORTS +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV Colombia", WIN SPORTS +
+http://uberly.top:8080/1234567/1234567/18711
 
 RCN
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWhI5fWz4VF_IKljqlqPMqJNB7XqhcXirpV97FJa1FJ0vBVGyXBb8adLUqVphJjUaaRGFLMALXRrVpBWNbUG2tzFdgrpDfH0t3XqSwcJQm6Fga1UlxPiKDsU9UspGRFY89rdz9iwvFv7GJ_XF_VDPbuE3cpg0eVMzD2bsJoZgPkzmmX0kIGEZzZj5oi_o/s320/RCN%20Act.png" group-title="TV Colombia", RCN Nuestra Tele
