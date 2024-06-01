@@ -1,79 +1,130 @@
 #EXTM3U
 
 --- Televisión Eventos ---
+DAZN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6s1qKcs0wnSCLM9sbMYPZ0Xre2k4Df8gzzu_Wvr4yb9yozvalVcnhgFYiWKYoVxl9u64&usqp=CAU" group-title="TV Deportes", DAZN 1 
+http://cincotv.org:25461/andres1403/pacheco1405/96927
+
+DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV Deportes", DAZN 2
+http://cincotv.org:25461/andres1403/pacheco1405/69250
+
+DAZN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV Deportes", DAZN 3
+http://cincotv.org:25461/andres1403/pacheco1405/69249
+
+DAZN 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfG_obVAL58JVH3hWlek_n5Ck0FUI71LtLuA&s" group-title="TV Deportes", DAZN 4
+http://uberly.top:8080/1234567/1234567/25125
+
+UFC
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV Eventos PPV", UFC
 http://cincotv.org:25461/andres1403/pacheco1405/25184
 
---- Televisión Premium ---
-#EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM",
+--- Televisión CINE Y SERIES ---
+#EXTINF:-1 tvg-logo="logo.png" group-title="TV CINE Y SERIES",
 
-SUNDANCE
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM", Sundance
-http://cincotv.org:25461/andres1403/pacheco1405/25196
+SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV CINE Y SERIES",
+http://cincotv.org:25461/andres1403/pacheco1405/186456
 
-Universal TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="TV PREMIUM", Universal TV
-http://cincotv.org:25461/andres1403/pacheco1405/25795
+CINECANAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Cinecanal_1997.png/revision/latest/scale-to-width-down/250?cb=20191214225628&path-prefix=es" group-title="TV CINE Y SERIES", CINECANAL
+http://cincotv.org:25461/andres1403/pacheco1405/186454
 
-Universal Reality
-#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", Universal Reality
-http://cincotv.org:25461/andres1403/pacheco1405/23850
+SPACE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="TV CINE Y SERIES", SPACE
+http://cincotv.org:25461/andres1403/pacheco1405/186453
 
-DE PELICULA
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="TV PREMIUM", De Pelicula
-http://cincotv.org:25461/andres1403/pacheco1405/24040
+AMC
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK1glS0OYObmzQGdTQK2WXJ5yDPhdzEz2AJA5K4XKFF-IM9tfUQ4NsP6N-B1ExWDjE0NB5DOfQtlkHuofwosyVyp7s6l_qNTy108AOmooqVIYzcH_eKHWzNrJQExBazPgikaWPqnLF4LQWEwnCFN0XBAHk1o6SfJsunT9LrIDOrnfrS56RGe60oWLoNOAT/s320/amc.png" group-title="TV CINE Y SERIES", AMC
+http://cincotv.org:25461/andres1403/pacheco1405/186463
 
-WARNER
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="TV PREMIUM", Warner Channel 
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235799
-
-TNT
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/TNT_2016_%28Red_2%29.svg/revision/latest/scale-to-width-down/250?cb=20170609121017" group-title="TV PREMIUM", TNT
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235791
-
-PARAMOUNT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="TV PREMIUM", Paramount Network
+PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/paramount-channel-latin-america-logo-180D249ED9-seeklogo.com.png" group-title="TV CINE Y SERIES", PARAMOUNT CHANNEL
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235785
 
-HBO
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS9zovdOBWkc7UmBn8xSmnLqN_oO4YgMLeoHO0rHWckETPFIhAEe_TENnW2Df2BYvKrMY34SaVNAxIfO6Onz6PZqqviJk-MX47OtZBDGV5b9s8Nn_Bt-20joiuEfkl9kEecGdt77ut6ANPvBvPQV1hxgYth6f1TOgGuhXHIhJfbaPxOSzzL_5JX2lEoBSU/s1600/hbo.png" group-title="TV PREMIUM", HBO 
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235776
+STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="TV CINE Y SERIES", STAR CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235788
 
-HBO 2
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOiNN5oKBn1IPXivaYjfvuJJGhiGZkfCquW9wPX7_wBxvCQR5BIPGZeFsZ_UP3bdF_gCC7QVVI-SBw5_Lz93FGEQXA1u40m4ufxuH2hi1ecez-sMTNJ2pht9XjgSwJPV8cJNgruxTocD8X1A-EVWOq0Fr7ipJeS5EQnrJ4IjZ52sFxBW74fzTSptMvlNqC/s320/hbo2.png" group-title="TV PREMIUM", HBO 2
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22207
+TNT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/TNT_2016_%28Red_2%29.svg/revision/latest/scale-to-width-down/250?cb=20170609121017" group-title="TV CINE Y SERIES", TNT
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235791
+
+WARNER CHANNEL
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/de97dye-ef010453-5659-4dee-ab93-d5dc5d7d7912.png/v1/fill/w_1280,h_1156/logotipo_de_warner_channel_que_se_parece_a_mi_logo_by_wbblackofficial_de97dye-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1NiIsInBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGU5N2R5ZS1lZjAxMDQ1My01NjU5LTRkZWUtYWI5My1kNWRjNWQ3ZDc5MTIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Y-vW6AM66xlvyhK08QyNL5OhMPODeS9zfPL7rtGMUug" group-title="TV CINE Y SERIES", WARNER CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235799
+
+A&E
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r931PAXKpX3V7pJrok0Mhht4nGVl61F_jmsroCylidgz54Z8tkMrsCff5MTGxhEUvAuHCUbKbLT3bZMpTBTaSg1EWJ3e-aGKCx5YaoHo-grYeCAbg41J_wW-wUhXRCRzE-kdHEbuQkML3mT-qAJPxEhZjAJXpXP6SpydO-2Tok6WQNzNnAF_lLTHzg2l/s320/AE.png" group-title="TV CINE Y SERIES", A&E
+http://cincotv.org:25461/andres1403/pacheco1405/186462
+
+CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="TV CINE Y SERIES", CINEMAX
+http://cincotv.org:25461/andres1403/pacheco1405/186452
+
+FX
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png" group-title="TV CINE Y SERIES", FX
+http://cincotv.org:25461/andres1403/pacheco1405/186467
+
+--- TV PREMIUM ---
+
+GOLDEN
+#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PREMIER.png" group-title="TV PREMIUM", GOLDEN
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235772
+
+GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest/scale-to-width-down/300?cb=20200422173832" group-title="TV PREMIUM", GOLDEN PREMIER
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235775
+
+GOLDEN PLUS HD
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/golden.png" group-title="TV PREMIUM", GOLDEN PLUS HD
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235842
+
+HBO
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-transparent.png" group-title="TV PREMIUM", HBO
+http://cincotv.org:25461/andres1403/pacheco1405/186482
+
+HBO FAMILY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/HBO_Family_Asia_2009.svg/revision/latest/scale-to-width-down/250?cb=20231013230011" group-title="TV PREMIUM", HBO FAMILY
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235778
+
+HBO PLUS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group-title="TV PREMIUM", HBO PLUS
+http://cincotv.org:25461/andres1403/pacheco1405/186497
 
 HBO POP
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiffQrsInstEFzvTSKzzU0DQY4WO4-12eaY0UsJy_1JBqcbhvXjnrY4E9rlJPkOjYOennBnUPm8LxsdvmuzeRcnqhg4yJqTifTXRYRekzjkJ71WXtub47lc3fKgd76IYIwSp-NTiAbtsr84mbhPQ0VQO6bBP1CAgebjAi2OCJt-xNF3B6teuAczE7-GDStX/s1600/hbo%20pop.png" group-title="TV PREMIUM", HBO Pop
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxu5-2072bf2e-69b7-4bfa-8397-e850100b8e87.png/v1/fill/w_532,h_350/hbo_pop_logo_concept_2023_by_wbblackofficial_dgfmxu5-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHU1LTIwNzJiZjJlLTY5YjctNGJmYS04Mzk3LWU4NTAxMDBiOGU4Ny5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.9wq9b5VG6-mEZOLPuZ3XcYJPbjyBJQ4AOMShyfP6_HQ" group-title="TV PREMIUM", HBO POP
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235781
 
 HBO XTREME
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3t95VJ7SjPRg71TJOcF3Ou7Q6cgVBLgJxZjMWmAD77L8l5cSuSZlLlhLJstL6Sto-hDUjxJposX27CRuHN4YQ1drQ176F2WKp7Z8LvPvvS1sJA2Df5Ssi4S9bYMndwNVazjdcaSHqLxG5-WRY3MXSTmk7zUj4VbmemDKBsexE1j4ctV5IlzGLqK3xAv67/s320/Hbo%20Xtreme.png" group-title="TV PREMIUM", HBO Xtreme
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxto-7bfed0f2-bf1e-4ac9-a816-c234c7abf621.png/v1/fill/w_774,h_509/hbo_xtreme_logo_concept_2023_by_wbblackofficial_dgfmxto-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHRvLTdiZmVkMGYyLWJmMWUtNGFjOS1hODE2LWMyMzRjN2FiZjYyMS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.jRJXSPScsMoK4t1sAQ2id3T5Y7PEScmx-BT0GqQNCBo" group-title="TV PREMIUM", HBO XTREME
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92725
 
-HBO FAMILY
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDpvw6ibT7iAdfRv36k-zniJWGWekgIEZElq-v1t1VtdewziGcybopZefJ_6WmmOBgeHBFDDmZoo1eib5TWDMW3vu_cT_Rm3uf4GLcPa4ep7p4QDQeYC34KCrazA8gXoNRWbYOgVXRBz5XSKEik1RBgkb6VWptc-hwiYYQ531nJdxj-l0HkQjSwnBl8YkS/s320/HBO%20Family.png" group-title="TV PREMIUM", HBO Family 
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235778
+STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Studio_Universal_2010.svg/revision/latest/scale-to-width-down/300?cb=20200323005448&path-prefix=es" group-title="TV PREMIUM",STUDIO UNIVERSAL HD 
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/266239
 
-HBO +
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV PREMIUM", HBO +
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22153
+UNIVERSAL COMEDY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="TV PREMIUM",UNIVERSAL COMEDY
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92620
 
-GOLDEN 
-#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV PREMIUM",
-http://cincotv.org:25461/andres1403/pacheco1405/24301
+UNIVERSAL CINEMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="TV PREMIUM", UNIVERSAL CINEMA
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/239540
 
-GOLDEN PLUS
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3gq6o5yzTTF7ERs3DcstdsAVCLO1kZH3C1uPl-hgZkco0eib458QB_hvdhyry-Ebm1KGgCA-AzSzo1wEAqNFNINes1DqO5Vl95F7oj0Hw_7aCwoEn3qrzuUgfoP0mz7JUh_Uqb-4OYeFGf664dySSMx6fNuFpf2IoX5gCklJJ-BeC6Dsea5qxPEMYcenp/s320/Golden%20plus.png" group-title="TV PREMIUM", Golden Plus
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235842
+UNIVERSAL PREMIERE
+#EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/Universal_Premiere.png" group-title="TV PREMIUM",UNIVERSAL PREMIERE
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92622
 
-A&E
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r931PAXKpX3V7pJrok0Mhht4nGVl61F_jmsroCylidgz54Z8tkMrsCff5MTGxhEUvAuHCUbKbLT3bZMpTBTaSg1EWJ3e-aGKCx5YaoHo-grYeCAbg41J_wW-wUhXRCRzE-kdHEbuQkML3mT-qAJPxEhZjAJXpXP6SpydO-2Tok6WQNzNnAF_lLTHzg2l/s320/AE.png" group-title="TV PREMIUM", A&E
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235757
+UNIVERSAL CHANNEL FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV PREMIUM", UNIVERSAL CHANNEL 
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/239544
 
-AMC
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK1glS0OYObmzQGdTQK2WXJ5yDPhdzEz2AJA5K4XKFF-IM9tfUQ4NsP6N-B1ExWDjE0NB5DOfQtlkHuofwosyVyp7s6l_qNTy108AOmooqVIYzcH_eKHWzNrJQExBazPgikaWPqnLF4LQWEwnCFN0XBAHk1o6SfJsunT9LrIDOrnfrS56RGe60oWLoNOAT/s320/amc.png" group-title="TV PREMIUM", AMC
-http://uberly.top:8080/1234567/1234567/18508
+UNIVERSAL REALITY
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", UNIVERSAL REALITY
+http://cincotv.org:25461/andres1403/pacheco1405/23850
 
 CLOVER CHANNEL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", Clover Channel
@@ -82,6 +133,14 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
 DHE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="TV PREMIUM", DHE 
 http://cincotv.org:25461/andres1403/pacheco1405/186481
+
+DE PELICULA
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="TV PREMIUM", DE PELICULA
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235906
+
+SUNDANCE
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM", Sundance
+http://cincotv.org:25461/andres1403/pacheco1405/25196
 
 --- Televisión Deportes ---
 
@@ -120,22 +179,6 @@ http://cincotv.org:25461/andres1403/pacheco1405/92573
 CLARO SPORTS 2
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tRBkZ5Vcc2_LbW-uiXpbryuB3n4bQr0VFKZBLIG-X_elnBBZZE6vyDWXJiZ5S2VCdD8agG900YLfYJtNYccdA70erVBHFgjFHlXJsnSI1UAu57qRGOk-U72BmNgS6LehGa5ls6BWTYH0QzVbRetiVnsrB4mmBMCZc0fu2oKZEBEW076JSKNBlC9y9bcV/s1600/images-removebg-preview.png" group-title="TV Deportes", CLARO SPORTS 2
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92529
-
-DAZN
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="TV Deportes", DAZN 
-http://cincotv.org:25461/andres1403/pacheco1405/96927
-
-DAZN 2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV Deportes", DAZN 2
-http://cincotv.org:25461/andres1403/pacheco1405/69249
-
-DAZN 3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV Deportes", DAZN 3
-http://cincotv.org:25461/andres1403/pacheco1405/69250
-
-DAZN 4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s" group-title="TV Deportes", DAZN 4
-http://uberly.top:8080/1234567/1234567/25125
 
 ESPN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="TV Deportes", ESPN
