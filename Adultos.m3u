@@ -70,6 +70,8 @@ A&E
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/757/283/png-clipart-a-e-networks-television-channel-television-show-others-television-blue-thumbnail.png" group-title="TV CINE", A&E
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235757
 
+#EXTINF:-1 tvg-logo="logo.png" group-title="TV PREMIUM",
+
 CINEMAX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="TV CINE", CINEMAX
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235763
@@ -149,6 +151,18 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235799
 DE PELICULA
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="TV CINE", DE PELICULA
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235906
+
+AMC
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK1glS0OYObmzQGdTQK2WXJ5yDPhdzEz2AJA5K4XKFF-IM9tfUQ4NsP6N-B1ExWDjE0NB5DOfQtlkHuofwosyVyp7s6l_qNTy108AOmooqVIYzcH_eKHWzNrJQExBazPgikaWPqnLF4LQWEwnCFN0XBAHk1o6SfJsunT9LrIDOrnfrS56RGe60oWLoNOAT/s320/amc.png" group-title="TV PREMIUM", AMC
+http://cincotv.org:25461/andres1403/pacheco1405/186463
+
+CLOVER CHANNEL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", Clover Channel
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
+
+DHE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="TV PREMIUM", DHE 
+http://cincotv.org:25461/andres1403/pacheco1405/186481
 
 --- TV COLOMBIA ---
 CARACOL TV 
