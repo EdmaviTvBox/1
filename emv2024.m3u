@@ -469,6 +469,10 @@ NICKMUSIC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", Nickmusic
 http://cincotv.org:25461/andres1403/pacheco1405/23878
 
+MELODY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png" group-title="TV Music", MELODY TV
+http://tvone.millenium-ott.com:25443/live/V18JN86waxqBq/nuVcE6EC7T/62227.ts
+
 --- TV Religion --
 
 TV Familia
