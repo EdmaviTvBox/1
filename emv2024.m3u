@@ -53,7 +53,7 @@ TNT
 http://cincotv.org:25461/andres1403/pacheco1405/186477
 
 TNT SERIES
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="TV CINE Y SERIES", STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TV CINE Y SERIES", STAR CHANNEL
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/279699
 
 WARNER CHANNEL
@@ -297,7 +297,7 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244217
 
 NICK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TV Infantil", Nick 
-http://clubtv.link/27Mm/key4513/lista1.php?c=a023&token=tecnotvGeneradorTV&f=.m3u8
+http://uberly.top:8080/1234567/1234567/5721
 
 ZAZ TV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Infantil", ZAZ TV
@@ -438,25 +438,23 @@ http://cincotv.org:25461/andres1403/pacheco1405/110832
 
 --- TV Novelas --
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="TV Novelas", Kanal D Drama HD
-http://clubtv.link/27Mm/key4513/lista1.php?c=a03c&token=tecnotvGeneradorTV&f=.m3u8
+KANAL D DRAMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="TV Novelas", KANAL D DRAMA
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92548
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="TV Novelas", Telenovelas
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0ct&token=tecnotvGeneradorTV&f=.m3u8
+TLNOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="TV Novelas", TLNOVELAS
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22381
 
 --- TV Music --
 
 MTV LIVE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", MTV Live
-http://clubtv.link/27Mm/key4513/lista1.php?c=a02t&token=tecnotvGeneradorTV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", MTV LIVE
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92652
 
-STINGRAY CONCERTS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/2560px-Stingray_Concerts.svg.png" group-title="TV Music", Stingray Concerts
-http://clubtv.link/27Mm/key4513/lista1.php?c=a03u&token=tecnotvGeneradorTV&f=.m3u8
-
-TELEHIT MUSIC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="TV Music", Telehit Musica
-http://clubtv.link/27Mm/key4513/lista1.php?c=a0bu&token=tecnotvGeneradorTV&f=.m3u8
+TELEHIT MUSICA PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="TV Music", TELEHIT MUSICA PLUS
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/305360
 
 NICKMUSIC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", Nickmusic
@@ -464,79 +462,24 @@ http://cincotv.org:25461/andres1403/pacheco1405/23878
 
 --- TV Religion --
 
+TV Familia
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="TV Religion", TV Familia -HD-
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2051236249.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/EWTN-Deutsch-Live-TV-Online.png" group-title="TV Religion", EWTN España -HD-
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
-
+3abn -HD-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/3ABN_2011_stacked.svg/revision/latest/scale-to-width-down/250?cb=20230917194627" group-title="TV Religion", 3abn -HD-
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/HQs/chunklist.m3u8
 
+Maria Vision -HD-
 #EXTINF:-1 tvg-logo="https://fondify-media.s3.amazonaws.com/organizations/logos/2020-05-23/picture_XtDtOFq.png" group-title="TV Religion", Maria Vision -HD-
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
+Canal Luz -HD-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Capture_2018-08-07-15-48-46.png/revision/latest?cb=20180807185050" group-title="TV Religion", Canal Luz -HD-
 https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2oY9zJjt5AWf3BI4Mtv0do1LQqM2dgFlvvdeuYvNPeJ7jUyDRcRchtgrXfGI8QENqVM7VrnOwfo=s900-c-k-c0x00ffffff-no-rj" group-title="TV Religion", Aliento Vision -HD-
-https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist_w765584052.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV Religion", Sophia TV -HD-
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
 --- TV 24/7 --
-
-CASO CERRADO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HG4yScF/Sin-t-tulo-2.png" group-title=" group-title="TV 24/7", CASO CERRADO
-http://cincotv.org:25461/andres1403/pacheco1405/25636
-
-CINE MARVEL STUDIO
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV 24/7", Cine Marvel Studio
-http://cincotv.org:25461/andres1403/pacheco1405/24495
-
-CINE MARVEL ANIMADO
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV 24/7", Cine Marvel Animado
-http://cincotv.org:25461/andres1403/pacheco1405/24496
-
-CHESPIRITO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zPtzGV0/chespirito.png" group-title="TV 24/7", Chespirito
-http://cincotv.org:25461/andres1403/pacheco1405/25154
-
-PAW PATROL
-#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="TV 24/7", Paw Patrol
-http://cincotv.org:25461/andres1403/pacheco1405/25155
-
-2 PERROS TONTOS
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hg3yhz8/pngwing-com-3.png" group-title="TV 24/7", 2 Perros Tontos
-http://cincotv.org:25461/andres1403/pacheco1405/25156
-
-EL PAJARO LOCO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X7k2bsj/PAJARO.png" group-title="TV 24/7", El Pajaro Loco
-http://cincotv.org:25461/andres1403/pacheco1405/25158
-
-LA FAMILIA MONSTER
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1NCJwW/MONSTER.png" group-title="TV 24/7", La Familia Monster
-http://cincotv.org:25461/andres1403/pacheco1405/25159
-
-LOS SUPER CAMPEONES
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hVZ2mFf/SUPER-CAMPEONES.jpg" group-title="TV 24/7", Los Super Campeones
-http://cincotv.org:25461/andres1403/pacheco1405/25160
-
-LA CASA DE MICKEY MOUSE
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wKkHdLw/Nice-Png-mickey-mouse-logo-png-478826.png" group-title="TV 24/7", La Casa de Mickey Mouse
-http://cincotv.org:25461/andres1403/pacheco1405/23964
-
-ALF
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV 24/7", Alf
-http://cincotv.org:25461/andres1403/pacheco1405/23940
-
-MALCOLM EL DEL MEDIO
-#EXTINF:-1 tvg-logo="https://images5.alphacoders.com/407/thumb-1920-407425.png" group-title="TV 24/7", Malcolm el del Medio
-http://cincotv.org:25461/andres1403/pacheco1405/23974
-
-SCOOBY DOO
-#EXTINF:-1 tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/ScoobyDooMystery_icon.png" group-title="TV 24/7", Scooby Doo
-http://cincotv.org:25461/andres1403/pacheco1405/23854
-
 
