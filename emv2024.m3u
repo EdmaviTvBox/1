@@ -1,6 +1,6 @@
 #EXTM3U
 
---- Televisión EVENTOS ---
+--- TV EVENTOS ---
 DAZN
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6s1qKcs0wnSCLM9sbMYPZ0Xre2k4Df8gzzu_Wvr4yb9yozvalVcnhgFYiWKYoVxl9u64&usqp=CAU" group-title="TV EVENTOS", DAZN 1 
 http://cincotv.org:25461/andres1403/pacheco1405/96927
@@ -21,7 +21,7 @@ UFC
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV EVENTOS", UFC
 http://cincotv.org:25461/andres1403/pacheco1405/25184
 
---- Televisión CINE Y SERIES ---
+--- TV CINE Y SERIES ---
 #EXTINF:-1 tvg-logo="logo.png" group-title="TV CINE Y SERIES",
 
 SONY CHANNEL
@@ -159,82 +159,82 @@ SUNDANCE
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM", Sundance
 http://cincotv.org:25461/andres1403/pacheco1405/25196
 
---- Televisión Deportes ---
+--- TV SPORTS ---
 
 Win Sports+
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV Deportes", Win Sports+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV SPORTS", Win Sports+
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/23219
 
 DIRECTV SPORTS 2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/800px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="TV Deportes", DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/800px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="TV SPORTS", DIRECTV SPORTS 2
 http://cincotv.org:25461/andres1403/pacheco1405/92580
 
 DIRECTV SPORTS +
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/250?cb=20200706230244&path-prefix=es" group-title="TV Deportes", DIRECTV SPORTS +
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/250?cb=20200706230244&path-prefix=es" group-title="TV SPORTS", DIRECTV SPORTS +
 http://cincotv.org:25461/andres1403/pacheco1405/92583
 
 AZTECA DEPORTES
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="TV Deportes", AZTECA DEPORTES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="TV SPORTS", AZTECA DEPORTES
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92694
 
 AFIZZIONADOS HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="TV Deportes", AFIZZIONADOS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="TV SPORTS", AFIZZIONADOS HD
 http://cincotv.org:25461/andres1403/pacheco1405/92567
 
 BEIN SPORTS XTRA Ñ
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/096E3675-4280-46E8-A2F2-410E841190A2/3-1x1.png/900" group-title="TV Deportes", BEIN SPORTS XTRA Ñ
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/096E3675-4280-46E8-A2F2-410E841190A2/3-1x1.png/900" group-title="TV SPORTS", BEIN SPORTS XTRA Ñ
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/90048
 
 COMBATE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="TV Deportes", COMBATE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="TV SPORTS", COMBATE
 http://cincotv.org:25461/andres1403/pacheco1405/92574
 
 CLARO SPORTS
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="TV Deportes", CLARO SPORTS
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="TV SPORTS", CLARO SPORTS
 http://cincotv.org:25461/andres1403/pacheco1405/92573
 
 CLARO SPORTS 2
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tRBkZ5Vcc2_LbW-uiXpbryuB3n4bQr0VFKZBLIG-X_elnBBZZE6vyDWXJiZ5S2VCdD8agG900YLfYJtNYccdA70erVBHFgjFHlXJsnSI1UAu57qRGOk-U72BmNgS6LehGa5ls6BWTYH0QzVbRetiVnsrB4mmBMCZc0fu2oKZEBEW076JSKNBlC9y9bcV/s1600/images-removebg-preview.png" group-title="TV Deportes", CLARO SPORTS 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tRBkZ5Vcc2_LbW-uiXpbryuB3n4bQr0VFKZBLIG-X_elnBBZZE6vyDWXJiZ5S2VCdD8agG900YLfYJtNYccdA70erVBHFgjFHlXJsnSI1UAu57qRGOk-U72BmNgS6LehGa5ls6BWTYH0QzVbRetiVnsrB4mmBMCZc0fu2oKZEBEW076JSKNBlC9y9bcV/s1600/images-removebg-preview.png" group-title="TV SPORTS", CLARO SPORTS 2
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92529
 
 ESPN
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="TV Deportes", ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="TV SPORTS", ESPN
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92722
 
 ESPN 2
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/300?cb=20130819193813" group-title="TV Deportes", ESPN 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/300?cb=20130819193813" group-title="TV SPORTS", ESPN 2
 http://cincotv.org:25461/andres1403/pacheco1405/92592
 
 ESPN 3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV Deportes", ESPN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV SPORTS", ESPN 3
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22109
 
 ESPN 4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TV Deportes", ESPN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TV SPORTS", ESPN 4
 http://cincotv.org:25461/andres1403/pacheco1405/92604
 
 ESPN DEPORTES
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="TV Deportes", ESPN DEPORTES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="TV SPORTS", ESPN DEPORTES
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22591
 
 ESPN NEWS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="TV Deportes", ESPN NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="TV SPORTS", ESPN NEWS
 http://cincotv.org:25461/andres1403/pacheco1405/92602
 
 ESPN PREMIUN
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="TV Deportes", ESPN PREMIUN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="TV SPORTS", ESPN PREMIUN
 http://cincotv.org:25461/andres1403/pacheco1405/89731
 
 FOX SPORTS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="TV Deportes", FOX SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="TV SPORTS", FOX SPORTS
 http://cincotv.org:25461/andres1403/pacheco1405/92610
 
 FOX SPORTS 2 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="TV Deportes", FOX SPORTS 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="TV SPORTS", FOX SPORTS 2 
 http://cincotv.org:25461/andres1403/pacheco1405/92614
 
 FOX SPORTS 3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="TV Deportes", FOX SPORTS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="TV SPORTS", FOX SPORTS 3
 http://cincotv.org:25461/andres1403/pacheco1405/92618
 
 
@@ -301,90 +301,88 @@ ANIMAL PLANET HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL", ANIMAL PLANET HD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244217
 
---- Televisión Infantil ---
-#EXTINF:-1 tvg-logo="logo.png" group-title="TV Infantil", 
-
+--- Televisión KIDS ---
 NICK
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TV Infantil", Nick 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TV KIDS", Nick 
 http://uberly.top:8080/1234567/1234567/5721
 
 ZAZ TV
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV Infantil", ZAZ TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV KIDS", ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 BOING KIDS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV Infantil", Boing Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV KIDS", Boing Kids
 http://cincotv.org:25461/andres1403/pacheco1405/23857
 
 BABY TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="TV Infantil", Baby TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="TV KIDS", Baby TV
 http://cincotv.org:25461/andres1403/pacheco1405/26346
 
 --- Televisión Variedades ---
 #EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades",
 
 EL GOURMET HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="TV CULTURA", EL GOURMET HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="TV VARIEDADES", EL GOURMET HD
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22277
 
 HOLA TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV CULTURA", HOLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV VARIEDADES", HOLA TV
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235613
 
 ESTRELLA TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV Variedades",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV VARIEDADES", ESTRELLA TV
 http://cincotv.org:25461/andres1403/pacheco1405/23729
 
 NBC UNIVERSO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV Variedades", NBC Universo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV VARIEDADES", NBC UNIVERSO
 http://cincotv.org:25461/andres1403/pacheco1405/23730
 
 SUN CHANNEL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="TV Variedades", SUN CHANNEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="TV VARIEDADES", SUN CHANNEL 
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/91860
 
 MEGA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="TV Variedades", Mega
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="TV VARIEDADES", MEGA
 http://cincotv.org:25461/andres1403/pacheco1405/186849
 
 MAS CHIC
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3Mu2UVM0Bw4rGcFF1i1RecJIZkTKqYBf2g&s" group-title="TV Variedades", MAS CHIC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3Mu2UVM0Bw4rGcFF1i1RecJIZkTKqYBf2g&s" group-title="TV VARIEDADES", MAS CHIC
 http://cincotv.org:25461/andres1403/pacheco1405/186781
 
 E!
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="TV Variedades", E! 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="TV VARIEDADES", E! 
 http://cincotv.org:25461/andres1403/pacheco1405/170735
 
 COMEDY CENTRAL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="TV Variedades", Comedy Central
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="TV VARIEDADES", COMEDY CENTRAL
 http://cincotv.org:25461/andres1403/pacheco1405/186432
 
 CHV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chilevision_NoEffect.svg/2066px-Chilevision_NoEffect.svg.png" group-title="TV Variedades", CHV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chilevision_NoEffect.svg/2066px-Chilevision_NoEffect.svg.png" group-title="TV VARIEDADES", CHV
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311747
 
 CINEMA +
-#EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV Variedades", CINEMA +
+#EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV VARIEDADES", CINEMA +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
 RETROX TV
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV Variedades", RETROX TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV VARIEDADES", RETROX TV
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
 CINERAMA TV
-#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="TV Variedades", CINERAMA TV
+#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="TV VARIEDADES", CINERAMA TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1775902226.m3u8
 
 GEN TV
-#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/fb/9e/5d5912ff9bd6879166e80b9f115b-lec.jpg?x-oss-process=style/hq" group-title="TV Variedades", GEN TV
+#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/fb/9e/5d5912ff9bd6879166e80b9f115b-lec.jpg?x-oss-process=style/hq" group-title="TV VARIEDADES", GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 WOW TV
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV Variedades", Wow TV
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV VARIEDADES", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w530986241_b2000000_slen.m3u8
 
 TELECLASICA
-#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="TV Variedades", TELECLASICA
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="TV VARIEDADES", TELECLASICA
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
 
 --- Televisión Colombia ---
@@ -398,7 +396,7 @@ CARACOL INTERNACIONAL
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92847
 
 CARACOL SD
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInAe7G_MVgcUrq3q4DSlk4xhkglk4lEt2p52RHGh8T7OzV3lfLqXWXJbfFE5wV7isMcrzbmgwtTdkQNvNRQ4lBrCDZplWqvFUTUQR5MBKpSl486WeCgULKHGnowUAlotR43CxulLxAoehyUYhSqn55cVuC2izw1Op1uQIUiWL9-Ye-gk3jVJScSxKOn5I/s320/Caracol%202010.png" group-title="TV Colombia", Canal Caracol -SD-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInAe7G_MVgcUrq3q4DSlk4xhkglk4lEt2p52RHGh8T7OzV3lfLqXWXJbfFE5wV7isMcrzbmgwtTdkQNvNRQ4lBrCDZplWqvFUTUQR5MBKpSl486WeCgULKHGnowUAlotR43CxulLxAoehyUYhSqn55cVuC2izw1Op1uQIUiWL9-Ye-gk3jVJScSxKOn5I/s320/Caracol%202010.png" group-title="TV COLOMBIA", Canal Caracol -SD-
 https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/fc68c0d8-ed79-4caf-8ab9-d255b37b021f/0.m3u8
 
 RCN HD
@@ -410,35 +408,35 @@ WIN SPORTS +
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/34697
 
 CNC MEDELLIN
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSVoe5KyleJ9w1Y3ua_NQwtP53F3q4-oUhkYajM-sfwzYBnQ55bz-Du3SZtTnw2igP8XXfQZK9gEW1i9RBBTBhTJwmStzmNfSBw-VCFLXSseALPMgIE0YuBsayQRnvnJENc5344jGNaE0eAvtrFM-SCsUo713f3cDigxwqhkRsq_ecAig69_pMOR0e6lL/s1600/canal%20cnc%20medellin%20act.png" group-title="TV Colombia", CNC -HD-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSVoe5KyleJ9w1Y3ua_NQwtP53F3q4-oUhkYajM-sfwzYBnQ55bz-Du3SZtTnw2igP8XXfQZK9gEW1i9RBBTBhTJwmStzmNfSBw-VCFLXSseALPMgIE0YuBsayQRnvnJENc5344jGNaE0eAvtrFM-SCsUo713f3cDigxwqhkRsq_ecAig69_pMOR0e6lL/s1600/canal%20cnc%20medellin%20act.png" group-title="TV COLOMBIA", CNC -HD-
 https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/tracks-v1a1/mono.m3u8   
 
 CANAL UNO
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4B5xwB-ssTcAYywhUApFZqZWJa2UMzgZku2U72lDRMTfuNLVVZUUZHEVfNFEiS8JgBcY-nAQzNoT0CSzX_-rRhjisNgmYGd-uVBbelrWEcHC97DUDSn7G7eOao8pjk0ioXnk4WXkmezurdAmurRIvMxnC3vBDTf3eoL9gExaCDrA6TUOg6f1PvnGrnR1M/s320/canal%201%20act%20HD.png"TV Colombia", Canal Uno -HD-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4B5xwB-ssTcAYywhUApFZqZWJa2UMzgZku2U72lDRMTfuNLVVZUUZHEVfNFEiS8JgBcY-nAQzNoT0CSzX_-rRhjisNgmYGd-uVBbelrWEcHC97DUDSn7G7eOao8pjk0ioXnk4WXkmezurdAmurRIvMxnC3vBDTf3eoL9gExaCDrA6TUOg6f1PvnGrnR1M/s320/canal%201%20act%20HD.png"TV COLOMBIA", Canal Uno -HD-
 https://ssh101-fl.bozztv.com/ssh101/unocoltvhd/tracks-v1a1/mono.m3u8
 
 SENAL COLOMBIA
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOq0RutLZlC0Oc6Qk-oZYLbi5OwHvm4YxduiCo5OvhX2BzEIpLrqUE1cwENEy9n0uskY5xbgbXfbMtDnzKQDgCKCX1zcXLA11OKW_FAZ3fIOQ6Ce6-e4XG9tD1-fC_Uvizh0AYBVNsYQ4WzQ_uMasUF-m8DjoAXu8Iec7ZvcDdIhnsgCUP6mHklBH_Xo6X/s320/Semal%20colombia%20act.png" group-title="TV Colombia", Señal Colombia -HD-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOq0RutLZlC0Oc6Qk-oZYLbi5OwHvm4YxduiCo5OvhX2BzEIpLrqUE1cwENEy9n0uskY5xbgbXfbMtDnzKQDgCKCX1zcXLA11OKW_FAZ3fIOQ6Ce6-e4XG9tD1-fC_Uvizh0AYBVNsYQ4WzQ_uMasUF-m8DjoAXu8Iec7ZvcDdIhnsgCUP6mHklBH_Xo6X/s320/Semal%20colombia%20act.png" group-title="TV COLOMBIA", Señal Colombia -HD-
 https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/chunklist.m3u8
 
 CANAL INSTITUCIONAL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizIgHzwPTBt9E6Y-stb7XHbU9DiGxgPiT4Ab2-RL1JILBCEVpRXZtHiXVL_9bEMDve5eY2Z58Yh0YIycQZQZ4LmsqvVMJKepzKwqL2MeL8eBKUoTOLYLuGteDvpHgbWWtCa6-UqglY9cIS9ux9ZCqWdvScEvTndQuQlRzk8YE3gzQlPsvva-Om3lULeJFb/s1600/Canal%20Institucional%20act%20Red.png" group-title="TV Colombia", Canal Institucional -HD-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizIgHzwPTBt9E6Y-stb7XHbU9DiGxgPiT4Ab2-RL1JILBCEVpRXZtHiXVL_9bEMDve5eY2Z58Yh0YIycQZQZ4LmsqvVMJKepzKwqL2MeL8eBKUoTOLYLuGteDvpHgbWWtCa6-UqglY9cIS9ux9ZCqWdvScEvTndQuQlRzk8YE3gzQlPsvva-Om3lULeJFb/s1600/Canal%20Institucional%20act%20Red.png" group-title="TV COLOMBIA", Canal Institucional -HD-
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
 TELEPACIFICO
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge7UPYDXShcvC7W39Z7rpjLeOxoZV-gaDh2DOQv9HeASHC5iHhWXHypNhh4p4k-jpMDoOYvrS3d6WVawQsdWtlN9QkJ7AvXFr7Eu9Iwnz7Yj0mA1Wz_-iu0bRfrWAHZONjTAKKpDb9nY82xxWI4kKXUnoNJb4-V18SiANMMsSoliKLpjJ2Pvoh4Jp7m_RF/s320/Telepac%C3%ADfico%20act.png" group-title="TV Colombia", Telepacifico -HD-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge7UPYDXShcvC7W39Z7rpjLeOxoZV-gaDh2DOQv9HeASHC5iHhWXHypNhh4p4k-jpMDoOYvrS3d6WVawQsdWtlN9QkJ7AvXFr7Eu9Iwnz7Yj0mA1Wz_-iu0bRfrWAHZONjTAKKpDb9nY82xxWI4kKXUnoNJb4-V18SiANMMsSoliKLpjJ2Pvoh4Jp7m_RF/s320/Telepac%C3%ADfico%20act.png" group-title="TV COLOMBIA", Telepacifico -HD-
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
 
 TRECE
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgmhglcjI_-3_5ff9eI_i64p4Z5pY_AQA-MhHYYMhjGhcz_ZCEtDF9ywFbUkcOPuobU17GDkhUiU859y8tMQ3kV6E-QIbi5RvybDXZVWbxz_SJKqGLJjxCW8JqMi9wJ6X5thnh-Q9XiXi6HSm0pQ6S-3k1lFUYDd8DOnRcxHRQ5uRgEuB2dwZLc8JPVii/s320/Canal_13_HD.png" group-title="TV Colombia", TRECE
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgmhglcjI_-3_5ff9eI_i64p4Z5pY_AQA-MhHYYMhjGhcz_ZCEtDF9ywFbUkcOPuobU17GDkhUiU859y8tMQ3kV6E-QIbi5RvybDXZVWbxz_SJKqGLJjxCW8JqMi9wJ6X5thnh-Q9XiXi6HSm0pQ6S-3k1lFUYDd8DOnRcxHRQ5uRgEuB2dwZLc8JPVii/s320/Canal_13_HD.png" group-title="TV COLOMBIA", TRECE
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22441
 
 CALI TV
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir3jSwobe_CVdoC-DMWETptXkbPHPhzL3KJmvngCIVadHrc_18kCa2bWjOTuq6mpNZ-LCyCLav8Zyp4WduIbGij-bx3jzjr6HRSQPY8jy3KoQA5G6zMKtwwCHhdBe7T12fHj-hsTHl4ikUkn2TLwXI44Fg0mVU3lkgpakDOQftpnJnjWWaETSsGB_lsxr1/s320/Cali%20TV.png", Cali TV -HD-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir3jSwobe_CVdoC-DMWETptXkbPHPhzL3KJmvngCIVadHrc_18kCa2bWjOTuq6mpNZ-LCyCLav8Zyp4WduIbGij-bx3jzjr6HRSQPY8jy3KoQA5G6zMKtwwCHhdBe7T12fHj-hsTHl4ikUkn2TLwXI44Fg0mVU3lkgpakDOQftpnJnjWWaETSsGB_lsxr1/s320/Cali%20TV.png" group-title="TV COLOMBIA", CALI TV
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w922965213_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVdiVElMeEJ0RG92MmdOMVQ2MUZoNEdsT21KeEhMWkYwRkNnS2tDY3lhTVE9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?181.143.233.179
 
 CANAL CAPITAL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjlVSvCmt-cjHQzGBdVHNUPP_3NgZqshjDn7Iupnp0t9IoQMWTUrKC0p5AEYaf9lacv7uUMrqdn9U_Nh7PKVMH0R__faICT8YpZIulVVmLqlZlPDUf-f1Porv68qqE27AmLpEve64gMY1oUlH13Gt0D7cD6Kf1KOa4e_2UE5OxRSKsU06D-FPqwpdbxIY/s320/Canal_Capital.png" group-title="TV Colombia", Canal Capital -HD-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjlVSvCmt-cjHQzGBdVHNUPP_3NgZqshjDn7Iupnp0t9IoQMWTUrKC0p5AEYaf9lacv7uUMrqdn9U_Nh7PKVMH0R__faICT8YpZIulVVmLqlZlPDUf-f1Porv68qqE27AmLpEve64gMY1oUlH13Gt0D7cD6Kf1KOa4e_2UE5OxRSKsU06D-FPqwpdbxIY/s320/Canal_Capital.png" group-title="TV COLOMBIA", CANAL CAPITAL
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92720
 
 RCN XTRA
@@ -448,50 +446,54 @@ http://cincotv.org:25461/andres1403/pacheco1405/110832
 --- TV Novelas --
 
 KANAL D DRAMA
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="TV Novelas", KANAL D DRAMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="TV NOVELAS", KANAL D DRAMA
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92548
 
 TLNOVELAS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="TV Novelas", TLNOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="TV NOVELAS", TLNOVELAS
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22381
 
 --- TV Music --
 
 MTV LIVE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", MTV LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV MUSIC", MTV LIVE
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92652
 
 TELEHIT MUSICA PLUS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="TV Music", TELEHIT MUSICA PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="TV MUSIC", TELEHIT MUSICA PLUS
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/305360
 
 NICKMUSIC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV Music", Nickmusic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV MUSIC", Nickmusic
 http://cincotv.org:25461/andres1403/pacheco1405/23878
 
 MELODY TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png" group-title="TV Music", MELODY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png" group-title="TV MUSIC", MELODY TV
 http://tvone.millenium-ott.com:25443/live/V18JN86waxqBq/nuVcE6EC7T/62227.ts
+
+RETRO PLUS
+#EXTINF:-1 tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1716064581" group-title="TV MUSIC", RETRO PLUS
+http://iptvtree.net:8080/F14957/6040a3f9/286285
 
 --- TV Religion --
 
 TV Familia
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="TV Religion", TV Familia -HD-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="TV RELIGION", TV Familia -HD-
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2051236249.m3u8
 
 3abn -HD-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/3ABN_2011_stacked.svg/revision/latest/scale-to-width-down/250?cb=20230917194627" group-title="TV Religion", 3abn -HD-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/3ABN_2011_stacked.svg/revision/latest/scale-to-width-down/250?cb=20230917194627" group-title="TV RELIGION", 3abn -HD-
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/HQs/chunklist.m3u8
 
 Maria Vision -HD-
-#EXTINF:-1 tvg-logo="https://fondify-media.s3.amazonaws.com/organizations/logos/2020-05-23/picture_XtDtOFq.png" group-title="TV Religion", Maria Vision -HD-
+#EXTINF:-1 tvg-logo="https://fondify-media.s3.amazonaws.com/organizations/logos/2020-05-23/picture_XtDtOFq.png" group-title="TV RELIGION", Maria Vision -HD-
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
 Canal Luz -HD-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Capture_2018-08-07-15-48-46.png/revision/latest?cb=20180807185050" group-title="TV Religion", Canal Luz -HD-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Capture_2018-08-07-15-48-46.png/revision/latest?cb=20180807185050" group-title="TV RELIGION", Canal Luz -HD-
 https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV Religion", Sophia TV -HD-
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV RELIGION", Sophia TV -HD-
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
 --- TV 24/7 --
