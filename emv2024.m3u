@@ -302,10 +302,9 @@ ANIMAL PLANET HD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244217
 
 --- TV KIDS ---
-NICK
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TV KIDS", Nick 
-http://uberly.top:8080/1234567/1234567/5721
-
+NICK JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="TV KIDS", NICK JR
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/262381
 ZAZ TV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV KIDS", ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
@@ -500,5 +499,29 @@ https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/cana
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV RELIGION", Sophia TV -HD-
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
---- TV 24/7 --
-
+--- TV CINEMA --
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/63810
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Ciencia Ficcion HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Ciencia Ficcion HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/63825
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Extraterrestres HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Extraterrestres HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/56288
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema La India Maria HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema La India Maria HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/63094
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Momias HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Momias HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/56290
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Pedro Infante" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Pedro Infante
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/23247
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Wéstern HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Wéstern HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/65215
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/90087
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Artes Marciales HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Artes Marciales HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/68300
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Bélico HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Bélico HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/64893
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Brujas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Brujas HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/56291
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Biográficas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Biográficas HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/65216
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Comedia HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Comedia HD
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/63826
