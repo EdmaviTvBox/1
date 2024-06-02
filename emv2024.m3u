@@ -453,6 +453,10 @@ TLNOVELAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="TV NOVELAS", TLNOVELAS
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/314751
 
+RCN NOVELAS
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1157_2_28591.png.d8190161e8e838b464ad4a551435fce2.png" group-title="TV NOVELAS", RCN NOVELAS
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/236256
+
 --- TV Music --
 
 MTV LIVE
