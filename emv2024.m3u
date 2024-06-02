@@ -301,7 +301,7 @@ ANIMAL PLANET HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL", ANIMAL PLANET HD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244217
 
---- Televisión KIDS ---
+--- TV KIDS ---
 NICK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="TV KIDS", Nick 
 http://uberly.top:8080/1234567/1234567/5721
@@ -443,15 +443,15 @@ RCN XTRA
 #EXTINF:-1 tvg-logo="https://rcn-images.ercdn.net//content/v/Vr/2128/Logo.png?v=638240718056256153" group-title="TV COLOMBIA", RCN XTRA
 http://cincotv.org:25461/andres1403/pacheco1405/110832
 
---- TV Novelas --
+--- TV NOVELAS --
 
 KANAL D DRAMA
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="TV NOVELAS", KANAL D DRAMA
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92548
+http://cincotv.org:25461/andres1403/pacheco1405/66150
 
 TLNOVELAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="TV NOVELAS", TLNOVELAS
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22381
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/314751
 
 --- TV Music --
 
