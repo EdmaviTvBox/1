@@ -239,19 +239,11 @@ http://cincotv.org:25461/andres1403/pacheco1405/92618
 
 
 --- Televisión DOCUMENTAL Y CULTURAL ---
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV eeeeeee", 
+#EXTINF:-1 tvg-logo="Logo PNG" group-title="DOCUMENTAL Y CULTURAL", 
 
 LOVE NATURE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="DOCUMENTAL Y CULTURAL", LOVE NATURE
 http://cincotv.org:25461/andres1403/pacheco1405/173274
-
-HISTORY CHANNEL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="DOCUMENTAL Y CULTURAL", HISTORY CHANNEL
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235599
-
-HISTORY 2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="DOCUMENTAL Y CULTURAL", HISTORY 2
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/305371
 
 DISCOVERY CHANNEL FHD
 #EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2009/08/22/DSC_D_pos.png" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY CHANNEL 
@@ -292,6 +284,14 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/22286
 NAT GEO  WILD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTAL Y CULTURAL", NAT GEO WILD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/311562
+
+HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="DOCUMENTAL Y CULTURAL", HISTORY CHANNEL
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235599
+
+HISTORY 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="DOCUMENTAL Y CULTURAL", HISTORY 2
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/305371
 
 LIFETIME
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="DOCUMENTAL Y CULTURAL", LIFETIME
