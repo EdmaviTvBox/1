@@ -2,7 +2,7 @@
 
 --- TV EVENTOS ---
 DAZN
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6s1qKcs0wnSCLM9sbMYPZ0Xre2k4Df8gzzu_Wvr4yb9yozvalVcnhgFYiWKYoVxl9u64&usqp=CAU" group-title="TV EVENTOS", DAZN 1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png" group-title="TV EVENTOS", DAZN 1 
 http://cincotv.org:25461/andres1403/pacheco1405/96927
 
 DAZN 2
@@ -14,11 +14,11 @@ DAZN 3
 http://cincotv.org:25461/andres1403/pacheco1405/69249
 
 DAZN 4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfG_obVAL58JVH3hWlek_n5Ck0FUI71LtLuA&s" group-title="TV EVENTOS", DAZN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/2560px-DAZN_LaLiga_2023_Logo.svg.png" group-title="TV EVENTOS", DAZN 4
 http://cincotv.org:25461/andres1403/pacheco1405/41819
 
 UFC
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV EVENTOS", UFC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="TV EVENTOS", UFC
 http://cincotv.org:25461/andres1403/pacheco1405/25184
 
 --- TV CINE Y SERIES ---
@@ -29,7 +29,7 @@ SONY CHANNEL
 http://cincotv.org:25461/andres1403/pacheco1405/186456
 
 CINECANAL
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Cinecanal_1997.png/revision/latest/scale-to-width-down/250?cb=20191214225628&path-prefix=es" group-title="TV CINE Y SERIES", CINECANAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cinecanal_1995.png/640px-Cinecanal_1995.png" group-title="TV CINE Y SERIES", CINECANAL
 http://cincotv.org:25461/andres1403/pacheco1405/186454
 
 SPACE 
@@ -37,7 +37,7 @@ SPACE
 http://cincotv.org:25461/andres1403/pacheco1405/186453
 
 AMC
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK1glS0OYObmzQGdTQK2WXJ5yDPhdzEz2AJA5K4XKFF-IM9tfUQ4NsP6N-B1ExWDjE0NB5DOfQtlkHuofwosyVyp7s6l_qNTy108AOmooqVIYzcH_eKHWzNrJQExBazPgikaWPqnLF4LQWEwnCFN0XBAHk1o6SfJsunT9LrIDOrnfrS56RGe60oWLoNOAT/s320/amc.png" group-title="TV CINE Y SERIES", AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TV CINE Y SERIES", AMC
 http://cincotv.org:25461/andres1403/pacheco1405/186463
 
 PARAMOUNT CHANNEL
@@ -49,7 +49,7 @@ STAR CHANNEL
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235788
 
 TNT
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/TNT_2016_%28Red_2%29.svg/revision/latest/scale-to-width-down/250?cb=20170609121017" group-title="TV CINE Y SERIES", TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TNT-oficial.png/800px-TNT-oficial.png" group-title="TV CINE Y SERIES", TNT
 http://cincotv.org:25461/andres1403/pacheco1405/186477
 
 TNT SERIES
@@ -57,11 +57,11 @@ TNT SERIES
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/279699
 
 WARNER CHANNEL
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/de97dye-ef010453-5659-4dee-ab93-d5dc5d7d7912.png/v1/fill/w_1280,h_1156/logotipo_de_warner_channel_que_se_parece_a_mi_logo_by_wbblackofficial_de97dye-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1NiIsInBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGU5N2R5ZS1lZjAxMDQ1My01NjU5LTRkZWUtYWI5My1kNWRjNWQ3ZDc5MTIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Y-vW6AM66xlvyhK08QyNL5OhMPODeS9zfPL7rtGMUug" group-title="TV CINE Y SERIES", WARNER CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="TV CINE Y SERIES", WARNER CHANNEL
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235799
 
 A&E
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r931PAXKpX3V7pJrok0Mhht4nGVl61F_jmsroCylidgz54Z8tkMrsCff5MTGxhEUvAuHCUbKbLT3bZMpTBTaSg1EWJ3e-aGKCx5YaoHo-grYeCAbg41J_wW-wUhXRCRzE-kdHEbuQkML3mT-qAJPxEhZjAJXpXP6SpydO-2Tok6WQNzNnAF_lLTHzg2l/s320/AE.png" group-title="TV CINE Y SERIES", A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="TV CINE Y SERIES", A&E
 http://cincotv.org:25461/andres1403/pacheco1405/186462
 
 CINEMAX
