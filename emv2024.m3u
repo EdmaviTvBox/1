@@ -25,7 +25,7 @@ http://cincotv.org:25461/andres1403/pacheco1405/25184
 #EXTINF:-1 tvg-logo="logo.png" group-title="TV CINE Y SERIES",
 
 SONY CHANNEL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV CINE Y SERIES",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV CINE Y SERIES", SONY CHANNEL
 http://cincotv.org:25461/andres1403/pacheco1405/186456
 
 CINECANAL
@@ -101,7 +101,7 @@ http://cincotv.org:25461/andres1403/pacheco1405/186496
 
 STUDIO UNIVERSAL HD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Studio_Universal_2010.svg/revision/latest/scale-to-width-down/300?cb=20200323005448&path-prefix=es" group-title="TV PREMIUM",STUDIO UNIVERSAL HD 
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/266239
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/279697
 
 UNIVERSAL COMEDY
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="TV PREMIUM", UNIVERSAL COMEDY
@@ -117,7 +117,7 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92622
 
 UNIVERSAL CRIME
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png" group-title="TV PREMIUM", UNIVERSAL CRIME
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92622
+http://cincotv.org:25461/andres1403/pacheco1405/186487
 
 UNIVERSAL CHANNEL FHD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV PREMIUM", UNIVERSAL CHANNEL 
@@ -144,7 +144,7 @@ GOLDEN PLUS HD
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235842
 
 CLOVER CHANNEL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", Clover Channel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", CLOVER CHANNEL
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
 
 DHE
@@ -156,14 +156,14 @@ DE PELICULA
 http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235906
 
 SUNDANCE
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM", Sundance
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM", SUNDANCE
 http://cincotv.org:25461/andres1403/pacheco1405/25196
 
 --- TV SPORTS ---
 
-Win Sports+
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV SPORTS", Win Sports+
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/23219
+WIN SPORTS +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV SPORTS", WIN SPORTS +
+http://cincotv.org:25461/andres1403/pacheco1405/92646 
 
 DIRECTV SPORTS 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/800px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="TV SPORTS", DIRECTV SPORTS 2
@@ -267,7 +267,7 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235538
 
 DISCOVERY THEATER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png/revision/latest/scale-to-width-down/250?cb=20201106134933&path-prefix=es" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY THEATER
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235590
+http://iptvtree.net:8080/F14957/6040a3f9/3022
 
 DISCOVERY H&H
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest/scale-to-width-down/210?cb=20190926042803&path-prefix=es" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY H&H
@@ -279,7 +279,7 @@ http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235559
 
 DISCOVERY ID 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY ID -SD-
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/244219
+http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/279662
 
 DISCOVERY TURBO 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY TURBO HD
@@ -336,9 +336,9 @@ NBC UNIVERSO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV VARIEDADES", NBC UNIVERSO
 http://cincotv.org:25461/andres1403/pacheco1405/23730
 
-SUN CHANNEL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="TV VARIEDADES", SUN CHANNEL 
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/91860
+COSMOS TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="TV VARIEDADES", COSMOS TV
+http://iptvtree.net:8080/F14957/6040a3f9/301314
 
 MEGA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="TV VARIEDADES", MEGA
