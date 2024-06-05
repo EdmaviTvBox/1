@@ -54,6 +54,14 @@ PARAMOUNT NETWORK
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", PARAMOUNT NETWORK 
 http://669960195277843412.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843412.ts
 
+SPACE
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", SPACE
+http://669960195277853103.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853103.ts
+
+SONY CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="Latino", SONY CHANNEL
+http://669960195277855485.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855485.ts
+
 --- CULTURAL Y DOCUMENTAL ---
 
 DISCOVERY CHANNEL
@@ -109,6 +117,10 @@ http://669960195277850565.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850565.ts
 CARACOL -COL-
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CARACOL -COL-
 http://669960195277850566.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850566.ts
+
+RCN
+#EXTINF:-1 tvg-logo="" group-title="Latino", RCN
+http://669960195277855482.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855482.ts
 
 TELEFUTURO RD
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TELEFUTURO -RD-
@@ -166,11 +178,27 @@ ESPN 3
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 3 
 http://669960195277845849.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/845849.ts
 
---- DEPORTES ---
+--- CINEMA PPV ---
 
-CINEMA 33 PPV
-#EXTINF:-1 tvg-logo="" group-title="CINEMA PPV", CINEMA 33 PPV 
+CINEMA 28
+#EXTINF:-1 tvg-logo="" group-title="CINEMA PPV", CINEMA 28
+http://669960195277855454.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855454.ts
+
+CINEMA 30
+#EXTINF:-1 tvg-logo="" group-title="CINEMA PPV", CINEMA 30
+http://669960195277850568.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850568.ts
+
+CINEMA 31
+#EXTINF:-1 tvg-logo="" group-title="CINEMA PPV", CINEMA 31
+http://669960195277855455.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855455.ts
+
+CINEMA 33 
+#EXTINF:-1 tvg-logo="" group-title="CINEMA PPV", CINEMA 33  
 http://669960195277858422.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/858422.ts
+
+CINEMA 36
+#EXTINF:-1 tvg-logo="" group-title="CINEMA PPV", CINEMA 36
+http://669960195277855456.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855456.ts
 
 
 
@@ -191,29 +219,14 @@ http://669960195277843410.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843410.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: PASIONES SD" tvg-logo="" group-title="Latino",LA: PASIONES SD
 http://669960195277843413.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843413.ts
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 30 PPV HD" tvg-logo="" group-title="Latino",LA: CINEMA 30 PPV HD
-http://669960195277850568.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850568.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="LA: FORO TV SD" tvg-logo="" group-title="Latino",LA: FORO TV SD
 http://669960195277853102.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853102.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: SPACE FHD" tvg-logo="" group-title="Latino",LA: SPACE FHD
-http://669960195277853103.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853103.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: PAN SER TV 11 SD" tvg-logo="" group-title="Latino",LA: PAN SER TV 11 SD
 http://669960195277853716.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853716.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: EL GARAGE TV SD" tvg-logo="" group-title="Latino",LA: EL GARAGE TV SD
 http://669960195277854604.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/854604.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 28 PPV HD" tvg-logo="" group-title="Latino",LA: CINEMA 28 PPV HD
-http://669960195277855454.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855454.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 31 PPV HD" tvg-logo="" group-title="Latino",LA: CINEMA 31 PPV HD
-http://669960195277855455.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855455.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 36 PPV HD" tvg-logo="" group-title="Latino",LA: CINEMA 36 PPV HD
-http://669960195277855456.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855456.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: ECO TV HEVC" tvg-logo="" group-title="Latino",LA: ECO TV HEVC
 http://669960195277855460.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855460.ts
 
@@ -251,11 +264,9 @@ http://669960195277855479.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855479.ts
 http://669960195277855480.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855480.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: PAN_SER TV CANAL 11 HEVC" tvg-logo="" group-title="Latino",LA: PAN_SER TV CANAL 11 HEVC
 http://669960195277855481.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855481.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: RCN SD" tvg-logo="" group-title="Latino",LA: RCN SD
-http://669960195277855482.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855482.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: SONY HD" tvg-logo="" group-title="Latino",LA: SONY HD
-http://669960195277855485.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855485.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: STAR ACTION SD" tvg-logo="" group-title="Latino",LA: STAR ACTION SD
 http://669960195277855486.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855486.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: STAR CLASSIC HD" tvg-logo="" group-title="Latino",LA: STAR CLASSIC HD
