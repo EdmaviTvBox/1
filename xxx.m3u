@@ -1,87 +1,205 @@
 #EXTM3U
 
---- TV LATINO ---
+--- CINE Y SERIES ---
 
+GOLDEN
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", GOLDEN
+http://669960195277855462.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855462.ts
+
+GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", GOLDEN PREMIER
+http://669960195277855461.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855461.ts
+
+SHOWTIME EAST
+tvg-logo="" group-title="Latino", SHOWTIME EAST
+http://669960195277856820.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/856820.ts
+
+SHOWTIME WEST
+#EXTINF:-1 tvg-logo="" group-title="Latino", SHOWTIME WEST
+http://669960195277856821.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/856821.ts
+
+SHOWTIME BEYOND
+#EXTINF:-1 tvg-logo="" group-title="Latino", SHOWTIME BEYOND
+http://669960195277855484.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855484.ts
+ 
 AXN
-#EXTINF:-1 tvg-logo="" group-title="TV Premium",LA: AXN SD
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", AXN 
 http://669960195277837771.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/837771.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: AMC FHD" tvg-logo="" group-title="Latino",LA: AMC FHD
+AMC 
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", AMC 
 http://669960195277843332.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843332.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: ANIMAL PLANET SD" tvg-logo="" group-title="Latino",LA: ANIMAL PLANET SD
-http://669960195277843333.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843333.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA 7 FHD" tvg-logo="" group-title="Latino",LA: AZTECA 7 FHD
-http://669960195277843334.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843334.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA CORAZON FHD" tvg-logo="" group-title="Latino",LA: AZTECA CORAZON FHD
-http://669960195277843336.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843336.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: BOOMERANG HD" tvg-logo="" group-title="Latino",LA: BOOMERANG HD
-http://669960195277843340.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843340.ts
-#EXTINF:-1 tvg-id="canal11.cr" tvg-name="LA: CANAL 11 SD" tvg-logo="" group-title="Latino",LA: CANAL 11 SD
-http://669960195277843341.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843341.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CANAL 13 SD" tvg-logo="" group-title="Latino",LA: CANAL 13 SD
-http://669960195277843342.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843342.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CARTOON NETWORK HD" tvg-logo="" group-title="Latino",LA: CARTOON NETWORK HD
-http://669960195277843344.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843344.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINE CANAL HD" tvg-logo="" group-title="Latino",LA: CINE CANAL HD
+
+CINE CANAL
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CINE CANAL
 http://669960195277843345.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843345.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMAX HD" tvg-logo="" group-title="Latino",LA: CINEMAX HD
+
+CINEMAX
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CINEMAX
 http://669960195277843355.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843355.ts
+
+CINEMAX EAST
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CINEMAX EAST
+http://669960195277858423.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/858423.ts
+
+5 STARMAX
+#EXTINF:-1 tvg-id="" tvg-name="LA: 5 STARMAX HD" tvg-logo="" group-title="CINE Y SERIES", 5 STARMAX 
+http://669960195277849100.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/849100.ts
+
+ACTION MAX
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", ACTION MAX
+http://669960195277844920.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/844920.ts
+
+PARAMOUNT NETWORK
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", PARAMOUNT NETWORK 
+http://669960195277843412.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843412.ts
+
+--- CULTURAL Y DOCUMENTAL ---
+
+DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", DISCOVERY CHANNEL
+http://669960195277846497.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846497.ts
+
+DISCOVERY CIVILIZATION 
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", DISCOVERY CIVILIZATION 
+http://669960195277846498.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846498.ts
+
+DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", DISCOVERY HOME & HEALTH
+http://669960195277846499.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846499.ts
+
+DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", DISCOVERY INVESTIGATION
+http://669960195277846500.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846500.ts
+
+DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", DISCOVERY SCIENCE 
+http://669960195277846502.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846502.ts
+
+DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", DISCOVERY THEATER
+http://669960195277846503.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846503.ts
+
+DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", DISCOVERY TURBO
+http://669960195277846504.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846504.ts
+
+H2
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", H2 
+http://669960195277855464.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855464.ts
+
+ANIMAL PLANET
+#EXTINF:-1 tvg-logo="" group-title="CULTURAL Y DOCUMENTAL", ANIMAL PLANET
+http://669960195277843333.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843333.ts
+
+--- VARIEDADES ---
+
+AZTECA 7 
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", AZTECA 7 
+http://669960195277843334.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843334.ts
+
+AZTECA CORAZON 
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", AZTECA CORAZON 
+http://669960195277843336.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843336.ts
+
+AZTECA CLIC SD
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", AZTECA CLIC SD
+http://669960195277850565.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850565.ts
+
+CARACOL -COL-
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CARACOL -COL-
+http://669960195277850566.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850566.ts
+
+TELEFUTURO RD
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TELEFUTURO -RD-
+http://669960195277843415.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843415.ts
+
+CANAL 11
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",CANAL 11
+http://669960195277843341.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843341.ts
+
+CANAL 13
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CANAL 13
+http://669960195277843342.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843342.ts
+
+COMEDY CENTRAL 
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", COMEDY CENTRAL 
+http://669960195277843358.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843358.ts
+
+--- INFANTIL ---
+
+CARTOON NETWORK
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", CARTOON NETWORK
+http://669960195277843344.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843344.ts
+
+CARTOONITO
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", CARTOONITO
+http://669960195277843340.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843340.ts
+
+DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", DISCOVERY KIDS
+http://669960195277846501.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846501.ts
+
+DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="Latino", DISNEY CHANNEL
+http://669960195277845848.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/845848.ts
+
+DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="Latino", DISNEY JUNIOR
+http://669960195277846505.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846505.ts
+
+DISNEY XD
+#EXTINF:-1 tvg-logo="" group-title="Latino", DISNEY XD
+http://669960195277846506.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846506.ts
+
+--- DEPORTES ---
+
+ESPN 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
+http://669960195277853101.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853101.ts
+
+ESPN 2 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 
+http://669960195277853100.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853100.ts
+
+ESPN 3 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 3 
+http://669960195277845849.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/845849.ts
+
+--- DEPORTES ---
+
+CINEMA 33 PPV
+#EXTINF:-1 tvg-logo="" group-title="CINEMA PPV", CINEMA 33 PPV 
+http://669960195277858422.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/858422.ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: CLARO CINEMA SD" tvg-logo="" group-title="Latino",LA: CLARO CINEMA SD
 http://669960195277843356.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843356.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: CLARO FHD" tvg-logo="https://asiagrandiptv.us/logo//clarocinema.png" group-title="Latino",LA: CLARO FHD
 http://669960195277843357.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843357.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: COMEDY CENTRAL SD" tvg-logo="" group-title="Latino",LA: COMEDY CENTRAL SD
-http://669960195277843358.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843358.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: PAN RPC 4 HEVC" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBUxVLsfOKYt2uHV62-pHvm59Txfj51ls0wFuYDEek_e6.png" group-title="Latino",LA: PAN RPC 4 HEVC
 http://669960195277843406.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843406.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: PAN TV MAX 9 SD" tvg-logo="" group-title="Latino",LA: PAN TV MAX 9 SD
 http://669960195277843409.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843409.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: PAN TVN 2 HEVC" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBUxVLsfOKYt2uHV62-pHvm4bAaBLQj_UxvgteOZxwkM3.png" group-title="Latino",LA: PAN TVN 2 HEVC
 http://669960195277843410.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843410.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: PARAMOUNT NETWORK FHD" tvg-logo="" group-title="Latino",LA: PARAMOUNT NETWORK FHD
-http://669960195277843412.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843412.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: PASIONES SD" tvg-logo="" group-title="Latino",LA: PASIONES SD
 http://669960195277843413.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843413.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: RD TELEFUTURO SD" tvg-logo="" group-title="Latino",LA: RD TELEFUTURO SD
-http://669960195277843415.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843415.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: ACTION MAX FHD" tvg-logo="" group-title="Latino",LA: ACTION MAX FHD
-http://669960195277844920.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/844920.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY CHANNEL SD" tvg-logo="" group-title="Latino",LA: DISNEY CHANNEL SD
-http://669960195277845848.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/845848.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3 FHD" tvg-logo="" group-title="Latino",LA: ESPN 3 FHD
-http://669960195277845849.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/845849.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Latino",LA: DISCOVERY CHANNEL HD
-http://669960195277846497.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846497.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="Latino",LA: DISCOVERY CIVILIZATION HD
-http://669960195277846498.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846498.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY HOME & HEALTH SD" tvg-logo="" group-title="Latino",LA: DISCOVERY HOME & HEALTH SD
-http://669960195277846499.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846499.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY INVESTIGATION SD" tvg-logo="" group-title="Latino",LA: DISCOVERY INVESTIGATION SD
-http://669960195277846500.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846500.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY KIDS SD" tvg-logo="" group-title="Latino",LA: DISCOVERY KIDS SD
-http://669960195277846501.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846501.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY SCIENCE FHD" tvg-logo="" group-title="Latino",LA: DISCOVERY SCIENCE FHD
-http://669960195277846502.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846502.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY THEATER FHD" tvg-logo="" group-title="Latino",LA: DISCOVERY THEATER FHD
-http://669960195277846503.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846503.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY TURBO SD" tvg-logo="" group-title="Latino",LA: DISCOVERY TURBO SD
-http://669960195277846504.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846504.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY JUNIOR SD" tvg-logo="" group-title="Latino",LA: DISNEY JUNIOR SD
-http://669960195277846505.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846505.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY XD HD" tvg-logo="" group-title="Latino",LA: DISNEY XD HD
-http://669960195277846506.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/846506.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: 5 STARMAX HD" tvg-logo="" group-title="Latino",LA: 5 STARMAX HD
-http://669960195277849100.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/849100.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA CLIC SD" tvg-logo="" group-title="Latino",LA: AZTECA CLIC SD
-http://669960195277850565.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850565.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CARACOL FHD" tvg-logo="" group-title="Latino",LA: CARACOL FHD
-http://669960195277850566.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850566.ts
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 30 PPV HD" tvg-logo="" group-title="Latino",LA: CINEMA 30 PPV HD
 http://669960195277850568.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/850568.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2 HD" tvg-logo="" group-title="Latino",LA: ESPN 2 HD
-http://669960195277853100.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853100.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN FHD" tvg-logo="" group-title="Latino",LA: ESPN FHD
-http://669960195277853101.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853101.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: FORO TV SD" tvg-logo="" group-title="Latino",LA: FORO TV SD
 http://669960195277853102.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/853102.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: SPACE FHD" tvg-logo="" group-title="Latino",LA: SPACE FHD
@@ -98,10 +216,7 @@ http://669960195277855455.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855455.ts
 http://669960195277855456.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855456.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: ECO TV HEVC" tvg-logo="" group-title="Latino",LA: ECO TV HEVC
 http://669960195277855460.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855460.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: GOLDEN PREMIER SD" tvg-logo="" group-title="Latino",LA: GOLDEN PREMIER SD
-http://669960195277855461.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855461.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: GOLDEN FHD" tvg-logo="" group-title="Latino",LA: GOLDEN FHD
-http://669960195277855462.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855462.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: GOLTV HD" tvg-logo="" group-title="Latino",LA: GOLTV HD
 http://669960195277855463.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855463.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: H2 HD" tvg-logo="" group-title="Latino",LA: H2 HD
@@ -138,8 +253,7 @@ http://669960195277855480.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855480.ts
 http://669960195277855481.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855481.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: RCN SD" tvg-logo="" group-title="Latino",LA: RCN SD
 http://669960195277855482.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855482.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME BEYOND FHD" tvg-logo="" group-title="Latino",LA: SHOWTIME BEYOND FHD
-http://669960195277855484.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855484.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: SONY HD" tvg-logo="" group-title="Latino",LA: SONY HD
 http://669960195277855485.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855485.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: STAR ACTION SD" tvg-logo="" group-title="Latino",LA: STAR ACTION SD
@@ -236,10 +350,7 @@ http://669960195277856817.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/856817.ts
 http://669960195277856818.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/856818.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: NTN 24 SD" tvg-logo="" group-title="Latino",LA: NTN 24 SD
 http://669960195277856819.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/856819.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME EAST SD" tvg-logo="" group-title="Latino",LA: SHOWTIME EAST SD
-http://669960195277856820.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/856820.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME WEST SD" tvg-logo="" group-title="Latino",LA: SHOWTIME WEST SD
-http://669960195277856821.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/856821.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS HD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBbEyOL4s0IbSNRVOGwIpbmzB4iQKYfLiAMTXm6q6KDX0.png" group-title="Latino",LA: UNIMAS HD
 http://669960195277856822.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/856822.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA DINAMITA FHD" tvg-logo="" group-title="Latino",LA: CINEMA DINAMITA FHD
@@ -260,10 +371,7 @@ http://669960195277857579.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/857579.ts
 http://669960195277857580.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/857580.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS EAST HD" tvg-logo="" group-title="Latino",LA: UNIMAS EAST HD
 http://669960195277857581.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/857581.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 33 PPV FHD" tvg-logo="" group-title="Latino",LA: CINEMA 33 PPV FHD
-http://669960195277858422.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/858422.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMAX EAST FHD" tvg-logo="" group-title="Latino",LA: CINEMAX EAST FHD
-http://669960195277858423.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/858423.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: RD TELEMICRO SD" tvg-logo="" group-title="Latino",LA: RD TELEMICRO SD
 http://669960195277858424.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/858424.ts
 
