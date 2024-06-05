@@ -1,5 +1,27 @@
 #EXTM3U
 
+--- PREMIUM --- 
+HBO
+#EXTINF:-1 tvg-logo="https://n9.cl/bzeqt" group-title="PREMIUM", HBO
+http://669960195277855470.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855470.ts
+
+HBO 2
+EXTINF:-1 tvg-logo="https://n9.cl/mgd45o" group-title="PREMIUM", HBO 2
+http://669960195277855465.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855465.ts
+
+HBO FAMILY
+#EXTINF:-1 tvg-logo="https://n9.cl/a08ju" group-title="PREMIUM", HBO FAMILY
+http://669960195277855466.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855466.ts
+
+HBO PLUS
+#EXTINF:-1 tvg-logo="https://n9.cl/k6c517" group-title="PREMIUM", HBO PLUS
+http://669960195277855467.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855467.ts
+
+HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://n9.cl/0dz3eb" group-title="PREMIUM", HBO SIGNATURE
+http://669960195277855468.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855468.ts
+
+
 --- CINE Y SERIES ---
 
 GOLDEN
@@ -234,16 +256,7 @@ http://669960195277855460.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855460.ts
 http://669960195277855463.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855463.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: H2 HD" tvg-logo="" group-title="Latino",LA: H2 HD
 http://669960195277855464.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855464.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2 SD" tvg-logo="" group-title="Latino",LA: HBO 2 SD
-http://669960195277855465.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855465.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO FAMILY SD" tvg-logo="" group-title="Latino",LA: HBO FAMILY SD
-http://669960195277855466.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855466.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO PLUS SD" tvg-logo="" group-title="Latino",LA: HBO PLUS SD
-http://669960195277855467.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855467.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO SIGNATURE SD" tvg-logo="" group-title="Latino",LA: HBO SIGNATURE SD
-http://669960195277855468.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855468.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: HBO SD" tvg-logo="" group-title="Latino",LA: HBO SD
-http://669960195277855470.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855470.ts
+#
 #EXTINF:-1 tvg-id="" tvg-name="LA: HOLA! TV SD" tvg-logo="" group-title="Latino",LA: HOLA! TV SD
 http://669960195277855471.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/855471.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: HTV SD" tvg-logo="" group-title="Latino",LA: HTV SD
