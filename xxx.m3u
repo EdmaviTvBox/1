@@ -2,8 +2,10 @@
 
 --- TV LATINO ---
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: AXN SD" tvg-logo="" group-title="Latino",LA: AXN SD
+AXN
+#EXTINF:-1 tvg-logo="" group-title="TV Premium",LA: AXN SD
 http://669960195277837771.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/837771.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LA: AMC FHD" tvg-logo="" group-title="Latino",LA: AMC FHD
 http://669960195277843332.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/843332.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: ANIMAL PLANET SD" tvg-logo="" group-title="Latino",LA: ANIMAL PLANET SD
