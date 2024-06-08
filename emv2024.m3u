@@ -15,11 +15,16 @@ http://cincotv.org:25461/andres1403/pacheco1405/69249
 
 DAZN 4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/2560px-DAZN_LaLiga_2023_Logo.svg.png" group-title="TV EVENTOS", DAZN 4
-http://cincotv.org:25461/andres1403/pacheco1405/41819
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/180148
 
 UFC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="TV EVENTOS", UFC
 http://cincotv.org:25461/andres1403/pacheco1405/25184
+
+COL PPV 1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/021/919/195/original/ppv-letter-logo-design-in-illustration-logo-calligraphy-designs-for-logo-poster-invitation-etc-vector.jpg" group-title="TV SPORTS", COL PPV 1
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92694
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/358817
 
 --- TV CINE Y SERIES ---
 #EXTINF:-1 tvg-logo="logo.png" group-title="TV CINE Y SERIES",
@@ -30,7 +35,7 @@ http://cincotv.org:25461/andres1403/pacheco1405/186456
 
 CINECANAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cinecanal_1995.png/640px-Cinecanal_1995.png" group-title="TV CINE Y SERIES", CINECANAL
-http://cincotv.org:25461/andres1403/pacheco1405/186454
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26753
 
 SPACE 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="TV CINE Y SERIES", SPACE
@@ -42,11 +47,11 @@ http://cincotv.org:25461/andres1403/pacheco1405/186463
 
 PARAMOUNT CHANNEL
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/paramount-channel-latin-america-logo-180D249ED9-seeklogo.com.png" group-title="TV CINE Y SERIES", PARAMOUNT CHANNEL
-http://gustvplay.com:8080/rwTFQZKaNDjs/x55NP77JG89J/51
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1485
 
 STAR CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="TV CINE Y SERIES", STAR CHANNEL
-http://gustvplay.com:8080/rwTFQZKaNDjs/x55NP77JG89J/108
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1920
 
 TNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TNT-oficial.png/800px-TNT-oficial.png" group-title="TV CINE Y SERIES", TNT
@@ -54,15 +59,15 @@ http://cincotv.org:25461/andres1403/pacheco1405/186477
 
 TNT SERIES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TV CINE Y SERIES", TNT SERIES
-http://gustvplay.com:8080/rwTFQZKaNDjs/x55NP77JG89J/129
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1043
 
 WARNER CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="TV CINE Y SERIES", WARNER CHANNEL
-http://gustvplay.com:8080/rwTFQZKaNDjs/x55NP77JG89J/130
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/119338
 
 A&E
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="TV CINE Y SERIES", A&E
-http://cincotv.org:25461/andres1403/pacheco1405/186462
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26971
 
 CINEMAX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="TV CINE Y SERIES", CINEMAX
@@ -76,11 +81,11 @@ http://cincotv.org:25461/andres1403/pacheco1405/186467
 
 HBO
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-transparent.png" group-title="TV PREMIUM", HBO
-http://cincotv.org:25461/andres1403/pacheco1405/186482
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1040
 
 HBO FAMILY
 #EXTINF:-1 tvg-logo="https://n9.cl/j4hfx8" group-title="TV PREMIUM", HBO FAMILY
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22208
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1034
 
 HBO PLUS
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group-title="TV PREMIUM", HBO PLUS
@@ -92,20 +97,19 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/54581
 
 HBO XTREME
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxto-7bfed0f2-bf1e-4ac9-a816-c234c7abf621.png/v1/fill/w_774,h_509/hbo_xtreme_logo_concept_2023_by_wbblackofficial_dgfmxto-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHRvLTdiZmVkMGYyLWJmMWUtNGFjOS1hODE2LWMyMzRjN2FiZjYyMS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.jRJXSPScsMoK4t1sAQ2id3T5Y7PEScmx-BT0GqQNCBo" group-title="TV PREMIUM", HBO XTREME
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92725
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1910
 
 HBO MUNDI
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxtz-288c17db-800c-4771-a9c6-cafa6617d039.png/v1/fill/w_774,h_509/hbo_mundi_logo_concept_2023_by_wbblackofficial_dgfmxtz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHR6LTI4OGMxN2RiLTgwMGMtNDc3MS1hOWM2LWNhZmE2NjE3ZDAzOS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ca2UejHwov4UEtKT6905Ud2NBWJMwOBEiPQbm2Bbigk
-" group-title="TV PREMIUM", HBO MUNDI
-http://cincotv.org:25461/andres1403/pacheco1405/186496
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxtz-288c17db-800c-4771-a9c6-cafa6617d039.png/v1/fill/w_774,h_509/hbo_mundi_logo_concept_2023_by_wbblackofficial_dgfmxtz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHR6LTI4OGMxN2RiLTgwMGMtNDc3MS1hOWM2LWNhZmE2NjE3ZDAzOS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ca2UejHwov4UEtKT6905Ud2NBWJMwOBEiPQbm2Bbigk" group-title="TV PREMIUM", HBO MUNDI
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/52878
 
 STUDIO UNIVERSAL HD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Studio_Universal_2010.svg/revision/latest/scale-to-width-down/300?cb=20200323005448&path-prefix=es" group-title="TV PREMIUM",STUDIO UNIVERSAL HD 
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22241
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1925
 
 UNIVERSAL COMEDY
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="TV PREMIUM", UNIVERSAL COMEDY
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92620
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/153306
 
 UNIVERSAL CINEMA
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="TV PREMIUM", UNIVERSAL CINEMA
@@ -113,7 +117,7 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92733
 
 UNIVERSAL PREMIERE
 #EXTINF:-1 tvg-logo="http://iptbest.xyz/logo/Universal_Premiere.png" group-title="TV PREMIUM",UNIVERSAL PREMIERE
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92622
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26737
 
 UNIVERSAL CRIME
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png" group-title="TV PREMIUM", UNIVERSAL CRIME
@@ -121,14 +125,14 @@ http://cincotv.org:25461/andres1403/pacheco1405/186487
 
 UNIVERSAL CHANNEL FHD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV PREMIUM", UNIVERSAL CHANNEL 
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/239544
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1923
 
 UNIVERSAL REALITY
 #EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", UNIVERSAL REALITY
 http://cincotv.org:25461/andres1403/pacheco1405/23850
 
 UNIVERSAL KIDS
-#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV PREMIUM", UNIVERSAL KIDS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/6/68/Universal_Kids_Primetime_logo.png/revision/latest?cb=20230701070253" group-title="TV PREMIUM", UNIVERSAL KIDS
 http://cincotv.org:25461/andres1403/pacheco1405/25201
 
 GOLDEN
@@ -145,7 +149,7 @@ http://cincotv.org:25461/andres1403/pacheco1405/186490
 
 GOLDEN PLUS 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/golden.png" group-title="TV PREMIUM", GOLDEN PLUS
-http://cincotv.org:25461/andres1403/pacheco1405/186492
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1477
 
 CLOVER CHANNEL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", CLOVER CHANNEL
@@ -175,11 +179,11 @@ http://cincotv.org:25461/andres1403/pacheco1405/92646
 
 DIRECTV SPORTS 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/800px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="TV SPORTS", DIRECTV SPORTS 2
-http://cincotv.org:25461/andres1403/pacheco1405/92580
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/154271
 
 DIRECTV SPORTS +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/250?cb=20200706230244&path-prefix=es" group-title="TV SPORTS", DIRECTV SPORTS +
-http://cincotv.org:25461/andres1403/pacheco1405/92583
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/154283
 
 AZTECA DEPORTES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="TV SPORTS", AZTECA DEPORTES
@@ -191,7 +195,7 @@ http://cincotv.org:25461/andres1403/pacheco1405/92567
 
 BEIN SPORTS XTRA Ñ
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/096E3675-4280-46E8-A2F2-410E841190A2/3-1x1.png/900" group-title="TV SPORTS", BEIN SPORTS XTRA Ñ
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/90048
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/144405
 
 COMBATE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="TV SPORTS", COMBATE
@@ -199,7 +203,7 @@ http://cincotv.org:25461/andres1403/pacheco1405/92574
 
 CLARO SPORTS
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png" group-title="TV SPORTS", CLARO SPORTS
-http://cincotv.org:25461/andres1403/pacheco1405/92573
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/22142
 
 CLARO SPORTS 2
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tRBkZ5Vcc2_LbW-uiXpbryuB3n4bQr0VFKZBLIG-X_elnBBZZE6vyDWXJiZ5S2VCdD8agG900YLfYJtNYccdA70erVBHFgjFHlXJsnSI1UAu57qRGOk-U72BmNgS6LehGa5ls6BWTYH0QzVbRetiVnsrB4mmBMCZc0fu2oKZEBEW076JSKNBlC9y9bcV/s1600/images-removebg-preview.png" group-title="TV SPORTS", CLARO SPORTS 2
@@ -207,11 +211,11 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92529
 
 ESPN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="TV SPORTS", ESPN
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92722
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/965
 
 ESPN 2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/300?cb=20130819193813" group-title="TV SPORTS", ESPN 2
-http://cincotv.org:25461/andres1403/pacheco1405/92592
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1541
 
 ESPN 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV SPORTS", ESPN 3
@@ -223,7 +227,7 @@ http://cincotv.org:25461/andres1403/pacheco1405/92604
 
 ESPN DEPORTES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="TV SPORTS", ESPN DEPORTES
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22591
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/374052
 
 ESPN NEWS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="TV SPORTS", ESPN NEWS
@@ -235,15 +239,19 @@ http://cincotv.org:25461/andres1403/pacheco1405/89731
 
 FOX SPORTS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="TV SPORTS", FOX SPORTS
-http://cincotv.org:25461/andres1403/pacheco1405/92610
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/253494
 
 FOX SPORTS 2 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="TV SPORTS", FOX SPORTS 2 
-http://cincotv.org:25461/andres1403/pacheco1405/92614
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-argentina-2023-logo-15FC12510F-seeklogo.com.png" group-title="TV SPORTS", FOX SPORTS 2 
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/253495
 
 FOX SPORTS 3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="TV SPORTS", FOX SPORTS 3
-http://cincotv.org:25461/andres1403/pacheco1405/92618
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1024px-Fox_Sports_3_Argentina_2023.svg.png" group-title="TV SPORTS", FOX SPORTS 3
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/253496
+
+FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest?cb=20231117062910" group-title="TV SPORTS", FOX SPORTS PREMIUM
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/252733
 
 
 --- Televisión DOCUMENTAL Y CULTURAL ---
@@ -251,7 +259,7 @@ http://cincotv.org:25461/andres1403/pacheco1405/92618
 
 LOVE NATURE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="DOCUMENTAL Y CULTURAL", LOVE NATURE
-http://cincotv.org:25461/andres1403/pacheco1405/173274
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1385
 
 DISCOVERY CHANNEL FHD
 #EXTINF:-1 tvg-logo="https://n9.cl/ifxfl" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY CHANNEL 
@@ -259,11 +267,11 @@ http://cincotv.org:25461/andres1403/pacheco1405/23756
 
 DISCOVERY TLC
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Tlc2012.png/revision/latest/scale-to-width-down/250?cb=20170828223827&path-prefix=es" group-title="DOCUMENTAL Y CULTURAL",DISCOVERY TLC
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22269
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1893
 
 DISCOVERY SCIENCE
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Science_channel_2011logo.png/revision/latest/scale-to-width-down/200?cb=20110415120454" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY SCIENCE
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22265
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/177630
 
 DISCOVERY THEATER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png/revision/latest/scale-to-width-down/250?cb=20201106134933&path-prefix=es" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY THEATER
@@ -271,15 +279,15 @@ http://iptvtree.net:8080/F14957/6040a3f9/3022
 
 DISCOVERY H&H
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest/scale-to-width-down/210?cb=20190926042803&path-prefix=es" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY H&H
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/235592
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1402
 
 DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY WORLD
-http://cincotv.org:25461/andres1403/pacheco1405/186506
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1424
 
 DISCOVERY ID 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY ID -SD-
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/279662
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/177627
 
 DISCOVERY TURBO 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL", DISCOVERY TURBO HD
@@ -299,20 +307,50 @@ http://cincotv.org:25461/andres1403/pacheco1405/186509
 
 HISTORY 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="DOCUMENTAL Y CULTURAL", HISTORY 2
-http://gustvplay.com:8080/rwTFQZKaNDjs/x55NP77JG89J/44
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1062
 
 LIFETIME
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="DOCUMENTAL Y CULTURAL", LIFETIME
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/6704
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="DOCUMENTAL Y CULTURAL", LIFETIME
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26914
 
 ANIMAL PLANET HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL", ANIMAL PLANET HD
 http://cincotv.org:25461/andres1403/pacheco1405/186793
 
 --- TV KIDS ---
+
+DISNEY JR
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="TV KIDS", DISNEY JR
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26878
+
+CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="TV KIDS", CARTOON NETWORK
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26884
+
+BABY FIRST
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/thebabyeinstein/images/d/d0/Babyfirst-logo.png/revision/latest?cb=20190505153610" group-title="TV KIDS", BABY FIRST
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26886
+
 NICK JR
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="TV KIDS", NICK JR
-http://alfatv.lat:2082/manuelquintero/trmn97RUvR9E/262381
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1393
+
+BOOMERANG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="TV KIDS", BOOMERANG
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1370
+
+DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="TV KIDS", DISNEY CHANNEL
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1377
+
+NICK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/2285px-Nick_logo_2009.svg.png" group-title="TV KIDS", NICK
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1387
+
+TOONCAST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="TV KIDS", TOONCAST
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1397
+
 ZAZ TV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV KIDS", ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
@@ -388,19 +426,27 @@ https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
 
 CARACOL TV 
 #EXTINF:-1 tvg-logo="https://d1.awsstatic.com/case-studies/Latam%20Cases%20Assets/CaracolTV_LOGO.8c809bee8fb041fde85fd103087a55a427afd1a8.png" group-title="TV COLOMBIA", CARACOL TV 
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59848
 
 CARACOL INTERNACIONAL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/CARACOL_INTERNACIONAL.png/revision/latest?cb=20140814221309&path-prefix=es" group-title="TV COLOMBIA", CARACOL INTERNACIONAL 
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92847
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/118352
 
 CARACOL SD
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInAe7G_MVgcUrq3q4DSlk4xhkglk4lEt2p52RHGh8T7OzV3lfLqXWXJbfFE5wV7isMcrzbmgwtTdkQNvNRQ4lBrCDZplWqvFUTUQR5MBKpSl486WeCgULKHGnowUAlotR43CxulLxAoehyUYhSqn55cVuC2izw1Op1uQIUiWL9-Ye-gk3jVJScSxKOn5I/s320/Caracol%202010.png" group-title="TV COLOMBIA", Canal Caracol -SD-
-https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/fc68c0d8-ed79-4caf-8ab9-d255b37b021f/0.m3u8
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59847
 
 RCN HD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/colombia/images/2/27/OfficialRCNlogo1998.png/revision/latest/scale-to-width-down/1200?cb=20180323000152&path-prefix=es" group-title="TV COLOMBIA", RCN 
-http://cincotv.org:25461/andres1403/pacheco1405/186534
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/22137
+
+RCN XTRA
+#EXTINF:-1 tvg-logo="https://rcn-images.ercdn.net//content/v/Vr/2128/Logo.png?v=638240718056256153" group-title="TV COLOMBIA", RCN XTRA
+http://cincotv.org:25461/andres1403/pacheco1405/110832
+
+RCN INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest/scale-to-width-down/200?cb=20210307132823&path-prefix=es" group-title="TV COLOMBIA", RCN INTERNACIONAL
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59846
 
 WIN SPORTS +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="TV COLOMBIA", WIN SPORTS +
@@ -438,10 +484,6 @@ CANAL CAPITAL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjlVSvCmt-cjHQzGBdVHNUPP_3NgZqshjDn7Iupnp0t9IoQMWTUrKC0p5AEYaf9lacv7uUMrqdn9U_Nh7PKVMH0R__faICT8YpZIulVVmLqlZlPDUf-f1Porv68qqE27AmLpEve64gMY1oUlH13Gt0D7cD6Kf1KOa4e_2UE5OxRSKsU06D-FPqwpdbxIY/s320/Canal_Capital.png" group-title="TV COLOMBIA", CANAL CAPITAL
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92720
 
-RCN XTRA
-#EXTINF:-1 tvg-logo="https://rcn-images.ercdn.net//content/v/Vr/2128/Logo.png?v=638240718056256153" group-title="TV COLOMBIA", RCN XTRA
-http://cincotv.org:25461/andres1403/pacheco1405/110832
-
 --- TV NOVELAS --
 
 KANAL D DRAMA
@@ -456,19 +498,23 @@ RCN NOVELAS
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1157_2_28591.png.d8190161e8e838b464ad4a551435fce2.png" group-title="TV NOVELAS", RCN NOVELAS
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/34567
 
+SONY NOVELAS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20190421202842" group-title="TV NOVELAS", SONY NOVELAS
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/154352
+
 --- TV Music --
 
 MTV LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV MUSIC", MTV LIVE
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92652
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1306
 
 TELEHIT MUSICA PLUS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="TV MUSIC", TELEHIT MUSICA PLUS
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22339
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26940
 
 NICKMUSIC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV MUSIC", Nickmusic
-http://cincotv.org:25461/andres1403/pacheco1405/23878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="TV MUSIC", Nickmusic
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1395
 
 MELODY TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png" group-title="TV MUSIC", MELODY TV
@@ -476,7 +522,7 @@ http://tvone.millenium-ott.com:25443/live/V18JN86waxqBq/nuVcE6EC7T/62227.ts
 
 RETRO PLUS
 #EXTINF:-1 tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1716064581" group-title="TV MUSIC", RETRO PLUS
-http://iptvtree.net:8080/F14957/6040a3f9/286285
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/371410
 
 --- TV Religion --
 
@@ -513,8 +559,6 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/56290
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/23247
 #EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Wéstern HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Wéstern HD
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/65215
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/90087
 #EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Artes Marciales HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Artes Marciales HD
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/68300
 #EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Bélico HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Bélico HD
@@ -525,3 +569,8 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/56291
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/65216
 #EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Comedia HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Comedia HD
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/63826
+
+--- 4K ---
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/90087
