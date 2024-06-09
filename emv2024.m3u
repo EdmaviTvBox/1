@@ -150,14 +150,6 @@ GOLDEN PLUS
 #EXTINF:-1 tvg-logo="https://acortar.link/z1tX2d" group-title="TV PREMIUM", GOLDEN PLUS
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1477
 
-CLOVER CHANNEL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", CLOVER CHANNEL
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
-
-DHE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="TV PREMIUM", DHE 
-http://cincotv.org:25461/andres1403/pacheco1405/186481
-
 DE PELICULA
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="TV PREMIUM", DE PELICULA
 http://cincotv.org:25461/andres1403/pacheco1405/24040
@@ -165,6 +157,18 @@ http://cincotv.org:25461/andres1403/pacheco1405/24040
 DE PELICULA PLUS
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="TV PREMIUM", DE PELICULA PLUS
 http://cincotv.org:25461/andres1403/pacheco1405/189810
+
+DE PELICULA CLASICO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="TV PREMIUM", DE PELICULA CLASICO
+http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/69583
+
+CLOVER CHANNEL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgclq_HRm0GMFmn4SmTJdfyg8Tb85tfOu9cj330dUWHXVXui1aH1gj-VWRzM7iiDu8SktsfLDZy2JzZOuSWzjCYTIC3QCu2dSG9duQFjeOmePNqx-00d3ziRAy65TKj0jJAjmexqWHUQlxBBxQUhNgneRSpLbuQbm6qOcDsAyPb3vhKYx2xLi6g-DlFyE3Q/s1600/Clover%20channel%201.png" group-title="TV PREMIUM", CLOVER CHANNEL
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
+
+DHE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="TV PREMIUM", DHE 
+http://cincotv.org:25461/andres1403/pacheco1405/186481
 
 SUNDANCE
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM", SUNDANCE
