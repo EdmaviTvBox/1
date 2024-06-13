@@ -194,62 +194,36 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV KIDS",BOING KIDS
 http://cincotv.org:25461/andres1403/pacheco1405/23857
 
---- Televisión Variedades ---
-EL GOURMET HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="TV VARIEDADES", EL GOURMET HD
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/22277
+--- TV VARIEDADES ---
 
-HOLA TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV VARIEDADES", HOLA TV
-http://cincotv.org:25461/andres1403/pacheco1405/186780
-
-ESTRELLA TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV VARIEDADES", ESTRELLA TV
-http://cincotv.org:25461/andres1403/pacheco1405/23729
-
-NBC UNIVERSO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV VARIEDADES", NBC UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV VARIEDADES",NBC UNIVERSO
 http://cincotv.org:25461/andres1403/pacheco1405/23730
-
-MEGA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="TV VARIEDADES", MEGA
-http://cincotv.org:25461/andres1403/pacheco1405/186849
-
-MAS CHIC
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3Mu2UVM0Bw4rGcFF1i1RecJIZkTKqYBf2g&s" group-title="TV VARIEDADES", MAS CHIC
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3Mu2UVM0Bw4rGcFF1i1RecJIZkTKqYBf2g&s" group-title="TV VARIEDADES",MAS CHIC
 http://cincotv.org:25461/andres1403/pacheco1405/186781
-
-E!
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="TV VARIEDADES", E! 
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV VARIEDADES",ESTRELLA TV
+http://cincotv.org:25461/andres1403/pacheco1405/23729
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="TV VARIEDADES",E!
 http://cincotv.org:25461/andres1403/pacheco1405/170735
-
-COMEDY CENTRAL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="TV VARIEDADES", COMEDY CENTRAL
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="TV VARIEDADES",COMEDY CENTRAL
 http://cincotv.org:25461/andres1403/pacheco1405/186432
-
-CINEMA +
-#EXTINF:-1 tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV VARIEDADES", CINEMA +
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
-
-RETROX TV
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV VARIEDADES", RETROX TV
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
-
-CINERAMA TV
-#EXTINF:-1 tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="TV VARIEDADES", CINERAMA TV
-https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1775902226.m3u8
-
-GEN TV
-#EXTINF:-1 tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/fb/9e/5d5912ff9bd6879166e80b9f115b-lec.jpg?x-oss-process=style/hq" group-title="TV VARIEDADES", GEN TV
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-
-WOW TV
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV VARIEDADES", WOW TV
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV VARIEDADES",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w530986241_b2000000_slen.m3u8
-
-TELECLASICA
-#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="TV VARIEDADES", TELECLASICA
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/fb/9e/5d5912ff9bd6879166e80b9f115b-lec.jpg?x-oss-process=style/hq" group-title="TV VARIEDADES",GEN TV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="TV VARIEDADES",EL GOURMET
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/22277
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV VARIEDADES",HOLA TV
+http://cincotv.org:25461/andres1403/pacheco1405/186780
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="TV VARIEDADES",TELECLASICA
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="TV VARIEDADES",CINERAMA TV
+https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1775902226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="TV VARIEDADES",RETROX TV
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="TV VARIEDADES",CINEMA +
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="TV VARIEDADES",MEGA
+http://cincotv.org:25461/andres1403/pacheco1405/186849
 
 --- Televisión Colombia ---
 
@@ -327,9 +301,16 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92720
 
 --- TV NOVELAS --
 
-KANAL D DRAMA
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="TV NOVELAS", KANAL D DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVELAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="TV NOVELAS",KANAL D DRAMA
 http://cincotv.org:25461/andres1403/pacheco1405/66150
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
+
+
 
 TLNOVELAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="TV NOVELAS", TLNOVELAS
@@ -343,47 +324,30 @@ SONY NOVELAS
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20190421202842" group-title="TV NOVELAS", SONY NOVELAS
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/154352
 
---- TV Music --
+--- TV MUSIC --
 
-MTV LIVE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV MUSIC", MTV LIVE
+#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="TV MUSIC",MTV LIVE
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1306
-
-TELEHIT MUSICA PLUS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="TV MUSIC", TELEHIT MUSICA PLUS
+#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="TV MUSIC",TELEHIT MUSICA PLUS
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26940
-
-NICKMUSIC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="TV MUSIC", Nickmusic
+#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="TV MUSIC",NICKMUSIC
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1395
-
-MELODY TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png" group-title="TV MUSIC", MELODY TV
+#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Melody_logo_2013.png" group-title="TV MUSIC",MELODY TV
 http://tvone.millenium-ott.com:25443/live/V18JN86waxqBq/nuVcE6EC7T/62227.ts
-
-RETRO PLUS
-#EXTINF:-1 tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1716064581" group-title="TV MUSIC", RETRO PLUS
+#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1716064581" group-title="TV MUSIC",RETRO PLUS
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/371410
 
---- TV Religion --
+--- TV RELIGION --
 
-TV Familia
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="TV RELIGION", TV Familia -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="TV RELIGION",TV FAMILIA
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w2051236249.m3u8
-
-3abn -HD-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/3ABN_2011_stacked.svg/revision/latest/scale-to-width-down/250?cb=20230917194627" group-title="TV RELIGION", 3abn -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV RELIGION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/3ABN_2011_stacked.svg/revision/latest/scale-to-width-down/250?cb=20230917194627" group-title="TV RELIGION",3ABN
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/HQs/chunklist.m3u8
-
-Maria Vision -HD-
-#EXTINF:-1 tvg-logo="https://fondify-media.s3.amazonaws.com/organizations/logos/2020-05-23/picture_XtDtOFq.png" group-title="TV RELIGION", Maria Vision -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV RELIGION" tvg-logo="https://fondify-media.s3.amazonaws.com/organizations/logos/2020-05-23/picture_XtDtOFq.png" group-title="TV RELIGION",MARIA VISION
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
-
-Canal Luz -HD-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Capture_2018-08-07-15-48-46.png/revision/latest?cb=20180807185050" group-title="TV RELIGION", Canal Luz -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV RELIGION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Capture_2018-08-07-15-48-46.png/revision/latest?cb=20180807185050" group-title="TV RELIGION",CANAL LUZ
 https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV RELIGION", Sophia TV -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV RELIGION" tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png" group-title="TV RELIGION", SOPHIA TV
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
 --- TV CINEMA --
