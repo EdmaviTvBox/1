@@ -1,5 +1,7 @@
 #EXTM3U
+
 --- TV EVENTOS ---
+
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png" group-title="TV EVENTOS",DAZN 1
 http://cincotv.org:25461/andres1403/pacheco1405/96927
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV EVENTOS",DAZN 2
@@ -10,7 +12,9 @@ http://cincotv.org:25461/andres1403/pacheco1405/69249
 http://669960195277228396.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/228396.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="TV EVENTOS",UFC
 http://cincotv.org:25461/andres1403/pacheco1405/25184
+
 --- TV CINE Y SERIES ---
+
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV CINE Y SERIES",SONY CHANNEL
 http://cincotv.org:25461/andres1403/pacheco1405/186456
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cinecanal_1995.png/640px-Cinecanal_1995.png" group-title="TV CINE Y SERIES",CINECANAL
@@ -35,7 +39,9 @@ http://cincotv.org:25461/andres1403/pacheco1405/186452
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26971
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.pn" group-title="TV CINE Y SERIES",WARNER CHANNEL
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/119338
+
 --- TV PREMIUM ---
+
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-transparent.png" group-title="TV PREMIUM",HBO
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1040
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/j4hfx8" group-title="TV PREMIUM",HBO FAMILY
@@ -84,7 +90,9 @@ http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
 http://cincotv.org:25461/andres1403/pacheco1405/186481
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV PREMIUM",SUNDANCE
 http://cincotv.org:25461/andres1403/pacheco1405/25196
+
 --- TV SPORTS ---
+
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="TV SPORTS",WIN SPORTS +
 http://cincotv.org:25461/andres1403/pacheco1405/92646 
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="" group-title="TV SPORTS",DIRECTV SPORTS
@@ -127,7 +135,9 @@ http://cincotv.org:25461/andres1403/pacheco1405/92574
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/22142
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tRBkZ5Vcc2_LbW-uiXpbryuB3n4bQr0VFKZBLIG-X_elnBBZZE6vyDWXJiZ5S2VCdD8agG900YLfYJtNYccdA70erVBHFgjFHlXJsnSI1UAu57qRGOk-U72BmNgS6LehGa5ls6BWTYH0QzVbRetiVnsrB4mmBMCZc0fu2oKZEBEW076JSKNBlC9y9bcV/s1600/images-removebg-preview.png" group-title="TV SPORTS",CLARO SPORTS 2
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92529
+
 --- DOCUMENTAL Y CULTURAL ---
+
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/ifxfl" group-title="DOCUMENTAL Y CULTURAL",DISCOVERY CHANNEL 
 http://cincotv.org:25461/andres1403/pacheco1405/23756
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Science_channel_2011logo.png/revision/latest/scale-to-width-down/200?cb=20110415120454" group-title="DOCUMENTAL Y CULTURAL",DISCOVERY SCIENCE
@@ -140,7 +150,7 @@ http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1893
 http://iptvtree.net:8080/F14957/6040a3f9/3022
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL",DISCOVERY H&H
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1402
-#EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL",DISCOVERY WORLD
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1424
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTAL Y CULTURAL",DISCOVERY TURBO
 http://cincotv.org:25461/andres1403/pacheco1405/186505
@@ -158,55 +168,33 @@ http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1062
 http://cincotv.org:25461/andres1403/pacheco1405/173274
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="DOCUMENTAL Y CULTURAL",LIFETIME
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26914
+
 --- TV KIDS ---
 
-DISNEY JR
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="TV KIDS", DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="TV KIDS",DISNEY JR
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26878
-
-CARTOON NETWORK
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="TV KIDS", CARTOON NETWORK
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26884
-
-BABY FIRST
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/thebabyeinstein/images/d/d0/Babyfirst-logo.png/revision/latest?cb=20190505153610" group-title="TV KIDS", BABY FIRST
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26886
-
-NICK JR
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="TV KIDS", NICK JR
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1393
-
-BOOMERANG
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="TV KIDS", BOOMERANG
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1370
-
-DISNEY CHANNEL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="TV KIDS", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="TV KIDS",DISNEY CHANNEL
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1377
-
-NICK
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/2285px-Nick_logo_2009.svg.png" group-title="TV KIDS", NICK
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="TV KIDS",NICK JR
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1393
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/2285px-Nick_logo_2009.svg.png" group-title="TV KIDS",NICK
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1387
-
-TOONCAST
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="TV KIDS", TOONCAST
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="TV KIDS",BABY TV
+http://cincotv.org:25461/andres1403/pacheco1405/26346
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://static.wikia.nocookie.net/thebabyeinstein/images/d/d0/Babyfirst-logo.png/revision/latest?cb=20190505153610" group-title="TV KIDS",BABY FIRST
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26886
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="TV KIDS",CARTOON NETWORK
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26884
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="TV KIDS",TOONCAST
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1397
-
-ZAZ TV
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV KIDS", ZAZ TV
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="TV KIDS",CARTOONITO
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1370
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV KIDS",ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
-BOING KIDS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV KIDS", Boing Kids
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV KIDS",BOING KIDS
 http://cincotv.org:25461/andres1403/pacheco1405/23857
 
-BABY TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="TV KIDS", Baby TV
-http://cincotv.org:25461/andres1403/pacheco1405/26346
-
 --- Televisión Variedades ---
-#EXTINF:-1 tvg-logo="eeeeeee" group-title="TV Variedades",
-
 EL GOURMET HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="TV VARIEDADES", EL GOURMET HD
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22277
@@ -399,6 +387,7 @@ https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/cana
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/chunklist_w541423028_b2000000_sles.m3u8
 
 --- TV CINEMA --
+
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/63810
 #EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Ciencia Ficcion HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Ciencia Ficcion HD
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/63825
