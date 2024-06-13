@@ -1,98 +1,54 @@
 #EXTM3U
-
 --- TV EVENTOS ---
-
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png" group-title="TV EVENTOS",DAZN 1
 http://cincotv.org:25461/andres1403/pacheco1405/96927
-
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="TV EVENTOS",DAZN 2
 http://cincotv.org:25461/andres1403/pacheco1405/69250
-
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/2560px-DAZN_3.svg.png" group-title="TV EVENTOS",DAZN 3
 http://cincotv.org:25461/andres1403/pacheco1405/69249
-
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/2560px-DAZN_LaLiga_2023_Logo.svg.png" group-title="TV EVENTOS",DAZN 4
 http://669960195277228396.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/228396.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="TV EVENTOS",UFC
 http://cincotv.org:25461/andres1403/pacheco1405/25184
-
 --- TV CINE Y SERIES ---
-#EXTINF:-1 tvg-logo="logo.png" group-title="TV CINE Y SERIES",
-
-SONY CHANNEL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV CINE Y SERIES", SONY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV CINE Y SERIES",SONY CHANNEL
 http://cincotv.org:25461/andres1403/pacheco1405/186456
-
-CINECANAL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cinecanal_1995.png/640px-Cinecanal_1995.png" group-title="TV CINE Y SERIES", CINECANAL
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cinecanal_1995.png/640px-Cinecanal_1995.png" group-title="TV CINE Y SERIES",CINECANAL
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26753
-
-SPACE 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="TV CINE Y SERIES", SPACE
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="TV CINE Y SERIES",SPACE 
 http://cincotv.org:25461/andres1403/pacheco1405/186453
-
-AMC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TV CINE Y SERIES", AMC
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TV CINE Y SERIES",AMC
 http://cincotv.org:25461/andres1403/pacheco1405/186463
-
-PARAMOUNT CHANNEL
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/paramount-channel-latin-america-logo-180D249ED9-seeklogo.com.png" group-title="TV CINE Y SERIES", PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://seeklogo.com/images/P/paramount-channel-latin-america-logo-180D249ED9-seeklogo.com.png" group-title="TV CINE Y SERIES",PARAMOUNT CHANNEL
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1485
-
-STAR CHANNEL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="TV CINE Y SERIES", STAR CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="TV CINE Y SERIES",STAR CHANNEL
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1920
-
-TNT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TNT-oficial.png/800px-TNT-oficial.png" group-title="TV CINE Y SERIES", TNT
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TNT-oficial.png/800px-TNT-oficial.png" group-title="TV CINE Y SERIES",TNT
 http://cincotv.org:25461/andres1403/pacheco1405/186477
-
-TNT SERIES
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TV CINE Y SERIES", TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TV CINE Y SERIES",TNT SERIES
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1043
-
-WARNER CHANNEL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="TV CINE Y SERIES", WARNER CHANNEL
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/119338
-
-A&E
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="TV CINE Y SERIES", A&E
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26971
-
-CINEMAX
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="TV CINE Y SERIES", CINEMAX
-http://cincotv.org:25461/andres1403/pacheco1405/186452
-
-FX
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png" group-title="TV CINE Y SERIES", FX
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png" group-title="TV CINE Y SERIES",FX
 http://cincotv.org:25461/andres1403/pacheco1405/186467
-
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="TV CINE Y SERIES",CINEMAX
+http://cincotv.org:25461/andres1403/pacheco1405/186452
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1280px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="TV CINE Y SERIES",A&E
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26971
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.pn" group-title="TV CINE Y SERIES",WARNER CHANNEL
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/119338
 --- TV PREMIUM ---
-
-HBO
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-transparent.png" group-title="TV PREMIUM", HBO
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-transparent.png" group-title="TV PREMIUM",HBO
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1040
-
-HBO FAMILY
-#EXTINF:-1 tvg-logo="https://n9.cl/j4hfx8" group-title="TV PREMIUM", HBO FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/j4hfx8" group-title="TV PREMIUM",HBO FAMILY
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1034
-
-HBO PLUS
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group-title="TV PREMIUM", HBO PLUS
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/HBO_Plus_LATAM_2001.svg/revision/latest/scale-to-width-down/250?cb=20240323211603" group-title="TV PREMIUM",HBO PLUS
 http://cincotv.org:25461/andres1403/pacheco1405/186497
-
-HBO POP
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxu5-2072bf2e-69b7-4bfa-8397-e850100b8e87.png/v1/fill/w_532,h_350/hbo_pop_logo_concept_2023_by_wbblackofficial_dgfmxu5-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHU1LTIwNzJiZjJlLTY5YjctNGJmYS04Mzk3LWU4NTAxMDBiOGU4Ny5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.9wq9b5VG6-mEZOLPuZ3XcYJPbjyBJQ4AOMShyfP6_HQ" group-title="TV PREMIUM", HBO POP
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxu5-2072bf2e-69b7-4bfa-8397-e850100b8e87.png/v1/fill/w_532,h_350/hbo_pop_logo_concept_2023_by_wbblackofficial_dgfmxu5-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHU1LTIwNzJiZjJlLTY5YjctNGJmYS04Mzk3LWU4NTAxMDBiOGU4Ny5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.9wq9b5VG6-mEZOLPuZ3XcYJPbjyBJQ4AOMShyfP6_HQ" group-title="TV PREMIUM",HBO POP
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/54581
-
-HBO XTREME
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxto-7bfed0f2-bf1e-4ac9-a816-c234c7abf621.png/v1/fill/w_774,h_509/hbo_xtreme_logo_concept_2023_by_wbblackofficial_dgfmxto-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHRvLTdiZmVkMGYyLWJmMWUtNGFjOS1hODE2LWMyMzRjN2FiZjYyMS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.jRJXSPScsMoK4t1sAQ2id3T5Y7PEScmx-BT0GqQNCBo" group-title="TV PREMIUM", HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxto-7bfed0f2-bf1e-4ac9-a816-c234c7abf621.png/v1/fill/w_774,h_509/hbo_xtreme_logo_concept_2023_by_wbblackofficial_dgfmxto-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHRvLTdiZmVkMGYyLWJmMWUtNGFjOS1hODE2LWMyMzRjN2FiZjYyMS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.jRJXSPScsMoK4t1sAQ2id3T5Y7PEScmx-BT0GqQNCBo" group-title="TV PREMIUM",HBO XTREME
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1910
-
-HBO MUNDI
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxtz-288c17db-800c-4771-a9c6-cafa6617d039.png/v1/fill/w_774,h_509/hbo_mundi_logo_concept_2023_by_wbblackofficial_dgfmxtz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHR6LTI4OGMxN2RiLTgwMGMtNDc3MS1hOWM2LWNhZmE2NjE3ZDAzOS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ca2UejHwov4UEtKT6905Ud2NBWJMwOBEiPQbm2Bbigk" group-title="TV PREMIUM", HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxtz-288c17db-800c-4771-a9c6-cafa6617d039.png/v1/fill/w_774,h_509/hbo_mundi_logo_concept_2023_by_wbblackofficial_dgfmxtz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHR6LTI4OGMxN2RiLTgwMGMtNDc3MS1hOWM2LWNhZmE2NjE3ZDAzOS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ca2UejHwov4UEtKT6905Ud2NBWJMwOBEiPQbm2Bbigk" group-title="TV PREMIUM",HBO MUNDI
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/52878
+
 
 STUDIO UNIVERSAL HD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Studio_Universal_2010.svg/revision/latest/scale-to-width-down/300?cb=20200323005448&path-prefix=es" group-title="TV PREMIUM",STUDIO UNIVERSAL HD 
