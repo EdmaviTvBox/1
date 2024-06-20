@@ -2,15 +2,15 @@
 
 --- TV EVENTOS ---
 
-#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/ti7b5" group-title="TV EVENTOS",DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/dazn1emv" group-title="TV EVENTOS",DAZN 1
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/180145
-#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/i23x9" group-title="TV EVENTOS",DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/dazn2emv" group-title="TV EVENTOS",DAZN 2
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/180146
-#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/l5fsyo" group-title="TV EVENTOS",DAZN 3
+#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/dazn3emv" group-title="TV EVENTOS",DAZN 3
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCCMfCpYM3MSIk6dFZ2kzN5/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/cvi082" group-title="TV EVENTOS",DAZN 4
 http://669960195277228396.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/228396.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/xubkj" group-title="TV EVENTOS",UFC
+#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/ufcemv" group-title="TV EVENTOS",UFC
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/8918
 
 --- TV CINE Y SERIES ---
@@ -93,47 +93,47 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCL4teigX
 
 --- TV SPORTS ---
 
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/jmgh8x" group-title="TV SPORTS",WIN SPORTS +
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/winmasemv" group-title="TV SPORTS",WIN SPORTS +
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBC4CqlMueCTwpCUfVuJfnhv/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/8idgs" group-title="TV SPORTS",DIRECTV SPORTS
-http://669960195277848108.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/848108.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/y5sxo" group-title="TV SPORTS",DIRECTV SPORTS 2
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/154271
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gaew5" group-title="TV SPORTS",DIRECTV SPORTS +
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/154283
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/fvozx" group-title="TV SPORTS",AZTECA DEPORTES
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92694
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/t9vyg" group-title="TV SPORTS",AFIZZIONADOS
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/winemv" group-title="TV SPORTS",WIN SPORTS
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBAGyf1gCzzj8BBUcqBvjkSv/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/hr2hfb" group-title="TV SPORTS",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/directvsport1emv" group-title="TV SPORTS",DIRECTV SPORTS
+http://669960195277848108.ofk0601.xyz:80/live/te524725/cXxBVJBaBwG/848108.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/directvsport2emv" group-title="TV SPORTS",DIRECTV SPORTS 2
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/154271
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/directvsportplusemv" group-title="TV SPORTS",DIRECTV SPORTS +
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/154283
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/aztecadeportesemv" group-title="TV SPORTS",AZTECA DEPORTES
+http://tv.soccerplus.link:8000/mariagarcia/5146496994/92694
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espnemv" group-title="TV SPORTS",ESPN
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/965
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/3eikj" group-title="TV SPORTS",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn2emv" group-title="TV SPORTS",ESPN 2
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1541
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/9alpo" group-title="TV SPORTS",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn3emv" group-title="TV SPORTS",ESPN 3
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCztYvfPM6sDK6r2kjSaoWF/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/lsq43" group-title="TV SPORTS",ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn4emv" group-title="TV SPORTS",ESPN 4
 hhttp://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDch1TiN-5l23R8wJSD0jpT/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/96pjt" group-title="TV SPORTS",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espndeportesemv" group-title="TV SPORTS",ESPN DEPORTES
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDCY389q3RN6_Bp0WZRdy5z/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/4dmhiu" group-title="TV SPORTS",ESPNNEWS
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBBnI_S9t0DATrrCK-pMmuyj/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/chagn" group-title="TV SPORTS",ESPN PREMIUN
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espnpremiumemv" group-title="TV SPORTS",ESPN PREMIUN
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDjzhMVTFKddpyLSnafM4Ds/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/va76y" group-title="TV SPORTS",FOX SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/foxsport1emv" group-title="TV SPORTS",FOX SPORTS
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBC6LMMN_VKFlOrEbN_b4_T_/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/cbrd4u" group-title="TV SPORTS",FOX SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/foxsport2emv" group-title="TV SPORTS",FOX SPORTS 2 
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDy7AjYLrKN_Ny03ObEj1ik/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/rqso8" group-title="TV SPORTS",FOX SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/foxsport3emv" group-title="TV SPORTS",FOX SPORTS 3
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBA8LzMSxE97BITuQ_B58x2-/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/rdhx5" group-title="TV SPORTS",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/8mlkoa" group-title="TV SPORTS",FOX SPORTS PREMIUM
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/252733
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/nyyi8" group-title="TV SPORTS",BEIN SPORTS XTRA Ñ
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/beinsportxtra" group-title="TV SPORTS",BEIN SPORTS XTRA Ñ
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/144405
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/cowce" group-title="TV SPORTS",COMBATE
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBD-T7pR1VhwgLlLNkUQ8yE8/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/nd1yw" group-title="TV SPORTS",CLARO SPORTS
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBALAVAcKFDEbbGsqT25d_pB/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/ov4fy" group-title="TV SPORTS",CLARO SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/clarosport2emv" group-title="TV SPORTS",CLARO SPORTS 2
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCyJCkzLNqDUvdIlZm0Rv-y/ts
 
 --- DOCUMENTAL Y CULTURAL ---
