@@ -39,7 +39,7 @@ http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1444
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBB56xJnnC28GxIpqB3-eAHs/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/warnerchanel_emv" group-title="TV CINE Y SERIES",WARNER CHANNEL
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/119338
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/0jnbv" group-title="TV PREMIUM",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/0jnbv" group-title="TV CINE Y SERIES",STUDIO UNIVERSAL
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1925
 
 --- TV PREMIUM ---
@@ -189,7 +189,7 @@ http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1397
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1370
 #EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV KIDS",ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/zquvt" group-title="TV PREMIUM",UNIVERSAL KIDS
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/zquvt" group-title="TV KIDS",UNIVERSAL KIDS
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/271240
 
 --- TV VARIEDADES ---
