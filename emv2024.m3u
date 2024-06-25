@@ -39,6 +39,8 @@ http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1444
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBB56xJnnC28GxIpqB3-eAHs/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/warnerchanel_emv" group-title="TV CINE Y SERIES",WARNER CHANNEL
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/119338
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/0jnbv" group-title="TV PREMIUM",STUDIO UNIVERSAL
+http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1925
 
 --- TV PREMIUM ---
 
@@ -54,8 +56,6 @@ http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1479
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1482
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/hbomundi_emv" group-title="TV PREMIUM",HBO MUNDI
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/52878
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/0jnbv" group-title="TV PREMIUM",STUDIO UNIVERSAL
-http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1925
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/aaz4fp" group-title="TV PREMIUM",UNIVERSAL COMEDY
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBB1Ke4zuy2w_9blgw2uweBW/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/gwfqu" group-title="TV PREMIUM",UNIVERSAL CINEMA
@@ -68,8 +68,6 @@ http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1466
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBBuF8ICPI_734BMUVAKytOg/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vs9vi" group-title="TV PREMIUM",UNIVERSAL REALITY
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/144837
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/zquvt" group-title="TV PREMIUM",UNIVERSAL KIDS
-http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/271240
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/fk29m" group-title="TV PREMIUM",GOLDEN
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1473
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/lqyks" group-title="TV PREMIUM",GOLDEN PLUS
@@ -191,8 +189,8 @@ http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1397
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1370
 #EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV KIDS",ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV KIDS",BOING KIDS
-http://twomonkeys.live:80/Victor1234/Victor1234/1073166
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/zquvt" group-title="TV PREMIUM",UNIVERSAL KIDS
+http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/271240
 
 --- TV VARIEDADES ---
 
