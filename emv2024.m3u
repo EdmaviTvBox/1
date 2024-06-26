@@ -233,16 +233,32 @@ http://twomonkeys.live:80/Victor1234/Victor1234/593993
 
 --- Televisión Colombia ---
 
-CARACOL TV 
-#EXTINF:-1 tvg-logo="https://d1.awsstatic.com/case-studies/Latam%20Cases%20Assets/CaracolTV_LOGO.8c809bee8fb041fde85fd103087a55a427afd1a8.png" group-title="TV COLOMBIA", CARACOL TV 
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59848
-
-CARACOL INTERNACIONAL
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/CARACOL_INTERNACIONAL.png/revision/latest?cb=20140814221309&path-prefix=es" group-title="TV COLOMBIA", CARACOL INTERNACIONAL 
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+http://twomonkeys.live:80/Victor1234/Victor1234/602817
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/446wo" group-title="TV COLOMBIA",CARACOL INTERNACIONAL
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/118352
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/idrjs0" group-title="TV COLOMBIA",CARACOL TV SD
+http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59847
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
 
 CARACOL SD
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInAe7G_MVgcUrq3q4DSlk4xhkglk4lEt2p52RHGh8T7OzV3lfLqXWXJbfFE5wV7isMcrzbmgwtTdkQNvNRQ4lBrCDZplWqvFUTUQR5MBKpSl486WeCgULKHGnowUAlotR43CxulLxAoehyUYhSqn55cVuC2izw1Op1uQIUiWL9-Ye-gk3jVJScSxKOn5I/s320/Caracol%202010.png" group-title="TV COLOMBIA", Canal Caracol -SD-
+#EXTINF:-1 tvg-logo="" group-title="TV COLOMBIA", Canal Caracol -SD-
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59847
 
 RCN HD
