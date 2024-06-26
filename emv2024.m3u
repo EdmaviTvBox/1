@@ -231,7 +231,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/pjake" group-title="TV VARIEDADES",ENERGY
 http://twomonkeys.live:80/Victor1234/Victor1234/593993
 
---- Televisión Colombia ---
+--- TV COLOMBIA ---
 
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
 http://twomonkeys.live:80/Victor1234/Victor1234/602817
@@ -239,85 +239,33 @@ http://twomonkeys.live:80/Victor1234/Victor1234/602817
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/118352
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/idrjs0" group-title="TV COLOMBIA",CARACOL TV SD
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59847
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pjake" group-title="TV COLOMBIA",CARACOL TV 
-
-CARACOL SD
-#EXTINF:-1 tvg-logo="" group-title="TV COLOMBIA", Canal Caracol -SD-
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59847
-
-RCN HD
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/colombia/images/2/27/OfficialRCNlogo1998.png/revision/latest/scale-to-width-down/1200?cb=20180323000152&path-prefix=es" group-title="TV COLOMBIA", RCN 
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pau22" group-title="TV COLOMBIA",RCN
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/22137
-
-#EXTINF:-1 tvg-logo="https://rcn-images.ercdn.net//content/v/Vr/2128/Logo.png?v=638240718056256153" group-title="TV COLOMBIA", RCN XTRA
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/ajgy4" group-title="TV COLOMBIA",RCN XTRA
 http://twomonkeys.live:80/Victor1234/Victor1234/1069731
-
-RCN INTERNACIONAL
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest/scale-to-width-down/200?cb=20210307132823&path-prefix=es" group-title="TV COLOMBIA", RCN INTERNACIONAL
-http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/59846
-
-WIN SPORTS +
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="TV COLOMBIA", WIN SPORTS +
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/34697
-
-RED+
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Red-M%C3%A1s-TV-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="TV COLOMBIA", RED+
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/c8v5q" group-title="TV COLOMBIA",RCN INTERNACIONAL
+http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/118354
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/tp1ft" group-title="TV COLOMBIA",RED+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/02.m3u8
-
-TELECARIBE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Telecaribe2023.png" group-title="TV COLOMBIA", TELECARIBE
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/cgbtj" group-title="TV COLOMBIA",TELECARIBE
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/397140
-
-CTV BARRANQUILLA
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="TV COLOMBIA", CTV BARRANQUILLA
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/tmsxi1" group-title="TV COLOMBIA",CTV BARRANQUILLA
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w2144438241.m3u8
-
-CNC MEDELLIN
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSVoe5KyleJ9w1Y3ua_NQwtP53F3q4-oUhkYajM-sfwzYBnQ55bz-Du3SZtTnw2igP8XXfQZK9gEW1i9RBBTBhTJwmStzmNfSBw-VCFLXSseALPMgIE0YuBsayQRnvnJENc5344jGNaE0eAvtrFM-SCsUo713f3cDigxwqhkRsq_ecAig69_pMOR0e6lL/s1600/canal%20cnc%20medellin%20act.png" group-title="TV COLOMBIA", CNC -HD-
-https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/tracks-v1a1/mono.m3u8   
-
-CANAL UNO
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4B5xwB-ssTcAYywhUApFZqZWJa2UMzgZku2U72lDRMTfuNLVVZUUZHEVfNFEiS8JgBcY-nAQzNoT0CSzX_-rRhjisNgmYGd-uVBbelrWEcHC97DUDSn7G7eOao8pjk0ioXnk4WXkmezurdAmurRIvMxnC3vBDTf3eoL9gExaCDrA6TUOg6f1PvnGrnR1M/s320/canal%201%20act%20HD.png"TV COLOMBIA", Canal Uno -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/yp8s1" group-title="TV COLOMBIA",CANAL UNO
 https://ssh101-fl.bozztv.com/ssh101/unocoltvhd/tracks-v1a1/mono.m3u8
-
-SENAL COLOMBIA
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOq0RutLZlC0Oc6Qk-oZYLbi5OwHvm4YxduiCo5OvhX2BzEIpLrqUE1cwENEy9n0uskY5xbgbXfbMtDnzKQDgCKCX1zcXLA11OKW_FAZ3fIOQ6Ce6-e4XG9tD1-fC_Uvizh0AYBVNsYQ4WzQ_uMasUF-m8DjoAXu8Iec7ZvcDdIhnsgCUP6mHklBH_Xo6X/s320/Semal%20colombia%20act.png" group-title="TV COLOMBIA", Señal Colombia -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/bnz3m" group-title="TV COLOMBIA",SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/chunklist.m3u8
-
-CANAL INSTITUCIONAL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizIgHzwPTBt9E6Y-stb7XHbU9DiGxgPiT4Ab2-RL1JILBCEVpRXZtHiXVL_9bEMDve5eY2Z58Yh0YIycQZQZ4LmsqvVMJKepzKwqL2MeL8eBKUoTOLYLuGteDvpHgbWWtCa6-UqglY9cIS9ux9ZCqWdvScEvTndQuQlRzk8YE3gzQlPsvva-Om3lULeJFb/s1600/Canal%20Institucional%20act%20Red.png" group-title="TV COLOMBIA", Canal Institucional -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/3d1jt" group-title="TV COLOMBIA",CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-
-TELEPACIFICO
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge7UPYDXShcvC7W39Z7rpjLeOxoZV-gaDh2DOQv9HeASHC5iHhWXHypNhh4p4k-jpMDoOYvrS3d6WVawQsdWtlN9QkJ7AvXFr7Eu9Iwnz7Yj0mA1Wz_-iu0bRfrWAHZONjTAKKpDb9nY82xxWI4kKXUnoNJb4-V18SiANMMsSoliKLpjJ2Pvoh4Jp7m_RF/s320/Telepac%C3%ADfico%20act.png" group-title="TV COLOMBIA", Telepacifico -HD-
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/zhoqu7" group-title="TV COLOMBIA",CNC 
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/5anrw" group-title="TV COLOMBIA",TELEPACIFICO
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
-
-TRECE
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgmhglcjI_-3_5ff9eI_i64p4Z5pY_AQA-MhHYYMhjGhcz_ZCEtDF9ywFbUkcOPuobU17GDkhUiU859y8tMQ3kV6E-QIbi5RvybDXZVWbxz_SJKqGLJjxCW8JqMi9wJ6X5thnh-Q9XiXi6HSm0pQ6S-3k1lFUYDd8DOnRcxHRQ5uRgEuB2dwZLc8JPVii/s320/Canal_13_HD.png" group-title="TV COLOMBIA", TRECE
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/r9qq3" group-title="TV COLOMBIA",TRECE
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22441
-
-CALI TV
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir3jSwobe_CVdoC-DMWETptXkbPHPhzL3KJmvngCIVadHrc_18kCa2bWjOTuq6mpNZ-LCyCLav8Zyp4WduIbGij-bx3jzjr6HRSQPY8jy3KoQA5G6zMKtwwCHhdBe7T12fHj-hsTHl4ikUkn2TLwXI44Fg0mVU3lkgpakDOQftpnJnjWWaETSsGB_lsxr1/s320/Cali%20TV.png" group-title="TV COLOMBIA", CALI TV
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/uxfkc" group-title="TV COLOMBIA", CALI TV
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w922965213_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVdiVElMeEJ0RG92MmdOMVQ2MUZoNEdsT21KeEhMWkYwRkNnS2tDY3lhTVE9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?181.143.233.179
-
-CANAL CAPITAL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjlVSvCmt-cjHQzGBdVHNUPP_3NgZqshjDn7Iupnp0t9IoQMWTUrKC0p5AEYaf9lacv7uUMrqdn9U_Nh7PKVMH0R__faICT8YpZIulVVmLqlZlPDUf-f1Porv68qqE27AmLpEve64gMY1oUlH13Gt0D7cD6Kf1KOa4e_2UE5OxRSKsU06D-FPqwpdbxIY/s320/Canal_Capital.png" group-title="TV COLOMBIA", CANAL CAPITAL
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/y2z33t" group-title="TV COLOMBIA",CANAL CAPITAL
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/92720
 
 --- TV NOVELAS --
