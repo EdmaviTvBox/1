@@ -162,8 +162,10 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBBxh5zjtA
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDujhJ8a5Hm0_vzS3oQBHBR/ts
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/5vrk0o" group-title="DOCUMENTAL Y CULTURAL",NATGEO 
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBB4IRpRSzpv_RVhjWkBoWML/ts
+#EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/wdu2x7" group-title="DOCUMENTAL Y CULTURAL",NATGEO  MUNDO
+http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/34599
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/s9h9r" group-title="DOCUMENTAL Y CULTURAL",NATGEO  WILD
-http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBAW2ipkRgYsqWf40Y8IcYWm/ts
+http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/1077
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/najt31" group-title="DOCUMENTAL Y CULTURAL",HISTORY CHANNEL
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDPjwJUpVJpB8nDY2r5kYv0/ts
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/pc019t" group-title="DOCUMENTAL Y CULTURAL",HISTORY 2
@@ -175,25 +177,25 @@ http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26914
 
 --- TV KIDS ---
 
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="TV KIDS",DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/wf30d" group-title="TV KIDS",DISNEY JR
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26878
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="TV KIDS",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/k70f8" group-title="TV KIDS",DISNEY CHANNEL
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1377
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="TV KIDS",NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/yla54" group-title="TV KIDS",NICK JR
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1393
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/2285px-Nick_logo_2009.svg.png" group-title="TV KIDS",NICK
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/2tr3z" group-title="TV KIDS",NICK
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1387
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="TV KIDS",BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/fbinjf" group-title="TV KIDS",BABY TV
 http://twomonkeys.live:80/Victor1234/Victor1234/1070969
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://static.wikia.nocookie.net/thebabyeinstein/images/d/d0/Babyfirst-logo.png/revision/latest?cb=20190505153610" group-title="TV KIDS",BABY FIRST
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/upqtx" group-title="TV KIDS",BABY FIRST
 http://twomonkeys.live:80/Victor1234/Victor1234/594103
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="TV KIDS",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/ds2wd" group-title="TV KIDS",CARTOON NETWORK
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/26884
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="TV KIDS",TOONCAST
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/v3bxv" group-title="TV KIDS",TOONCAST
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1397
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="TV KIDS",CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/gyc3l" group-title="TV KIDS",CARTOONITO
 http://tv.proyectox.vip:8080/andreadia1/FMsFwq7qJf/1370
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" group-title="TV KIDS",ZAZ TV
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/v3lozi" group-title="TV KIDS",ZAZ TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV KIDS" tvg-logo="https://n9.cl/zquvt" group-title="TV KIDS",UNIVERSAL KIDS
 http://tv.proyectox.vip:8080/iprotvnUEVA2356/Iprotv2024ipro/271240
