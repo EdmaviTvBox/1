@@ -98,17 +98,17 @@ http://twomonkeys.live:80/Victor1234/Victor1234/1078715
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/directvsport1_emv" group-title="TV SPORTS",DIRECTV SPORTS
 http://twomonkeys.live:80/Victor1234/Victor1234/589323
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/directvsports2_emv" group-title="TV SPORTS",DIRECTV SPORTS 2
-http://twomonkeys.live:80/Victor1234/Victor1234/1069834
+http://twomonkeys.live:80/Victor1234/Victor1234/589320
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/directvsportsmas_emv" group-title="TV SPORTS",DIRECTV SPORTS +
 http://twomonkeys.live:80/Victor1234/Victor1234/1069838
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/directvsportsfight_emv" group-title="TV SPORTS",DIRECTV SPORTS FIGHT
 http://twomonkeys.live:80/Victor1234/Victor1234/1069835
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn_emv" group-title="TV SPORTS",ESPN
-http://twomonkeys.live:80/Victor1234/Victor1234/1069842
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn2emv" group-title="TV SPORTS",ESPN 2
 http://twomonkeys.live:80/Victor1234/Victor1234/1069849
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn3_emv" group-title="TV SPORTS",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn2emv" group-title="TV SPORTS",ESPN 2
 http://twomonkeys.live:80/Victor1234/Victor1234/1069857
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn3_emv" group-title="TV SPORTS",ESPN 3
+http://twomonkeys.live:80/Victor1234/Victor1234/1069842
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espn4_emv" group-title="TV SPORTS",ESPN 4
 http://twomonkeys.live:80/Victor1234/Victor1234/1069862
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/espndeportesemv" group-title="TV SPORTS",ESPN DEPORTES
