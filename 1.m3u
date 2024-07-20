@@ -109,7 +109,7 @@ http://twomonkeys.live:80/Victor1234/Victor1234/448381
 http://twomonkeys.live:80/Victor1234/Victor1234/448376
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS KANSAS CITY
 http://twomonkeys.live:80/Victor1234/Victor1234/448380
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BALLY SPORTS KANSAS CITY PLUS
+#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS KANSAS CITY PLUS
 http://twomonkeys.live:80/Victor1234/Victor1234/860377
 #EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS FLORIDA
 http://twomonkeys.live:80/Victor1234/Victor1234/448377
@@ -226,13 +226,16 @@ http://twomonkeys.live:80/Victor1234/Victor1234/585970
 http://twomonkeys.live:80/Victor1234/Victor1234/585987
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION SAN FRANCISCO - SAN JOSE
 http://twomonkeys.live:80/Victor1234/Victor1234/585988
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION PHOENIX http://twomonkeys.live:80/Victor1234/Victor1234/585989
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION PHOENIX 
+http://twomonkeys.live:80/Victor1234/Victor1234/585989
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION MIAMI-FT
 http://twomonkeys.live:80/Victor1234/Victor1234/585990
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION CLEVELAND
 http://twomonkeys.live:80/Victor1234/Victor1234/585991
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION PHILADELPHIA http://twomonkeys.live:80/Victor1234/Victor1234/585992
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION NEW YORK NY http://twomonkeys.live:80/Victor1234/Victor1234/585993
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION PHILADELPHIA 
+http://twomonkeys.live:80/Victor1234/Victor1234/585992
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION NEW YORK NY 
+http://twomonkeys.live:80/Victor1234/Victor1234/585993
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION ATLANTA
 http://twomonkeys.live:80/Victor1234/Victor1234/585994
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION CHICAGO
@@ -289,7 +292,7 @@ http://twomonkeys.live:80/Victor1234/Victor1234/585980
 http://twomonkeys.live:80/Victor1234/Victor1234/860391
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/s1h8u" group-title="TV VARIEDADES", ANTENA 3
 http://twomonkeys.live:80/Victor1234/Victor1234/585424
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", ATRESERIES
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/9phot" group-title="TV VARIEDADES", ATRESERIES
 http://twomonkeys.live:80/Victor1234/Victor1234/585430
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/clyar0" group-title="TV VARIEDADES", ESTRELLA TV
 http://twomonkeys.live:80/Victor1234/Victor1234/586107
@@ -301,11 +304,11 @@ http://twomonkeys.live:80/Victor1234/Victor1234/586088
 http://twomonkeys.live:80/Victor1234/Victor1234/586079
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/j5qcl" group-title="TV VARIEDADES", TELEFE
 http://twomonkeys.live:80/Victor1234/Victor1234/585888
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", RCN NUESTRA TELE
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/wbz6q" group-title="TV VARIEDADES", RCN NUESTRA TELE
 http://twomonkeys.live:80/Victor1234/Victor1234/585802
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NUESTRA TELE NOTICIAS 24
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/1c145" group-title="TV VARIEDADES", NTN 24
 http://twomonkeys.live:80/Victor1234/Victor1234/585801
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NOVA
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/keaqu" group-title="TV VARIEDADES", NOVA
 http://twomonkeys.live:80/Victor1234/Victor1234/585800
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/udjq84" group-title="TV VARIEDADES", NEOX
 http://twomonkeys.live:80/Victor1234/Victor1234/585787
