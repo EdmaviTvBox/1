@@ -223,12 +223,18 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 http://twomonkeys.live:80/Victor1234/Victor1234/585767
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/trnns" group-title="TV VARIEDADES",MAS CHIC
 http://twomonkeys.live:80/Victor1234/Victor1234/602733
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS 
+http://twomonkeys.live:80/Victor1234/Victor1234/585977
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", 
+http://twomonkeys.live:80/Victor1234/Victor1234/586087
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/tpy15" group-title="TV VARIEDADES",E!
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCdx7ozCVKZJlYowTh-o0uH/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/xqe9g6" group-title="TV VARIEDADES",ESTRELLA TV
 http://twomonkeys.live:80/Victor1234/Victor1234/586107
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/97xan" group-title="TV VARIEDADES",COMEDY CENTRAL
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDmP0FFP7IosUw4WlfENue9/ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/o408q" group-title="TV VARIEDADES",EL GOURMET
 http://tv.soccerplus.link:8000/mariagarcia/5146496994/22277
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/hcutt" group-title="TV VARIEDADES",HOLA TV
