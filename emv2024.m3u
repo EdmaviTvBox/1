@@ -236,9 +236,13 @@ http://twomonkeys.live:80/Victor1234/Victor1234/593982
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/pjake" group-title="TV VARIEDADES",ENERGY
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBADRaEfdIl_DJv0qPHK0Oql/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/ln1hdb" group-title="TV VARIEDADES", UNIMAS 
-http://twomonkeys.live:80/Victor1234/Victor1234/585977
+http://todoplus.digital:80/jenny12345/jenny12345/175760.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/1y46o" group-title="TV VARIEDADES", UNIVISION
-http://twomonkeys.live:80/Victor1234/Victor1234/586087
+http://todoplus.digital:80/jenny12345/jenny12345/4768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/1y46o" group-title="TV VARIEDADES", TELEMUNDO
+http://todoplus.digital:80/jenny12345/jenny12345/4696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/1y46o" group-title="TV VARIEDADES", GALAVISION
+http://todoplus.digital:80/jenny12345/jenny12345/4756.m3u8
 
 --- TV COLOMBIA ---
 
