@@ -2,6 +2,8 @@
 
 --- TV EVENTOS ---
 
+#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/isg33" group-title="TV EVENTOS",DAZN F1 
+http://ultrapremium.cloud:8080/33723001/vduYXVsnfaA2/60351
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/dazn1_emv" group-title="TV EVENTOS",DAZN 1
 http://twomonkeys.live:80/Victor1234/Victor1234/409840
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/dazn2_emv" group-title="TV EVENTOS",DAZN 2
@@ -10,6 +12,11 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDxPZPprC
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCCMfCpYM3MSIk6dFZ2kzN5/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/dazn4_emv" group-title="TV EVENTOS",DAZN 4
 http://twomonkeys.live:80/Victor1234/Victor1234/409848
+#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/1rsm6" group-title="TV EVENTOS",DAZN LA LIGA
+http://ultrapremium.cloud:8080/33723001/vduYXVsnfaA2/60263
+#EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/jnrza" group-title="TV EVENTOS",DAZN LA LIGA 2 
+http://ultrapremium.cloud:8080/33723001/vduYXVsnfaA2/60269
+
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/9btce" group-title="TV EVENTOS",UFC NETWORK
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDQNaxJz7RSLFgn4MkwOh6Z/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/r4b1f" group-title=",WWE NETWORK
