@@ -16,12 +16,10 @@ http://twomonkeys.live:80/Victor1234/Victor1234/409848
 http://ultrapremium.cloud:8080/33723001/vduYXVsnfaA2/60263
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/jnrza" group-title="TV EVENTOS",DAZN LA LIGA 2 
 http://ultrapremium.cloud:8080/33723001/vduYXVsnfaA2/60269
-
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/9btce" group-title="TV EVENTOS",UFC NETWORK
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDQNaxJz7RSLFgn4MkwOh6Z/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV EVENTOS" tvg-logo="https://n9.cl/r4b1f" group-title=",WWE NETWORK
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCnS25uS4Y3Cb03m983HwLW/ts
-
 
 --- TV CINE Y SERIES ---
 
@@ -51,7 +49,6 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBB_uq73hO
 http://todoplus.digital:80/jenny12345/jenny12345/46248.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/0jnbv" group-title="TV CINE Y SERIES",STUDIO UNIVERSAL
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBB78IEP5WIaVVblgNNjxIgV/ts
-
 
 --- TV PREMIUM ---
 
@@ -101,7 +98,6 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBBptMz18h
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCL4teigXM3AoZ_XtzHbk0q/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/5dfze" group-title="TV PREMIUM",LIFETIME
 http://twomonkeys.live:80/Victor1234/Victor1234/602829
-
 
 --- TV SPORTS ---
 
@@ -186,8 +182,10 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBDPjwJUpV
 http://twomonkeys.live:80/Victor1234/Victor1234/1071030
 #EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/cpiox" group-title="DOCUMENTAL Y CULTURAL",LOVE NATURE
 http://galaxypro.online:8080/Jhon785/Neivano456/239460
-#EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/021r4 group-title="DOCUMENTAL Y CULTURAL",HGTV 
+#EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/021r4" group-title="DOCUMENTAL Y CULTURAL",HGTV 
 http://galaxypro.online:8080/Jhon785/Neivano456/390619
+#EXTINF:-1 tvg-id="" tvg-name="DOCUMENTAL Y CULTURAL" tvg-logo="https://n9.cl/j5t66" group-title="DOCUMENTAL Y CULTURAL",IBERALIA TV
+http://galaxypro.online:8080/Jhon785/Neivano456/398603
 
 --- TV KIDS ---
 
