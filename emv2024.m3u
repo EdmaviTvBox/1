@@ -68,12 +68,14 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/188373
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/68331
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/hbomundi_emv" group-title="TV PREMIUM",HBO MUNDI
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/92112
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/g9wxf" group-title="TV PREMIUM",HBO MAX
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/189922
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/lswll" group-title="TV PREMIUM",HBO SIGNATURE
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56455
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/67l5h" group-title="TV PREMIUM",HBO TERROR
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/228283
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/g9wxf" group-title="TV PREMIUM",HBO MAX
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/189921
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/3zfgb" group-title="TV PREMIUM",MAX ORIGINALS
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/189922
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/universal_comedyemv" group-title="TV PREMIUM",UNIVERSAL COMEDY
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBB1Ke4zuy2w_9blgw2uweBW/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/universal_cinemaemv" group-title="TV PREMIUM",UNIVERSAL CINEMA
@@ -100,8 +102,6 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBBVnDwdYZ
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBBHQSiJ0fFJoRW9xsSFfpFp/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/depeliculaclasico_emv" group-title="TV PREMIUM",DE PELICULA CLASICO
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBA_dTqKTdnR7HxlZzxpdLgV/ts
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/cloverchannel_emv" group-title="TV PREMIUM",CLOVER CHANNEL
-http://tv.soccerplus.link:8000/mariagarcia/5146496994/92555
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/europaeuropa_emv" group-title="TV PREMIUM",EUROPA EUROPA
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBBptMz18hQ438zvkC4mPveO/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/sundancetv_emv" group-title="TV PREMIUM",SUNDANCE
