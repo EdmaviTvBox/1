@@ -23,6 +23,8 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94235
 
 --- TV CINE Y SERIES ---
 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/9o4bd6" group-title="TV PREMIUM",STAR CHANNEL
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/144
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/4ocle" group-title="TV CINE Y SERIES",SONY CHANNEL
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/214
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/3j0sfe" group-title="TV CINE Y SERIES",CINECANAL
@@ -33,24 +35,6 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/45288
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/126
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/gzr37j" group-title="TV CINE Y SERIES",PARAMOUNT CHANNEL
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/466
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR CINEMA 
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/68429
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR HITS
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/169
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR PLAY
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83328
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR PLUS
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83329
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR TERROR
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/226202
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR CLASSICS
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/167
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR COMEDY
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/156
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR FUN KIDS
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/159
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/9o4bd6" group-title="TV CINE Y SERIES",STAR CHANNEL
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/144
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/q9zdz" group-title="TV CINE Y SERIES",TNT
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/231
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/6yahu" group-title="TV CINE Y SERIES",TNT SERIES
@@ -65,6 +49,12 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBB_uq73hO
 http://todoplus.digital:80/jenny12345/jenny12345/46248.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/6n9te" group-title="TV CINE Y SERIES",STUDIO UNIVERSAL
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/221
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/2nmom" group-title="TV CINE Y SERIES",EUROPA EUROPA
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94468
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/s2ipl3" group-title="TV CINE Y SERIES",SUNDANCE
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/65829
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE Y SERIES" tvg-logo="https://n9.cl/uowpy" group-title="TV CINE Y SERIES",LIFETIME
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/160772
 
 --- TV PREMIUM ---
 
@@ -104,6 +94,22 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/158603
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/249
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/universal_realityemv" group-title="TV PREMIUM",UNIVERSAL REALITY
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/158604
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/973nw" group-title="TV PREMIUM",STAR CINEMA 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/68429
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/bzo00" group-title="TV PREMIUM",STAR HITS
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/169
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/6u221" group-title="TV PREMIUM",STAR PLAY
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83328
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/atk8zu" group-title="TV PREMIUM",STAR PLUS
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83329
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/xjhff" group-title="TV PREMIUM",STAR HORROR
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/226202
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/0wfe3" group-title="TV PREMIUM",STAR CLASSICS
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/167
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/uxn1m" group-title="TV PREMIUM",STAR COMEDY
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/156
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/4fq8w" group-title="TV PREMIUM",STAR KIDS
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/159
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/golden_emv" group-title="TV PREMIUM",GOLDEN
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/179
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/golden_plusemv" group-title="TV PREMIUM",GOLDEN PLUS
@@ -122,13 +128,6 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/656
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBBHQSiJ0fFJoRW9xsSFfpFp/ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/depeliculaclasico_emv" group-title="TV PREMIUM",DE PELICULA CLASICO
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/657
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/europaeuropa_emv" group-title="TV PREMIUM",EUROPA EUROPA
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94468
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/sundancetv_emv" group-title="TV PREMIUM",SUNDANCE
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/65829
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/5dfze" group-title="TV PREMIUM",LIFETIME
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/160772
-
 
 --- TV SPORTS ---
 
