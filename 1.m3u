@@ -1,365 +1,1034 @@
 #EXTM3U
 
---- TELEMUNDO ---
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KHRR
-http://twomonkeys.live:80/Victor1234/Victor1234/585437
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KNSO
-http://twomonkeys.live:80/Victor1234/Victor1234/585467
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KRDO
-http://twomonkeys.live:80/Victor1234/Victor1234/585518
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KUAN
-http://twomonkeys.live:80/Victor1234/Victor1234/585539
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO WWDT
-http://twomonkeys.live:80/Victor1234/Victor1234/585548
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KFDY
-http://twomonkeys.live:80/Victor1234/Victor1234/585785
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO WWSI
-http://twomonkeys.live:80/Victor1234/Victor1234/585796
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KTDO
-http://twomonkeys.live:80/Victor1234/Victor1234/585798
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KASA
-http://twomonkeys.live:80/Victor1234/Victor1234/585799
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KUTU
-http://twomonkeys.live:80/Victor1234/Victor1234/585829
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KFBI
-http://twomonkeys.live:80/Victor1234/Victor1234/585836
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO
-http://twomonkeys.live:80/Victor1234/Victor1234/585890
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO DENVER
-http://twomonkeys.live:80/Victor1234/Victor1234/585891
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO NEW ORLEANS
-http://twomonkeys.live:80/Victor1234/Victor1234/585892
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO OMAHA
-http://twomonkeys.live:80/Victor1234/Victor1234/585893
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO SAN FRANCISCO
-http://twomonkeys.live:80/Victor1234/Victor1234/585894
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO OKLAHOMA CITY 
-http://twomonkeys.live:80/Victor1234/Victor1234/585895
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO TAMPA
-http://twomonkeys.live:80/Victor1234/Victor1234/585896
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO MIAMI
-http://twomonkeys.live:80/Victor1234/Victor1234/585897
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO ORLANDO
-http://twomonkeys.live:80/Victor1234/Victor1234/585898
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO WASHINGTON
-http://twomonkeys.live:80/Victor1234/Victor1234/585899
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO 39
-http://twomonkeys.live:80/Victor1234/Victor1234/585900
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO 52
-http://twomonkeys.live:80/Victor1234/Victor1234/585901
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO ATLANTA
-http://twomonkeys.live:80/Victor1234/Victor1234/585902
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO BOSTON
-http://twomonkeys.live:80/Victor1234/Victor1234/585903
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO C
-http://twomonkeys.live:80/Victor1234/Victor1234/585904
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO CHICAGO
-http://twomonkeys.live:80/Victor1234/Victor1234/585905
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO CONNECTICUT
-http://twomonkeys.live:80/Victor1234/Victor1234/585906
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO LAS VEGAS
-http://twomonkeys.live:80/Victor1234/Victor1234/585907
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO NY
-http://twomonkeys.live:80/Victor1234/Victor1234/585908
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO PHOENIX
-http://twomonkeys.live:80/Victor1234/Victor1234/585909
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO SACRAMENTO
-http://twomonkeys.live:80/Victor1234/Victor1234/585910
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO SALT LAKE CITY
-http://twomonkeys.live:80/Victor1234/Victor1234/585911
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO HOUSTON 
-http://twomonkeys.live:80/Victor1234/Victor1234/585957
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KXTQ
-http://twomonkeys.live:80/Victor1234/Victor1234/585962
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KTLM
-http://twomonkeys.live:80/Victor1234/Victor1234/585965
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/i8x3t" group-title="TELEMUNDO", TELEMUNDO KVDA
-http://twomonkeys.live:80/Victor1234/Victor1234/585969
+#EXTM3U
 
----TV SPORTS ---
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS WISCONSIN
-http://twomonkeys.live:80/Victor1234/Victor1234/448393
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS WEST
-http://twomonkeys.live:80/Victor1234/Victor1234/448392
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS SUN
-http://twomonkeys.live:80/Victor1234/Victor1234/448391
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS SOUTHWEST
-http://twomonkeys.live:80/Victor1234/Victor1234/448390
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS SOUTHEAST
-http://twomonkeys.live:80/Victor1234/Victor1234/448389
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS SOUTH
-http://twomonkeys.live:80/Victor1234/Victor1234/448388
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS SOCAL
-http://twomonkeys.live:80/Victor1234/Victor1234/448387
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS SAN DIEGO
-http://twomonkeys.live:80/Victor1234/Victor1234/448386
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS OKLAHOMA
-http://twomonkeys.live:80/Victor1234/Victor1234/448385
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS OHIO
-http://twomonkeys.live:80/Victor1234/Victor1234/448384
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS NORTH
-http://twomonkeys.live:80/Victor1234/Victor1234/448383
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS NEW ORLEANS
-http://twomonkeys.live:80/Victor1234/Victor1234/448382
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS ARIZONA
-http://twomonkeys.live:80/Victor1234/Victor1234/448375
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS MIDWEST
-http://twomonkeys.live:80/Victor1234/Victor1234/448381
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS DETROIT
-http://twomonkeys.live:80/Victor1234/Victor1234/448376
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS KANSAS CITY
-http://twomonkeys.live:80/Victor1234/Victor1234/448380
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS KANSAS CITY PLUS
-http://twomonkeys.live:80/Victor1234/Victor1234/860377
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS FLORIDA
-http://twomonkeys.live:80/Victor1234/Victor1234/448377
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS INDIANA
-http://twomonkeys.live:80/Victor1234/Victor1234/448379
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/bally_sports" group-title="TV SPORTS", BALLY SPORTS GREAT LAKES
-http://twomonkeys.live:80/Victor1234/Victor1234/448378
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS EN ESPANOL 
-http://twomonkeys.live:80/Victor1234/Victor1234/585449
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS EXTRA ESPANOL
-http://twomonkeys.live:80/Victor1234/Victor1234/860385
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS EXTRA ESPANOL (OPC 2)
-http://twomonkeys.live:80/Victor1234/Victor1234/586093
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS EXTRA
-http://twomonkeys.live:80/Victor1234/Victor1234/586094
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS EXTRA (OPC 2)
-http://twomonkeys.live:80/Victor1234/Victor1234/860384
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS LA LIGA
-http://twomonkeys.live:80/Victor1234/Victor1234/585441
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS
-http://twomonkeys.live:80/Victor1234/Victor1234/585442
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS 2
-http://twomonkeys.live:80/Victor1234/Victor1234/860383
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS 4
-http://twomonkeys.live:80/Victor1234/Victor1234/585443
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS 5
-http://twomonkeys.live:80/Victor1234/Victor1234/585444
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS 6
-http://twomonkeys.live:80/Victor1234/Victor1234/585445
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS 7
-http://twomonkeys.live:80/Victor1234/Victor1234/585446
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS 8
-http://twomonkeys.live:80/Victor1234/Victor1234/585447
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/gdc8km" group-title="TV SPORTS", BEIN SPORTS CANADA
-http://twomonkeys.live:80/Victor1234/Victor1234/585448
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/1knsx" group-title="TV SPORTS", DAZN FORMULA 1
-http://twomonkeys.live:80/Victor1234/Victor1234/409836
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/1knsx" group-title="TV SPORTS", DAZN FORMULA 1 (OP2)
-http://twomonkeys.live:80/Victor1234/Victor1234/409849
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/1knsx" group-title="TV SPORTS", DAZN FORMULA 1 (OP3)
-http://twomonkeys.live:80/Victor1234/Victor1234/409837
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/1knsx" group-title="TV SPORTS", DAZN 1  http://twomonkeys.live:80/Victor1234/Victor1234/409840
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/1knsx" group-title="TV SPORTS", DAZN 1 (OP2)
-http://twomonkeys.live:80/Victor1234/Victor1234/409841
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/1knsx" group-title="TV SPORTS", DAZN 4
-http://twomonkeys.live:80/Victor1234/Victor1234/409848
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN
-http://twomonkeys.live:80/Victor1234/Victor1234/931778
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN (OP2)
-http://twomonkeys.live:80/Victor1234/Victor1234/585933
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN1
-http://twomonkeys.live:80/Victor1234/Victor1234/586067
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN2
-http://twomonkeys.live:80/Victor1234/Victor1234/586068
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN3
-http://twomonkeys.live:80/Victor1234/Victor1234/586069
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN4
-http://twomonkeys.live:80/Victor1234/Victor1234/586070
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN5
-http://twomonkeys.live:80/Victor1234/Victor1234/586071
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN6
-http://twomonkeys.live:80/Victor1234/Victor1234/586072
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN7
-http://twomonkeys.live:80/Victor1234/Victor1234/586073
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN8
-http://twomonkeys.live:80/Victor1234/Victor1234/586074
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDN9
-http://twomonkeys.live:80/Victor1234/Victor1234/586075
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDNXTRA 10
-http://twomonkeys.live:80/Victor1234/Victor1234/585935
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", TUDNXTRA 11
-http://twomonkeys.live:80/Victor1234/Victor1234/585936
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", GOLTV (ENGLISH)
-http://twomonkeys.live:80/Victor1234/Victor1234/585610
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/82s5f" group-title="TV SPORTS", GOLTV (SPANISH)
-http://twomonkeys.live:80/Victor1234/Victor1234/585611
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/a77cv" group-title="TV SPORTS", FUBO LATINO
-http://twomonkeys.live:80/Victor1234/Victor1234/860387
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/a77cv" group-title="TV SPORTS", FUBO SPORT NETWORK
-http://twomonkeys.live:80/Victor1234/Victor1234/860381
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/a77cv" group-title="TV SPORTS", FUBO SPORT NETWORK (OPC 2)
-http://twomonkeys.live:80/Victor1234/Victor1234/585596
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/a77cv" group-title="TV SPORTS", FUBO SPORT NETWORK (OPC 3)
-http://twomonkeys.live:80/Victor1234/Victor1234/586117
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/va76y" group-title="TV SPORTS", FOX DEPORTES
-http://twomonkeys.live:80/Victor1234/Victor1234/586082
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/va76y" group-title="TV SPORTS", FOX DEPORTES SD
-http://twomonkeys.live:80/Victor1234/Victor1234/586114
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/ldtbw" group-title="TV SPORTS", TYC SPORTS
-http://twomonkeys.live:80/Victor1234/Victor1234/585975
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/me64v" group-title="TV SPORTS", TELEDEPORTE
-http://twomonkeys.live:80/Victor1234/Victor1234/585887
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/qdwhn" group-title="TV SPORTS", BARCA TV
-http://twomonkeys.live:80/Victor1234/Victor1234/585440
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/u0wejc" group-title="TV SPORTS", THE FIGHT NETWORK
-http://twomonkeys.live:80/Victor1234/Victor1234/585916
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/aeu4q" group-title="TV SPORTS", SWERVE COMBAT
-http://twomonkeys.live:80/Victor1234/Victor1234/586136
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/84f9n5" group-title="TV SPORTS", POKER GO
-http://twomonkeys.live:80/Victor1234/Victor1234/586095
 
---- TV UNIVISION ---
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION NETWORK
-http://twomonkeys.live:80/Victor1234/Victor1234/585999
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION GREEN VALLEY
-http://twomonkeys.live:80/Victor1234/Victor1234/585432
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION HANFORD
-http://twomonkeys.live:80/Victor1234/Victor1234/585466
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION MODESTO
-http://twomonkeys.live:80/Victor1234/Victor1234/585468
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION SAN ANTONIO
-http://twomonkeys.live:80/Victor1234/Victor1234/585970
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION AUSTIN
-http://twomonkeys.live:80/Victor1234/Victor1234/585987
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION SAN FRANCISCO - SAN JOSE
-http://twomonkeys.live:80/Victor1234/Victor1234/585988
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION PHOENIX 
-http://twomonkeys.live:80/Victor1234/Victor1234/585989
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION MIAMI-FT
-http://twomonkeys.live:80/Victor1234/Victor1234/585990
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION CLEVELAND
-http://twomonkeys.live:80/Victor1234/Victor1234/585991
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION PHILADELPHIA 
-http://twomonkeys.live:80/Victor1234/Victor1234/585992
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION NEW YORK NY 
-http://twomonkeys.live:80/Victor1234/Victor1234/585993
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION ATLANTA
-http://twomonkeys.live:80/Victor1234/Victor1234/585994
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION CHICAGO
-http://twomonkeys.live:80/Victor1234/Victor1234/585995
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION DALLAS
-http://twomonkeys.live:80/Victor1234/Victor1234/585996
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION HOUSTON
-http://twomonkeys.live:80/Victor1234/Victor1234/585997
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION LOS ANGELES
-http://twomonkeys.live:80/Victor1234/Victor1234/585998
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION BOSTON
-http://twomonkeys.live:80/Victor1234/Victor1234/586087
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION EL PASO
-http://twomonkeys.live:80/Victor1234/Victor1234/586053
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/1y46o" group-title="UNIVISION", UNIVISION TLNOVELAS
-http://twomonkeys.live:80/Victor1234/Victor1234/586000
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM LATINO" tvg-logo="https://docdog.top/logo/countries/iran/GEMLATINO.jpg" group-title="ASIA | IRAN",IR: GEM LATINO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/53751
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="LAME | ARGENTINA",ARG: A&E
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10070
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA",ARG: AMC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10071
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="LAME | ARGENTINA",ARG: AMERICA 24
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10073
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA",ARG: AMERICA TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10072
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ARGENTINISIMA" tvg-logo="https://docdog.top/logo/countries/argentina/ARGENTINISIMA.png" group-title="LAME | ARGENTINA",ARG: ARGENTINISIMA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10074
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="LAME | ARGENTINA",ARG: AXN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10075
+#EXTINF:-1 tvg-id="" tvg-name="ARG: BABY TV" tvg-logo="https://docdog.top/logo/countries/argentina/babytv.png" group-title="LAME | ARGENTINA",ARG: BABY TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10076
+#EXTINF:-1 tvg-id="" tvg-name="ARG: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/argentina/boomeranglow.png" group-title="LAME | ARGENTINA",ARG: BOOMERANG
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9988
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="LAME | ARGENTINA",ARG: C5N
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9989
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA",ARG: EL TRECE (CANAL 13)
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10077
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 21" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="LAME | ARGENTINA",ARG: CANAL 21
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9991
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="LAME | ARGENTINA",ARG: CANAL 26
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9992
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26 NOTICIAS" tvg-logo="https://docdog.top/logo/countries//argentina/canal-26-ar.png" group-title="LAME | ARGENTINA",ARG: CANAL 26 NOTICIAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10091
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 4" tvg-logo="https://docdog.top/logo/countries//argentina/canal-4-ar.png" group-title="LAME | ARGENTINA",ARG: CANAL 4
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10080
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="LAME | ARGENTINA",ARG: EL NUEVE (CANAL 9)
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9990
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 SALTA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="LAME | ARGENTINA",ARG: CANAL 9 SALTA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10081
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA CIUDAD" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELACIUDAD.jpg" group-title="LAME | ARGENTINA",ARG: CANAL DE LA CIUDAD
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9993
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA MUSICA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELAMUSICA.jpg" group-title="LAME | ARGENTINA",ARG: CANAL DE LA MUSICA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10096
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/argentina/cartoonnetworkwest.png" group-title="LAME | ARGENTINA",ARG: CARTOON NETWORK
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9984
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEAR" tvg-logo="https://docdog.top/logo/countries//argentina/cine-ar-ar.png" group-title="LAME | ARGENTINA",ARG: CINEAR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9994
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA",ARG: CINECANAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9995
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="LAME | ARGENTINA",ARG: CINEMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9996
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CIUDAD MAGAZINE" tvg-logo="https://docdog.top/logo/countries/argentina/ciudadmagazine.png" group-title="LAME | ARGENTINA",ARG: CIUDAD MAGAZINE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9997
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN" tvg-logo="https://docdog.top/logo/countries/argentina/cnnespanol.png" group-title="LAME | ARGENTINA",ARG: CNN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9999
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN EN ESPANIOL" tvg-logo="https://docdog.top/logo/countries//argentina/cnn-en-espanol-ar.png" group-title="LAME | ARGENTINA",ARG: CNN EN ESPANIOL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9998
+#EXTINF:-1 tvg-id="" tvg-name="ARG: COMEDY" tvg-logo="https://docdog.top/logo/countries/argentina/KSCOMEDY.jpg" group-title="LAME | ARGENTINA",ARG: COMEDY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10000
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="LAME | ARGENTINA",ARG: CRONICA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10001
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="LAME | ARGENTINA",ARG: DEPORTV FHD
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10002
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA",ARG: DIRECTV SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10083
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="LAME | ARGENTINA",ARG: DIRECTV SPORTS +
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10097
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="LAME | ARGENTINA",ARG: DIRECTV SPORTS 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10082
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="LAME | ARGENTINA",ARG: DISNEY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10003
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY JUNIOR" tvg-logo="https://asiagrandiptv.us/logo/disneyjunior.png" group-title="LAME | ARGENTINA",ARG: DISNEY JUNIOR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10004
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY XD" tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="LAME | ARGENTINA",ARG: DISNEY XD
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10005
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DW" tvg-logo="https://docdog.top/logo/countries/argentina/dw.png" group-title="LAME | ARGENTINA",ARG: DW
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10006
+#EXTINF:-1 tvg-id="" tvg-name="ARG: E!" tvg-logo="https://docdog.top/logo/countries/argentina/E!.png" group-title="LAME | ARGENTINA",ARG: E!
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10007
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO" tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="LAME | ARGENTINA",ARG: ENCUENTRO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10008
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10011
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10009
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN 3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10010
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN+
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10012
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA",ARG: EUROPA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10013
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM &AMP; ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="LAME | ARGENTINA",ARG: FILM &AMP; ARTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10014
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/argentina/foxnews.png" group-title="LAME | ARGENTINA",ARG: FOX NEWS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10016
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS 1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9982
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9983
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS 3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10084
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="LAME | ARGENTINA",ARG: FOX SPORTS PREMIUM
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9981
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="LAME | ARGENTINA",ARG: FX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10017
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GARAGE" tvg-logo="https://docdog.top/logo/countries/argentina/garagetv.png" group-title="LAME | ARGENTINA",ARG: GARAGE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10018
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GLITZ" tvg-logo="https://docdog.top/logo/countries//argentina/glitz-ar.png" group-title="LAME | ARGENTINA",ARG: GLITZ
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10019
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="LAME | ARGENTINA",ARG: GOLF CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10020
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GOURMET" tvg-logo="https://docdog.top/logo/countries//argentina/el-gourmet-ar.png" group-title="LAME | ARGENTINA",ARG: GOURMET
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10021
+#EXTINF:-1 tvg-id="" tvg-name="ARG: H2" tvg-logo="https://docdog.top/logo/countries/argentina/H2.jpg" group-title="LAME | ARGENTINA",ARG: H2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10022
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-ar.png" group-title="LAME | ARGENTINA",ARG: HBO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10025
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="LAME | ARGENTINA",ARG: HBO 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10023
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="LAME | ARGENTINA",ARG: HBO FAMILY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10024
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-signature-ar.png" group-title="LAME | ARGENTINA",ARG: HBO SIGNATURE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10027
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HISTORY" tvg-logo="https://docdog.top/logo/countries//argentina/history-channel-ar.png" group-title="LAME | ARGENTINA",ARG: HISTORY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10028
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HTV" tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="LAME | ARGENTINA",ARG: HTV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10029
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LIFETIME" tvg-logo="https://docdog.top/logo/countries//argentina/lifetime-ar.png" group-title="LAME | ARGENTINA",ARG: LIFETIME
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10030
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="LAME | ARGENTINA",ARG: LN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10031
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAS CHIC" tvg-logo="https://docdog.top/logo/countries//argentina/mas-chic-ar.png" group-title="LAME | ARGENTINA",ARG: MAS CHIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10032
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi" tvg-logo="" group-title="LAME | ARGENTINA",ARG: HBO Mundi
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10033
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO XTREME" tvg-logo="" group-title="LAME | ARGENTINA",ARG: HBO XTREME
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10034
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAX UP" tvg-logo="https://docdog.top/logo/countries/argentina/maxup.png" group-title="LAME | ARGENTINA",ARG: MAX UP
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10035
+#EXTINF:-1 tvg-id="" tvg-name="ARG: METRO" tvg-logo="https://docdog.top/logo/countries//argentina/metro-ar.png" group-title="LAME | ARGENTINA",ARG: METRO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10036
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-ar.png" group-title="LAME | ARGENTINA",ARG: MTV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10037
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="LAME | ARGENTINA",ARG: MTV HITS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10038
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MUCH MUSIC" tvg-logo="https://docdog.top/logo/countries/argentina/muchmusic.png" group-title="LAME | ARGENTINA",ARG: MUCH MUSIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9985
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MUSIC TOP" tvg-logo="https://docdog.top/logo/countries/argentina/musictop.png" group-title="LAME | ARGENTINA",ARG: MUSIC TOP
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9986
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO" tvg-logo="https://docdog.top/logo/countries//argentina/nat-geo-kids-ar.png" group-title="LAME | ARGENTINA",ARG: NAT GEO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10039
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA",ARG: NICKELODEON
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10041
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON JR" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA",ARG: NICKELODEON JR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10042
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PAKA PAKA" tvg-logo="https://docdog.top/logo/countries//argentina/pakapaka-ar.png" group-title="LAME | ARGENTINA",ARG: PAKA PAKA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10043
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="LAME | ARGENTINA",ARG: PARAMOUNT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10044
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PX SPORTS" tvg-logo="https://asiagrandiptv.us/logo/pxsports.png" group-title="LAME | ARGENTINA",ARG: PX SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10098
+#EXTINF:-1 tvg-id="" tvg-name="ARG: QUIERO MUSICA" tvg-logo="https://docdog.top/logo/countries//argentina/quiero-musica-en-mi-idioma-ar.png" group-title="LAME | ARGENTINA",ARG: QUIERO MUSICA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9987
+#EXTINF:-1 tvg-id="" tvg-name="ARG: RAI" tvg-logo="https://docdog.top/logo/countries/argentina/rai.png" group-title="LAME | ARGENTINA",ARG: RAI
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10045
+#EXTINF:-1 tvg-id="" tvg-name="ARG: RURAL" tvg-logo="https://docdog.top/logo/countries//argentina/canal-rural-ar.png" group-title="LAME | ARGENTINA",ARG: RURAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10046
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SENADO" tvg-logo="https://docdog.top/logo/countries/argentina/SENADO.png" group-title="LAME | ARGENTINA",ARG: SENADO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10047
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="LAME | ARGENTINA",ARG: SONY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10048
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="LAME | ARGENTINA",ARG: SPACE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10049
+#EXTINF:-1 tvg-id="" tvg-name="ARG: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA",ARG: STUDIO UNIVERSAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10050
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="LAME | ARGENTINA",ARG: SYFY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10051
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS VERY FUNNY" tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="LAME | ARGENTINA",ARG: TBS VERY FUNNY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10052
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="https://docdog.top/logo/countries//argentina/tcm-ar.png" group-title="LAME | ARGENTINA",ARG: TCM
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10053
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA",ARG: TELEFE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10054
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="LAME | ARGENTINA",ARG: TELEMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10055
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="LAME | ARGENTINA",ARG: TELEMUNDO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10056
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="LAME | ARGENTINA",ARG: TELESUR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10057
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="LAME | ARGENTINA",ARG: TELEVISION PUBLICA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10089
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="LAME | ARGENTINA",ARG: TN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10058
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="LAME | ARGENTINA",ARG: TNT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10059
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="LAME | ARGENTINA",ARG: TNT SERIES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10060
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="LAME | ARGENTINA",ARG: TNT SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9980
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TOONCAST" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="LAME | ARGENTINA",ARG: TOONCAST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10061
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TRUTV" tvg-logo="https://docdog.top/logo/countries//argentina/tru-tv-ar.png" group-title="LAME | ARGENTINA",ARG: TRUTV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10062
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA",ARG: TV PUBLICA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10063
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV5 MONDE" tvg-logo="https://docdog.top/logo/countries/argentina/TVMONDE.png" group-title="LAME | ARGENTINA",ARG: TV5 MONDE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10064
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TVE" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="LAME | ARGENTINA",ARG: TVE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10065
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Tyc sports Internacional" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA",ARG: Tyc sports Internacional
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10085
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA",ARG: TYC SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/9979
+#EXTINF:-1 tvg-id="" tvg-name="ARG: UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA",ARG: UNIVERSAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10066
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VH1" tvg-logo="https://docdog.top/logo/countries/argentina/vh1.png" group-title="LAME | ARGENTINA",ARG: VH1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10067
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER" tvg-logo="https://docdog.top/logo/countries//argentina/volver-ar.png" group-title="LAME | ARGENTINA",ARG: VOLVER
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10068
+#EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="LAME | ARGENTINA",ARG: WARNER
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10069
+#EXTINF:-1 tvg-id="" tvg-name="ARG: STAR CHANNEL" tvg-logo="" group-title="LAME | ARGENTINA",ARG: STAR CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52469
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="LAME | ARGENTINA",ARG: ESPN PREMIUM
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52470
+#EXTINF:-1 tvg-id="" tvg-name="LA: CLARO MUSIC" tvg-logo="https://docdog.top/logo/countries/latino/claromusica.png" group-title="LAME | LATINO",LA: CLARO MUSIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18385
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 1" tvg-logo="https://docdog.top/logo/countries/latino/starsports1.png" group-title="LAME | LATINO",LA: STAR SPORTS 1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18386
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS" tvg-logo="https://docdog.top/logo/countries/latino/starsports.png" group-title="LAME | LATINO",LA: STAR SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18387
+#EXTINF:-1 tvg-id="" tvg-name="LA: TIGO SPORT CR 1" tvg-logo="https://docdog.top/logo/countries/latino/tigosports1.png" group-title="LAME | LATINO",LA: TIGO SPORT CR 1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18388
+#EXTINF:-1 tvg-id="" tvg-name="LA: EC_DIRECTV SPORT" tvg-logo="https://docdog.top/logo/countries/latino/EC_DIRECTVSPORT.png" group-title="LAME | LATINO",LA: EC_DIRECTV SPORT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18390
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORT2 CHILE" tvg-logo="https://docdog.top/logo/countries/latino/STARSPORT2CHILE.png" group-title="LAME | LATINO",LA: STAR SPORT2 CHILE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18392
+#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECT SPORTS+" tvg-logo="https://docdog.top/logo/countries/latino/DIRECTSPORTS+.png" group-title="LAME | LATINO",LA: DIRECT SPORTS+
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18393
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT SPORTS (ARG)" tvg-logo="https://docdog.top/logo/countries/latino/TNTSPORTS.png" group-title="LAME | LATINO",LA: TNT SPORTS (ARG)
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18394
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 3" tvg-logo="https://docdog.top/logo/countries/latino/starsports3.png" group-title="LAME | LATINO",LA: STAR SPORTS 3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18395
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR SPORTS 2" tvg-logo="https://docdog.top/logo/countries/latino/starsports2.png" group-title="LAME | LATINO",LA: STAR SPORTS 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18396
+#EXTINF:-1 tvg-id="" tvg-name="LA: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/latino/cartoonnetwork.png" group-title="LAME | LATINO",LA: CARTOON NETWORK
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18397
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/discoverychannel.png" group-title="LAME | LATINO",LA: DISCOVERY CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18398
+#EXTINF:-1 tvg-id="" tvg-name="LA: 5 STARMAX" tvg-logo="https://docdog.top/logo/countries/latino/5starmax.png" group-title="LAME | LATINO",LA: 5 STARMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18399
+#EXTINF:-1 tvg-id="" tvg-name="LA: ACTION MAX" tvg-logo="https://docdog.top/logo/countries/latino/actionmax.png" group-title="LAME | LATINO",LA: ACTION MAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18400
+#EXTINF:-1 tvg-id="" tvg-name="LA: CANAL 13 CHILE" tvg-logo="https://docdog.top/logo/countries/latino/CANALCHILE.png" group-title="LAME | LATINO",LA: CANAL 13 CHILE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18401
+#EXTINF:-1 tvg-id="" tvg-name="LA: CARACOL" tvg-logo="https://docdog.top/logo/countries/latino/caracol.png" group-title="LAME | LATINO",LA: CARACOL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18402
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 28 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema28ppv.png" group-title="LAME | LATINO",LA: CINEMA 28 PPV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18403
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 30 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema30ppv.png" group-title="LAME | LATINO",LA: CINEMA 30 PPV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18404
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 31 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema31ppv.png" group-title="LAME | LATINO",LA: CINEMA 31 PPV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18405
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 33 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema33ppv.png" group-title="LAME | LATINO",LA: CINEMA 33 PPV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18406
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 36 PPV" tvg-logo="https://docdog.top/logo/countries/latino/cinema36ppv.png" group-title="LAME | LATINO",LA: CINEMA 36 PPV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18407
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA 37 PPV" tvg-logo="https://docdog.top/logo/countries/latino/CINEMAPPV.png" group-title="LAME | LATINO",LA: CINEMA 37 PPV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18408
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMAX ACTION" tvg-logo="https://docdog.top/logo/countries/latino/cinemaxaction.png" group-title="LAME | LATINO",LA: CINEMAX ACTION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18411
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMAX EAST" tvg-logo="https://docdog.top/logo/countries/latino/CINEMAXEASTHD1080P.jpg" group-title="LAME | LATINO",LA: CINEMAX EAST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18412
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMAX" tvg-logo="https://docdog.top/logo/countries/latino/cinemax.png" group-title="LAME | LATINO",LA: CINEMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18413
+#EXTINF:-1 tvg-id="" tvg-name="LA: CURACAO_TV DIRECT 13" tvg-logo="https://docdog.top/logo/countries/latino/CURACAO_TVDIRECT.jpg" group-title="LAME | LATINO",LA: CURACAO_TV DIRECT 13
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18415
+#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECTVSP 1" tvg-logo="https://docdog.top/logo/countries/latino/directvsports.png" group-title="LAME | LATINO",LA: DIRECTVSP 1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18416
+#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECTVSP 2" tvg-logo="https://docdog.top/logo/countries/latino/directvsports2.png" group-title="LAME | LATINO",LA: DIRECTVSP 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18417
+#EXTINF:-1 tvg-id="" tvg-name="LA: EC_GOLTV ECUADOR" tvg-logo="https://docdog.top/logo/countries/latino/EC_GOLTVECUADOR.jpg" group-title="LAME | LATINO",LA: EC_GOLTV ECUADOR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18418
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2" tvg-logo="https://docdog.top/logo/countries/latino/hbo2.png" group-title="LAME | LATINO",LA: HBO 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18419
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2 WEST" tvg-logo="https://docdog.top/logo/countries/latino/hbo2west.png" group-title="LAME | LATINO",LA: HBO 2 WEST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18420
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries/latino/hbofamily.png" group-title="LAME | LATINO",LA: HBO FAMILY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18421
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO" tvg-logo="https://docdog.top/logo/countries/latino/hbo.png" group-title="LAME | LATINO",LA: HBO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18422
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO PLUS" tvg-logo="https://docdog.top/logo/countries/latino/hboplus.png" group-title="LAME | LATINO",LA: HBO PLUS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18423
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO PLUS WEST" tvg-logo="https://docdog.top/logo/countries/latino/hbopluswest.png" group-title="LAME | LATINO",LA: HBO PLUS WEST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18424
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries/latino/hbosignature.png" group-title="LAME | LATINO",LA: HBO SIGNATURE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18425
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO WEST" tvg-logo="https://docdog.top/logo/countries/latino/hbowest.png" group-title="LAME | LATINO",LA: HBO WEST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18426
+#EXTINF:-1 tvg-id="" tvg-name="LA: INDIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/indieplex.png" group-title="LAME | LATINO",LA: INDIEPLEX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18427
+#EXTINF:-1 tvg-id="" tvg-name="LA: MIAMI TV" tvg-logo="https://docdog.top/logo/countries/latino/miamitv.png" group-title="LAME | LATINO",LA: MIAMI TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18428
+#EXTINF:-1 tvg-id="" tvg-name="LA: MOREMAX" tvg-logo="https://docdog.top/logo/countries/latino/moremax.png" group-title="LAME | LATINO",LA: MOREMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18429
+#EXTINF:-1 tvg-id="" tvg-name="LA: MOVIEPLEX" tvg-logo="https://docdog.top/logo/countries/latino/movieplex.png" group-title="LAME | LATINO",LA: MOVIEPLEX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18430
+#EXTINF:-1 tvg-id="" tvg-name="LA: OUTERMAX" tvg-logo="https://docdog.top/logo/countries/latino/outermax.png" group-title="LAME | LATINO",LA: OUTERMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18431
+#EXTINF:-1 tvg-id="" tvg-name="LA: PAN_:TV MAX 9" tvg-logo="" group-title="LAME | LATINO",LA: PAN_:TV MAX 9
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18432
+#EXTINF:-1 tvg-id="" tvg-name="LA: PAN_RPC 4" tvg-logo="https://docdog.top/logo/countries/latino/PAN_RPC.png" group-title="LAME | LATINO",LA: PAN_RPC 4
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18433
+#EXTINF:-1 tvg-id="" tvg-name="LA: PAN_SER TV CANAL 11" tvg-logo="https://docdog.top/logo/countries/latino/PAN_SERTVCANAL1.png" group-title="LAME | LATINO",LA: PAN_SER TV CANAL 11
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18434
+#EXTINF:-1 tvg-id="" tvg-name="LA: PAN TELEMETRO 13" tvg-logo="https://docdog.top/logo/countries/latino/PANTELEMETRO.png" group-title="LAME | LATINO",LA: PAN TELEMETRO 13
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18435
+#EXTINF:-1 tvg-id="" tvg-name="LA: PAN_TVN 2" tvg-logo="https://docdog.top/logo/countries/latino/PAN_TVN.png" group-title="LAME | LATINO",LA: PAN_TVN 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18436
+#EXTINF:-1 tvg-id="" tvg-name="LA: RCN" tvg-logo="https://docdog.top/logo/countries/latino/rcn.png" group-title="LAME | LATINO",LA: RCN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18437
+#EXTINF:-1 tvg-id="" tvg-name="LA: RD TELEFUTURO" tvg-logo="https://docdog.top/logo/countries/latino/RDTELEFUTURO.jpg" group-title="LAME | LATINO",LA: RD TELEFUTURO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18438
+#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME BEYOND" tvg-logo="https://docdog.top/logo/countries/latino/showtimebeyond.png" group-title="LAME | LATINO",LA: SHOWTIME BEYOND
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18439
+#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME EAST" tvg-logo="https://docdog.top/logo/countries/latino/SHOWTIMEEASTHD1080P.png" group-title="LAME | LATINO",LA: SHOWTIME EAST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18440
+#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME" tvg-logo="https://docdog.top/logo/countries/latino/showtime.png" group-title="LAME | LATINO",LA: SHOWTIME
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18441
+#EXTINF:-1 tvg-id="" tvg-name="LA: SHOWTIME WEST" tvg-logo="https://docdog.top/logo/countries/latino/showtimewest.png" group-title="LAME | LATINO",LA: SHOWTIME WEST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18442
+#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ CINEMA" tvg-logo="https://docdog.top/logo/countries/latino/starzcinema.png" group-title="LAME | LATINO",LA: STARZ CINEMA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18443
+#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ CINEMA WEST" tvg-logo="https://docdog.top/logo/countries/latino/starzcinemawest.png" group-title="LAME | LATINO",LA: STARZ CINEMA WEST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18444
+#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ COMEDY" tvg-logo="https://docdog.top/logo/countries/latino/starzcomedy.png" group-title="LAME | LATINO",LA: STARZ COMEDY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18445
+#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ EAST" tvg-logo="https://docdog.top/logo/countries/latino/STARZEASTHD1080P.jpg" group-title="LAME | LATINO",LA: STARZ EAST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18446
+#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ ENCORE CLASSIC" tvg-logo="https://docdog.top/logo/countries/latino/starzencoreclassic.png" group-title="LAME | LATINO",LA: STARZ ENCORE CLASSIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18448
+#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ ENCORE FAMILY" tvg-logo="https://docdog.top/logo/countries/latino/starzencorefamily.png" group-title="LAME | LATINO",LA: STARZ ENCORE FAMILY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18449
+#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ" tvg-logo="https://docdog.top/logo/countries/latino/starz.png" group-title="LAME | LATINO",LA: STARZ
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18452
+#EXTINF:-1 tvg-id="" tvg-name="LA: STARZ KIDS & FAMILY" tvg-logo="https://docdog.top/logo/countries/latino/STARZKIDSFAMILY.png" group-title="LAME | LATINO",LA: STARZ KIDS & FAMILY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18453
+#EXTINF:-1 tvg-id="" tvg-name="LA: SUR_PE_ANT TV" tvg-logo="https://docdog.top/logo/countries/latino/SUR_PE_ANTTV.jpg" group-title="LAME | LATINO",LA: SUR_PE_ANT TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18455
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/latino/telemundoboston.png" group-title="LAME | LATINO",LA: TELEMUNDO BOSTON
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18456
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO CHICAGO" tvg-logo="https://docdog.top/logo/countries/latino/telemundochicago.png" group-title="LAME | LATINO",LA: TELEMUNDO CHICAGO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18457
+#EXTINF:-1 tvg-id="" tvg-name="LA: TIGO PARAGUAY1" tvg-logo="https://docdog.top/logo/countries/latino/tigoparaguay2.png" group-title="LAME | LATINO",LA: TIGO PARAGUAY1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18458
+#EXTINF:-1 tvg-id="" tvg-name="LA: TIGO PARAGUAY2" tvg-logo="https://docdog.top/logo/countries/latino/tigoparaguay2.png" group-title="LAME | LATINO",LA: TIGO PARAGUAY2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18459
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS (NEW YORK)" tvg-logo="https://docdog.top/logo/countries/latino/unimasoeste.png" group-title="LAME | LATINO",LA: UNIMAS (NEW YORK)
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18460
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS GEORGIA" tvg-logo="https://docdog.top/logo/countries/latino/UNIMASGEORGIA.png" group-title="LAME | LATINO",LA: UNIMAS GEORGIA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18461
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION (NEW YORK)" tvg-logo="https://docdog.top/logo/countries/latino/UNIVISION_NEWYORK.jpg" group-title="LAME | LATINO",LA: UNIVISION (NEW YORK)
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18462
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION DALLAS" tvg-logo="https://docdog.top/logo/countries/latino/univisiondallas.png" group-title="LAME | LATINO",LA: UNIVISION DALLAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18463
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION TELENOVELAS" tvg-logo="https://docdog.top/logo/countries/latino/univisiontelenovelas.png" group-title="LAME | LATINO",LA: UNIVISION TELENOVELAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18464
+#EXTINF:-1 tvg-id="" tvg-name="LA: UR_VTV" tvg-logo="" group-title="LAME | LATINO",LA: UR_VTV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18465
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO LAMPA" tvg-logo="" group-title="LAME | LATINO",LA: TELEMUNDO LAMPA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18468
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY CIVILIZATION" tvg-logo="https://docdog.top/logo/countries/latino/discoverycivilization.png" group-title="LAME | LATINO",LA: DISCOVERY CIVILIZATION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18470
+#EXTINF:-1 tvg-id="" tvg-name="LA: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/latino/bbcworldnews.png" group-title="LAME | LATINO",LA: BBC WORLD NEWS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18471
+#EXTINF:-1 tvg-id="" tvg-name="LA: FUTV (COSTA RICA)" tvg-logo="" group-title="LAME | LATINO",LA: FUTV (COSTA RICA)
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18472
+#EXTINF:-1 tvg-id="" tvg-name="LA: EL GARAGE TV" tvg-logo="https://docdog.top/logo/countries/latino/elgaragetv.png" group-title="LAME | LATINO",LA: EL GARAGE TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18473
+#EXTINF:-1 tvg-id="" tvg-name="LA: RD TELEMICRO" tvg-logo="https://docdog.top/logo/countries/latino/RDTELEMICRO.jpg" group-title="LAME | LATINO",LA: RD TELEMICRO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18475
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS ESTE" tvg-logo="https://docdog.top/logo/countries/latino/UNIMASESTE.png" group-title="LAME | LATINO",LA: UNIMAS ESTE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18477
+#EXTINF:-1 tvg-id="" tvg-name="LA: GALAVISION" tvg-logo="https://docdog.top/logo/countries/latino/galavision.png" group-title="LAME | LATINO",LA: GALAVISION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18478
+#EXTINF:-1 tvg-id="" tvg-name="LA: NTN 24" tvg-logo="https://docdog.top/logo/countries/latino/ntn24.png" group-title="LAME | LATINO",LA: NTN 24
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18479
+#EXTINF:-1 tvg-id="" tvg-name="LA: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/latino/sundance.png" group-title="LAME | LATINO",LA: SUNDANCE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18480
+#EXTINF:-1 tvg-id="" tvg-name="LA: NICK 2" tvg-logo="https://docdog.top/logo/countries/latino/nick2.png" group-title="LAME | LATINO",LA: NICK 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18481
+#EXTINF:-1 tvg-id="" tvg-name="LA: MAX UP" tvg-logo="https://docdog.top/logo/countries/latino/maxup.png" group-title="LAME | LATINO",LA: MAX UP
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18482
+#EXTINF:-1 tvg-id="" tvg-name="LA: MASCHIC" tvg-logo="https://docdog.top/logo/countries/latino/maschic.png" group-title="LAME | LATINO",LA: MASCHIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18483
+#EXTINF:-1 tvg-id="" tvg-name="LA: ISAT" tvg-logo="https://docdog.top/logo/countries/latino/isat.png" group-title="LAME | LATINO",LA: ISAT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18484
+#EXTINF:-1 tvg-id="" tvg-name="LA: HTV" tvg-logo="" group-title="LAME | LATINO",LA: HTV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18485
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY THEATER" tvg-logo="https://docdog.top/logo/countries/latino/discoverytheater.png" group-title="LAME | LATINO",LA: DISCOVERY THEATER
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18486
+#EXTINF:-1 tvg-id="" tvg-name="LA: TRU TV" tvg-logo="https://docdog.top/logo/countries/latino/trutv.png" group-title="LAME | LATINO",LA: TRU TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18487
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEMUNDO INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/latino/telemundointernacional.png" group-title="LAME | LATINO",LA: TELEMUNDO INTERNACIONAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18488
+#EXTINF:-1 tvg-id="" tvg-name="LA: TBS" tvg-logo="https://docdog.top/logo/countries/latino/tbs.png" group-title="LAME | LATINO",LA: TBS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18489
+#EXTINF:-1 tvg-id="" tvg-name="LA: GOLDEN PREMIER" tvg-logo="https://docdog.top/logo/countries/latino/goldenpremier.png" group-title="LAME | LATINO",LA: GOLDEN PREMIER
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18490
+#EXTINF:-1 tvg-id="" tvg-name="LA: GLITZ" tvg-logo="https://docdog.top/logo/countries/latino/glitz.png" group-title="LAME | LATINO",LA: GLITZ
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18491
+#EXTINF:-1 tvg-id="" tvg-name="LA: CLARO CINEMA" tvg-logo="https://docdog.top/logo/countries/latino/clarocinema.png" group-title="LAME | LATINO",LA: CLARO CINEMA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18492
+#EXTINF:-1 tvg-id="" tvg-name="LA: CLARO" tvg-logo="https://docdog.top/logo/countries/latino/clarocinema.png" group-title="LAME | LATINO",LA: CLARO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18493
+#EXTINF:-1 tvg-id="" tvg-name="LA: WARNER CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/warnerchannel.png" group-title="LAME | LATINO",LA: WARNER CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18494
+#EXTINF:-1 tvg-id="" tvg-name="LA: VH1" tvg-logo="https://docdog.top/logo/countries/latino/vh1.png" group-title="LAME | LATINO",LA: VH1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18495
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT SERIES" tvg-logo="https://docdog.top/logo/countries/latino/tntseries.png" group-title="LAME | LATINO",LA: TNT SERIES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18496
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT" tvg-logo="https://docdog.top/logo/countries/latino/tnt.png" group-title="LAME | LATINO",LA: TNT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18497
+#EXTINF:-1 tvg-id="" tvg-name="LA: TCM" tvg-logo="https://docdog.top/logo/countries/latino/tcm.png" group-title="LAME | LATINO",LA: TCM
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18498
+#EXTINF:-1 tvg-id="" tvg-name="LA: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries/latino/studiouniversal.png" group-title="LAME | LATINO",LA: STUDIO UNIVERSAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18499
+#EXTINF:-1 tvg-id="" tvg-name="LA: SPACE" tvg-logo="https://docdog.top/logo/countries/latino/space.png" group-title="LAME | LATINO",LA: SPACE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18500
+#EXTINF:-1 tvg-id="" tvg-name="LA: SONY" tvg-logo="https://docdog.top/logo/countries/latino/sony.png" group-title="LAME | LATINO",LA: SONY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18501
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINEMA DINAMITA" tvg-logo="https://docdog.top/logo/countries/latino/cinemadinamita.png" group-title="LAME | LATINO",LA: CINEMA DINAMITA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18502
+#EXTINF:-1 tvg-id="" tvg-name="LA: A&E" tvg-logo="https://docdog.top/logo/countries/latino/AE.jpg" group-title="LAME | LATINO",LA: A&E
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18503
+#EXTINF:-1 tvg-id="" tvg-name="LA: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries/latino/paramount.png" group-title="LAME | LATINO",LA: PARAMOUNT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18504
+#EXTINF:-1 tvg-id="" tvg-name="LA: LIFETIME" tvg-logo="https://docdog.top/logo/countries/latino/lifetime.png" group-title="LAME | LATINO",LA: LIFETIME
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18505
+#EXTINF:-1 tvg-id="" tvg-name="LA: GOLDEN" tvg-logo="https://docdog.top/logo/countries/latino/golden.png" group-title="LAME | LATINO",LA: GOLDEN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18506
+#EXTINF:-1 tvg-id="" tvg-name="LA: AXN" tvg-logo="https://docdog.top/logo/countries/latino/axn.png" group-title="LAME | LATINO",LA: AXN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18507
+#EXTINF:-1 tvg-id="" tvg-name="LA: AMC" tvg-logo="https://docdog.top/logo/countries/latino/amc.png" group-title="LAME | LATINO",LA: AMC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18508
+#EXTINF:-1 tvg-id="" tvg-name="LA: FX" tvg-logo="https://docdog.top/logo/countries/latino/fx.png" group-title="LAME | LATINO",LA: FX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18509
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR MOVIES" tvg-logo="https://docdog.top/logo/countries/latino/starmovies.png" group-title="LAME | LATINO",LA: STAR MOVIES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18510
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR CLASSIC" tvg-logo="https://docdog.top/logo/countries/latino/starclassics.png" group-title="LAME | LATINO",LA: STAR CLASSIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18511
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR ACTION" tvg-logo="https://docdog.top/logo/countries/latino/staraction.png" group-title="LAME | LATINO",LA: STAR ACTION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18512
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR" tvg-logo="https://docdog.top/logo/countries/latino/star.png" group-title="LAME | LATINO",LA: STAR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18513
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="LAME | LATINO",LA: ESPN 3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18514
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="https://docdog.top/logo/countries/latino/espn2.png" group-title="LAME | LATINO",LA: ESPN 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18515
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="https://docdog.top/logo/countries/latino/espn.png" group-title="LAME | LATINO",LA: ESPN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18516
+#EXTINF:-1 tvg-id="" tvg-name="LA: SYFY" tvg-logo="https://docdog.top/logo/countries/latino/syfy.png" group-title="LAME | LATINO",LA: SYFY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18517
+#EXTINF:-1 tvg-id="" tvg-name="LA: TLC" tvg-logo="https://docdog.top/logo/countries/latino/tlc.png" group-title="LAME | LATINO",LA: TLC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18518
+#EXTINF:-1 tvg-id="" tvg-name="LA: H2" tvg-logo="https://docdog.top/logo/countries/latino/h2.png" group-title="LAME | LATINO",LA: H2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18519
+#EXTINF:-1 tvg-id="" tvg-name="LA: ID" tvg-logo="https://docdog.top/logo/countries/latino/ID.png" group-title="LAME | LATINO",LA: ID
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18520
+#EXTINF:-1 tvg-id="" tvg-name="LA: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/latino/animalplanet.png" group-title="LAME | LATINO",LA: ANIMAL PLANET
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18521
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY TURBO" tvg-logo="https://docdog.top/logo/countries/latino/discoveryturbo.png" group-title="LAME | LATINO",LA: DISCOVERY TURBO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18522
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/latino/discoveryscience.png" group-title="LAME | LATINO",LA: DISCOVERY SCIENCE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18523
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY KIDS" tvg-logo="https://docdog.top/logo/countries/latino/discoverykids.png" group-title="LAME | LATINO",LA: DISCOVERY KIDS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18524
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY HOME & HEALTH" tvg-logo="" group-title="LAME | LATINO",LA: DISCOVERY HOME & HEALTH
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18525
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/latino/discoveryinvestigation.png" group-title="LAME | LATINO",LA: DISCOVERY INVESTIGATION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18526
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/latino/natgeowild.png" group-title="LAME | LATINO",LA: NAT GEO WILD
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18527
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO" tvg-logo="https://docdog.top/logo/countries/latino/natgeo.png" group-title="LAME | LATINO",LA: NAT GEO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18528
+#EXTINF:-1 tvg-id="" tvg-name="LA: CINE CANAL" tvg-logo="https://docdog.top/logo/countries/latino/cinecanal.png" group-title="LAME | LATINO",LA: CINE CANAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18529
+#EXTINF:-1 tvg-id="" tvg-name="LA: CANAL 11" tvg-logo="https://docdog.top/logo/countries/latino/canal11.png" group-title="LAME | LATINO",LA: CANAL 11
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18531
+#EXTINF:-1 tvg-id="" tvg-name="LA: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/latino/boomerang.png" group-title="LAME | LATINO",LA: BOOMERANG
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18532
+#EXTINF:-1 tvg-id="" tvg-name="LA: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/latino/comedycentral.png" group-title="LAME | LATINO",LA: COMEDY CENTRAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18533
+#EXTINF:-1 tvg-id="" tvg-name="LA: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/latino/nickelodeon.png" group-title="LAME | LATINO",LA: NICKELODEON
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18534
+#EXTINF:-1 tvg-id="" tvg-name="LA: NICK JR" tvg-logo="https://docdog.top/logo/countries/latino/nickjr.png" group-title="LAME | LATINO",LA: NICK JR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18535
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY XD" tvg-logo="https://docdog.top/logo/countries/latino/disneyxd.png" group-title="LAME | LATINO",LA: DISNEY XD
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18536
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="LAME | LATINO",LA: DISNEY JR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18537
+#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="LAME | LATINO",LA: DISNEY CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18538
+#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA CORAZON" tvg-logo="https://docdog.top/logo/countries/latino/aztecacorazon.png" group-title="LAME | LATINO",LA: AZTECA CORAZON
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18539
+#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA CLIC" tvg-logo="https://docdog.top/logo/countries/latino/aztecaclick.png" group-title="LAME | LATINO",LA: AZTECA CLIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18540
+#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA 7" tvg-logo="https://docdog.top/logo/countries/latino/azteca7.png" group-title="LAME | LATINO",LA: AZTECA 7
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18541
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVERSAL CHANNEL" tvg-logo="https://docdog.top/logo/countries/latino/universalchannel.png" group-title="LAME | LATINO",LA: UNIVERSAL CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18542
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNICABLE" tvg-logo="https://docdog.top/logo/countries/latino/unicable.png" group-title="LAME | LATINO",LA: UNICABLE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18543
+#EXTINF:-1 tvg-id="" tvg-name="LA: STAR PREMIUM COMEDY" tvg-logo="https://docdog.top/logo/countries/latino/STARPREMIUMCOMEDY.jpg" group-title="LAME | LATINO",LA: STAR PREMIUM COMEDY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18545
+#EXTINF:-1 tvg-id="" tvg-name="LA: ECO TV" tvg-logo="https://docdog.top/logo/countries/latino/ecotv.png" group-title="LAME | LATINO",LA: ECO TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18546
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELESISTEMA" tvg-logo="https://docdog.top/logo/countries/latino/telesistema.png" group-title="LAME | LATINO",LA: TELESISTEMA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18547
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS" tvg-logo="https://docdog.top/logo/countries/latino/unimas.png" group-title="LAME | LATINO",LA: UNIMAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18548
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION 23 (DALLAS)" tvg-logo="https://docdog.top/logo/countries/latino/UNIVISION_DALLAS.png" group-title="LAME | LATINO",LA: UNIVISION 23 (DALLAS)
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18549
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION" tvg-logo="https://docdog.top/logo/countries/latino/univision.png" group-title="LAME | LATINO",LA: UNIVISION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18550
+#EXTINF:-1 tvg-id="" tvg-name="LA: BABY TV" tvg-logo="https://docdog.top/logo/countries/latino/babytv.png" group-title="LAME | LATINO",LA: BABY TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18551
+#EXTINF:-1 tvg-id="" tvg-name="LA: BANDAMAX" tvg-logo="https://docdog.top/logo/countries/latino/bandamax.png" group-title="LAME | LATINO",LA: BANDAMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18552
+#EXTINF:-1 tvg-id="" tvg-name="LA: FORO TV" tvg-logo="https://docdog.top/logo/countries/latino/forotv.png" group-title="LAME | LATINO",LA: FORO TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18553
+#EXTINF:-1 tvg-id="" tvg-name="LA: EL GOURMET" tvg-logo="https://docdog.top/logo/countries/latino/elgourmet.png" group-title="LAME | LATINO",LA: EL GOURMET
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18554
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN" tvg-logo="https://docdog.top/logo/countries/latino/tudn.png" group-title="LAME | LATINO",LA: TUDN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18555
+#EXTINF:-1 tvg-id="" tvg-name="LA: HOLA! TV" tvg-logo="https://docdog.top/logo/countries/latino/holatv.png" group-title="LAME | LATINO",LA: HOLA! TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18556
+#EXTINF:-1 tvg-id="" tvg-name="LA: MULTIMEDIOS TELEVISION" tvg-logo="" group-title="LAME | LATINO",LA: MULTIMEDIOS TELEVISION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18557
+#EXTINF:-1 tvg-id="" tvg-name="LA: TELEFE" tvg-logo="https://docdog.top/logo/countries/latino/telefe.png" group-title="LAME | LATINO",LA: TELEFE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18558
+#EXTINF:-1 tvg-id="" tvg-name="LA: PASIONES" tvg-logo="https://docdog.top/logo/countries/latino/pasiones.png" group-title="LAME | LATINO",LA: PASIONES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18559
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png" group-title="LAME | MEXICO",MEX: CARTOON NETWORK
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52471
+#EXTINF:-1 tvg-id="" tvg-name="MEX: A&AMP;E" tvg-logo="https://docdog.top/logo/countries/mexico/ae.png" group-title="LAME | MEXICO",MEX: A&AMP;E
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52472
+#EXTINF:-1 tvg-id="" tvg-name="MEX: A3 SERIES" tvg-logo="https://docdog.top/logo/countries/mexico/a3series.png" group-title="LAME | MEXICO",MEX: A3 SERIES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52473
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ADN 40" tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png" group-title="LAME | MEXICO",MEX: ADN 40
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52474
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ADRENALINA SPORTS NETWORK" tvg-logo="https://docdog.top/logo/countries/mexico/adrenalina-sports-network-mx.png" group-title="LAME | MEXICO",MEX: ADRENALINA SPORTS NETWORK
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52475
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AMC" tvg-logo="https://docdog.top/logo/countries/mexico/amc.png" group-title="LAME | MEXICO",MEX: AMC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52476
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/mexico/animalplanet.png" group-title="LAME | MEXICO",MEX: ANIMAL PLANET
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52477
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/mexico/antena3.png" group-title="LAME | MEXICO",MEX: ANTENA 3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52478
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AXN" tvg-logo="https://docdog.top/logo/countries/mexico/axn.png" group-title="LAME | MEXICO",MEX: AXN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52479
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AYM SPORTS" tvg-logo="https://docdog.top/logo/countries/mexico/aymsports.png" group-title="LAME | MEXICO",MEX: AYM SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52480
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ CINEMA" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO",MEX: AZ CINEMA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52481
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ CLICK" tvg-logo="https://docdog.top/logo/countries/mexico/azclickb1.png" group-title="LAME | MEXICO",MEX: AZ CLICK
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52482
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ CORAZON" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO",MEX: AZ CORAZON
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52483
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ MUNDO" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO",MEX: AZ MUNDO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52484
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA UNO" tvg-logo="https://docdog.top/logo/countries/mexico/azteca1.png" group-title="LAME | MEXICO",MEX: AZTECA UNO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52485
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA 7" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png" group-title="LAME | MEXICO",MEX: AZTECA 7
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52486
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA DEPORTES" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO",MEX: AZTECA DEPORTES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52487
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BABY FIRST" tvg-logo="https://docdog.top/logo/countries/mexico/babyfirst.png" group-title="LAME | MEXICO",MEX: BABY FIRST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52488
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BABY TV" tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png" group-title="LAME | MEXICO",MEX: BABY TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52489
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BANDAMAX" tvg-logo="https://docdog.top/logo/countries/mexico/bandamax-mx.png" group-title="LAME | MEXICO",MEX: BANDAMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52490
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/mexico/bbcworldnews.png" group-title="LAME | MEXICO",MEX: BBC WORLD NEWS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52491
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BLOOMBERG" tvg-logo="https://docdog.top/logo/countries/mexico/bloomberg.png" group-title="LAME | MEXICO",MEX: BLOOMBERG
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52492
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/mexico/boomerang.png" group-title="LAME | MEXICO",MEX: BOOMERANG
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52493
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CADENA H" tvg-logo="https://docdog.top/logo/countries/mexico/cadenah.png" group-title="LAME | MEXICO",MEX: CADENA H
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52494
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL DE LAS ESTRELLAS" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: CANAL DE LAS ESTRELLAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52495
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 4" tvg-logo="https://docdog.top/logo/countries/mexico/canal4.png" group-title="LAME | MEXICO",MEX: CANAL 4
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52496
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 5" tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png" group-title="LAME | MEXICO",MEX: CANAL 5
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52497
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 8" tvg-logo="https://docdog.top/logo/countries/mexico/canal8.png" group-title="LAME | MEXICO",MEX: CANAL 8
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52498
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 26" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: CANAL 26
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52499
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL JUDICIAL" tvg-logo="https://docdog.top/logo/countries/mexico/canaljudicial.png" group-title="LAME | MEXICO",MEX: CANAL JUDICIAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52500
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL ONCE" tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png" group-title="LAME | MEXICO",MEX: CANAL ONCE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52501
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CINECANAL" tvg-logo="https://docdog.top/logo/countries/mexico/cinecanal.png" group-title="LAME | MEXICO",MEX: CINECANAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52502
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CINEMAX" tvg-logo="https://docdog.top/logo/countries/mexico/cinemax.png" group-title="LAME | MEXICO",MEX: CINEMAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52503
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CNN EN ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/mexico/cnnenespanol.png" group-title="LAME | MEXICO",MEX: CNN EN ESPAÑOL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52504
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CNN INT" tvg-logo="https://docdog.top/logo/countries/mexico/cnnint.png" group-title="LAME | MEXICO",MEX: CNN INT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52505
+#EXTINF:-1 tvg-id="" tvg-name="MEX: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/mexico/comedycentral.png" group-title="LAME | MEXICO",MEX: COMEDY CENTRAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52506
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DE PELICULA" tvg-logo="https://docdog.top/logo/countries/mexico/de-pelicula-mx.png" group-title="LAME | MEXICO",MEX: DE PELICULA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52507
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/discoverychannel.png" group-title="LAME | MEXICO",MEX: DISCOVERY CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52508
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY CIVILIZATION" tvg-logo="https://docdog.top/logo/countries/mexico/discoverycivilization.png" group-title="LAME | MEXICO",MEX: DISCOVERY CIVILIZATION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52509
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY H&AMP;H" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryhomehealth.png" group-title="LAME | MEXICO",MEX: DISCOVERY H&AMP;H
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52510
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY KIDS" tvg-logo="https://docdog.top/logo/countries/mexico/discoverykids.png" group-title="LAME | MEXICO",MEX: DISCOVERY KIDS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52511
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryscience.png" group-title="LAME | MEXICO",MEX: DISCOVERY SCIENCE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52512
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY THEATER" tvg-logo="https://docdog.top/logo/countries/mexico/discoverytheater.png" group-title="LAME | MEXICO",MEX: DISCOVERY THEATER
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52513
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY TURBO" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryturbo.png" group-title="LAME | MEXICO",MEX: DISCOVERY TURBO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52514
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY WORLD" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryworld.png" group-title="LAME | MEXICO",MEX: DISCOVERY WORLD
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52515
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/disneychannel.png" group-title="LAME | MEXICO",MEX: DISNEY CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52516
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="LAME | MEXICO",MEX: DISNEY JR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52517
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISTRITO COMEDIA" tvg-logo="https://docdog.top/logo/countries/mexico/distrito-comedia-mx.png" group-title="LAME | MEXICO",MEX: DISTRITO COMEDIA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52518
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DW" tvg-logo="https://docdog.top/logo/countries/mexico/dwenglish.png" group-title="LAME | MEXICO",MEX: DW
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52519
+#EXTINF:-1 tvg-id="" tvg-name="MEX: E! ENTERTAINMENT" tvg-logo="https://docdog.top/logo/countries/mexico/eentertainmenttv.png" group-title="LAME | MEXICO",MEX: E! ENTERTAINMENT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52520
+#EXTINF:-1 tvg-id="" tvg-name="MEX: EL GOURMET" tvg-logo="https://docdog.top/logo/countries/mexico/elgourmet.png" group-title="LAME | MEXICO",MEX: EL GOURMET
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52521
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 2" tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png" group-title="LAME | MEXICO",MEX: ESPN 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52522
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 3" tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png" group-title="LAME | MEXICO",MEX: ESPN 3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52523
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="https://docdog.top/logo/countries/mexico/espn.png" group-title="LAME | MEXICO",MEX: ESPN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52524
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png" group-title="LAME | MEXICO",MEX: ESPN EXTRA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52525
+#EXTINF:-1 tvg-id="" tvg-name="MEX: EUROPA EUROPA" tvg-logo="https://docdog.top/logo/countries/mexico/europaeuropa.png" group-title="LAME | MEXICO",MEX: EUROPA EUROPA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52526
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FILM &AMP; ARTS" tvg-logo="https://docdog.top/logo/countries/mexico/filmarts.png" group-title="LAME | MEXICO",MEX: FILM &AMP; ARTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52527
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOOD NETWORK" tvg-logo="https://docdog.top/logo/countries/mexico/foodnetwork.png" group-title="LAME | MEXICO",MEX: FOOD NETWORK
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52528
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FORMULA NOTICIAS" tvg-logo="https://docdog.top/logo/countries/mexico/formulanoticias.png" group-title="LAME | MEXICO",MEX: FORMULA NOTICIAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52529
+#EXTINF:-1 tvg-id="" tvg-name="MEX: STAR CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/starchannel.png" group-title="LAME | MEXICO",MEX: STAR CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52530
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/mexico/foxnews.png" group-title="LAME | MEXICO",MEX: FOX NEWS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52531
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 1" tvg-logo="https://docdog.top/logo/countries/mexico/fox-sports-premium-mx.png" group-title="LAME | MEXICO",MEX: FOX SPORTS 1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52532
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FRANCIA 24" tvg-logo="https://docdog.top/logo/countries/mexico/francia24.png" group-title="LAME | MEXICO",MEX: FRANCIA 24
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52533
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FX" tvg-logo="https://docdog.top/logo/countries/mexico/fx.png" group-title="LAME | MEXICO",MEX: FX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52534
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GARAGE TV" tvg-logo="https://docdog.top/logo/countries/mexico/garagetv.png" group-title="LAME | MEXICO",MEX: GARAGE TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52535
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GLITZ" tvg-logo="https://docdog.top/logo/countries/mexico/glitz.png" group-title="LAME | MEXICO",MEX: GLITZ
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52536
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLDEN" tvg-logo="https://docdog.top/logo/countries/mexico/golden-mx.png" group-title="LAME | MEXICO",MEX: GOLDEN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52537
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLDEN EDGE" tvg-logo="https://docdog.top/logo/countries/mexico/golden-edge-mx.png" group-title="LAME | MEXICO",MEX: GOLDEN EDGE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52538
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLDEN PLUS" tvg-logo="https://docdog.top/logo/countries/mexico/golden-plus-mx.png" group-title="LAME | MEXICO",MEX: GOLDEN PLUS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52539
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLF CH" tvg-logo="https://docdog.top/logo/countries/mexico/golfchannel.png" group-title="LAME | MEXICO",MEX: GOLF CH
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52540
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HISTORY" tvg-logo="https://docdog.top/logo/countries/mexico/historychannel.png" group-title="LAME | MEXICO",MEX: HISTORY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52541
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HLN" tvg-logo="https://docdog.top/logo/countries/mexico/hln.png" group-title="LAME | MEXICO",MEX: HLN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52542
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HOLA TV" tvg-logo="https://docdog.top/logo/countries/mexico/holatv.png" group-title="LAME | MEXICO",MEX: HOLA TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52543
+#EXTINF:-1 tvg-id="" tvg-name="MEX: IMAGEN TV" tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png" group-title="LAME | MEXICO",MEX: IMAGEN TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52544
+#EXTINF:-1 tvg-id="" tvg-name="MEX: INGENIO TV" tvg-logo="https://docdog.top/logo/countries/mexico/ingeniotv.png" group-title="LAME | MEXICO",MEX: INGENIO TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52545
+#EXTINF:-1 tvg-id="" tvg-name="MEX: INVESTIGATION DISCOVERY" tvg-logo="https://docdog.top/logo/countries/mexico/investigationdiscovery.png" group-title="LAME | MEXICO",MEX: INVESTIGATION DISCOVERY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52546
+#EXTINF:-1 tvg-id="" tvg-name="MEX: I SAT" tvg-logo="https://docdog.top/logo/countries/mexico/isat.png" group-title="LAME | MEXICO",MEX: I SAT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52547
+#EXTINF:-1 tvg-id="" tvg-name="MEX: LAS ESTRELLAS" tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png" group-title="LAME | MEXICO",MEX: LAS ESTRELLAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52548
+#EXTINF:-1 tvg-id="" tvg-name="MEX: LIFETIME" tvg-logo="https://docdog.top/logo/countries/mexico/lifetime.png" group-title="LAME | MEXICO",MEX: LIFETIME
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52549
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MAS CHIC" tvg-logo="https://docdog.top/logo/countries/mexico/maschic.png" group-title="LAME | MEXICO",MEX: MAS CHIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52550
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MEXIQUICE" tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png" group-title="LAME | MEXICO",MEX: MEXIQUICE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52551
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MILENIO TV" tvg-logo="https://docdog.top/logo/countries/mexico/mileniotv.png" group-title="LAME | MEXICO",MEX: MILENIO TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52552
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MTV" tvg-logo="https://docdog.top/logo/countries/mexico/mtv.png" group-title="LAME | MEXICO",MEX: MTV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52553
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MTV HITS" tvg-logo="https://docdog.top/logo/countries/mexico/mtvhits.png" group-title="LAME | MEXICO",MEX: MTV HITS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52554
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MTV LIVE" tvg-logo="https://docdog.top/logo/countries/mexico/mtvlive.png" group-title="LAME | MEXICO",MEX: MTV LIVE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52555
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MULTIMEDIOS" tvg-logo="https://docdog.top/logo/countries/mexico/multimedios-mx.png" group-title="LAME | MEXICO",MEX: MULTIMEDIOS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52556
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MULTIMEDIOS PLUS" tvg-logo="https://docdog.top/logo/countries/mexico/multimedios-mx.png" group-title="LAME | MEXICO",MEX: MULTIMEDIOS PLUS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52557
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO" tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png" group-title="LAME | MEXICO",MEX: NAT GEO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52558
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png" group-title="LAME | MEXICO",MEX: NAT GEO WILD
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52559
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NBC GOLF" tvg-logo="https://docdog.top/logo/countries/mexico/nbcgolf.png" group-title="LAME | MEXICO",MEX: NBC GOLF
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52560
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICK 2" tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png" group-title="LAME | MEXICO",MEX: NICK 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52561
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICK JR" tvg-logo="https://docdog.top/logo/countries/mexico/nickjr.png" group-title="LAME | MEXICO",MEX: NICK JR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52562
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/mexico/nickelodeon.png" group-title="LAME | MEXICO",MEX: NICKELODEON
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52563
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICKTOONS" tvg-logo="https://docdog.top/logo/countries/mexico/nicktoons.png" group-title="LAME | MEXICO",MEX: NICKTOONS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52564
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NTN24" tvg-logo="https://docdog.top/logo/countries/mexico/ntn24.png" group-title="LAME | MEXICO",MEX: NTN24
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52565
+#EXTINF:-1 tvg-id="" tvg-name="MEX: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png" group-title="LAME | MEXICO",MEX: PARAMOUNT CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52566
+#EXTINF:-1 tvg-id="" tvg-name="MEX: Q TV" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: Q TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52567
+#EXTINF:-1 tvg-id="" tvg-name="MEX: RMS" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: RMS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52568
+#EXTINF:-1 tvg-id="" tvg-name="MEX: SONY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/sonychannel.png" group-title="LAME | MEXICO",MEX: SONY CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52569
+#EXTINF:-1 tvg-id="" tvg-name="MEX: SPACE" tvg-logo="https://docdog.top/logo/countries/mexico/space.png" group-title="LAME | MEXICO",MEX: SPACE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52570
+#EXTINF:-1 tvg-id="" tvg-name="MEX: STAR TVE" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: STAR TVE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52571
+#EXTINF:-1 tvg-id="" tvg-name="MEX: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries/mexico/studiouniversal.png" group-title="LAME | MEXICO",MEX: STUDIO UNIVERSAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52572
+#EXTINF:-1 tvg-id="" tvg-name="MEX: SYFY" tvg-logo="https://docdog.top/logo/countries/mexico/syfy.png" group-title="LAME | MEXICO",MEX: SYFY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52573
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TBS" tvg-logo="https://docdog.top/logo/countries/mexico/tbs.png" group-title="LAME | MEXICO",MEX: TBS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52574
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TCM" tvg-logo="https://docdog.top/logo/countries/mexico/tcm.png" group-title="LAME | MEXICO",MEX: TCM
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52575
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TDN" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: TDN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52576
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEFORMULA" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: TELEFORMULA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52577
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEHIT PLUS" tvg-logo="https://docdog.top/logo/countries/mexico/telehit-plus-mx.png" group-title="LAME | MEXICO",MEX: TELEHIT PLUS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52578
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELENOVELAS" tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png" group-title="LAME | MEXICO",MEX: TELENOVELAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52579
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELERITMO" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: TELERITMO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52580
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEVISA" tvg-logo="https://docdog.top/logo/countries/mexico/televisapueblo.png" group-title="LAME | MEXICO",MEX: TELEVISA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52581
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BITME" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: BITME
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52582
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TLC" tvg-logo="https://docdog.top/logo/countries/mexico/tlc.png" group-title="LAME | MEXICO",MEX: TLC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52583
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TLR" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: TLR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52584
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TNT" tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png" group-title="LAME | MEXICO",MEX: TNT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52585
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TNT SERIES" tvg-logo="https://docdog.top/logo/countries/mexico/tntseries.png" group-title="LAME | MEXICO",MEX: TNT SERIES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52586
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TOONCAST" tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png" group-title="LAME | MEXICO",MEX: TOONCAST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52587
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TRU TV" tvg-logo="https://docdog.top/logo/countries/mexico/trutv.png" group-title="LAME | MEXICO",MEX: TRU TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52588
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TV MAS" tvg-logo="https://docdog.top/logo/countries/mexico/n-mas-mx.png" group-title="LAME | MEXICO",MEX: TV MAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52589
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TV5 FRANCIA" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: TV5 FRANCIA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52590
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TVE" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: TVE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52591
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TVC DEPORTES" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: TVC DEPORTES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52592
+#EXTINF:-1 tvg-id="" tvg-name="MEX: UNICABLE" tvg-logo="https://docdog.top/logo/countries/mexico/unicable-mx.png" group-title="LAME | MEXICO",MEX: UNICABLE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52593
+#EXTINF:-1 tvg-id="" tvg-name="MEX: UNIVERSAL CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png" group-title="LAME | MEXICO",MEX: UNIVERSAL CHANNEL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52594
+#EXTINF:-1 tvg-id="" tvg-name="MEX: VH1 CLASSIC" tvg-logo="https://docdog.top/logo/countries/mexico/vh1classic.png" group-title="LAME | MEXICO",MEX: VH1 CLASSIC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52595
+#EXTINF:-1 tvg-id="" tvg-name="MEX: VH1" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: VH1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52596
+#EXTINF:-1 tvg-id="" tvg-name="MEX: VTV" tvg-logo="https://docdog.top/logo/countries/mexico/vtv.png" group-title="LAME | MEXICO",MEX: VTV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52597
+#EXTINF:-1 tvg-id="" tvg-name="MEX: WARNER" tvg-logo="https://docdog.top/logo/countries/mexico/warnerchannel.png" group-title="LAME | MEXICO",MEX: WARNER
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52598
+#EXTINF:-1 tvg-id="" tvg-name="MEX: WOBI" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: WOBI
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52599
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MULTIMEDIOS P" tvg-logo="https://docdog.top/logo/countries/mexico/multimedios-mx.png" group-title="LAME | MEXICO",MEX: MULTIMEDIOS P
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52600
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEMUNDO MEXICO" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO",MEX: TELEMUNDO MEXICO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52601
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AL JAZEERA" tvg-logo="https://docdog.top/logo/countries/mexico/aljazeera.png" group-title="LAME | MEXICO",MEX: AL JAZEERA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52602
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries/mexico/foxsportspremium.png" group-title="LAME | MEXICO",MEX: FOX SPORTS PREMIUM
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52603
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries/mexico/foxsports.png" group-title="LAME | MEXICO",MEX: FOX SPORTS 3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52604
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/mexico/foxsports.png" group-title="LAME | MEXICO",MEX: FOX SPORTS 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52605
+#EXTINF:-1 tvg-id="" tvg-name="MEX: PX SPORTS" tvg-logo="https://docdog.top/logo/countries/mexico/pxsports.png" group-title="LAME | MEXICO",MEX: PX SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52606
+#EXTINF:-1 tvg-id="" tvg-name="PE: AMERICA" tvg-logo="https://docdog.top/logo/countries/peru/america.png" group-title="LAME | PERU",PE: AMERICA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10774
+#EXTINF:-1 tvg-id="" tvg-name="PE: ANTARES TV" tvg-logo="https://docdog.top/logo/countries/peru/antarestv.png" group-title="LAME | PERU",PE: ANTARES TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10776
+#EXTINF:-1 tvg-id="" tvg-name="PE: ATV" tvg-logo="https://docdog.top/logo/countries/peru/atv.png" group-title="LAME | PERU",PE: ATV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10777
+#EXTINF:-1 tvg-id="" tvg-name="PE: CANAL N" tvg-logo="https://docdog.top/logo/countries/peru/canaln.png" group-title="LAME | PERU",PE: CANAL N
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10780
+#EXTINF:-1 tvg-id="" tvg-name="PE: CAPITAL TV" tvg-logo="https://docdog.top/logo/countries/peru/capitaltv.png" group-title="LAME | PERU",PE: CAPITAL TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10781
+#EXTINF:-1 tvg-id="" tvg-name="PE: CULTURA 24" tvg-logo="https://docdog.top/logo/countries/peru/cultura24.png" group-title="LAME | PERU",PE: CULTURA 24
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10782
+#EXTINF:-1 tvg-id="" tvg-name="PE: FRECUENCIA LATINA" tvg-logo="https://docdog.top/logo/countries/peru/frecuencialatina.png" group-title="LAME | PERU",PE: FRECUENCIA LATINA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10784
+#EXTINF:-1 tvg-id="" tvg-name="PE: GOL PERU" tvg-logo="https://docdog.top/logo/countries/peru/GOLPERU.jpg" group-title="LAME | PERU",PE: GOL PERU
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10785
+#EXTINF:-1 tvg-id="" tvg-name="PE: LATINA" tvg-logo="https://docdog.top/logo/countries/peru/latina.png" group-title="LAME | PERU",PE: LATINA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10788
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR DEPORTES" tvg-logo="https://docdog.top/logo/countries/peru/movistardeportes.png" group-title="LAME | PERU",PE: MOVISTAR DEPORTES
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10789
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR PLUS TV" tvg-logo="https://docdog.top/logo/countries/peru/MOVISTARPLUSTV.png" group-title="LAME | PERU",PE: MOVISTAR PLUS TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10790
+#EXTINF:-1 tvg-id="" tvg-name="PE: OVACION TV" tvg-logo="https://docdog.top/logo/countries/peru/ovacion.png" group-title="LAME | PERU",PE: OVACION TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10792
+#EXTINF:-1 tvg-id="" tvg-name="PE: PANAMERICANA" tvg-logo="https://docdog.top/logo/countries/peru/panamericana.png" group-title="LAME | PERU",PE: PANAMERICANA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10793
+#EXTINF:-1 tvg-id="" tvg-name="PE: PERU MAGICO" tvg-logo="https://docdog.top/logo/countries/peru/perumagico.png" group-title="LAME | PERU",PE: PERU MAGICO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10794
+#EXTINF:-1 tvg-id="" tvg-name="PE: SUR PERU" tvg-logo="https://docdog.top/logo/countries/peru/SURPERU.jpg" group-title="LAME | PERU",PE: SUR PERU
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10795
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV NOTICIAS 7.3" tvg-logo="https://docdog.top/logo/countries/peru/c7noticias.png" group-title="LAME | PERU",PE: TV NOTICIAS 7.3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10796
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV PERU" tvg-logo="https://docdog.top/logo/countries/peru/TVPERU.png" group-title="LAME | PERU",PE: TV PERU
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10797
+#EXTINF:-1 tvg-id="" tvg-name="PE: WILLAX" tvg-logo="https://docdog.top/logo/countries/peru/willax.png" group-title="LAME | PERU",PE: WILLAX
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/10798
+#EXTINF:-1 tvg-id="" tvg-name="CO: CLARO SPORT" tvg-logo="https://docdog.top/logo/countries/colombia/clarosports.png" group-title="LAME | COLOMBIA",CO: CLARO SPORT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18710
+#EXTINF:-1 tvg-id="" tvg-name="CO: WIN SPORTS" tvg-logo="https://docdog.top/logo/countries/colombia/winsports.png" group-title="LAME | COLOMBIA",CO: WIN SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18711
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/colombia/directvsports2.png" group-title="LAME | COLOMBIA",CO: DIRECTV SPORTS 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18712
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/colombia/directvsports.png" group-title="LAME | COLOMBIA",CO: DIRECTV SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18713
+#EXTINF:-1 tvg-id="" tvg-name="CO: FOX SPORTS 1" tvg-logo="https://docdog.top/logo/countries/colombia/foxsports1.png" group-title="LAME | COLOMBIA",CO: FOX SPORTS 1
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18714
+#EXTINF:-1 tvg-id="" tvg-name="CO: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/colombia/directtvsportsplus.png" group-title="LAME | COLOMBIA",CO: DIRECTV SPORTS +
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18715
+#EXTINF:-1 tvg-id="" tvg-name="CO: AXN CO" tvg-logo="https://docdog.top/logo/countries/colombia/axn.png" group-title="LAME | COLOMBIA",CO: AXN CO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18716
+#EXTINF:-1 tvg-id="" tvg-name="CO: CABLE NOTICIAS" tvg-logo="https://docdog.top/logo/countries/colombia/cablenoticias.png" group-title="LAME | COLOMBIA",CO: CABLE NOTICIAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18717
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANAL CAPITAL" tvg-logo="https://docdog.top/logo/countries/colombia/canalcapital.png" group-title="LAME | COLOMBIA",CO: CANAL CAPITAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18718
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANAL TRECE" tvg-logo="https://docdog.top/logo/countries/colombia/canaltrece.png" group-title="LAME | COLOMBIA",CO: CANAL TRECE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18719
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANAL TRO" tvg-logo="https://docdog.top/logo/countries/colombia/canaltro6.png" group-title="LAME | COLOMBIA",CO: CANAL TRO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18720
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANAL UNO" tvg-logo="https://docdog.top/logo/countries/colombia/canaluno.png" group-title="LAME | COLOMBIA",CO: CANAL UNO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18721
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANTINAZO" tvg-logo="https://docdog.top/logo/countries/colombia/cantinazo.png" group-title="LAME | COLOMBIA",CO: CANTINAZO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18722
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL" tvg-logo="https://docdog.top/logo/countries/colombia/caracol.png" group-title="LAME | COLOMBIA",CO: CARACOL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18723
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/colombia/caracolinternacional.png" group-title="LAME | COLOMBIA",CO: CARACOL INTERNACIONAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18724
+#EXTINF:-1 tvg-id="" tvg-name="CO: CITY TV" tvg-logo="https://docdog.top/logo/countries/colombia/citytv.png" group-title="LAME | COLOMBIA",CO: CITY TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18726
+#EXTINF:-1 tvg-id="" tvg-name="CO: COSMOVISION" tvg-logo="https://docdog.top/logo/countries/colombia/cosmovision.png" group-title="LAME | COLOMBIA",CO: COSMOVISION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18727
+#EXTINF:-1 tvg-id="" tvg-name="CO: LA KALLE" tvg-logo="" group-title="LAME | COLOMBIA",CO: LA KALLE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18728
+#EXTINF:-1 tvg-id="" tvg-name="CO: LAS ESTRELLAS" tvg-logo="https://docdog.top/logo/countries/colombia/lasestrellas.png" group-title="LAME | COLOMBIA",CO: LAS ESTRELLAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18729
+#EXTINF:-1 tvg-id="" tvg-name="CO: NTN 24" tvg-logo="https://docdog.top/logo/countries/colombia/ntn24.png" group-title="LAME | COLOMBIA",CO: NTN 24
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18730
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN" tvg-logo="https://docdog.top/logo/countries/colombia/rcn.png" group-title="LAME | COLOMBIA",CO: RCN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18731
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN NOVELAS" tvg-logo="https://docdog.top/logo/countries/colombia/rcnnovelas.png" group-title="LAME | COLOMBIA",CO: RCN NOVELAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18733
+#EXTINF:-1 tvg-id="" tvg-name="CO: SENAL COLOMBIA" tvg-logo="https://docdog.top/logo/countries/colombia/senal.png" group-title="LAME | COLOMBIA",CO: SENAL COLOMBIA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18734
+#EXTINF:-1 tvg-id="" tvg-name="CO: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries/colombia/studiouniversal.png" group-title="LAME | COLOMBIA",CO: STUDIO UNIVERSAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18735
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELE ANTIOQUIA" tvg-logo="https://docdog.top/logo/countries/colombia/teleantioquia.png" group-title="LAME | COLOMBIA",CO: TELE ANTIOQUIA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18737
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELE CARIBE" tvg-logo="https://docdog.top/logo/countries/colombia/telecaribe.png" group-title="LAME | COLOMBIA",CO: TELE CARIBE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18738
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELE MEDELLIN" tvg-logo="https://docdog.top/logo/countries/colombia/telemedellin.png" group-title="LAME | COLOMBIA",CO: TELE MEDELLIN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18739
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELE PACIFICO" tvg-logo="https://docdog.top/logo/countries/colombia/telepacifico.png" group-title="LAME | COLOMBIA",CO: TELE PACIFICO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18740
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELEAMIGA" tvg-logo="" group-title="LAME | COLOMBIA",CO: TELEAMIGA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18741
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELECAFE" tvg-logo="https://docdog.top/logo/countries/colombia/telecafe.png" group-title="LAME | COLOMBIA",CO: TELECAFE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18742
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELEVID" tvg-logo="https://docdog.top/logo/countries/colombia/televid.png" group-title="LAME | COLOMBIA",CO: TELEVID
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18744
+#EXTINF:-1 tvg-id="" tvg-name="CO: TOONCAST" tvg-logo="https://docdog.top/logo/countries/colombia/tooncast.png" group-title="LAME | COLOMBIA",CO: TOONCAST
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18745
+#EXTINF:-1 tvg-id="" tvg-name="CO: TRECE" tvg-logo="https://docdog.top/logo/countries/colombia/trece.png" group-title="LAME | COLOMBIA",CO: TRECE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18746
+#EXTINF:-1 tvg-id="" tvg-name="CO: WIN SPORTS PLUS" tvg-logo="https://docdog.top/logo/countries/colombia/winsportplus.png" group-title="LAME | COLOMBIA",CO: WIN SPORTS PLUS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52607
+#EXTINF:-1 tvg-id="" tvg-name="CO: M+" tvg-logo="https://docdog.top/logo/countries/colombia/M+.jpg" group-title="LAME | COLOMBIA",CO: M+
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52608
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 3" tvg-logo="https://docdog.top/logo/countries/chile/tntsports.png" group-title="LAME | CHILE",CL: TNT SPORTS 3
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18747
+#EXTINF:-1 tvg-id="" tvg-name="CL: WIN SPORT PLUS" tvg-logo="https://docdog.top/logo/countries/chile/winsportplus.png" group-title="LAME | CHILE",CL: WIN SPORT PLUS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18748
+#EXTINF:-1 tvg-id="" tvg-name="CL: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/chile/directvsports.png" group-title="LAME | CHILE",CL: DIRECTV SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18749
+#EXTINF:-1 tvg-id="" tvg-name="CL: SPORTING" tvg-logo="https://docdog.top/logo/countries/chile/sportingtv.png" group-title="LAME | CHILE",CL: SPORTING
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18750
+#EXTINF:-1 tvg-id="" tvg-name="CL: 13 C" tvg-logo="https://docdog.top/logo/countries/chile/13c.png" group-title="LAME | CHILE",CL: 13 C
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18751
+#EXTINF:-1 tvg-id="" tvg-name="CL: CARACOL INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/chile/caracolinternacional.png" group-title="LAME | CHILE",CL: CARACOL INTERNACIONAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18753
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS" tvg-logo="" group-title="LAME | CHILE",CL: TNT SPORTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18754
+#EXTINF:-1 tvg-id="" tvg-name="CL: CDO" tvg-logo="https://docdog.top/logo/countries/chile/cdo.png" group-title="LAME | CHILE",CL: CDO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18756
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHILEVISION" tvg-logo="https://docdog.top/logo/countries/chile/chilevision.png" group-title="LAME | CHILE",CL: CHILEVISION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18757
+#EXTINF:-1 tvg-id="" tvg-name="CL: CITY TV" tvg-logo="https://docdog.top/logo/countries/chile/citytv.png" group-title="LAME | CHILE",CL: CITY TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18758
+#EXTINF:-1 tvg-id="" tvg-name="CL: CNN" tvg-logo="https://docdog.top/logo/countries/chile/cnn.png" group-title="LAME | CHILE",CL: CNN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18759
+#EXTINF:-1 tvg-id="" tvg-name="CL: ETC TV" tvg-logo="https://docdog.top/logo/countries/chile/etctv.png" group-title="LAME | CHILE",CL: ETC TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18760
+#EXTINF:-1 tvg-id="" tvg-name="CL: LA RED" tvg-logo="https://docdog.top/logo/countries/chile/lared.png" group-title="LAME | CHILE",CL: LA RED
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18761
+#EXTINF:-1 tvg-id="" tvg-name="CL: MEGA" tvg-logo="https://docdog.top/logo/countries/chile/mega.png" group-title="LAME | CHILE",CL: MEGA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18762
+#EXTINF:-1 tvg-id="" tvg-name="CL: TELETRAK" tvg-logo="https://docdog.top/logo/countries/chile/teletrak.png" group-title="LAME | CHILE",CL: TELETRAK
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18763
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 2" tvg-logo="https://docdog.top/logo/countries/chile/tntsports.png" group-title="LAME | CHILE",CL: TNT SPORTS 2
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18765
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV CHILE" tvg-logo="https://docdog.top/logo/countries/chile/chilevision.png" group-title="LAME | CHILE",CL: TV CHILE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18766
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV+" tvg-logo="https://docdog.top/logo/countries/chile/tvplus.png" group-title="LAME | CHILE",CL: TV+
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18767
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN" tvg-logo="https://docdog.top/logo/countries/chile/tvn.png" group-title="LAME | CHILE",CL: TVN
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18768
+#EXTINF:-1 tvg-id="" tvg-name="EC: CANAL UNO" tvg-logo="https://docdog.top/logo/countries/ecuador/canaluno.png" group-title="LAME | ECUADOR",EC: CANAL UNO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18769
+#EXTINF:-1 tvg-id="" tvg-name="EC: CANELA TV" tvg-logo="https://docdog.top/logo/countries/ecuador/canelatv.png" group-title="LAME | ECUADOR",EC: CANELA TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18770
+#EXTINF:-1 tvg-id="" tvg-name="EC: ECUADOR TV" tvg-logo="https://docdog.top/logo/countries/ecuador/ecuadortv.png" group-title="LAME | ECUADOR",EC: ECUADOR TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18771
+#EXTINF:-1 tvg-id="" tvg-name="EC: ECUAVISA" tvg-logo="https://docdog.top/logo/countries/ecuador/ecuavisa.png" group-title="LAME | ECUADOR",EC: ECUAVISA
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18772
+#EXTINF:-1 tvg-id="" tvg-name="EC: GAMA TV" tvg-logo="https://docdog.top/logo/countries/ecuador/gamatv.png" group-title="LAME | ECUADOR",EC: GAMA TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18773
+#EXTINF:-1 tvg-id="" tvg-name="EC: GAMAVISION" tvg-logo="https://docdog.top/logo/countries/ecuador/gamavision.png" group-title="LAME | ECUADOR",EC: GAMAVISION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18774
+#EXTINF:-1 tvg-id="" tvg-name="EC: GOL TV" tvg-logo="https://docdog.top/logo/countries/ecuador/goltv.png" group-title="LAME | ECUADOR",EC: GOL TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18775
+#EXTINF:-1 tvg-id="" tvg-name="EC: OROMAR TV" tvg-logo="https://docdog.top/logo/countries/ecuador/oromartv.png" group-title="LAME | ECUADOR",EC: OROMAR TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18776
+#EXTINF:-1 tvg-id="" tvg-name="EC: RTS" tvg-logo="https://docdog.top/logo/countries/ecuador/rts.png" group-title="LAME | ECUADOR",EC: RTS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18777
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC TELEVISION" tvg-logo="https://docdog.top/logo/countries/ecuador/tctelevision.png" group-title="LAME | ECUADOR",EC: TC TELEVISION
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18778
+#EXTINF:-1 tvg-id="" tvg-name="EC: TELE AMAZONAS" tvg-logo="https://docdog.top/logo/countries/ecuador/teleamazonas.png" group-title="LAME | ECUADOR",EC: TELE AMAZONAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18779
+#EXTINF:-1 tvg-id="" tvg-name="EC: TVC" tvg-logo="https://docdog.top/logo/countries/ecuador/tvc.png" group-title="LAME | ECUADOR",EC: TVC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18780
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC ECUADOR" tvg-logo="https://docdog.top/logo/countries/ecuador/ecuadortv.png" group-title="LAME | ECUADOR",EC: TC ECUADOR
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52609
+#EXTINF:-1 tvg-id="" tvg-name="URU: 1000 X HORA TV" tvg-logo="https://docdog.top/logo/countries/uruguay/1000XHORATV.jpg" group-title="LAME | URUGUAY",URU: 1000 X HORA TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18781
+#EXTINF:-1 tvg-id="" tvg-name="URU: A+V" tvg-logo="https://docdog.top/logo/countries/uruguay/A+V.png" group-title="LAME | URUGUAY",URU: A+V
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18782
+#EXTINF:-1 tvg-id="" tvg-name="URU: CANAL 2 LASCANO" tvg-logo="https://docdog.top/logo/countries/uruguay/canal2lascano.png" group-title="LAME | URUGUAY",URU: CANAL 2 LASCANO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18783
+#EXTINF:-1 tvg-id="" tvg-name="URU: CANAL 4" tvg-logo="https://docdog.top/logo/countries/uruguay/canal4.png" group-title="LAME | URUGUAY",URU: CANAL 4
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18784
+#EXTINF:-1 tvg-id="" tvg-name="URU: CANAL 4 SALTO" tvg-logo="https://docdog.top/logo/countries/uruguay/CANAL4SALTO.jpg" group-title="LAME | URUGUAY",URU: CANAL 4 SALTO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18785
+#EXTINF:-1 tvg-id="" tvg-name="URU: CANAL 6 DURAZNO" tvg-logo="https://docdog.top/logo/countries/uruguay/canal6durazno.png" group-title="LAME | URUGUAY",URU: CANAL 6 DURAZNO
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18786
+#EXTINF:-1 tvg-id="" tvg-name="URU: CANAL 10" tvg-logo="https://docdog.top/logo/countries/uruguay/canal10.png" group-title="LAME | URUGUAY",URU: CANAL 10
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18787
+#EXTINF:-1 tvg-id="" tvg-name="URU: CANAL 12" tvg-logo="https://docdog.top/logo/countries/uruguay/canal12.png" group-title="LAME | URUGUAY",URU: CANAL 12
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18788
+#EXTINF:-1 tvg-id="" tvg-name="URU: CARDINAL TV" tvg-logo="https://docdog.top/logo/countries/uruguay/CARDINALTV.jpg" group-title="LAME | URUGUAY",URU: CARDINAL TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18789
+#EXTINF:-1 tvg-id="" tvg-name="URU: TV CIUDAD" tvg-logo="https://docdog.top/logo/countries/uruguay/tvciudad.png" group-title="LAME | URUGUAY",URU: TV CIUDAD
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18790
+#EXTINF:-1 tvg-id="" tvg-name="URU: VTV" tvg-logo="https://docdog.top/logo/countries/uruguay/vtv.png" group-title="LAME | URUGUAY",URU: VTV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18791
+#EXTINF:-1 tvg-id="" tvg-name="UY: VTV PLUS" tvg-logo="" group-title="LAME | URUGUAY",UY: VTV PLUS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52610
+#EXTINF:-1 tvg-id="" tvg-name="URU: MONTECARLO TV" tvg-logo="https://docdog.top/logo/countries/uruguay/MONTECARLOTV.jpg" group-title="LAME | URUGUAY",URU: MONTECARLO TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/52611
+#EXTINF:-1 tvg-id="" tvg-name="PY: C9N" tvg-logo="https://docdog.top/logo/countries/paraguay/c9n.png" group-title="LAME | PARAGUAY",PY: C9N
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18793
+#EXTINF:-1 tvg-id="" tvg-name="PY: FARRA PLAY" tvg-logo="" group-title="LAME | PARAGUAY",PY: FARRA PLAY
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18794
+#EXTINF:-1 tvg-id="" tvg-name="PY: GEN TV" tvg-logo="" group-title="LAME | PARAGUAY",PY: GEN TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18795
+#EXTINF:-1 tvg-id="" tvg-name="PY: LA TELE" tvg-logo="https://docdog.top/logo/countries/paraguay/latele.png" group-title="LAME | PARAGUAY",PY: LA TELE
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18796
+#EXTINF:-1 tvg-id="" tvg-name="PY: NOTICIAS" tvg-logo="" group-title="LAME | PARAGUAY",PY: NOTICIAS
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18797
+#EXTINF:-1 tvg-id="" tvg-name="PY: PARAGUAY TV" tvg-logo="https://docdog.top/logo/countries/paraguay/paraguaytv.png" group-title="LAME | PARAGUAY",PY: PARAGUAY TV
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18798
+#EXTINF:-1 tvg-id="" tvg-name="PY: RPC" tvg-logo="" group-title="LAME | PARAGUAY",PY: RPC
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18801
+#EXTINF:-1 tvg-id="" tvg-name="PY: SNT" tvg-logo="https://docdog.top/logo/countries/paraguay/snt.png" group-title="LAME | PARAGUAY",PY: SNT
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18802
+#EXTINF:-1 tvg-id="" tvg-name="PY: UNICANAL" tvg-logo="https://docdog.top/logo/countries/paraguay/unicanal.png" group-title="LAME | PARAGUAY",PY: UNICANAL
+http://zonplg.xyz:8080/xxxrestream/fghiBrdf55/18805
 
---- UNIMAS ---
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS HD
-http://twomonkeys.live:80/Victor1234/Victor1234/586080
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS
-http://twomonkeys.live:80/Victor1234/Victor1234/585979
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS TUCSON
-http://twomonkeys.live:80/Victor1234/Victor1234/585438
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS PORTERVILLE
-http://twomonkeys.live:80/Victor1234/Victor1234/585470
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS STOCKTON
-http://twomonkeys.live:80/Victor1234/Victor1234/585480
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS ALVIN
-http://twomonkeys.live:80/Victor1234/Victor1234/585948
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS BLANCO
-http://twomonkeys.live:80/Victor1234/Victor1234/585951
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS SAN FRANCISCO- SAN JOSE
-http://twomonkeys.live:80/Victor1234/Victor1234/585976
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS PHILADELPHIA
-http://twomonkeys.live:80/Victor1234/Victor1234/585977
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS CHICAGO
-http://twomonkeys.live:80/Victor1234/Victor1234/585978
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS AUSTIN TX
-http://twomonkeys.live:80/Victor1234/Victor1234/585983
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS NEW YORK NY 
-http://twomonkeys.live:80/Victor1234/Victor1234/585985
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS MIAMI-FT. 
-http://twomonkeys.live:80/Victor1234/Victor1234/585984
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS DALLAS
-http://twomonkeys.live:80/Victor1234/Victor1234/585982
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS LOS ANGELES 
-http://twomonkeys.live:80/Victor1234/Victor1234/585981
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://n9.cl/ln1hdb" group-title="UNIMAS", UNIMAS PHOENIX
-http://twomonkeys.live:80/Victor1234/Victor1234/585980
 
---- TV VARIEDADES ---
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/i68p3" group-title="TV VARIEDADES", CENTROAMERICA TV
-http://twomonkeys.live:80/Victor1234/Victor1234/860391
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/s1h8u" group-title="TV VARIEDADES", ANTENA 3
-http://twomonkeys.live:80/Victor1234/Victor1234/585424
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/9phot" group-title="TV VARIEDADES", ATRESERIES
-http://twomonkeys.live:80/Victor1234/Victor1234/585430
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/clyar0" group-title="TV VARIEDADES", ESTRELLA TV
-http://twomonkeys.live:80/Victor1234/Victor1234/586107
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/clyar0" group-title="TV VARIEDADES", ESTRELLA TV (OPC 2)
-http://twomonkeys.live:80/Victor1234/Victor1234/586092
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/5frw4" group-title="TV VARIEDADES", WAPA AMERICA
-http://twomonkeys.live:80/Victor1234/Victor1234/586088
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/wh7we" group-title="TV VARIEDADES", PASIONES
-http://twomonkeys.live:80/Victor1234/Victor1234/586079
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/j5qcl" group-title="TV VARIEDADES", TELEFE
-http://twomonkeys.live:80/Victor1234/Victor1234/585888
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/wbz6q" group-title="TV VARIEDADES", RCN NUESTRA TELE
-http://twomonkeys.live:80/Victor1234/Victor1234/585802
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/1c145" group-title="TV VARIEDADES", NTN 24
-http://twomonkeys.live:80/Victor1234/Victor1234/585801
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/keaqu" group-title="TV VARIEDADES", NOVA
-http://twomonkeys.live:80/Victor1234/Victor1234/585800
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/udjq84" group-title="TV VARIEDADES", NEOX
-http://twomonkeys.live:80/Victor1234/Victor1234/585787
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDADES" tvg-logo="https://n9.cl/82s5f" group-title="TV VARIEDADES", NOMBRE
-
---- TV CULTURAL ---
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ijx2a0" group-title="TV CULTURAL", DISCOVERY CHANNEL
-http://twomonkeys.live:80/Victor1234/Victor1234/585532
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/50u2u" group-title="TV CULTURAL", TLC
-http://twomonkeys.live:80/Victor1234/Victor1234/585920
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ln1hdb" group-title="TV CULTURAL", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ln1hdb" group-title="TV CULTURAL", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ln1hdb" group-title="TV CULTURAL", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ln1hdb" group-title="TV CULTURAL", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ln1hdb" group-title="TV CULTURAL", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ln1hdb" group-title="TV CULTURAL", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ln1hdb" group-title="TV CULTURAL", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURAL" tvg-logo="https://n9.cl/ln1hdb" group-title="TV CULTURAL", NOMBRE
-
---- CINE Y SERIES ---
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/gv1ul" group-title="CINE Y SERIES", SONY CHANNEL
-http://twomonkeys.live:80/Victor1234/Victor1234/585511
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/gv1ul" group-title="CINE Y SERIES", SONY CHANNEL (OP2)
-http://twomonkeys.live:80/Victor1234/Victor1234/585510
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/28fa3" group-title="CINE Y SERIES", PARAMOUNT NETWORK ESP
-http://twomonkeys.live:80/Victor1234/Victor1234/585861
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/ln1hdb" group-title="CINE Y SERIES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/ln1hdb" group-title="CINE Y SERIES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/ln1hdb" group-title="CINE Y SERIES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/ln1hdb" group-title="CINE Y SERIES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/ln1hdb" group-title="CINE Y SERIES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/ln1hdb" group-title="CINE Y SERIES", NOMBRE
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/ln1hdb" group-title="CINE Y SERIES", NOMBRE
-
---- TV MUSIC ---
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
-http://twomonkeys.live:80/Victor1234/Victor1234/585889
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
-#EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
 #EXTINF:-1 tvg-id="" tvg-name="TV MUSIC" tvg-logo="https://n9.cl/jnebu" group-title="TV MUSIC", TELEHIT
 
 
