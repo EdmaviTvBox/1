@@ -1,351 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1,ARG: 13Max Television
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301307
-#EXTINF:-1,ARG: 24/7 Canal de Noticias
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285870
-#EXTINF:-1,ARG: 247 tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303667
-#EXTINF:-1,ARG: 5TV Corrientes
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285872
-#EXTINF:-1,ARG: A24
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3197
-#EXTINF:-1,ARG: abra tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303677
-#EXTINF:-1,ARG: Aire de Santa Fe
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301326
-#EXTINF:-1,ARG: AMC
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38654
-#EXTINF:-1,ARG: America TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/49245
-#EXTINF:-1,ARG: Argentinísima Satelital
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38659
-#EXTINF:-1,ARG: AXN
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38651
-#EXTINF:-1,ARG: Azahares Radiovisual Multimedia
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301312
-#EXTINF:-1,ARG: Baby TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38649
-#EXTINF:-1,ARG: bayres tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303673
-#EXTINF:-1,ARG: Bloomberg TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285198
-#EXTINF:-1,ARG: c21 tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303659
-#EXTINF:-1,ARG: C5N
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3191
-#EXTINF:-1,ARG: C5sf
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303658
-#EXTINF:-1,ARG: Cable Imagen Armstrong
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301336
-#EXTINF:-1,ARG: cadena 103
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303664
-#EXTINF:-1,ARG: CAMARAS live 4
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303656
-#EXTINF:-1,ARG: Canal 2 Misiones
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301320
-#EXTINF:-1,ARG: Canal 2 Salta
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301345
-#EXTINF:-1,ARG: Canal 2 Telpin
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301316
-#EXTINF:-1,ARG: canal 3
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303661
-#EXTINF:-1,ARG: Canal 4
-http://013tv.com:8080/Isidorchait/ea940f8fd1/24078
-#EXTINF:-1,ARG: Canal 4 Balcarce
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301324
-#EXTINF:-1,ARG: Canal 4 Esquel
-http://013tv.com:8080/Isidorchait/ea940f8fd1/267318
-#EXTINF:-1,ARG: Canal 4 San Juan
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301357
-#EXTINF:-1,ARG: canal 5 picotruncado
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303657
-#EXTINF:-1,ARG: canal 6 digital
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303697
-#EXTINF:-1,ARG: canal 6 moreno
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303653
-#EXTINF:-1,ARG: Canal 7 Jujuy
-http://013tv.com:8080/Isidorchait/ea940f8fd1/299301
-#EXTINF:-1,ARG: Canal 7 Neuquen
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301373
-#EXTINF:-1,ARG: Canal 7 TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301360
-#EXTINF:-1,ARG: Canal 9 Litoral
-http://013tv.com:8080/Isidorchait/ea940f8fd1/299548
-#EXTINF:-1,ARG: Canal 9 Rio Cuarto
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301319
-#EXTINF:-1,ARG: Canal 10 Cordoba
-http://013tv.com:8080/Isidorchait/ea940f8fd1/54280
-#EXTINF:-1,ARG: Canal 10 Neuquen
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301347
-#EXTINF:-1,ARG: Canal 11 de la Costa
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301318
-#EXTINF:-1,ARG: Canal 12 Puerto Madryn
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285879
-#EXTINF:-1,ARG: canal 13
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303662
-#EXTINF:-1,ARG: Canal 13 Jujuy
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301329
-#EXTINF:-1,ARG: Canal 13 La Rioja
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285880
-#EXTINF:-1,ARG: canal 22
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303660
-#EXTINF:-1,ARG: Canal 26
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3190
-#EXTINF:-1,ARG: Canal 34 San Juan
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301327
-#EXTINF:-1,ARG: Canal 50 Morteros
-http://013tv.com:8080/Isidorchait/ea940f8fd1/299691
-#EXTINF:-1,ARG: canal 907
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303655
-#EXTINF:-1,ARG: Canal E
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301353
-#EXTINF:-1,ARG: canal orbe 21
-http://013tv.com:8080/Isidorchait/ea940f8fd1/9374
-#EXTINF:-1,ARG: Canal Provincial
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285888
-#EXTINF:-1,ARG: Canal Santa Maria
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301363
-#EXTINF:-1,ARG: Canal Tres La Pampa
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301350
-#EXTINF:-1,ARG: Canal U
-http://013tv.com:8080/Isidorchait/ea940f8fd1/299549
-#EXTINF:-1,ARG: Celta TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301355
-#EXTINF:-1,ARG: Chaco TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/166055
-#EXTINF:-1,ARG: Chacra TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285890
-#EXTINF:-1,ARG: Chilecito TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301343
-#EXTINF:-1,ARG: Cinco TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/284234
-#EXTINF:-1,ARG: Ciudad Magazine
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38663
-#EXTINF:-1,ARG: Ciudad Magica TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303695
-#EXTINF:-1,ARG: CMT Argentina
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303654
-#EXTINF:-1,ARG: CN3 Pinamar
-http://013tv.com:8080/Isidorchait/ea940f8fd1/166795
-#EXTINF:-1,ARG: Comedy Central
-http://013tv.com:8080/Isidorchait/ea940f8fd1/49261
-#EXTINF:-1,ARG: Cosmos TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301314
-#EXTINF:-1,ARG: CPE
-http://013tv.com:8080/Isidorchait/ea940f8fd1/299184
-#EXTINF:-1,ARG: Cronica TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/8763
-#EXTINF:-1,ARG: DeporTV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38664
-#EXTINF:-1,ARG: DirecTV Sports
-http://013tv.com:8080/Isidorchait/ea940f8fd1/67721
-#EXTINF:-1,ARG: DirecTV Sports 2
-http://013tv.com:8080/Isidorchait/ea940f8fd1/31645
-#EXTINF:-1,ARG: Discovery Theater
-http://013tv.com:8080/Isidorchait/ea940f8fd1/172605
-#EXTINF:-1,ARG: Disney Junior
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38665
-#EXTINF:-1,ARG: Eco TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303959
-#EXTINF:-1,ARG: El Gourmet
-http://013tv.com:8080/Isidorchait/ea940f8fd1/8691
-#EXTINF:-1,ARG: El Nueve
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3202
-#EXTINF:-1,ARG: El Palomar
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301374
-#EXTINF:-1,ARG: El Sello TV Madariaga
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301332
-#EXTINF:-1,ARG: El Trece
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3194
-#EXTINF:-1,ARG: Encuentro
-http://013tv.com:8080/Isidorchait/ea940f8fd1/30694
-#EXTINF:-1,ARG: ESPN
-http://013tv.com:8080/Isidorchait/ea940f8fd1/61174
-#EXTINF:-1,ARG: ESPN 2
-http://013tv.com:8080/Isidorchait/ea940f8fd1/70752
-#EXTINF:-1,ARG: ESPN 3
-http://013tv.com:8080/Isidorchait/ea940f8fd1/61170
-#EXTINF:-1,ARG: Europa Europa
-http://013tv.com:8080/Isidorchait/ea940f8fd1/29295
-#EXTINF:-1,ARG: fiber fly tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303671
-#EXTINF:-1,ARG: Film & Arts
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38678
-#EXTINF:-1,ARG: FOX SPORTS
-http://013tv.com:8080/Isidorchait/ea940f8fd1/280370
-#EXTINF:-1,ARG: FOX SPORTS 2
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3187
-#EXTINF:-1,ARG: FOX SPORTS 3
-http://013tv.com:8080/Isidorchait/ea940f8fd1/10921
-#EXTINF:-1,ARG: FX
-http://013tv.com:8080/Isidorchait/ea940f8fd1/172268
-#EXTINF:-1,ARG: Garage TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/23915
-#EXTINF:-1,ARG: Glitz
-http://013tv.com:8080/Isidorchait/ea940f8fd1/30712
-#EXTINF:-1,ARG: Global TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301364
-#EXTINF:-1,ARG: Gol TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3201
-#EXTINF:-1,ARG: HBO Mundi
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38701
-#EXTINF:-1,ARG: HBO Pop
-http://013tv.com:8080/Isidorchait/ea940f8fd1/29305
-#EXTINF:-1,ARG: HBO Xtreme
-http://013tv.com:8080/Isidorchait/ea940f8fd1/172272
-#EXTINF:-1,ARG: juntoal campo
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303686
-#EXTINF:-1,ARG: LA 90 FM
-http://013tv.com:8080/Isidorchait/ea940f8fd1/299692
-#EXTINF:-1,ARG: La Nacion LN+
-http://013tv.com:8080/Isidorchait/ea940f8fd1/8758
-#EXTINF:-1,ARG: La Voz de Tucuman
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285898
-#EXTINF:-1,ARG: Lapacho TV Canal 11
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301351
-#EXTINF:-1,ARG: latino kids
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303666
-#EXTINF:-1,ARG: Litus
-http://013tv.com:8080/Isidorchait/ea940f8fd1/23925
-#EXTINF:-1,ARG: LTO Television
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301367
-#EXTINF:-1,ARG: madryn tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303674
-#EXTINF:-1,ARG: malbec play
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303687
-#EXTINF:-1,ARG: Mas FM
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301365
-#EXTINF:-1,ARG: medios provincia
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303688
-#EXTINF:-1,ARG: megaclassic
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303689
-#EXTINF:-1,ARG: milennio tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303669
-#EXTINF:-1,ARG: misiones cuatro
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303683
-#EXTINF:-1,ARG: Multivision
-http://013tv.com:8080/Isidorchait/ea940f8fd1/18341
-#EXTINF:-1,ARG: NAT GEO Wild
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38698
-#EXTINF:-1,ARG: Neo Net Music TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303684
-#EXTINF:-1,ARG: Neo TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301358
-#EXTINF:-1,ARG: Neox TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301339
-#EXTINF:-1,ARG: Net TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/267322
-#EXTINF:-1,ARG: nickelodeon
-http://013tv.com:8080/Isidorchait/ea940f8fd1/29311
-#EXTINF:-1,ARG: Pakapaka
-http://013tv.com:8080/Isidorchait/ea940f8fd1/49304
-#EXTINF:-1,ARG: Play Television
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301317
-#EXTINF:-1,ARG: Power Max Radio TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301368
-#EXTINF:-1,ARG: Power TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301333
-#EXTINF:-1,ARG: Quatro
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285901
-#EXTINF:-1,ARG: Quiero Musica en mi Idioma
-http://013tv.com:8080/Isidorchait/ea940f8fd1/30699
-#EXTINF:-1,ARG: Radio Sublime Gracia TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301377
-#EXTINF:-1,ARG: Radiocanal
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301378
-#EXTINF:-1,ARG: retro magico
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303692
-#EXTINF:-1,ARG: RTN Neuquen
-http://013tv.com:8080/Isidorchait/ea940f8fd1/299693
-#EXTINF:-1,ARG: sanluismas
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303670
-#EXTINF:-1,ARG: Santa Fe Canal
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285871
-#EXTINF:-1,ARG: senillosa
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303693
-#EXTINF:-1,ARG: Sicardi TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301375
-#EXTINF:-1,ARG: Smithsonian Channel
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285203
-#EXTINF:-1,ARG: Solidaria TV Argentina
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301369
-#EXTINF:-1,ARG: Somos La Pampa
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301359
-#EXTINF:-1,ARG: spectrum channel
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303652
-#EXTINF:-1,ARG: Star Channel
-http://013tv.com:8080/Isidorchait/ea940f8fd1/280374
-#EXTINF:-1,ARG: Star Life
-http://013tv.com:8080/Isidorchait/ea940f8fd1/280375
-#EXTINF:-1,ARG: Studio Universal
-http://013tv.com:8080/Isidorchait/ea940f8fd1/280367
-#EXTINF:-1,ARG: suyai tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303696
-#EXTINF:-1,ARG: SYFY
-http://013tv.com:8080/Isidorchait/ea940f8fd1/49316
-#EXTINF:-1,ARG: Tele Red
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285183
-#EXTINF:-1,ARG: Telecinco
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301348
-#EXTINF:-1,ARG: telecondor
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303676
-#EXTINF:-1,ARG: Telediez
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301356
-#EXTINF:-1,ARG: Telefe
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3199
-#EXTINF:-1,ARG: Telefe Rosario
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285909
-#EXTINF:-1,ARG: Telemax
-http://013tv.com:8080/Isidorchait/ea940f8fd1/146051
-#EXTINF:-1,ARG: Telenord Corrientes
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285910
-#EXTINF:-1,ARG: telestrella
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303682
-#EXTINF:-1,ARG: televideo
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303675
-#EXTINF:-1,ARG: tensila
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303680
-#EXTINF:-1,ARG: TNT
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38720
-#EXTINF:-1,ARG: TNT Series
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3109
-#EXTINF:-1,ARG: TNT Sports
-http://013tv.com:8080/Isidorchait/ea940f8fd1/3204
-#EXTINF:-1,ARG: Transmision
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303681
-#EXTINF:-1,ARG: TV Mana Argentina
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285905
-#EXTINF:-1,ARG: TV Publica
-http://013tv.com:8080/Isidorchait/ea940f8fd1/8752
-#EXTINF:-1,ARG: TV Santafesina
-http://013tv.com:8080/Isidorchait/ea940f8fd1/200663
-#EXTINF:-1,ARG: TVU Universidad Nacional de La Plata
-http://013tv.com:8080/Isidorchait/ea940f8fd1/285907
-#EXTINF:-1,ARG: TyC Sports
-http://013tv.com:8080/Isidorchait/ea940f8fd1/8749
-#EXTINF:-1,ARG: UNAM Transmedia
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301311
-#EXTINF:-1,ARG: Unife TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/300231
-#EXTINF:-1,ARG: Uniteve
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301366
-#EXTINF:-1,ARG: Universal TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38719
-#EXTINF:-1,ARG: Ver TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/301354
-#EXTINF:-1,ARG: vientorecio
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303679
-#EXTINF:-1,ARG: vive tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303691
-#EXTINF:-1,ARG: Warner TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/38722
-#EXTINF:-1,ARG: Wobi TV
-http://013tv.com:8080/Isidorchait/ea940f8fd1/9123
-#EXTINF:-1,ARG: yaried tv
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303699
-#EXTINF:-1,ARG: zonagospel
-http://013tv.com:8080/Isidorchait/ea940f8fd1/303678
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8956
+#EXTINF:-1,CL: 24 Horas
+http://013tv.com:8080/Isidorchait/ea940f8fd1/298601
+#EXTINF:-1,CL: Camara de Diputados
+http://013tv.com:8080/Isidorchait/ea940f8fd1/169030
+#EXTINF:-1,CL: Canal 13
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8955
+#EXTINF:-1,CL: CDO Premium
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8963
+#EXTINF:-1,CL: ChileVision
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8966
+#EXTINF:-1,CL: Cinecanal
+http://013tv.com:8080/Isidorchait/ea940f8fd1/3008
+#EXTINF:-1,CL: CNN Chile
+http://013tv.com:8080/Isidorchait/ea940f8fd1/76353
+#EXTINF:-1,CL: DirecTV Sports
+http://013tv.com:8080/Isidorchait/ea940f8fd1/290379
+#EXTINF:-1,CL: DirecTV Sports 2
+http://013tv.com:8080/Isidorchait/ea940f8fd1/290380
+#EXTINF:-1,CL: ESPN
+http://013tv.com:8080/Isidorchait/ea940f8fd1/295637
+#EXTINF:-1,CL: ETC
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8969
+#EXTINF:-1,CL: FOX SPORTS
+http://013tv.com:8080/Isidorchait/ea940f8fd1/301288
+#EXTINF:-1,CL: ITV Patagonia
+http://013tv.com:8080/Isidorchait/ea940f8fd1/297231
+#EXTINF:-1,CL: Mega
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8971
+#EXTINF:-1,CL: Rec TV
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8975
+#EXTINF:-1,CL: Retro Plus
+http://013tv.com:8080/Isidorchait/ea940f8fd1/286286
+#EXTINF:-1,CL: SextaVision
+http://013tv.com:8080/Isidorchait/ea940f8fd1/299544
+#EXTINF:-1,CL: Teletrak
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8965
+#EXTINF:-1,CL: TNT Sports
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8959
+#EXTINF:-1,CL: TNT Sports 2
+http://013tv.com:8080/Isidorchait/ea940f8fd1/279612
+#EXTINF:-1,CL: TV Nuevo Tiempo
+http://013tv.com:8080/Isidorchait/ea940f8fd1/299797
+#EXTINF:-1,CL: TV5 Linares
+http://013tv.com:8080/Isidorchait/ea940f8fd1/286279
+#EXTINF:-1,CL: TVN
+http://013tv.com:8080/Isidorchait/ea940f8fd1/8976
+#EXTINF:-1,CL: Universidad Autonoma
+http://013tv.com:8080/Isidorchait/ea940f8fd1/286282
+#EXTINF:-1,CL: VC Online
+http://013tv.com:8080/Isidorchait/ea940f8fd1/169033
+#EXTINF:-1,CL: VTV Valle de Aconcagua
+http://013tv.com:8080/Isidorchait/ea940f8fd1/286283
 
 
 
