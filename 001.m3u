@@ -139,6 +139,30 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/134320
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Warner Channel
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/31145
 
+--- KIDS ---
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Baby First
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/239533
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Baby TV
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29731
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Cartoon Network
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/63862
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Cartoonito FHD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29732
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Discovery Kids HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29804
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Disney Channel HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29807
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Disney Junior HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29808
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Nick Jr HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62557
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Nickelodeon HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/44469
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",TeenNick HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62556
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Tooncast
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29783
+
 --- 24 HORAS ---
 #EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://n9.cl/eaqjwt" group-title="24 Horas",A Corazon Abierto
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/176977
