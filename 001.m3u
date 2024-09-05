@@ -1,14 +1,6 @@
 #EXTM3U
 
 --- PREMIUM ---
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Golden
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77163
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Golden Edge
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29823
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Golden Plus 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77161
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Golden Premier 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/128510
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29917
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO 2
@@ -25,21 +17,85 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62798
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/47468
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO Xtreme
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/31288
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",De Pelicula Clasico
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/72163
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",De Pelicula 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29737
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",De Pelicula Plus 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/47442
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Morbido TV
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/59773
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Multipremier
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/30495
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",DHE HD
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77159
-
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Universal Cinema
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/73998
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Universal Comedy HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/128512
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Universal Crime HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/74000
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Universal Crime Oeste HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/164068
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Universal Premiere HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/73999
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Universal Premiere Este HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/164069
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Universal Premiere Oeste HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/164070
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Universal Reality HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/41015
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Cinema
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102320
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102319
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Comedy
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102321
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Edge
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102322
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Encore 
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102323
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Encore Action
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102324
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Encore Black
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102325
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Encore Classic
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102326
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Encore Family
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102327
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Encore Suspense
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102328
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Encore West
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102329
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Encore Western
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102330
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz In Black
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102331
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Kids & Family
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102332
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Cine HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79183
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Clasico HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79184
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Docu HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79185
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Familia HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79186
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Fiesta HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79187
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Kidz HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79188
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Macho HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79189
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Mex HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79190
 
 --- CINE Y SERIES ---
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Golden
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77163
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Golden Edge
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29823
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Golden Plus 
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77161
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Golden Premier 
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/128510
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",De Pelicula Clasico
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/72163
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",De Pelicula 
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29737
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",De Pelicula Plus 
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/47442
+
+
+--- TV PREMIUM ---
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",A&E 
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/30656
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",AMC
@@ -54,12 +110,16 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/67196
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/30661
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Cinemax
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/30663
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Warner Channel
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/31145
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",TNT 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/172624
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",DHE HD
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77159
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Europa Europa 
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/45931
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Lifetime 
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/134305
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Morbido TV
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/59773
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Multipremier
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/30495
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Star Channel 
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/31125
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Sony Channel
@@ -68,12 +128,17 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/45936
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/31141
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Studio Universal
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/134324
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",TCM
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29780
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",TNT 
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/172624
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",TNT Series
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/31144
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Paramount 
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/134320
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Lifetime 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/134305
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Warner Channel
+http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/31145
+
 
 --- 24 HORAS ---
 #EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://n9.cl/eaqjwt" group-title="24 Horas",A Corazon Abierto
