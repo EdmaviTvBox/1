@@ -1,5 +1,12 @@
 #EXTM3U
 
+--- PPV ---
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",UFC FIGHT PASS
+http://premiumultra.xyz:8080/71273247/5487102/20382
+#EXTINF:-1 tvg-id="" tvg-name="FHD" tvg-logo="https://n9.cl/v1my31" group-title="FHD",WWE NETWORK (HD) »1«
+http://premiumultra.xyz:8080/71273247/5487102/20509
+
+
 --- PREMIUM ---
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",TNT Nitro
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/227797
