@@ -195,10 +195,14 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29779
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29785
 
 --- ENTRETENIMIENTO ---
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",Telemundo
+http://premiumultra.xyz:8080/71273247/5487102/74570
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",Galavision
+http://premiumultra.xyz:8080/71273247/5487102/74624
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",Univision
+http://premiumultra.xyz:8080/71273247/5487102/74625
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",Unimas
+http://premiumultra.xyz:8080/71273247/5487102/74671
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
 
@@ -266,9 +270,9 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62556
 
 --- MUSIC ---
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Bandamax
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/218022
+http://premiumultra.xyz:8080/71273247/5487102/47263
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Telehit
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/218064
+http://premiumultra.xyz:8080/71273247/5487102/47268
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Telehit Musica
 http://premiumultra.xyz:8080/71273247/5487102/47269
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",retro
