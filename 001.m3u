@@ -3,7 +3,7 @@
 --- PPV ---
 #EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",UFC FIGHT PASS
 http://premiumultra.xyz:8080/71273247/5487102/20382
-#EXTINF:-1 tvg-id="" tvg-name="FHD" tvg-logo="https://n9.cl/v1my31" group-title="FHD",WWE NETWORK (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",WWE NETWORK
 http://premiumultra.xyz:8080/71273247/5487102/20509
 
 
