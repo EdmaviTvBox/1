@@ -131,8 +131,6 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/134305
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29816
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Multipremier
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/30495
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Netflix
-http://new-tv.cloud:25461/Amado/12345/578882
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Paramount 
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/41025
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Star Channel 
@@ -145,14 +143,10 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62801
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29832
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TCM
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29780
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Telemundo
-http://new-tv.cloud:25461/Amado/12345/580250
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TNT 
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/47471
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TNT Series
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/47241
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Unimás
-http://new-tv.cloud:25461/Amado/12345/580474
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Universal TV
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/41026
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",USA Network HD
@@ -162,11 +156,15 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29785
 
 --- ENTRETENIMIENTO ---
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/uvm2y" group-title="ENTRETENIMIENTO",
+
+
 --- CULTURAL ---
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",ODISEA
-http://new-tv.cloud:25461/Amado/12345/563778
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Love Nature
-http://new-tv.cloud:25461/Amado/12345/563772
+
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Investigation Discovery 
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62751
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Channel
@@ -197,10 +195,6 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/49597
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62614
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",National Geographic
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/44463
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Nat Geo
-http://new-tv.cloud:25461/Amado/12345/563775
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Nat Geo Wild
-http://new-tv.cloud:25461/Amado/12345/563776
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Film & Arts
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77195
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",HGTV 
@@ -211,10 +205,6 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/57560
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/239533
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Baby TV
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29731
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",BitMe
-http://new-tv.cloud:25461/Amado/12345/195811
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Boing
-http://new-tv.cloud:25461/Amado/12345/195812
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Cartoon Network
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/63862
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Cartoonito FHD
@@ -231,78 +221,20 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62557
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/44469
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",TeenNick HD
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62556
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Tooncast
-http://new-tv.cloud:25461/Amado/12345/195836
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Toon Goggles
-http://new-tv.cloud:25461/Amado/12345/387031
 
 --- MUSIC ---
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Teleritmo
-http://new-tv.cloud:25461/Amado/12345/452597
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",BANDAMAX
-http://new-tv.cloud:25461/Amado/12345/563793
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",CONCERT Channel
-http://new-tv.cloud:25461/Amado/12345/563794
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV
-http://new-tv.cloud:25461/Amado/12345/563799
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Live
-http://new-tv.cloud:25461/Amado/12345/563801
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Hits
-http://new-tv.cloud:25461/Amado/12345/563803
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Classic
-http://new-tv.cloud:25461/Amado/12345/563805
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",TELEHIT
-http://new-tv.cloud:25461/Amado/12345/563813
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",TELEHIT Plus
-http://new-tv.cloud:25461/Amado/12345/563814
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",PortalFoxMix
-http://new-tv.cloud:25461/Amado/12345/563819
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
 
 --- 24/7 ---
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Chavo del 8
-http://new-tv.cloud:25461/Amado/12345/586292
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Bob Esponja
-http://new-tv.cloud:25461/Amado/12345/236030
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Family Guy
-http://new-tv.cloud:25461/Amado/12345/537082
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Pokémon
-http://new-tv.cloud:25461/Amado/12345/235980
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",DBZ Saga Freezer
-http://new-tv.cloud:25461/Amado/12345/536909
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Saint Seiya Torneo Galáctico
-http://new-tv.cloud:25461/Amado/12345/464284
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Saint Seiya 12 Casas
-http://new-tv.cloud:25461/Amado/12345/577756
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Saint Seiya Asgard
-http://new-tv.cloud:25461/Amado/12345/464287
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Saint Seiya Poseidon
-http://new-tv.cloud:25461/Amado/12345/464288
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Saint Seiya Hades Infierno
-http://new-tv.cloud:25461/Amado/12345/464295
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Saint Seiya Hades Campos Eliseos
-http://new-tv.cloud:25461/Amado/12345/464296
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",DeathNote
-http://new-tv.cloud:25461/Amado/12345/466596
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",The Big Bang Theory
-http://new-tv.cloud:25461/Amado/12345/318203
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Digimon
-http://new-tv.cloud:25461/Amado/12345/577757
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Malcolm in the Middle
-http://new-tv.cloud:25461/Amado/12345/578169
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Los Simpson Casita del Horror
-http://new-tv.cloud:25461/Amado/12345/578200
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",El Laboratorio de Dexter
-http://new-tv.cloud:25461/Amado/12345/585658
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",El principe del rap
-http://new-tv.cloud:25461/Amado/12345/195642
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Chespirito
-http://new-tv.cloud:25461/Amado/12345/537081
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",TRansformers: Armada
-http://new-tv.cloud:25461/Amado/12345/537086
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Gravity Falls
-http://new-tv.cloud:25461/Amado/12345/537117
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Ranma 1/2
-http://new-tv.cloud:25461/Amado/12345/537136
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",ALF
-http://new-tv.cloud:25461/Amado/12345/235961
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
 
