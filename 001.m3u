@@ -5,6 +5,9 @@
 http://premiumultra.xyz:8080/71273247/5487102/20382
 #EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",WWE NETWORK
 http://premiumultra.xyz:8080/71273247/5487102/20509
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",THE FIGHT NETWORK
+http://premiumultra.xyz:8080/71273247/5487102/21159
+
 
 
 --- PREMIUM ---
@@ -234,6 +237,8 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/44463
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77195
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",HGTV 
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/57560
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Odisea
+http://premiumultra.xyz:8080/71273247/5487102/12349
 
 --- KIDS ---
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Baby First
