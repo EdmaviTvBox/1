@@ -1,6 +1,14 @@
 #EXTM3U
 
 --- PREMIUM ---
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",TNT Nitro
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/227797
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",TNT Sci-fi
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/228013
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Warner Movies Kids
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/189927
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Warner Premiere
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/180057
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29917
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO 2
@@ -61,6 +69,24 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102330
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102331
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Starz Kids & Family
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/102332
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Terror
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/226202
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Action
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/147
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Cinema SUB
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/68429
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Classics
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/167
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Comedy 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/156
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Fun KIDS
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/159
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Hits 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/169
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Play
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83328
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Plus 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83329
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Cine HD
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79183
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Clasico HD
@@ -77,6 +103,8 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79188
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79189
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Ultra Mex HD
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/79190
+
+
 
 --- CINE Y SERIES ---
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Golden
@@ -223,8 +251,10 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/44469
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62556
 
 --- MUSIC ---
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Bandamax
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/218022
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Telehit
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/218064
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
