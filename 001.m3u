@@ -145,6 +145,8 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29779
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29785
 
 --- ENTRETENIMIENTO ---
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Caracol Internacional
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/205328
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Telemundo Internacional
 http://premierchile.shop:8080/959230967tv/4vyf89/605
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Telemundo
@@ -157,16 +159,18 @@ http://premiumultra.xyz:8080/71273247/5487102/74625
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/29694
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Pasiones 
 http://premierchile.shop:8080/959230967tv/4vyf89/591
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Kanal D Drama
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/205321
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Corazon
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/205325
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Glitz 
 http://premierchile.shop:8080/959230967tv/4vyf89/595
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",El Gourmet
 http://premierchile.shop:8080/959230967tv/4vyf89/598
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Food Network
 http://premierchile.shop:8080/959230967tv/4vyf89/601
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Garage TV
-http://premierchile.shop:8080/959230967tv/4vyf89/603
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",CANAL COCINA
-http://premierchile.shop:8080/959230967tv/4vyf89/613
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",DW
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/205333
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Tlnovelas
 http://premierchile.shop:8080/959230967tv/4vyf89/612
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Cocina TV
@@ -178,13 +182,11 @@ http://premierchile.shop:8080/959230967tv/4vyf89/628
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Hola TV 
 http://premierchile.shop:8080/959230967tv/4vyf89/631
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Las Estrellas
-http://premierchile.shop:8080/959230967tv/4vyf89/632
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/205324
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Distrito Comedia
 http://premierchile.shop:8080/959230967tv/4vyf89/635
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",TF1
-http://premierchile.shop:8080/959230967tv/4vyf89/645
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
@@ -231,8 +233,10 @@ http://premierchile.shop:8080/959230967tv/4vyf89/621
 http://premiumultra.xyz:8080/71273247/5487102/12349
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Caza y Pesca
 http://premierchile.shop:8080/959230967tv/4vyf89/620
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",LOVE NATURE
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Love Nature
 http://premierchile.shop:8080/959230967tv/4vyf89/451
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Garage TV
+http://premierchile.shop:8080/959230967tv/4vyf89/603
 
 --- KIDS ---
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",NETFLIX Originals Kids
