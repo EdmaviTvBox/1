@@ -71,7 +71,18 @@ http://premierchile.shop:8080/959230967tv/4vyf89/65223
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/657
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",De Pelicula 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/656
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",CANAL+ 
+http://premierchile.shop:8080/959230967tv/4vyf89/641
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",CINE+ PREMIERE
+http://premierchile.shop:8080/959230967tv/4vyf89/642
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",CANAL+ DOCS
+http://premierchile.shop:8080/959230967tv/4vyf89/643
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",CANAL+ SERIES
+http://premierchile.shop:8080/959230967tv/4vyf89/644
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",
+
 
 --- TV PREMIUM ---
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Adult Swim 
@@ -105,7 +116,7 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/164026
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",I-Sat
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29975
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Lifetime 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/134305
+http://premierchile.shop:8080/959230967tv/4vyf89/608
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Morbido TV
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29816
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Multipremier
@@ -134,6 +145,8 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29779
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29785
 
 --- ENTRETENIMIENTO ---
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Telemundo Internacional
+http://premierchile.shop:8080/959230967tv/4vyf89/605
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Telemundo
 http://premiumultra.xyz:8080/71273247/5487102/74570
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Unimas
@@ -142,7 +155,40 @@ http://premiumultra.xyz:8080/71273247/5487102/74624
 http://premiumultra.xyz:8080/71273247/5487102/74625
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Galavision
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/29694
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Pasiones 
+http://premierchile.shop:8080/959230967tv/4vyf89/591
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Glitz 
+http://premierchile.shop:8080/959230967tv/4vyf89/595
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",El Gourmet
+http://premierchile.shop:8080/959230967tv/4vyf89/598
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Food Network
+http://premierchile.shop:8080/959230967tv/4vyf89/601
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Garage TV
+http://premierchile.shop:8080/959230967tv/4vyf89/603
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",CANAL COCINA
+http://premierchile.shop:8080/959230967tv/4vyf89/613
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Tlnovelas
+http://premierchile.shop:8080/959230967tv/4vyf89/612
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Cocina TV
+http://premierchile.shop:8080/959230967tv/4vyf89/614
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Mas Chic 
+http://premierchile.shop:8080/959230967tv/4vyf89/624
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",E! Entertainment 
+http://premierchile.shop:8080/959230967tv/4vyf89/628
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Hola TV 
+http://premierchile.shop:8080/959230967tv/4vyf89/631
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Las Estrellas
+http://premierchile.shop:8080/959230967tv/4vyf89/632
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",Distrito Comedia
+http://premierchile.shop:8080/959230967tv/4vyf89/635
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",TF1
+http://premierchile.shop:8080/959230967tv/4vyf89/645
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/tj8pp" group-title="ENTRETENIMIENTO",
+
 
 
 --- CULTURAL ---
@@ -180,33 +226,50 @@ http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/44463
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Film & Arts
 http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/77195
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",HGTV 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/57560
+http://premierchile.shop:8080/959230967tv/4vyf89/621
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Odisea
 http://premiumultra.xyz:8080/71273247/5487102/12349
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Caza y Pesca
+http://premierchile.shop:8080/959230967tv/4vyf89/620
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",LOVE NATURE
+http://premierchile.shop:8080/959230967tv/4vyf89/451
 
 --- KIDS ---
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",NETFLIX Originals Kids
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/189925
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Baby First
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/239533
+http://premierchile.shop:8080/959230967tv/4vyf89/370
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Baby TV
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29731
+http://premierchile.shop:8080/959230967tv/4vyf89/372
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Cartoon Network
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/63862
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Cartoonito FHD
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29732
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Discovery Kids HD
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29804
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Disney Channel HD
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29807
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Disney Junior HD
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/29808
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Nick Jr HD
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62557
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Nickelodeon HD
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/44469
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",TeenNick HD
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/62556
+http://premierchile.shop:8080/959230967tv/4vyf89/373
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Cartoonito 
+http://premierchile.shop:8080/959230967tv/4vyf89/61600
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Discovery Kids 
+http://premierchile.shop:8080/959230967tv/4vyf89/376
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Disney Channel
+http://premierchile.shop:8080/959230967tv/4vyf89/382
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Disney Junior 
+http://premierchile.shop:8080/959230967tv/4vyf89/385
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Nick Jr 
+http://premierchile.shop:8080/959230967tv/4vyf89/393
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Nickelodeon
+http://premierchile.shop:8080/959230967tv/4vyf89/390
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Nickelodeon Clasicos
+http://premierchile.shop:8080/959230967tv/4vyf89/61590
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",TeenNick
+http://premierchile.shop:8080/959230967tv/4vyf89/396
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Tooncast
+http://premierchile.shop:8080/959230967tv/4vyf89/399
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",ZOOMOO
+http://premierchile.shop:8080/959230967tv/4vyf89/61604
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",SEMILLITAS 
+http://premierchile.shop:8080/959230967tv/4vyf89/61602
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",PAKAPAKA 
+http://premierchile.shop:8080/959230967tv/4vyf89/61601
+DREAMWORKS 
+http://premierchile.shop:8080/959230967tv/4vyf89/61598
+
 
 --- MUSIC ---
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Bandamax
