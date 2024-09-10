@@ -4,7 +4,33 @@
 #EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",DAZN F1 
 http://premiumultra.xyz:8080/71273247/5487102/12397
 
-
+--- Colombia ---
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELEMEDELLIN
+http://tv14s.xyz:8080/0BUuyX/595985/78722
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CANAL UNO
+http://tv14s.xyz:8080/0BUuyX/595985/78698
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CARACOL INTERNACIONAL 
+http://tv14s.xyz:8080/0BUuyX/595985/78701
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CARACOL 
+http://tv14s.xyz:8080/0BUuyX/595985/78700
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",NTN24 
+http://tv14s.xyz:8080/0BUuyX/595985/78704
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN 
+http://tv14s.xyz:8080/0BUuyX/595985/78694
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",WIN SPORTS PLUS 
+http://tv14s.xyz:8080/0BUuyX/595985/78697
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN NOVELAS
+http://tv14s.xyz:8080/0BUuyX/595985/78716
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",SENAL COLOMBIA
+http://tv14s.xyz:8080/0BUuyX/595985/78711
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELECAFE
+http://tv14s.xyz:8080/0BUuyX/595985/78726
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELEANTIOQUIA
+http://tv14s.xyz:8080/0BUuyX/595985/78706
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Telepacifico 
+http://tv14s.xyz:8080/0BUuyX/595985/78729
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Win Sports + 
+http://tv14s.xyz:8080/0BUuyX/595985/78717
 
 --- PREMIUM ---
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",TNT Nitro
