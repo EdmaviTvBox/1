@@ -224,7 +224,11 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/205324
 --- CULTURAL ---
 
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Channel
-http://tv14s.xyz:8080/0BUuyX/595985/57625
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/102500
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Channel Opc 2
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/229728
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery España
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/523
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Nat Geo Mundo 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/68284
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Natgeo Wild 
@@ -232,26 +236,28 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/69130
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",NatGeo
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99735
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Odisea
-http://premiumultra.xyz:8080/71273247/5487102/12349
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Channel Opc 2
-
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Investigation Discovery 
-
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/92446
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Familia
-
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/571
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Home & Healt 
-
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/93060
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Home & Healt Opc 2
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99727
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Investigation Discovery 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/580
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Theater 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/53686
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery TLC 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/587
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Turbo 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/590
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery World 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/591
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Science 
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Theater 
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery TLC 
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Turbo 
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery World 
 
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Animal Planet 
 
@@ -273,6 +279,8 @@ http://premiumultra.xyz:8080/71273247/5487102/12349
 
 
 --- KIDS ---
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Discovery Kids 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/176808
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",NETFLIX Originals Kids
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/189925
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Baby First
