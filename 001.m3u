@@ -223,11 +223,21 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/205324
 
 --- CULTURAL ---
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Investigation Discovery 
-
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Channel
 http://tv14s.xyz:8080/0BUuyX/595985/57625
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Nat Geo Mundo 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/68284
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Natgeo Wild 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/69130
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",NatGeo
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99735
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Odisea
+http://premiumultra.xyz:8080/71273247/5487102/12349
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Channel Opc 2
+
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Investigation Discovery 
 
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Discovery Familia
 
@@ -249,20 +259,12 @@ http://tv14s.xyz:8080/0BUuyX/595985/57625
 
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",History 2 
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Nat Geo Mundo 
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/68284
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",National Geographic
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Natgeo Wild 
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/69130
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",NatGeo
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99735
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Film & Arts
 
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",HGTV 
 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Odisea
-http://premiumultra.xyz:8080/71273247/5487102/12349
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Caza y Pesca
 
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Love Nature
