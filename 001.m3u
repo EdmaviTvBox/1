@@ -341,63 +341,84 @@ http://premiumultra.xyz:8080/71273247/5487102/47265
 http://premiumultra.xyz:8080/71273247/5487102/47266
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Classics
 http://premiumultra.xyz:8080/71273247/5487102/47267
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
 
 
 --- 24/7 ---
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7"
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
+--- Cinema ---
 
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Accion Classics 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Accion Classics 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94187
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Anime 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Anime 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56446
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Christmas
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Christmas
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/68130
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Ciencia Ficcion
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Ciencia Ficcion
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56430
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Comedy 1
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Comedy 1
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/65759
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Comedy 2
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Comedy 2
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/65067
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema DC Comics 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema DC Comics 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56440
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema DC Universe
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema DC Universe
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56441
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Disney Family 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Disney Family 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56445
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Disney Pixar
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Disney Pixar
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56444
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Dreamworks 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",,Cinema Dreamworks 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56443
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Familia
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Familia
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56434
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Happy Madison 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Happy Madison 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56433
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Horror Classics
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Horror Classics
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56699
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Horror 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Horror 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56447
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Lego Movies 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Lego Movies 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56442
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Marvel Animated 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Marvel Animated 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56439
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Marvel Studios Este 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Marvel Studios Este 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56437
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Marvel Studios Oeste 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Marvel Studios Oeste 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56438
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Marvel Studios 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Marvel Studios 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/56436
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema MCRT 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema MCRT 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94202
-#EXTINF:-1 tvg-id="" tvg-name="24/7" tvg-logo=",https://n9.cl/o7fzn" group-title="24/7",Cinema Wars
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo=",https://n9.cl/o7fzn" group-title="Cinema",Cinema Wars
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94186
+
+
+
 
 
