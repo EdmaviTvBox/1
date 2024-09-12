@@ -109,9 +109,9 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/179
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Golden Edge
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/180
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Golden Plus 
-http://premierchile.shop:8080/959230967tv/4vyf89/65219
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/2f18818d-d251-460c-9a39-1daed718797f.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Golden Premier 
-http://premierchile.shop:8080/959230967tv/4vyf89/65223
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/32a967c1-4f32-4ce4-bfb0-1fa69f765f8b.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",De Pelicula Clasico
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/657
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",De Pelicula 
@@ -134,8 +134,8 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/190569
 
 
 --- TV PREMIUM ---
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Adult Swim 
-http://1play.cool:25461/CARRUSEL22908/85ac0d59eef0/58099
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",A&E 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/121
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",AMC
@@ -186,10 +186,11 @@ http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/5ae2c348-0e15-40ab-96b8-795
 http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/1294a747-fc4c-4de5-9479-88ac181101ec.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TCM
 http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/b7cd7d10-bbbf-4661-88f8-e26df2801963.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Cine Dinamita 
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",I-Sat
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Morbido TV
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Panico
+Cine Dinamita 
+I-Sat
+Morbido TV
+Panico
+Adult Swim 
 
 
 --- ENTRETENIMIENTO ---
