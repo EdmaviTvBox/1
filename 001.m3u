@@ -3,6 +3,8 @@
 --- PPV ---
 #EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",DAZN F1 
 http://premiumultra.xyz:8080/71273247/5487102/12397
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",FIGHT NETWORK
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/c0422637-b0f5-452a-a1ee-80185e1cc417.ts
 
 --- Colombia ---
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELEMEDELLIN
@@ -114,6 +116,8 @@ http://premierchile.shop:8080/959230967tv/4vyf89/65223
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/657
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",De Pelicula 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/656
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",De Pelicula Plus 
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/0a585728-2e35-4213-a3e0-577ce6b45766.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Disney Channel Movies
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/179858
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/f1y2d1" group-title="CINE Y SERIES",Disney Live Action 
@@ -170,16 +174,22 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/249
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/225
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Warner Channel
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/251
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Cine Dinamita 
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",DHE
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/0895a3fc-af69-4c50-8343-41bef1043931.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Lifetime
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/65d65eb8-8bfb-4fb8-9bca-5c0fa80a9306.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TNT 
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/56034992-7b05-4491-85e6-aeb5b5e729e1.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TNT Series
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/5ae2c348-0e15-40ab-96b8-795846bf0633.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Multipremier
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/1294a747-fc4c-4de5-9479-88ac181101ec.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TCM
+http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/b7cd7d10-bbbf-4661-88f8-e26df2801963.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Cine Dinamita 
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",I-Sat
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Lifetime 
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Morbido TV
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Panico
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Multipremier
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TCM
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TNT 
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TNT Series
 
 
 --- ENTRETENIMIENTO ---
