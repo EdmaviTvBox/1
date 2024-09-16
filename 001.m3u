@@ -2,11 +2,20 @@
 
 --- PPV ---
 #EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",DAZN F1 
-http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwq6UjORfKyfzO46h2royBwY/ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",UFC TV
-http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwv_UFOcFHCRKfFKrwFv6_uc/ts
-#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",FIGHT NETWORK
-http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwowz7UlVRzjjC0hBLfzxB0E/ts
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/90949
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",Dazn 1
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/86943
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",Dazn 2 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/86944
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",DAZN La Liga 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/101993
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",UFC Fight Pass
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/107836
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",WWE
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94235
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",WWE 2
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/87844
+
 
 --- Colombia ---
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELEMEDELLIN
