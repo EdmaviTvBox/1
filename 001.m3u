@@ -11,6 +11,8 @@ http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwowz7UlVRzjjC0hBLfzxB0E/ts
 --- Colombia ---
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELEMEDELLIN
 http://tv14s.xyz:8080/0BUuyX/595985/78722
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Telecaribe
+http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwrTvuP-xjVAj7Ef_qyIksMuaZ4Guu8m45-sUbYGEURVl/ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CANAL UNO
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/260
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CARACOL INTERNACIONAL 
@@ -21,10 +23,6 @@ http://tv14s.xyz:8080/0BUuyX/595985/78700
 http://tv14s.xyz:8080/0BUuyX/595985/78704
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN 
 http://tv14s.xyz:8080/0BUuyX/595985/78694
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",WIN SPORTS PLUS 
-http://tv14s.xyz:8080/0BUuyX/595985/78697
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA"ESPN COLOMBIA
-http://tv14s.xyz:8080/0BUuyX/595985/86765
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN NOVELAS
 http://tv14s.xyz:8080/0BUuyX/595985/78716
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",SENAL COLOMBIA
@@ -35,12 +33,16 @@ http://tv14s.xyz:8080/0BUuyX/595985/78726
 http://tv14s.xyz:8080/0BUuyX/595985/78706
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Telepacifico 
 http://tv14s.xyz:8080/0BUuyX/595985/78729
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Win Sports + 
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",WIN SPORTS PLUS 
+http://tv14s.xyz:8080/0BUuyX/595985/78697
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Win Sports + opc 2
 http://tv14s.xyz:8080/0BUuyX/595985/78717
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Win Sports 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/224008
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",ESPN 
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",ESPN Colombia 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/161087
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA"ESPN Colombia Opc 2
+http://tv14s.xyz:8080/0BUuyX/595985/86765
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Dir3ctv Sports 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/188733
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",Cable Noticias
