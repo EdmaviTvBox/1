@@ -211,7 +211,7 @@ Adult Swim
 
 
 --- ENTRETENIMIENTO ---
-Caracol Internacional
+
 Telemundo Internacional
 Glitz 
 Cocina TV
@@ -337,27 +337,30 @@ TeenNick
 
 --- MUSIC ---
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Bandamax
-http://premiumultra.xyz:8080/71273247/5487102/47263
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Telehit
-http://premiumultra.xyz:8080/71273247/5487102/47268
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Telehit Musica
-http://premiumultra.xyz:8080/71273247/5487102/47269
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",retro
-http://premiumultra.xyz:8080/71273247/5487102/14310
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",VH1
-http://premiumultra.xyz:8080/71273247/5487102/47271
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",VH1 Classics
-http://premiumultra.xyz:8080/71273247/5487102/47272
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV
-http://premiumultra.xyz:8080/71273247/5487102/47264
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Live
-http://premiumultra.xyz:8080/71273247/5487102/47265
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Hits
-http://premiumultra.xyz:8080/71273247/5487102/47266
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/719
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",CMC California
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/728
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",HTV 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/65102
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",La Mega Mundial
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/216490
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Classics
-http://premiumultra.xyz:8080/71273247/5487102/47267
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94203
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV en español
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/158583
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Latino
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/204693
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV Music Made in Spain
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/158597
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",MTV
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/87150
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Music Spirit Tv 
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/713
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Trace brazuca
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/180773
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/kvfp7" group-title="MUSIC",Trace Latina
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/180774
+
 
 
 --- 24/7 ---
