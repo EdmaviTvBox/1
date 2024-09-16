@@ -2,9 +2,11 @@
 
 --- PPV ---
 #EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",DAZN F1 
-http://premiumultra.xyz:8080/71273247/5487102/12397
+http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwq6UjORfKyfzO46h2royBwY/ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",UFC TV
+http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwv_UFOcFHCRKfFKrwFv6_uc/ts
 #EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",FIGHT NETWORK
-http://fivetv84.xyz:80/live/joaquimferreira/eT2G5cFF/c0422637-b0f5-452a-a1ee-80185e1cc417.ts
+http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwowz7UlVRzjjC0hBLfzxB0E/ts
 
 --- Colombia ---
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELEMEDELLIN
@@ -283,11 +285,13 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/93330
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99734
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Caza y Pesca
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/64143
-HGTV 
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Garage TV
+http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwvooNPawui240FB-vPMSoAk/ts
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",HGTV 
+http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwj96Su-ZsGi1clA15SeCJr9uFrBtIX4f4LCz7VD5eZV9/ts
 
 Love Nature
 
-Garage TV
 
 
 --- KIDS ---
