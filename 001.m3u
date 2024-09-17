@@ -18,6 +18,8 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/87844
 
 
 --- Colombia ---
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELECARIBE
+http://209.45.101.36:50000/play/Telecaribe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELEMEDELLIN
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/286
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CANAL UNO
@@ -73,13 +75,13 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/180057
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/185
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO 2
-http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwoamUen0FkVxtJOqTlQewQ4/ts
+http://209.45.101.35:50000/play/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO Family 
-http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwo-JkNEx3cz2i28tfyFYJbk/ts
+http://209.45.101.35:50000/play/HBOFamilyHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO Mundi
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/92112
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO Plus
-http://offshore.lat:8080/play/JClJoNSw3iA16gcAed2jwgbvuY0OK9UjWSkDBF8Qw9Y6wl7QPPiJDBRMQp7W6w-Z/ts
+http://209.45.101.35:50000/play/HBOPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO Pop
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/188345
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",HBO Signature
@@ -112,7 +114,6 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/169
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83328
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/jek8h2" group-title="PREMIUM",Star Plus 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83329
-
 
 --- VIP ---
 #EXTINF:-1 tvg-id="" tvg-name="VIP" tvg-logo="https://n9.cl/f1y2d1" group-title="VIP",Golden
@@ -201,12 +202,11 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/249
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/225
 #EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Warner Channel
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/251
-DHE
-
-Lifetime
-
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",Lifetime
+http://209.45.101.35:50000/play/Lifetime/index.m3u8
 TNT 
 
+DHE
 TNT Series
 
 Multipremier
@@ -311,9 +311,10 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99734
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Caza y Pesca
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/64143
 Garage TV
-HGTV 
-Love Nature
-
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",HGTV 
+http://209.45.101.35:50000/play/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/uvm2y" group-title="CULTURAL",Love Nature
+http://209.45.101.35:50000/play/LoveNatureHD/index.m3u8
 --- KIDS ---
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/tqe62w" group-title="KIDS",Discovery Kids 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/176808
