@@ -1,54 +1,349 @@
 #EXTM3U
 
---- CINE Y SERIES ---
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"AXN
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/51319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"AXN OPC 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/51282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"AXN OPC 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"A&E
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"AMC
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"CINECANAL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"CINEMAX
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"EUROPA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"FILM & ARTS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"FX
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"MAX UP
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"PARAMOUNT
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"SONY
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"SPACE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49682.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"STAR CHANNEL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"STUDIO UNIVERSAL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"SYFY
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"TCM
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"TNT
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"TNT SERIES
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"UNIVERSAL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"WARNER
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/49971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"Lifetime HD
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/51357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/7vzvfy" group-title="CINE Y SERIES"A3 Series HD
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/51455.m3u8
+#EXTM3U
+
+#EXTINF:-1,Descendientes (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOYMXphMQAXQqKY-eTLnV7i#.mp4
+#EXTINF:-1,Regreso a Hogwarts (2022) Esp
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO5QnHQkpR2yGU3N3Ei6JNA#.mkv
+#EXTINF:-1,11M: Terror en Madrid (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNvpreDSbJ0DMG3FQEuU9cJ#.mkv
+#EXTINF:-1,El paraíso que sobrevive: Un legado familiar (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNrmFtFkfO75ePpeQe2zSg-#.mkv
+#EXTINF:-1,Un viaje al infinito (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrP4gCB3te2rasyCtj8ONKR3#.mkv
+#EXTINF:-1,OLIVIA RODRIGO: driving home 2 u (a SOUR film) (2022) 1
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM7HUNCs1llKfA5sxp7MJOS#.mp4
+#EXTINF:-1,OLIVIA RODRIGO: driving home 2 u (a SOUR film) (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM7HUNCs1llKfA5sxp7MJOS#.mp4
+#EXTINF:-1,No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022) 1
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrP-pNP7GHp-ktHShE80aGcF#.mp4
+#EXTINF:-1,No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrP-pNP7GHp-ktHShE80aGcF#.mp4
+#EXTINF:-1,Skandal!: La Caída de Wirecard (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPtVTv5A_r6b14gcCTmhOYG#.mkv
+#EXTINF:-1,La princesa (La vida de Lady Di) (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNxSdrZ0IjVG9uysa9_FyhJ#.mp4
+#EXTINF:-1,The Dreamlife of Georgie Stone (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNNTDA5QDG0175G6CHx1ZSc#.mp4
+#EXTINF:-1,El misterio de Marilyn Monroe: Las cintas inéditas (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrObJVHEyJS4HkBdwqXeVTgm#.mkv
+#EXTINF:-1,Regreso al espacio (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrORLVFJueX9OzuIVmY4urgz#.mp4
+#EXTINF:-1,Ciberinfierno: La investigación que destapó el horror (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMwsebY85uZdmh72j4uM427#.mkv
+#EXTINF:-1,El fotógrafo y el cartero: El crimen de Cabezas (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNmJf9ppvj_f5rprL7dvm21#.mkv
+#EXTINF:-1,Jennifer Lopez: Halftime (2022)1
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMrnRWiQREYRl2HofU94czG#.mkv
+#EXTINF:-1,Jennifer Lopez: Halftime (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMrnRWiQREYRl2HofU94czG#.mkv
+#EXTINF:-1,Obi-Wan Kenobi: El retorno de un jedi (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOQsV42qQaTc6AmvLzfv1-R#.mp4
+#EXTINF:-1,Big Mäck: Gánsteres y oro (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOG0fQyk527v0EHnswFg86L#.mkv
+#EXTINF:-1,Oscars 2023
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO2AdRWWDUv7thFfje4yL8U#.mp4
+#EXTINF:-1,Hasta el fondo: La historia de Pornhub (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOAnhJfT7XrlGCS2Aeyfgm0#.mkv
+#EXTINF:-1,Amén: Francisco responde (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNHURgMO36hSmVZdtjlUbQp#.mkv
+#EXTINF:-1,Miley Cyrus: Endless Summer Vacation (Backyard Sessions) (2023) 1
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrONIKk5Cd8fVm3CfD2hgg0Q#.mp4
+#EXTINF:-1,Miley Cyrus: Endless Summer Vacation (Backyard Sessions) (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrONIKk5Cd8fVm3CfD2hgg0Q#.mp4
+#EXTINF:-1,La tercera cita más larga (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPMvqzrb_jb-mLw30cwyLy9#.mp4
+#EXTINF:-1,Anna Nicole Smith: Tú no me conoces (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOCgjEMBU4DWq2gsm90rolZ#.mkv
+#EXTINF:-1,The Journey: A Music Special from Andrea Bocelli (2023)1
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPgWAIk9ICTZBQxuVUTlR4j#.mp4
+#EXTINF:-1,The Journey: A Music Special from Andrea Bocelli (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPgWAIk9ICTZBQxuVUTlR4j#.mp4
+#EXTINF:-1,The History of Nintendo (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOIinfCgztGscEq2DDdUsfk#.mkv
+#EXTINF:-1,El rey de los clones (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOi-xRbODKUvJOwksQm1wB7#.mkv
+#EXTINF:-1,Eldorado: Todo lo que odian los nazis (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOjk20FspX1be1zAY7WsTpd#.mkv
+#EXTINF:-1,Stan Lee (Documental) (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOckDqWHE-zoA_8CWDwB-AS#.mp4
+#EXTINF:-1,Cuiden a Maya (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPv0LLJqY8Wr8WbYwpAuf4U#.mkv
+#EXTINF:-1,Wham! (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPIXHKjJV5n3WiVeDUFnUpA#.mp4
+#EXTINF:-1,Lo desconocido: La pirámide perdida (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMp0btQexsBuynQzpsMN0To#.mkv
+#EXTINF:-1,CMA Fest: 50 Years of Fan Fair (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM4oyoLT7KNeF0VuInvwki3#.mp4
+#EXTINF:-1,Lo desconocido La cueva de los huesos (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrN7ZHs2Auq9CVwNOgrgDXEL#.mkv
+#EXTINF:-1,Lionel Messi: Destiny (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrONUPpB90kMPCJxSEgFc-6E#.mkv
+#EXTINF:-1,La inspiración más profunda (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO8by9SFi9yROn-SYcnPFEz#.mkv
+#EXTINF:-1,The Jewel Thief (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOHqbfKac4x88OE8o9iyzM4#.mkv
+#EXTINF:-1,Oppenheimer: el dilema de la bomba atómica (2023) (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNX40d_G4DpBbRlrjn_27TR#.mkv
+#EXTINF:-1,Lo Desconocido: Los Robots Asesinos (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOEK2uZucXj3-E3nAVp83hx#.mkv
+#EXTINF:-1,Al descubierto Jake Paul, el chico problema (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOjSs_DUj9dmuoUb7Wlenf7#.mkv
+#EXTINF:-1,La Dama del Silencio: El caso Mataviejitas (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPLZ1fcX4b5jQfXVx9shm3x#.mkv
+#EXTINF:-1,Desaparecida: El caso Lucie Blackman (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMyh1XjZ-dORGo5unAOcsS7#.mkv
+#EXTINF:-1,Lo desconocido: La máquina del tiempo cósmica (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOZ6JrAIpVVG7qsn49SchCF#.mkv
+#EXTINF:-1,Stephen Curry: Un jugador subestimado (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO4UMC-ECochTANx2rcF4BJ#.mkv
+#EXTINF:-1,Secretos del deporte: El salón de la infamia1
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM6iaB8h2ZUtLAEkoK2yJ6a#.mkv
+#EXTINF:-1,Secretos del deporte: El salón de la infamia
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM6iaB8h2ZUtLAEkoK2yJ6a#.mkv
+#EXTINF:-1,TOMORROW X TOGETHER: OUR LOST SUMMER1
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNCqb6wap6sm0FIAAEVBY69#.mkv
+#EXTINF:-1,TOMORROW X TOGETHER: OUR LOST SUMMER
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNCqb6wap6sm0FIAAEVBY69#.mkv
+#EXTINF:-1,Mark Cavendish: Imparable
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPZLu0vo6uKhfbR_UK7VzjU#.mkv
+#EXTINF:-1,Intoxicación: La cruda verdad de nuestra comida
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPVQ_YS_G7VZMXKlOtNTwRw#.mkv
+#EXTINF:-1,Secretos del deporte: Johnny Football
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOJ5X-ENlcGJt_NDDvlz3Kr#.mkv
+#EXTINF:-1,Timeless Heroes: Indiana Jones & Harrison Ford
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNQwferQXUI-SWJcubyYjj0#.mp4
+#EXTINF:-1,Javier Milei: la revolución liberal
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNx445vE4-YN7WbPfsiEVHQ#.mp4
+#EXTINF:-1,Thriller 40
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPfKhyY7sbhvwD5fYC11VRg#.mp4
+#EXTINF:-1,Marcados al nacer
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPfripzoqEZh4Hn4iROGor_#.mkv
+#EXTINF:-1,Única
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPvtFk9V_I6nQAI6VPzk5bI#.mkv
+#EXTINF:-1,La Memoria infinita
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOEg6yJXFwqZ8aowfChVGA7#.mp4
+#EXTINF:-1,Los papás (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMsAOCvz-0new8lrdXdW0e5#.mkv
+#EXTINF:-1,David Holmes: El chico que sobrevivió
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOamudEpCfH0B2L1nplnQtJ#.mkv
+#EXTINF:-1,El templo del cine: 100 años del legendario Egyptian Theatre
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM9JFLqaJ_5wqlc-7gdXJdH#.mkv
+#EXTINF:-1,Sly
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMMBpSaBb1Ngv09KUmKhPv9#.mkv
+#EXTINF:-1,El hombre araña de Paris
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMVt0dmJP3Q8XCnak7RBBDM#.mkv
+#EXTINF:-1,María: La Diva Eterna
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOgtsmncJwreLg5qGc6Pppa#.mkv
+#EXTINF:-1,ONEFOUR: Against All Odds
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMJXOOY_37WC6T9qBKTHjdt#.mkv
+#EXTINF:-1,Hot Potato: The Story of The Wiggles
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNpwmjHiB4fhNGaWqUWpp0z#.mp4
+#EXTINF:-1,The Evils Surrounding Elvis
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNfD3lJf9vjz0d2pSghn9ji#.mp4
+#EXTINF:-1,Victoria's Secret: La gira '23
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMfFRGrnvpmKhyRe8hRL5qU#.mp4
+#EXTINF:-1,Amazon Music Live with Peso Pluma
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNTBrWdrLDjpVFClqCxSdUP#.mkv
+#EXTINF:-1,Higuita: El camino del Escorpión
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMJ2JaB9wO0igx3wi31Lkkp#.mkv
+#EXTINF:-1,Juicio al diablo
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOGOfoqLkAqK3UywoVWwU78#.mkv
+#EXTINF:-1,Feid: Amazon Music Live
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNECPRyd1QuVGQwSnK82ePm#.mkv
+#EXTINF:-1,Campamento Valentía
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNHVOAcTy4xHmtAiiew4fip#.mkv
+#EXTINF:-1,The Happy Man Tree
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPpvfIzsQOADcxOjNXgTlqZ#.mp4
+#EXTINF:-1,La oscuridad de la Luz del Mundo
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNzKQSAY39kZc77Wfza41af#.mkv
+#EXTINF:-1,,Syd Barrett y el origen de Pink Floyd
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrP__u1hIsPthoJeMWob8dj8#.mp4
+#EXTINF:-1,Un sorbo frío Asesinato, café y Jessica Wongso (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrP7jQ1lw0XRzJrv6wUpdEzc#.mkv
+#EXTINF:-1,Lang Lang al piano: La mejor música de Disney
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPJ3rQd0Ni44xXpaOLQ_GrR#.mkv
+#EXTINF:-1,Donyale Luna: Supermodelo
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPPU1EapJUBQdY9B9XirkhN#.mp4
+#EXTINF:-1,El santo de las segundas oportunidades
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM4-io1G5gnXh5F_zkMwuxv#.mkv
+#EXTINF:-1,Good Chemistry: The Story of Elemental
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOQTsvMZ6Hvp8mqYhNYDD-Y#.mp4
+#EXTINF:-1,Las cintas de Rosa Peral
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPnGoKFtv5avcp1iWFIFA_F#.mkv
+#EXTINF:-1,BS High (Instituto Fraudfe)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOolV251al0BUrKrHwQzzmz#.mp4
+#EXTINF:-1,Metal Monsters: The Righteous Redeemer
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPgWdGKfPcbJ2zM77pQmxVJ#.mp4
+#EXTINF:-1,Isabella El caso Nardoni 2023
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNXipdfdTxF04VtxknaeLJE#.mkv
+#EXTINF:-1,The Seven Five (2015)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM4qy2TqBLy8IWY-NOle9HY#.mp4
+#EXTINF:-1,El último crucero (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPxpB3w3WIH6ODCg3thAo0F#.mkv
+#EXTINF:-1,Héroes: silencio y rock & roll (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMz2ew_D5WF4nqD5ne_Y9hi#.mp4
+#EXTINF:-1,Alimentando al mundo (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMBFUJsKuMSx75N_tmVsQl8#.mkv
+#EXTINF:-1,Cabo Cod La amenaza de los mares (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMgyHxwsbWCW45ZklyLafWI#.mkv
+#EXTINF:-1,Scouts Honor: Los archivos secretos de los Boy Scouts de EE. UU.
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPEln8twhfQZsGujesXp6gE#.mkv
+#EXTINF:-1,The Art of Political Murder (2020)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOop_Vc3hkEVn3HhM77vSyg#.mp4
+#EXTINF:-1,The Beginning of Life 2: Outside (2020)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPop6lp8mNjLWHPkewmcu3n#.mp4
+#EXTINF:-1,The Minimalists: Less Is Now (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPQJZ3deYDPxm11V2h5ScR-#.mp4
+#EXTINF:-1,A Celebration of the Music from Coco (2020)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNcwKn8ER85LqzdEvw0ThfZ#.mp4
+#EXTINF:-1,Marvel Studios: Expanding the Universe (2019)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPcXdqbzbqtD_DAUBf9NF2U#.mp4
+#EXTINF:-1,Los pingüinos de la Antártida (2020)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNZch1qc43hbisW3kA9o-C1#.mp4
+#EXTINF:-1,Fireball: Visitors From Darker Worlds (2020)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO8jqMhK5PNNIsqBZj-Wzbd#.mp4
+#EXTINF:-1,More Than Miyagi: The Pat Morita Story (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPOzn9iBY5r5vpHoJGfxC-0#.mp4
+#EXTINF:-1,Covid Diaries NYC (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPCslC4aiZvvE5Nek9pKIob#.mp4
+#EXTINF:-1,Seaspiracy (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrODV1QGYDEwxB0RZFxkRilX#.mp4
+#EXTINF:-1,Dolly Parton: A MusiCares Tribute (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPg9PTSLaZIweNzrbPYm43_#.mkv
+#EXTINF:-1,Chadwick Boseman: Portrait of an Artist (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPYeqIL9vzkT1KPIRn9JTfS#.mp4
+#EXTINF:-1,En busca de Sheela (2021)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMPNsIqPOkEl0MaZjfbARaJ#.mkv
+#EXTINF:-1,Parchís: el documental (2019)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPNGP7OjvR01LPm9PHND2X5#.mp4
+#EXTINF:-1,El timador de Tinder (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOzpth98cfY9_OmCz77hoB2#.mp4
+#EXTINF:-1,11M (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOQxQMfshOKRlZb0mdozy89#.mp4
+#EXTINF:-1,El paraíso que sobrevive: Un legado familiar (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrP8Xi-wKH8TSbD-x7wYei_a#.mp4
+#EXTINF:-1,1918: La gripe española (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM4fImT0D5Xw7_DLY2wXqVD#.mp4
+#EXTINF:-1,The Wisdom of Trauma
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrONzLhag2SnQKF0f8oUH6tD#.mp4
+#EXTINF:-1,Beastie Boys Story
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMALV5wx120dzvMGp9kb5-s#.mp4
+#EXTINF:-1,Dragons or Dinosaurs
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOQDcgTMr1wyzL9WIN1CteO#.avi
+#EXTINF:-1,Dressed
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNtTSWDfNQWNXwQiwvCS0g-#.mkv
+#EXTINF:-1,El Libro de los Secretos Del Presidente
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPlrfiy_1SIEUZ2T-LJ-ROW#.avi
+#EXTINF:-1,Galápagos: El reino de los tiburones gigante
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNvns_8Vne1PSh-oj637uOl#.mp4
+#EXTINF:-1,La escala humana (2014)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM7mgxKRkqg66z5lHRGSTNi#.mkv
+#EXTINF:-1,Amigas hasta la muerte
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrN5zvxZS34Mkiwco2agwgFq#.mp4
+#EXTINF:-1,Solo es el principio
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPY5dcuS-jXteJDcfLyA4CW#.mp4
+#EXTINF:-1,La fuerza de la vida. La falla albertina
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPYR0F_OdIL3ItbJAbaEPhM#.mp4
+#EXTINF:-1,La Historia de la Droga
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPT2lfZ4vUgbeqE_sC4mT0q#.mp4
+#EXTINF:-1,La Profecia del Sexto Sol
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMnYedM5H65QL4ywSFvsaZo#.avi
+#EXTINF:-1,Cuando se acaba el porno 3 (2018)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM9D2uxGUML69oA0ccHqs6T#.mp4
+#EXTINF:-1,Cuando se acaba el porno 2 (2017)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNxcxNCSizij308YUlbmmGs#.mp4
+#EXTINF:-1,A Leaf of Faith (2018)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO1T6EKDorGCeeG4OdfMu-p#.mkv
+#EXTINF:-1,Amy (2015)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO6SbdgUEOROBZ84KXCUFYC#.mkv
+#EXTINF:-1,Andre the Giant (2018)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOzfgq5SPa0Frauukk1dkyu#.mp4
+#EXTINF:-1,Les Animaux Amoureux (2007)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM0RR5lUBMlbXehe7BuAUf6#.mp4
+#EXTINF:-1,Una verdad incómoda (2006)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPjLqMsG1mQkTErWIJeZgLs#.mp4
+#EXTINF:-1,Animal Sapiens
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMLIVjrVcNzBnH9CNJrNytm#.mp4
+#EXTINF:-1,Un día más con vida (2018)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPBxq22YReJMqZmo4FvMYf8#.mp4
+#EXTINF:-1,Anvil, el sueño de una banda de rock (2008)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrN8YtxRhkNTmHwOYldskUWZ#.mkv
+#EXTINF:-1,Osos (2014)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMdVqlM0KFkf1V8sIOWvR9x#.mp4
+#EXTINF:-1,La Tierra es plana (2018)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNvpo4JCoq2tR1e8LFnRV98#.mp4
+#EXTINF:-1,Life Is But a Dream (2013)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNjSJLkQvy79N3LVvOuK2R7#.mp4
+#EXTINF:-1,Bichos raros de la Naturaleza
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO0xktbthT4ulFB0AbkMxAq#.mp4
+#EXTINF:-1,Big data, conviviendo con el algoritmo (2019)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNe5eCu69_-zxHm6kvPnno0#.mp4
+#EXTINF:-1,Bigger Stronger Faster* (2008)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrP1qABxEHrG7ZGPyRSMSOPa#.mp4
+#EXTINF:-1,The Space Race (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMXyqNLyFGAbhxIc1TDk5LJ#.mp4
+#EXTINF:-1,Sharksploitation (2023) (2023)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOc5L1CAPm2Nz5TgB9AArPy#.mp4
+#EXTINF:-1,The Plains (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNQJq8s08OOGMNLiAi_dCZR#.mp4
+#EXTINF:-1,Todo lo que respira (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOyV2jGwZSTaM6sLVUtMnzY#.mkv
+#EXTINF:-1,La Absoluta (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMX-1KWyfVtAOQx7hYzjQMI#.mkv
+#EXTINF:-1,Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMYs_HWIWOI79KNyWMQ6Mn5#.mkv
+#EXTINF:-1,El efecto Martha Mitchell (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrN0mznfj_k9xa1fMq9GSEFz#.mp4
+#EXTINF:-1,Fire of Love (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrM9ngnVSd9nefrytbV4gq5u#.mp4
+#EXTINF:-1,Nuestro bebé elefante (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMTqrBb6R1SqqCXr4AMG8c_#.mp4
+#EXTINF:-1,Avatar: The Deep Dive - A Special Edition of 20/20 (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNTPGR4nOEU0YdD4BVhVI3d#.mp4
+#EXTINF:-1,The Volcano: Rescue from Whakaari (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPipWTiU3H8p-CAxyMfzXQN#.mkv
+#EXTINF:-1,Kangaroo Valley (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOJouzlQ-BW8A6LliJKhlB6#.mkv
+#EXTINF:-1,"Sr." (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPQlNykLr8RicnM_0QUqZj9#.mkv
+#EXTINF:-1,A plena luz: El caso Narvarte (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOH5mrWnEwlLcc_XSDQ_Wvw#.mkv
+#EXTINF:-1,Is That Black Enough for You?!? (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOG837j1TGKUvgdYL5Iy3fB#.mp4
+#EXTINF:-1,Maestro de la Luz (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPhXeJr01_XJEjspVzA157u#.mkv
+#EXTINF:-1,Take Your Pills: Xanax (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrN0aP7GiSHVWnziSriaRUOE#.mp4
+#EXTINF:-1,Le Masque (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO9NpX5N8cKV7SlxNbwRb_f#.mkv
+#EXTINF:-1,Good Night Oppy (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMMnxQ6ltZ_NxZvibUBWszv#.mkv
+#EXTINF:-1,Stutz (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOyVJWgSYAeGCjQ8SpQMDGt#.mp4
+#EXTINF:-1,Ghislaine Maxwell: Filthy Rich (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPnw7QJLfjBs2UtA21bRPwi#.mkv
+#EXTINF:-1,Qué le pasó al rey de los delfines? (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMguDfFtcqyifsWFEIEdWi_#.mkv
+#EXTINF:-1,Hugo Sanchez: El Gol Y La Gloria (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPzrov16r96YTYIRYOXwEGB#.mkv
+#EXTINF:-1,Yo soy Vanessa Guillén (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrOUMPUcc223krZAp9Ila0iy#.mkv
+#EXTINF:-1,El Estado De Alabama vs  Brittany Smith (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPskISEdEX8fscWJ9YraVRC#.mkv
+#EXTINF:-1,Queen Elizabeth II: The Legacy, The Life (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNspLiNU5b7NJiB2WwmqGgu#.mp4
+#EXTINF:-1,Queen Elizabeth II: Passing of the Crown – A Special Edition of 20/20 (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrPn_EanUI3xcKBQUxhkvqsd#.mp4
+#EXTINF:-1,La captura del enfermero asesino (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrO89sfaJodpch_CGnPVN1Rd#.mkv
+#EXTINF:-1,Orgasm Inc: La historia de OneTaste (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMc0myiURlHNSQWEz1oqvQl#.mkv
+#EXTINF:-1,In Her Hands (2022)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrMjfkkEBpcWZziTQWEkGoie#.mkv
+#EXTINF:-1,The Bee Gees: How Can You Mend a Broken Heart (2020)
+http://offshore.lat:8080/play/MaxIdQnl1xWxG3upzAnW7pxP7f4wdD73vehGTvYhWrNZIddH8oIW6BdVHGBJhGof#.mp4
 
 
 
@@ -56,528 +351,7 @@ http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/51455.m3u8
 
 
 
---- TV VARIEDAD ---
 
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",UNIVISION
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/60117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",TELEMUNDO 
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/57984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",TELEFUTURO
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/58007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",MULTIMEDIOS TELEVISION
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/58017.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-#EXTINF:-1 tvg-id="" tvg-name="TV VARIEDAD" tvg-logo="https://n9.cl/dd11wd" group-title="TV VARIEDAD",
-
-
----TV SPORT---
-
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/ijh2q" group-title="TV SPORT",TUDN USA
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUR6rdOooJ77tC0QdR24n9hQtXVfvMyud1tBeRD-U2Nh3
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/ijh2q" group-title="TV SPORT",TUDN MX
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUT9S34NiFqhszufJRZ2ROauhWdJEvqjPkHJmZivXhNmR
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/2prxc8" group-title="TV SPORT",FOX SPORTS 1
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUZMJSDsJpzjzXJmaMZILJpYw5NnoZutG4ysDCndzQUYQ
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/l0rer" group-title="TV SPORT",FOX SPORTS 2
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUS8sm_MCWDrcQPjgmWPJz2CJk8prvQCeuK4sCiQd2JnG
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/ulkek" group-title="TV SPORT",FOX SPORTS 3
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUYLMgnE5bBhM4Nz-KNQBJ8ZE22mx8kqHF_qfmQfPYqCc
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/5ck0o" group-title="TV SPORT",FOX SPORTS PREMIUM
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUYaEY_ohozYQVOz5KBiM1W7WrCuKWwo7rNYMMzxlbY1i
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/609d9" group-title="TV SPORT",WIN SPORTS
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUdYgN86UibfAhqDaWbwEG0veh5-STcrTQlCnbNfT3L_F
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/adehc" group-title="TV SPORT",WIN SPORTS +
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUREnbwkQ_lpt6TPi5cMvmB0jHxjFWBje4jtrU8XNgwzS
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/xegea" group-title="TV SPORT",ESPN
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUZzCd9I_4KKcBIj5iBNpuLEd_QmNv2BWQSiCzLFSTqco
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/cgarjs" group-title="TV SPORT",ESPN 2
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUcPuCoFXffwdjt40x5CP6sCHI443SJnMDoSdKi12VpL-
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/lazlo" group-title="TV SPORT",ESPN 3
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUcPuCoFXffwdjt40x5CP6sD07B3Y51urk1bwfjSkTqcG
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/3s9wu" group-title="TV SPORT",ESPN 4
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUdVSv8qEwB6wP_DOIKetuVUilJYZe-jN6q2hE80c3vgb
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/mm9dp" group-title="TV SPORT",ESPN 5
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUQPSyBtG5eYfAXRUNviT7s3Sjhn7sC19KRxv_iLif5Qt
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/aq7mc" group-title="TV SPORT",ESPN 6
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUQPSyBtG5eYfAXRUNviT7s0A7fGKFtf81c0u8oGKyb7H
-#EXTINF:-1 tvg-id="" tvg-name="TV SPORT" tvg-logo="https://n9.cl/ozvrd" group-title="TV SPORT",ESPN 7
-https://maiolve.club:443/play/vHuEgJAa0kZEYt-e51gxUQPSyBtG5eYfAXRUNviT7s32Wdx6n3pMY7mlu08mNowa
-
---- TV ESPAÑA ---
-
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",0 HD
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",13 TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",24H
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",7RM
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",A PUNT
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA PREMIUM",A&E
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA PREMIUM",A3SERIES
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ALCARRIA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA PREMIUM",AMC
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ES010:AMC Break
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA PREMIUM",AMC Crime
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ANDALUCIA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ANTENA 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ARAGÓN TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA PREMIUM",AXN
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA PREMIUM",AXN WHITE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA KIDS",BABY TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",BAILEN TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA SPORT",BARCA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",BE MAD
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2584.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",BETEVE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",BLAZE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA KIDS",BOING
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2581.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",BOM CINE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",BON DIA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",BREAK
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CALLE 13
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CANAL COCINA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CANAL COSTA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CANAL DE CASA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CANAL DE LAS ESTRELLAS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CANAL MÁLAGA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CANAL PANDA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CANAL SUR
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",CANAL SUR 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2569.m3u8
-#EXTINF:-1 tvg-id="castilla.la.mancha.es" tvg-name="ES036:CASTILLA LA MANCHA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES036DisneyJRES.png" group-title="ES Ent",ES036:CASTILLA LA MANCHA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2568.m3u8
-#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES037:CAZA Y PESCA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES037DisneyXDES.png" group-title="ES Ent",ES037:CAZA Y PESCA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2567.m3u8
-#EXTINF:-1 tvg-id="cazavision.es" tvg-name="ES038:CAZAVISI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES038Divinity.png" group-title="ES Ent",ES038:CAZAVISI
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2566.m3u8
-#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES039:CLAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES039Energy.png" group-title="ES Ninos",ES039:CLAN
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2565.m3u8
-#EXTINF:-1 tvg-id="classica.es" tvg-name="ES040:CLASSICA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png" group-title="ES Musica",ES040:CLASSICA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2564.m3u8
-#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES041:COMEDY CENTRAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png" group-title="ES Ent",ES041:COMEDY CENTRAL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2563.m3u8
-#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES042:COMEDY DYNAMICS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES042FDF.png" group-title="ES Ent",ES042:COMEDY DYNAMICS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2562.m3u8
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES043:COSMO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png" group-title="ES Ent",ES043:COSMO
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2561.m3u8
-#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES044:CRIME & INVESTIGATION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES044FoxLifeES.png" group-title="ES Cultura",ES044:CRIME & INVESTIGATION
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2560.m3u8
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES045:CUATRO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES045GOLTV.png" group-title="ES Ent",ES045:CUATRO
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2559.m3u8
-#EXTINF:-1 tvg-id="dark.es" tvg-name="ES046:DARK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES046Historia.png" group-title="ES Ent",ES046:DARK
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2558.m3u8
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES047:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="ES Deportes",ES047:DAZN 1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2557.m3u8
-#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ES048:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png" group-title="ES Deportes",ES048:DAZN 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2556.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES049:DAZN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="ES Deportes",ES049:DAZN 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2555.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES050:DAZN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES050LA2.png" group-title="ES Deportes",ES050:DAZN 4
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2554.m3u8
-#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:DAZN F1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="ES Deportes",ES051:DAZN F1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2553.m3u8
-#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES052:DAZN LaLiga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="ES Deportes",ES052:DAZN LaLiga
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2552.m3u8
-#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES053:DAZN LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES053MComedia.png" group-title="ES Deportes",ES053:DAZN LaLiga 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2551.m3u8
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES054:DAZN LaLiga B1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES054Mega.png" group-title="ES Deportes",ES054:DAZN LaLiga B1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2550.m3u8
-#EXTINF:-1 tvg-id="decasa.es" tvg-name="ES055:DECASA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES055MTVES.png" group-title="ES Ent",ES055:DECASA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2549.m3u8
-#EXTINF:-1 tvg-id="nat.geo.wild.es" tvg-name="ES056:DISCOVERY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES056NATGEOWILDES.png" group-title="ES Cultura",ES056:DISCOVERY CHANNEL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2548.m3u8
-#EXTINF:-1 tvg-id="disney.es" tvg-name="ES057:DISNEY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES057NATGEOES.png" group-title="ES Ninos",ES057:DISNEY CHANNEL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2547.m3u8
-#EXTINF:-1 tvg-id="disney.junior.es" tvg-name="ES058:DISNEY JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES058NEOX.png" group-title="ES Ninos",ES058:DISNEY JR
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2546.m3u8
-#EXTINF:-1 tvg-id="disney.xd.es" tvg-name="ES059:DISNEY XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES059NICKJRES.png" group-title="ES Ninos",ES059:DISNEY XD
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2545.m3u8
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES060:DIVINITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES060NickelodeonES.png" group-title="ES Ent",ES060:DIVINITY
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2544.m3u8
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES061:DKISS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES061CanalDECase.png" group-title="ES Ent",ES061:DKISS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2543.m3u8
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES062:DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES062NOVA.png" group-title="ES Cultura",ES062:DMAX
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2542.m3u8
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES063:DREAMWORKS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES063Odisea.png" group-title="ES Ent",ES063:DREAMWORKS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2541.m3u8
-#EXTINF:-1 tvg-id="el.toro.es" tvg-name="ES064:EL TORO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES064Panda.png" group-title="ES Ent",ES064:EL TORO
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2540.m3u8
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES065:ENERGY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png" group-title="ES Ent",ES065:ENERGY
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2539.m3u8
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES066:ESPERANZA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES066SyfyES.png" group-title="ES Ent",ES066:ESPERANZA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2538.m3u8
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:ESPN DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="ES Deportes",ES067:ESPN DEPORTES
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2537.m3u8
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES068:ESPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="ES Deportes",ES068:ESPORT 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2536.m3u8
-#EXTINF:-1 tvg-id="etb.1.es" tvg-name="ES069:ETB 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES069Teledeport.png" group-title="ES Ent",ES069:ETB 1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2535.m3u8
-#EXTINF:-1 tvg-id="etb.2.es" tvg-name="ES070:ETB 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="ES Ent",ES070:ETB 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2534.m3u8
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES071:ETB Basque" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES071Viajar.png" group-title="ES Ent",ES071:ETB Basque
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/2533.m3u8
-#EXTINF:-1 tvg-id="euronews.es" tvg-name="ES072:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES072ARAGONTV.png" group-title="ES Ent",ES072:EURONEWS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29320.m3u8
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES073:EUROSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES073DKISS.png" group-title="ES Deportes",ES073:EUROSPORT 1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29319.m3u8
-#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES074:EUROSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png" group-title="ES Deportes",ES074:EUROSPORT 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29318.m3u8
-#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES075:EXTREMADURA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES075" group-title="ES Ent",ES075:EXTREMADURA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29317.m3u8
-#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES076:FDF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png" group-title="ES Ent",ES076:FDF
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29316.m3u8
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES077:FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES077MoviStarCine.png" group-title="ES Ent",ES077:FOX
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29315.m3u8
-#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES078:FOX LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES078MovistarCineDoc&Roll.png" group-title="ES Ent",ES078:FOX LIFE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29314.m3u8
-#EXTINF:-1 tvg-id="galicia.es" tvg-name="ES079:GALICIA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png" group-title="ES Ent",ES079:GALICIA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29313.m3u8
-#EXTINF:-1 tvg-id="el.garage.es" tvg-name="ES080:GARAGE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES080BLAZE.png" group-title="ES Ent",ES080:GARAGE TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29312.m3u8
-#EXTINF:-1 tvg-id="somos.es" tvg-name="ES081:GOL MUNDIAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES081SOMOS.png" group-title="ES Ent",ES081:GOL MUNDIAL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29311.m3u8
-#EXTINF:-1 tvg-id="gol.play.es" tvg-name="ES082:GOL PLAY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES082CANALCOCINA.png" group-title="ES Ent",ES082:GOL PLAY TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29310.m3u8
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES083:GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES083" group-title="ES Deportes",ES083:GOL TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29309.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES084:HISTORIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png" group-title="ES Cultura",ES084:HISTORIA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29308.m3u8
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES085:HOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="ES Cine",ES085:HOLLYWOOD
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29307.m3u8
-#EXTINF:-1 tvg-id="horse.es" tvg-name="ES086:HORSE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="ES Ent",ES086:HORSE TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29306.m3u8
-#EXTINF:-1 tvg-id="i24.news.es" tvg-name="ES087:I24 NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="ES Ent",ES087:I24 NEWS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29305.m3u8
-#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ES088:IBERALIA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES088CanalDCINEHD.png" group-title="ES Ent",ES088:IBERALIA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29304.m3u8
-#EXTINF:-1 tvg-id="la.1.es" tvg-name="ES089:LA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089" group-title="ES Ent",ES089:LA 1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29303.m3u8
-#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES090:LA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES090CanalSERIESHD.png" group-title="ES Ent",ES090:LA 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29302.m3u8
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES091:LA RESISTENCIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES091MovistarAlquiler4.png" group-title="ES Ent",ES091:LA RESISTENCIA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29301.m3u8
-#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES092:LA SEXTA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="ES Ent",ES092:LA SEXTA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29300.m3u8
-#EXTINF:-1 tvg-id="levante.es" tvg-name="ES093:LEVANTE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES09340" group-title="ES Ent",ES093:LEVANTE TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29299.m3u8
-#EXTINF:-1 tvg-id="es." tvg-name="ES094:M+ #VAMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES094#0.png" group-title="ES Deportes",ES094:M+ #VAMOS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29298.m3u8
-#EXTINF:-1 tvg-id="m.plus.accion.es" tvg-name="ES095:M+ ACCION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES095MOVISTAR LaLiga.png" group-title="ES Cine",ES095:M+ ACCION
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29297.m3u8
-#EXTINF:-1 tvg-id="m.plus.clasicos.es" tvg-name="ES096:M+ CLASICOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES096MOVISTAR Laliga.png" group-title="ES Cine",ES096:M+ CLASICOS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29296.m3u8
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES097:M+ DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="ES Deportes",ES097:M+ DEPORTES
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES098:M+ DEPORTES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="ES Deportes",ES098:M+ DEPORTES 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES099:M+ DEPORTES 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="ES Deportes",ES099:M+ DEPORTES 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES100:M+ DEPORTES 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="ES Deportes",ES100:M+ DEPORTES 4
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES101:M+ DEPORTES 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="ES Deportes",ES101:M+ DEPORTES 5
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES102:M+ DEPORTES 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="ES Deportes",ES102:M+ DEPORTES 6
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES103:M+ DEPORTES 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="ES Deportes",ES103:M+ DEPORTES 7
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29289.m3u8
-#EXTINF:-1 tvg-id="m.plus.drama.es" tvg-name="ES104:M+ DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES104TAQUILLA6.png" group-title="ES Cine",ES104:M+ DRAMA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29288.m3u8
-#EXTINF:-1 tvg-id="m.plus.ellas.v.es" tvg-name="ES105:M+ ELLAS #V" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES105TAQUILLA7.png" group-title="ES Ent",ES105:M+ ELLAS #V
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29287.m3u8
-#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES108:M+ GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Deportes",ES108:M+ GOLF
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29284.m3u8
-#EXTINF:-1 tvg-id="m.plus.estrenos.es" tvg-name="ES106:M+ ESTRENOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES106TAQUILLA8.png" group-title="ES Ent",ES106:M+ ESTRENOS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29286.m3u8
-#EXTINF:-1 tvg-id="m.plus.estrenos.2.es" tvg-name="ES107:M+ ESTRENOS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES107TAQUILLA9.png" group-title="ES Ent",ES107:M+ ESTRENOS 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29285.m3u8
-#EXTINF:-1 tvg-id="canal.sur.es" tvg-name="ES109:M+ LALIGA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES109CANALSURA.png" group-title="ES Deportes",ES109:M+ LALIGA 1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29283.m3u8
-#EXTINF:-1 tvg-id="alquiler.1.es" tvg-name="ES110:M+ LALIGA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES110Alquiler1.png" group-title="ES Deportes",ES110:M+ LALIGA 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29282.m3u8
-#EXTINF:-1 tvg-id="vh1.es" tvg-name="ES111:M+ LALIGA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES111VH1.png" group-title="ES Deportes",ES111:M+ LALIGA 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29281.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES112:M+ LALIGA 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES112Alquiler3.png" group-title="ES Deportes",ES112:M+ LALIGA 4
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29280.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES113:M+ LALIGA 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4.png" group-title="ES Deportes",ES113:M+ LALIGA 5
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29279.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES114:M+ LALIGA 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES114Alquiler5.png" group-title="ES Deportes",ES114:M+ LALIGA 6
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29278.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES115:M+ LALIGA 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES115Alquiler6.png" group-title="ES Deportes",ES115:M+ LALIGA 7
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES116:M+ LALIGA 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES116Alquiler7.png" group-title="ES Deportes",ES116:M+ LALIGA 8
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES117:M+ LALIGA 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES117Alquiler9.png" group-title="ES Deportes",ES117:M+ LALIGA 9
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29275.m3u8
-#EXTINF:-1 tvg-id="andalucia.es" tvg-name="ES118:M+ LALIGA 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES118AndaluciaTV.png" group-title="ES Deportes",ES118:M+ LALIGA 10
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29274.m3u8
-#EXTINF:-1 tvg-id="aragon.es" tvg-name="ES119:M+ LALIGA 123 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES119ARAGONTV.png" group-title="ES Deportes",ES119:M+ LALIGA 123 TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29273.m3u8
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES120:M+ LALIGA B2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES120" group-title="ES Deportes",ES120:M+ LALIGA B2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29272.m3u8
-#EXTINF:-1 tvg-id="la.resistencia.es" tvg-name="ES121:M+ LALIGA BAR TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121" group-title="ES Deportes",ES121:M+ LALIGA BAR TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29271.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES122:M+ LALIGA SMARTBANK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="ES Deportes",ES122:M+ LALIGA SMARTBANK TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29270.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES123:M+ LALIGA SMARTBANK TV 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES123MLaliga6.png" group-title="ES Deportes",ES123:M+ LALIGA SMARTBANK TV 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29269.m3u8
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES124:M+ LALIGA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png" group-title="ES Deportes",ES124:M+ LALIGA TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29268.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES125:M+ LALIGA TV BAR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES125MLaliga7.png" group-title="ES Deportes",ES125:M+ LALIGA TV BAR
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES126:M+ LIGA DE CAMPEONES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES126TAQUILLA1HD.png" group-title="ES Deportes",ES126:M+ LIGA DE CAMPEONES
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES127:M+ LIGA DE CAMPEONES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES127TAQUILLA4HD.png" group-title="ES Deportes",ES127:M+ LIGA DE CAMPEONES 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES128:M+ LIGA DE CAMPEONES 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES128TAQUILLA6HD.png" group-title="ES Deportes",ES128:M+ LIGA DE CAMPEONES 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29264.m3u8
-#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES129:M+ LIGA DE CAMPEONES 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES129" group-title="ES Deportes",ES129:M+ LIGA DE CAMPEONES 4
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29263.m3u8
-#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES130:M+ LIGA DE CAMPEONES 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES130MovistarAlquiler1.png" group-title="ES Deportes",ES130:M+ LIGA DE CAMPEONES 5
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29262.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES131:M+ LIGA DE CAMPEONES 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES131MLaliga8.png" group-title="ES Deportes",ES131:M+ LIGA DE CAMPEONES 6
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29261.m3u8
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES132:M+ LIGA DE CAMPEONES 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES132VamosFHD.png" group-title="ES Deportes",ES132:M+ LIGA DE CAMPEONES 7
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29260.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES133:M+ LIGA DE CAMPEONES 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="ES Deportes",ES133:M+ LIGA DE CAMPEONES 8
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29259.m3u8
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES134:M+ LIGA DE CAMPEONES 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="ES Deportes",ES134:M+ LIGA DE CAMPEONES 9
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29258.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES135:M+ LIGA DE CAMPEONES 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="ES Deportes",ES135:M+ LIGA DE CAMPEONES 10
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29257.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES136:M+ LIGA DE CAMPEONES B2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="ES Deportes",ES136:M+ LIGA DE CAMPEONES B2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29256.m3u8
-#EXTINF:-1 tvg-id="m.plus.series.es" tvg-name="ES138:M+ SERIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES138MLaLiga3.png" group-title="ES Cine",ES138:M+ SERIES
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29254.m3u8
-#EXTINF:-1 tvg-id="ubeat.es" tvg-name="ES137:M+ SAGAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES137MLaLiga2.png" group-title="ES Cine",ES137:M+ SAGAS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29255.m3u8
-#EXTINF:-1 tvg-id="m.plus.series.2.es" tvg-name="ES139:M+ SERIES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES139MovistarAlquiler5.png" group-title="ES Cine",ES139:M+ SERIES 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29253.m3u8
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES140:MEGA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES140CanalDCINEHD.png" group-title="ES Ent",ES140:MEGA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29252.m3u8
-#EXTINF:-1 tvg-id="canal.las.estrellas.es" tvg-name="ES141:MEZZO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="ES Musica",ES141:MEZZO
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29251.m3u8
-#EXTINF:-1 tvg-id="be.mad.es" tvg-name="ES142:MEZZO LIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES142ExtremaduraTV.png" group-title="ES Musica",ES142:MEZZO LIVE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29250.m3u8
-#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES143:MOVISTAR ALQUILER 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES143CANALPANDA.png" group-title="ES Alquiler",ES143:MOVISTAR ALQUILER 1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29249.m3u8
-#EXTINF:-1 tvg-id="horse.es" tvg-name="ES144:MOVISTAR ALQUILER 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES144" group-title="ES Alquiler",ES144:MOVISTAR ALQUILER 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29248.m3u8
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES145:MOVISTAR ALQUILER 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Alquiler",ES145:MOVISTAR ALQUILER 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29247.m3u8
-#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES146:MOVISTAR ALQUILER 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES146MovistarAlquiler2.png" group-title="ES Alquiler",ES146:MOVISTAR ALQUILER 4
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29246.m3u8
-#EXTINF:-1 tvg-id="classica.es" tvg-name="ES147:MOVISTAR ALQUILER 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png" group-title="ES Alquiler",ES147:MOVISTAR ALQUILER 5
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES148:MOVISTAR ALQUILER 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="ES Alquiler",ES148:MOVISTAR ALQUILER 7
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29244.m3u8
-#EXTINF:-1 tvg-id="crimen.investigacion.es" tvg-name="ES149:MOVISTAR ALQUILER 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES149MovistarAlquiler6.png" group-title="ES Alquiler",ES149:MOVISTAR ALQUILER 8
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29243.m3u8
-#EXTINF:-1 tvg-id="orbe.21.es" tvg-name="ES150:MOVISTAR ALQUILER 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES150Orbe21.png" group-title="ES Alquiler",ES150:MOVISTAR ALQUILER 9
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29242.m3u8
-#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES151:MOVISTAR ALQUILER 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES151RealMadridTV.png" group-title="ES Alquiler",ES151:MOVISTAR ALQUILER 10
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES152:MOVISTAR ALQUILER 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES152EsperanzaTV.png" group-title="ES Alquiler",ES152:MOVISTAR ALQUILER 12
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29240.m3u8
-#EXTINF:-1 tvg-id="barca.es" tvg-name="ES153:MOVISTAR ALQUILER 18" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES153BARCATV.png" group-title="ES Alquiler",ES153:MOVISTAR ALQUILER 18
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29239.m3u8
-#EXTINF:-1 tvg-id="m.plus.cine.espanol.es" tvg-name="ES154:MOVISTAR CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES154GALICIATV.png" group-title="ES Cine",ES154:MOVISTAR CINE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29238.m3u8
-#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES155:MOVISTAR COMEDIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES155AztecaHonduras.png" group-title="ES Cine",ES155:MOVISTAR COMEDIA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29237.m3u8
-#EXTINF:-1 tvg-id="movistar.drama.es" tvg-name="ES156:MOVISTAR DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156" group-title="ES Cine",ES156:MOVISTAR DRAMA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29236.m3u8
-#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES157:MOVISTAR FORMULA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="ES Deportes",ES157:MOVISTAR FORMULA 1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29235.m3u8
-#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES158:MOVISTAR FUTBOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES158MoviStarCINE.png" group-title="ES Deportes",ES158:MOVISTAR FUTBOL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29234.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES159:MOVISTAR GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159" group-title="ES Deportes",ES159:MOVISTAR GOLF
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29233.m3u8
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:MOVISTAR MOTOGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Deportes",ES160:MOVISTAR MOTOGP
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29232.m3u8
-#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES161:MOVISTAR XTRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES161" group-title="ES Ent",ES161:MOVISTAR XTRA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29231.m3u8
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES162:MTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="ES Musica",ES162:MTV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29230.m3u8
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES163:MTV 00s" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES163Teledeporte.png" group-title="ES Musica",ES163:MTV 00s
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES164:MTV ROCKS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES164" group-title="ES Musica",ES164:MTV ROCKS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES165:MULTIDEPORTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES165" group-title="ES Ent",ES165:MULTIDEPORTE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29227.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES166:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png" group-title="ES Cultura",ES166:NAT GEO
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29226.m3u8
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES167:NAT GEO WILD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png" group-title="ES Cultura",ES167:NAT GEO WILD
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29225.m3u8
-#EXTINF:-1 tvg-id="negocios.es" tvg-name="ES168:NEGOCIOS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES168TAQUILLA2HD.png" group-title="ES Ent",ES168:NEGOCIOS TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29224.m3u8
-#EXTINF:-1 tvg-id="neox.es" tvg-name="ES169:NEOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES169TAQUILLA3HD.png" group-title="ES Ent",ES169:NEOX
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES170:NETFLIX ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES170TAQUILLA5HD.png" group-title="ES Cine",ES170:NETFLIX ACTION
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES171:NETFLIX ACTION 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES171TAQUILLA7HD.png" group-title="ES Cine",ES171:NETFLIX ACTION 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29221.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES172:NETFLIX BOX OFFICE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png" group-title="ES Cine",ES172:NETFLIX BOX OFFICE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29220.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES173:NETFLIX BOX OFFICE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES173MLigadeCampeones4.png" group-title="ES Cine",ES173:NETFLIX BOX OFFICE 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29219.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES174:NETFLIX COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES174M.LIGADECAMPEONES6.png" group-title="ES Cine",ES174:NETFLIX COMEDY
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29218.m3u8
-#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES175:NETFLIX COMEDY 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES175TELEMADRIDFHD.png" group-title="ES Cine",ES175:NETFLIX COMEDY 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29217.m3u8
-#EXTINF:-1 tvg-id="telesur.es" tvg-name="ES176:NETFLIX DISCOVERY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES176TELESURHD.png" group-title="ES Cine",ES176:NETFLIX DISCOVERY
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29216.m3u8
-#EXTINF:-1 tvg-id="eitb.basque.es" tvg-name="ES177:NETFLIX DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES177" group-title="ES Cine",ES177:NETFLIX DRAMA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29215.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES178:NETFLIX HORROR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES178TVGalicia.png" group-title="ES Cine",ES178:NETFLIX HORROR
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29214.m3u8
-#EXTINF:-1 tvg-id="tv3.cat.es" tvg-name="ES179:NETFLIX HORROR 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES179TV3Cat.png" group-title="ES Cine",ES179:NETFLIX HORROR 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES180:NETFLIX KIDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES180TVE24H.png" group-title="ES Cine",ES180:NETFLIX KIDS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29212.m3u8
-#EXTINF:-1 tvg-id="tve.internacional.es" tvg-name="ES181:NETFLIX KIDS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES181TVEInternacional.png" group-title="ES Cine",ES181:NETFLIX KIDS 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/29211.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES182:NETFLIX MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png" group-title="ES Cine",ES182:NETFLIX MOVIES
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52425.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES183:NETFLIX MOVIES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="ES Cine",ES183:NETFLIX MOVIES 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52424.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES184:NETFLIX THRILLER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES184M3.png" group-title="ES Cine",ES184:NETFLIX THRILLER
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52423.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES185:NETFLIX THRILLER 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="ES Cine",ES185:NETFLIX THRILLER 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52422.m3u8
-#EXTINF:-1 tvg-id="nick.jr.es" tvg-name="ES186:NICK JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="ES Ninos",ES186:NICK JR
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52421.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES187:NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES187Movistar Ligade Campeones.png" group-title="ES Ninos",ES187:NICKELODEON
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52420.m3u8
-#EXTINF:-1 tvg-id="non.stop.people.es" tvg-name="ES188:NON STOP PEOPLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES188MovistarLigadeCampeones 2.png" group-title="ES Ent",ES188:NON STOP PEOPLE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52419.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES189:NORTEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES189M8.png" group-title="ES Ent",ES189:NORTEVISION
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52418.m3u8
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES190:NOVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES190MGOLFHD.png" group-title="ES Ent",ES190:NOVA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52417.m3u8
-#EXTINF:-1 tvg-id="orbe.21.es" tvg-name="ES191:ORBE 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="ES Ent",ES191:ORBE 21
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52416.m3u8
-#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES192:PARAMOUNT CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES192" group-title="ES Cine",ES192:PARAMOUNT CHANNEL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52415.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES193:PTV GRANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES193M FUTBOL.png" group-title="ES Ent",ES193:PTV GRANADA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52414.m3u8
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES194:PTV MÁLAGA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES194Cuatro.png" group-title="ES Ent",ES194:PTV MÁLAGA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52413.m3u8
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES195:PTV SEVILLA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES195" group-title="ES Ent",ES195:PTV SEVILLA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52412.m3u8
-#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES196:REAL MADRID TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES196MovistarAlquiler8.png" group-title="ES Ent",ES196:REAL MADRID TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52411.m3u8
-#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES197:SEVILLA FC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES197" group-title="ES Ent",ES197:SEVILLA FC
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES198:SOFY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES198RTV Ceuta.png" group-title="ES Ent",ES198:SOFY TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52409.m3u8
-#EXTINF:-1 tvg-id="somos.es" tvg-name="ES199:SOMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES199RTVA.png" group-title="ES Ent",ES199:SOMOS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52408.m3u8
-#EXTINF:-1 tvg-id="baby.es" tvg-name="ES200:STAR TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Ent",ES200:STAR TVE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52407.m3u8
-#EXTINF:-1 tvg-id="boing.es" tvg-name="ES201:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Musica",ES201:VH1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52406.m3u8
-#EXTINF:-1 tvg-id="disney.xd.es" tvg-name="ES202:SUNDANCE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES202" group-title="ES Musica",ES202:SUNDANCE TV
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52405.m3u8
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES203:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES203DisneyJunior.png" group-title="ES Cine",ES203:SYFY
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52404.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES204:TAQUILLA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES204" group-title="ES Cine",ES204:TAQUILLA 1
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52403.m3u8
-#EXTINF:-1 tvg-id="disney.es" tvg-name="ES205:TAQUILLA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Cine",ES205:TAQUILLA 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52402.m3u8
-#EXTINF:-1 tvg-id="canal.sur.2.es" tvg-name="ES206:TAQUILLA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES206" group-title="ES Cine",ES206:TAQUILLA 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52401.m3u8
-#EXTINF:-1 tvg-id="canal.parlamento.es" tvg-name="ES207:TAQUILLA 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES207ESPN.png" group-title="ES Cine",ES207:TAQUILLA 4
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52400.m3u8
-#EXTINF:-1 tvg-id="a.punt.es" tvg-name="ES208:TAQUILLA 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES208" group-title="ES Cine",ES208:TAQUILLA 5
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52399.m3u8
-#EXTINF:-1 tvg-id="intereconomia.es" tvg-name="ES209:TAQUILLA 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES209" group-title="ES Cine",ES209:TAQUILLA 6
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52398.m3u8
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES210:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES210" group-title="ES Ent",ES210:TCM
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52397.m3u8
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES211:TELECINCO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES211AXNWhiteHD.png" group-title="ES Ent",ES211:TELECINCO
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52396.m3u8
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES212:TELEDEPORTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Ent",ES212:TELEDEPORTE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52395.m3u8
-#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES213:TELEMADRID" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES213Calle13HD.png" group-title="ES Ent",ES213:TELEMADRID
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52394.m3u8
-#EXTINF:-1 tvg-id="telesur.es" tvg-name="ES214:TELESUR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png" group-title="ES Ent",ES214:TELESUR
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52393.m3u8
-#EXTINF:-1 tvg-id="ten.es" tvg-name="ES215:TEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES215MovistarComediaHD.png" group-title="ES Ent",ES215:TEN
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52392.m3u8
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES216:TNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES216MovistarDCine.png" group-title="ES Ent",ES216:TNT
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52391.m3u8
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES217:TOROS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES217MovistarXtra.png" group-title="ES Ent",ES217:TOROS
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52390.m3u8
-#EXTINF:-1 tvg-id="trece.es" tvg-name="ES218:TRECE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES218MovistarSeriesXtra.png" group-title="ES Ent",ES218:TRECE
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52389.m3u8
-#EXTINF:-1 tvg-id="tv3.es" tvg-name="ES219:TV 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES219MovistarEstrenos.png" group-title="ES Ent",ES219:TV 3
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52388.m3u8
-#EXTINF:-1 tvg-id="tv.canaria.es" tvg-name="ES220:TV CANARIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES220" group-title="ES Ent",ES220:TV CANARIA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52387.m3u8
-#EXTINF:-1 tvg-id="galicia.es" tvg-name="ES221:TV GALICIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES221" group-title="ES Ent",ES221:TV GALICIA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52386.m3u8
-#EXTINF:-1 tvg-id="tv3.cat.es" tvg-name="ES222:TV3 CATALUNYA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES222" group-title="ES Ent",ES222:TV3 CATALUNYA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52385.m3u8
-#EXTINF:-1 tvg-id="tve.internacional.es" tvg-name="ES223:TVE INTERNACIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES223" group-title="ES Ent",ES223:TVE INTERNACIONAL
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52384.m3u8
-#EXTINF:-1 tvg-id="la.2.es" tvg-name="ES224:TVE LA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES224MoviestarSeries.png" group-title="ES Ent",ES224:TVE LA 2
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ES225:TVG CULTURA
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ES226:UBEAT
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ES227:VIAJAR
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ESPAÑA" tvg-logo="https://n9.cl/c9nmh0" group-title="TV ESPAÑA",ES228:XTRM
-http://kkessp0423.oknirvana.club:8880/live/6mmx010000/71421954/52379.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV NN" tvg-logo="https://n9.cl/isg33" group-title="TV NN",NOMBRE TV
 
 
 
