@@ -13,15 +13,15 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/101993
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/107836
 #EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",WWE
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94235
-#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",WWE 2
+#EXTINF:-1 tvg-id="" tvg-name="PPV" tvg-logo="https://n9.cl/v1my31" group-title="PPV",WWF
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/87844
 
 
 --- Colombia ---
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELECARIBE
 http://209.45.101.36:50000/play/Telecaribe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELEMEDELLIN
-http://181.78.6.106:45000/play/b094
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CANAL INSTITUCIONAL
+http://209.45.101.36:50000/play/CanalInstitucional/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CANAL UNO
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/259
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CARACOL INTERNACIONAL 
@@ -33,9 +33,11 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/269
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/160818
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN INTERNACIONAL
-http://tv14s.xyz:8080/0BUuyX/595985/78694
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN NOVELAS
 http://tv14s.xyz:8080/0BUuyX/595985/78716
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN NOVELAS
+http://p2premium.club:80/play/PxMgOzeM4lRdwZ84p3iKQmhzpGtbaO94NAFDgvjoUudrlfuFjCGOl_h8lJ9llvqH/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",RCN XTRA
+http://p2premium.club:80/play/PxMgOzeM4lRdwZ84p3iKQmhzpGtbaO94NAFDgvjoUucO5pUsZhYYk4MZD6TQLJMw/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",SENAL COLOMBIA
 http://tv14s.xyz:8080/0BUuyX/595985/78711
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELECAFE
@@ -62,8 +64,8 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/13795
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/94008
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",CALI TV 
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/22259
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",TELENOSTALGIA
-http://181.78.6.106:45000/play/b0108
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/3g9ak" group-title="COLOMBIA",EPOCA
+http://209.45.101.36:50000/play/Epoca/index.m3u8
 
 
 
