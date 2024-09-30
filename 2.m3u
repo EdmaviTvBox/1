@@ -4,14 +4,43 @@
 
 ===== ENTRETENIMIENTO =======
 
-#EXTINF:-1,ESTRELLA TV
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",ESTRELLA TV
 http://cincotv.org:25461/Carol1N4/Cl4v3/23729
-#EXTINF:-1,NBC UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",NBC UNIVERSO
 http://cincotv.org:25461/Carol1N4/Cl4v3/23730
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1, 
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",UNIMAS
+http://cincotv.org:25461/Carol1N4/Cl4v3/186431
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",UNIVISION 
+http://cincotv.org:25461/Carol1N4/Cl4v3/162346
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",TELEMUNDO
+http://cincotv.org:25461/Carol1N4/Cl4v3/162347
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
+http://cincotv.org:25461/Carol1N4/Cl4v3/186429
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",GALAVISION
+http://cincotv.org:25461/Carol1N4/Cl4v3/186439
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",CANAL DE LAS ESTRELLAS 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186434
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",XTREMA TV
+http://cincotv.org:25461/Carol1N4/Cl4v3/172175
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",ADULT SWIM
+http://cincotv.org:25461/Carol1N4/Cl4v3/185141
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",KANAL D DRAMA
+http://cincotv.org:25461/Carol1N4/Cl4v3/66150
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",E! 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186435
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://cincotv.org:25461/Carol1N4/Cl4v3/186436
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://cincotv.org:25461/Carol1N4/Cl4v3/186432
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",FOOD NETWORK LAT
+http://cincotv.org:25461/Carol1N4/Cl4v3/186437
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",GOURMET
+http://cincotv.org:25461/Carol1N4/Cl4v3/186438
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",UNICABLE
+http://cincotv.org:25461/Carol1N4/Cl4v3/186440
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",HOLA TV 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186780
+
 
 ===== DOC Y CULTURAL =======
 #EXTINF:-1,DISCOVERY CHANNEL OPC 1
