@@ -1,9 +1,6 @@
 #EXTM3U
 
-
-
 ===== ENTRETENIMIENTO =======
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",ESTRELLA TV
 http://cincotv.org:25461/Carol1N4/Cl4v3/23729
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="https://n9.cl/jkid1" group-title="ENTRETENIMIENTO",NBC UNIVERSO
@@ -82,25 +79,85 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/184852
 
 
 ===== PREMIUM =======
-#EXTINF:-1,UNIVERSAL REALITY
-http://cincotv.org:25461/Carol1N4/Cl4v3/23850
-#EXTINF:-1,HBO HD
-http://cincotv.org:25461/Carol1N4/Cl4v3/24300
-#EXTINF:-1,HBO HD OPC 2
-http://cincotv.org:25461/Carol1N4/Cl4v3/24302
-#EXTINF:-1,GOLDEN 
-http://cincotv.org:25461/Carol1N4/Cl4v3/24301
-#EXTINF:-1,
-#EXTINF:-1,
 
-===== INFANTIL =======
-#EXTINF:-1,BOING KIDS HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",ULTRA CINE
+http://cincotv.org:25461/Carol1N4/Cl4v3/226539
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",ULTRA CLASICO
+http://cincotv.org:25461/Carol1N4/Cl4v3/226540
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",ULTRA DOCU
+http://cincotv.org:25461/Carol1N4/Cl4v3/226541
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",ULTRA FAMILIA
+http://cincotv.org:25461/Carol1N4/Cl4v3/226542
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",ULTRA KIDZ
+http://cincotv.org:25461/Carol1N4/Cl4v3/226543
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",ULTRA MACHO
+http://cincotv.org:25461/Carol1N4/Cl4v3/226544
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",ULTRA MEX
+http://cincotv.org:25461/Carol1N4/Cl4v3/226545
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",STARZ ENCORE 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186480
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO HD
+http://cincotv.org:25461/Carol1N4/Cl4v3/24300
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO FAMILY
+http://cincotv.org:25461/Carol1N4/Cl4v3/186482
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO PLUS
+http://cincotv.org:25461/Carol1N4/Cl4v3/186498
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO POP
+http://cincotv.org:25461/Carol1N4/Cl4v3/186499
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO SIGNATURE
+http://cincotv.org:25461/Carol1N4/Cl4v3/186500
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO OPC 3
+http://cincotv.org:25461/Carol1N4/Cl4v3/24302
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",GOLDEN 
+http://cincotv.org:25461/Carol1N4/Cl4v3/24301
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",GOLDEN PREMIER
+http://cincotv.org:25461/Carol1N4/Cl4v3/186479
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",GOLDEN EDGE
+http://cincotv.org:25461/Carol1N4/Cl4v3/186490
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",GOLDEN PLUS
+http://cincotv.org:25461/Carol1N4/Cl4v3/186492
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",UNIVERSAL REALITY
+http://cincotv.org:25461/Carol1N4/Cl4v3/23850
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",UNIVERSAL COMEDY
+http://cincotv.org:25461/Carol1N4/Cl4v3/186484
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",UNIVERSAL CINEMA 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186485
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",UNIVERSAL PREMIER 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186486
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",UNIVERSAL CRIME
+http://cincotv.org:25461/Carol1N4/Cl4v3/186487
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",
+
+===== kIDS =======
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",BOING KIDS 
 http://cincotv.org:25461/Carol1N4/Cl4v3/23857
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",TEENNICK 
+http://cincotv.org:25461/Carol1N4/Cl4v3/146664
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",LOGOSTV KIDS
+http://cincotv.org:25461/Carol1N4/Cl4v3/185050
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",DISCOVERY KIDS HD 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186443
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",CARTOON NETWORK 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186444
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",DISNEY JUNIOR
+http://cincotv.org:25461/Carol1N4/Cl4v3/186446
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",TOONCAST 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186447
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",NICKELODEON
+http://cincotv.org:25461/Carol1N4/Cl4v3/186448
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",NICK 2 TEAM NICK HD
+http://cincotv.org:25461/Carol1N4/Cl4v3/186449
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",NICK JR HD  
+http://cincotv.org:25461/Carol1N4/Cl4v3/186450
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",BABYFIRST
+http://cincotv.org:25461/Carol1N4/Cl4v3/188841
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",GOGOPLAY TV
+http://cincotv.org:25461/Carol1N4/Cl4v3/195303
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",MAX ANIME
+http://cincotv.org:25461/Carol1N4/Cl4v3/282476
+
+
 
 ===== CINE Y SERIES =======
 #EXTINF:-1,,DE PELICULA
