@@ -159,14 +159,21 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/195303
 http://cincotv.org:25461/Carol1N4/Cl4v3/282476
 
 ===== CINE Y SERIES =======
-#EXTINF:-1,,DE PELICULA
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/kvd7z" group-title="CINE Y SERIES",DE PELICULA
 http://cincotv.org:25461/Carol1N4/Cl4v3/24040
-#EXTINF:-1,SUNDANCE
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/kvd7z" group-title="CINE Y SERIES",SUNDANCE
 http://cincotv.org:25461/Carol1N4/Cl4v3/25196
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/kvd7z" group-title="CINE Y SERIES",MULTIPREMIER
+http://cincotv.org:25461/Carol1N4/Cl4v3/126323
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/kvd7z" group-title="CINE Y SERIES",I SAT CHANNEL
+http://cincotv.org:25461/Carol1N4/Cl4v3/126324
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/kvd7z" group-title="CINE Y SERIES",MOREMAX
+http://cincotv.org:25461/Carol1N4/Cl4v3/126327
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/kvd7z" group-title="CINE Y SERIES",MULTICINEMA
+http://cincotv.org:25461/Carol1N4/Cl4v3/126330
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/kvd7z" group-title="CINE Y SERIES",MY TIME NETWORK LATINO
+http://cincotv.org:25461/Carol1N4/Cl4v3/139692
+
 
 ===== COLOMBIA =======
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="COLOMBIA",CARACOL SD
