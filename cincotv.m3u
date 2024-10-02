@@ -103,20 +103,80 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186782
 ===== KIDS =====
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",DISCOVERY KIDS 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186443
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"CARTOON NETWORK 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",CARTOON NETWORK 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186444
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"DISNEY CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title=",KIDS"DISNEY CHANNEL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186445
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",DISNEY JUNIOR
 http://cincotv.org:25461/Carol1N4/Cl4v3/186446
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"TOONCAST 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title=",KIDS"TOONCAST 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186447
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",NICKELODEON
 http://cincotv.org:25461/Carol1N4/Cl4v3/186448
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"NICK 2 TEAM NICK
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",NICK 2 TEAM NICK
 http://cincotv.org:25461/Carol1N4/Cl4v3/186449
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"NICK JR 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",NICK JR 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186450
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"BABY FIRST
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",BABY FIRST
 http://cincotv.org:25461/Carol1N4/Cl4v3/186451
+
+===== CULTURAL =====
+
+#EXTINF:-1,HGTV
+http://cincotv.org:25461/Carol1N4/Cl4v3/187125
+
+===== TV VIP =====
+
+#EXTINF:-1,COMEDY CENTRAL 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186432
+#EXTINF:-1,DISTRITO COMEDIA 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186436
+#EXTINF:-1,FOOD NETWORK LATINO 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186437
+#EXTINF:-1,GOURMET 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186438
+#EXTINF:-1,CINEMAX USA
+http://cincotv.org:25461/Carol1N4/Cl4v3/186466
+#EXTINF:-1,CINEMAX 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186452
+#EXTINF:-1,SPACE 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186453
+#EXTINF:-1,CINECANAL 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186454
+#EXTINF:-1,CINECANAL OPC 2
+http://cincotv.org:25461/Carol1N4/Cl4v3/186465
+#EXTINF:-1,SONY CHANNEL 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186456
+#EXTINF:-1,WARNER 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186457
+#EXTINF:-1,TBS 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186459
+#EXTINF:-1,USA
+http://cincotv.org:25461/Carol1N4/Cl4v3/186461
+#EXTINF:-1,A&E 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186462
+#EXTINF:-1,AMC
+http://cincotv.org:25461/Carol1N4/Cl4v3/186463
+#EXTINF:-1,AXN 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186464
+#EXTINF:-1,FX
+http://cincotv.org:25461/Carol1N4/Cl4v3/186467
+#EXTINF:-1,FILM  & ARTS
+http://cincotv.org:25461/Carol1N4/Cl4v3/186472
+#EXTINF:-1,TCM
+http://cincotv.org:25461/Carol1N4/Cl4v3/186475
+#EXTINF:-1,TNT SERIES 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186476
+#EXTINF:-1,TNT 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186477
+
+
+
+
+
+
+
+
+
+
 
