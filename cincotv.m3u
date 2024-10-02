@@ -105,7 +105,9 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186782
 http://cincotv.org:25461/Carol1N4/Cl4v3/186443
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",CARTOON NETWORK 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186444
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title=",KIDS,"DISNEY CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",CARTOON NETWORK (LAT)
+http://cincotv.org:25461/Carol1N4/Cl4v3/187265
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title=",KIDS,DISNEY CHANNEL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186445
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",DISNEY JUNIOR
 http://cincotv.org:25461/Carol1N4/Cl4v3/186446
@@ -117,13 +119,65 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186448
 http://cincotv.org:25461/Carol1N4/Cl4v3/186449
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",NICK JR 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186450
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",NICKMUSIC
+http://cincotv.org:25461/Carol1N4/Cl4v3/23878
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",TEENNICK 
+http://cincotv.org:25461/Carol1N4/Cl4v3/146664
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",BABY FIRST
 http://cincotv.org:25461/Carol1N4/Cl4v3/186451
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",BABYFIRST
+http://cincotv.org:25461/Carol1N4/Cl4v3/188841
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",BABY TV 
+http://cincotv.org:25461/Carol1N4/Cl4v3/26346
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",BOING KIDS 
+http://cincotv.org:25461/Carol1N4/Cl4v3/23857
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",LOGOSTV KIDS
+http://cincotv.org:25461/Carol1N4/Cl4v3/185050
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",,GOGOPLAY TV
+http://cincotv.org:25461/Carol1N4/Cl4v3/195303
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",ULTRA KIDZ
+http://cincotv.org:25461/Carol1N4/Cl4v3/226543
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",MAX ANIME
+http://cincotv.org:25461/Carol1N4/Cl4v3/282476
 
 ===== CULTURAL =====
 
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",HGTV
 http://cincotv.org:25461/Carol1N4/Cl4v3/187125
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",LOVE NATURE
+http://cincotv.org:25461/Carol1N4/Cl4v3/173274
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",DISCOVERY CHANNEL (COL)
+http://cincotv.org:25461/Carol1N4/Cl4v3/23756
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",DISCOVERY CHANNEL (MEX)
+http://cincotv.org:25461/Carol1N4/Cl4v3/23757
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",DISCOVERY FAMILIA
+http://cincotv.org:25461/Carol1N4/Cl4v3/25197
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",INVESTIGATION DISCOVERY 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186501
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",DISCOVERY SCIENCIE 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186503
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",DISCOVERY TURBO  
+http://cincotv.org:25461/Carol1N4/Cl4v3/186505
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",DISCOVERY WORLD 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186506
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",H2 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186507
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",HISTORY CHANNEL 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186509
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",NATGEO WILD 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186511
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",NATIONAL GEOGRAPHIC 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186512
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",TLC
+http://cincotv.org:25461/Carol1N4/Cl4v3/186513
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",ANIMAL PLANET
+http://cincotv.org:25461/Carol1N4/Cl4v3/186793
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",DISCOVERY HOME & HEALTH (LAT)
+http://cincotv.org:25461/Carol1N4/Cl4v3/186991
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",DISCOVERY HOME AND HEALTH (MEX)
+http://cincotv.org:25461/Carol1N4/Cl4v3/186992
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",ULTRA DOCU
+http://cincotv.org:25461/Carol1N4/Cl4v3/226541
 
 ===== TV PREMIUM =====
 
