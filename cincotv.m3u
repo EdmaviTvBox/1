@@ -25,6 +25,8 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/153830
 http://cincotv.org:25461/Carol1N4/Cl4v3/171153
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",CANAL UNO
 http://cincotv.org:25461/Carol1N4/Cl4v3/173269
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",TELECARIBE
+http://209.45.101.36:50000/play/Telecaribe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",TELEMEDELLIN 
 http://cincotv.org:25461/Carol1N4/Cl4v3/173271
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",ZOOM
