@@ -101,73 +101,73 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186781
 http://cincotv.org:25461/Carol1N4/Cl4v3/186782
 
 ===== KIDS =====
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",DISCOVERY KIDS 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",DISCOVERY KIDS 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186443
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",CARTOON NETWORK 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",CARTOON NETWORK 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186444
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title=",KIDS"DISNEY CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title=",KIDS"DISNEY CHANNEL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186445
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",DISNEY JUNIOR
 http://cincotv.org:25461/Carol1N4/Cl4v3/186446
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title=",KIDS"TOONCAST 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title=",KIDS"TOONCAST 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186447
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",NICKELODEON
 http://cincotv.org:25461/Carol1N4/Cl4v3/186448
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",NICK 2 TEAM NICK
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",NICK 2 TEAM NICK
 http://cincotv.org:25461/Carol1N4/Cl4v3/186449
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",NICK JR 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",NICK JR 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186450
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",BABY FIRST
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",BABY FIRST
 http://cincotv.org:25461/Carol1N4/Cl4v3/186451
 
 ===== CULTURAL =====
 
-#EXTINF:-1,HGTV
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",HGTV
 http://cincotv.org:25461/Carol1N4/Cl4v3/187125
 
-===== TV VIP =====
+===== TV PREMIUM =====
 
-#EXTINF:-1,COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",COMEDY CENTRAL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186432
-#EXTINF:-1,DISTRITO COMEDIA 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",DISTRITO COMEDIA 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186436
-#EXTINF:-1,FOOD NETWORK LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",FOOD NETWORK LATINO 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186437
-#EXTINF:-1,GOURMET 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",GOURMET 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186438
-#EXTINF:-1,CINEMAX USA
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",CINEMAX USA
 http://cincotv.org:25461/Carol1N4/Cl4v3/186466
-#EXTINF:-1,CINEMAX 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",CINEMAX 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186452
-#EXTINF:-1,SPACE 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",SPACE 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186453
-#EXTINF:-1,CINECANAL 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",CINECANAL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186454
-#EXTINF:-1,CINECANAL OPC 2
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",CINECANAL OPC 2
 http://cincotv.org:25461/Carol1N4/Cl4v3/186465
-#EXTINF:-1,SONY CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",SONY CHANNEL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186456
-#EXTINF:-1,WARNER 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",WARNER 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186457
-#EXTINF:-1,TBS 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TBS 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186459
-#EXTINF:-1,USA
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",USA
 http://cincotv.org:25461/Carol1N4/Cl4v3/186461
-#EXTINF:-1,A&E 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",A&E 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186462
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",AMC
 http://cincotv.org:25461/Carol1N4/Cl4v3/186463
-#EXTINF:-1,AXN 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",AXN 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186464
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",FX
 http://cincotv.org:25461/Carol1N4/Cl4v3/186467
-#EXTINF:-1,FILM  & ARTS
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",FILM  & ARTS
 http://cincotv.org:25461/Carol1N4/Cl4v3/186472
-#EXTINF:-1,TCM
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TCM
 http://cincotv.org:25461/Carol1N4/Cl4v3/186475
-#EXTINF:-1,TNT SERIES 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TNT SERIES 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186476
-#EXTINF:-1,TNT 
+#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TNT 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186477
 
 
