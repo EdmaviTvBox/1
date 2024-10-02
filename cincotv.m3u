@@ -21,28 +21,30 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/188845
 
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",CARACOL SD
 http://cincotv.org:25461/Carol1N4/Cl4v3/153830
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",SEÑAL COLOMBIA
-http://cincotv.org:25461/Carol1N4/Cl4v3/171153
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",CARACOL HD
+http://cincotv.org:25461/Carol1N4/Cl4v3/186530
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",CARACOL INT 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186531
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",RCN OPC 1
+http://cincotv.org:25461/Carol1N4/Cl4v3/186534
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",RCN OPC 2 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186535
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",RCN XTRA
+http://cincotv.org:25461/Carol1N4/Cl4v3/110832
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",CANAL UNO
 http://cincotv.org:25461/Carol1N4/Cl4v3/173269
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",SEÑAL COLOMBIA
+http://cincotv.org:25461/Carol1N4/Cl4v3/171153
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",TELECARIBE
 http://209.45.101.36:50000/play/Telecaribe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",TELEMEDELLIN 
 http://cincotv.org:25461/Carol1N4/Cl4v3/173271
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",ZOOM
 http://cincotv.org:25461/Carol1N4/Cl4v3/173275
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",CARACOL HD
-http://cincotv.org:25461/Carol1N4/Cl4v3/186530
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",CARACOL INT HD
-http://cincotv.org:25461/Carol1N4/Cl4v3/186531
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",NTN24 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",NTN24 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186532
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",EL TIEMPO HD
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",EL TIEMPO 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186533
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",RCN OPC 1
-http://cincotv.org:25461/Carol1N4/Cl4v3/186534
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",RCN OPC 2 
-http://cincotv.org:25461/Carol1N4/Cl4v3/186535
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",TELEANTIOQUIA
 http://cincotv.org:25461/Carol1N4/Cl4v3/186536
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",TELEPACIFICO
@@ -63,3 +65,58 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/187006
 http://cincotv.org:25461/Carol1N4/Cl4v3/187030
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/mdrsk" group-title="TV COLOMBIA",TU KANAL
 http://cincotv.org:25461/Carol1N4/Cl4v3/187031
+
+===== VARIEDADES =====
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",ADULT SWIM
+http://cincotv.org:25461/Carol1N4/Cl4v3/185141
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",ESTRELLA TV
+http://cincotv.org:25461/Carol1N4/Cl4v3/23729
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",NBC UNIVERSO
+http://cincotv.org:25461/Carol1N4/Cl4v3/23730
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",KANAL D DRAMA
+http://cincotv.org:25461/Carol1N4/Cl4v3/66150
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",UNIVISION 
+http://cincotv.org:25461/Carol1N4/Cl4v3/162346
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",TELEMUNDO 
+http://cincotv.org:25461/Carol1N4/Cl4v3/162347
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",TELEMUNDO INTERNACIONAL
+http://cincotv.org:25461/Carol1N4/Cl4v3/186429
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",XTREMA TV
+http://cincotv.org:25461/Carol1N4/Cl4v3/172175
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",MEGA TV USA
+http://cincotv.org:25461/Carol1N4/Cl4v3/186433
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",CANAL DE LAS ESTRELLAS
+http://cincotv.org:25461/Carol1N4/Cl4v3/186434
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",E! ENTRETENIMIENTO
+http://cincotv.org:25461/Carol1N4/Cl4v3/186435
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",GALAVISION
+http://cincotv.org:25461/Carol1N4/Cl4v3/186439
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",UNICABLE
+http://cincotv.org:25461/Carol1N4/Cl4v3/186440
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",HOLA TV
+http://cincotv.org:25461/Carol1N4/Cl4v3/186780
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",MAS CHIC
+http://cincotv.org:25461/Carol1N4/Cl4v3/186781
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",AMERICA TV LATINO USA
+http://cincotv.org:25461/Carol1N4/Cl4v3/186782
+
+===== KIDS =====
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS",DISCOVERY KIDS 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186443
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"CARTOON NETWORK 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186444
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"DISNEY CHANNEL 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186445
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"DISNEY JUNIOR
+http://cincotv.org:25461/Carol1N4/Cl4v3/186446
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"TOONCAST 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186447
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"NICKELODEON
+http://cincotv.org:25461/Carol1N4/Cl4v3/186448
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"NICK 2 TEAM NICK
+http://cincotv.org:25461/Carol1N4/Cl4v3/186449
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"NICK JR 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186450
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/jkid1" group-title="KIDS"BABY FIRST
+http://cincotv.org:25461/Carol1N4/Cl4v3/186451
+
