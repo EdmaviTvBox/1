@@ -1,7 +1,10 @@
 #EXTM3U
 
 ==== CULTURALES ====
-
+#EXTINF:-1 tvg-id="" tvg-name="CULTURALES" tvg-logo="https://n9.cl/mjbag" group-title="CULTURALES",DISNEY NATURE
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83493
+#EXTINF:-1 tvg-id="" tvg-name="CULTURALES" tvg-logo="https://n9.cl/mjbag" group-title="CULTURALES",CANAL CULTURAL
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/64106
 #EXTINF:-1 tvg-id="" tvg-name="CULTURALES" tvg-logo="https://n9.cl/mjbag" group-title="CULTURALES",HISTORY OPC 1
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99733
 #EXTINF:-1 tvg-id="" tvg-name="CULTURALES" tvg-logo="https://n9.cl/mjbag" group-title="CULTURALES",HISTORY OPC 2
@@ -10,10 +13,23 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/93330
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/187076
 #EXTINF:-1 tvg-id="" tvg-name="CULTURALES" tvg-logo="https://n9.cl/mjbag" group-title="CULTURALES",H2 OPC 2
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99734
+DISCOVERY CHANNEL ESPAÑA
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/523
+DISCOVERY CHANNEL OPC 1
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/564
+DISCOVERY CHANNEL OPC 2
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/229728
+DISCOVERY CHANNEL OPC 3
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/47112
+DISCOVERY CHANNEL OPC 4
+http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/102500
+
+
+
+
 #EXTINF:-1,N3TFL1X Hogar Channel ⁽ᴴᴰ⁾
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/85583
-#EXTINF:-1 tvg-id="" tvg-name="CULTURALES" tvg-logo="https://n9.cl/mjbag" group-title="CULTURALES",CANAL CULTURAL
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/64106
+
 #EXTINF:-1,Hagalo Usted Mismo
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/65062
 #EXTINF:-1,Animal Planet ₮
@@ -26,18 +42,10 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/99725
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/53977
 #EXTINF:-1,CGTN Espanol ￥
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/27013
-#EXTINF:-1,D1sney Nature ⁽ᴴᴰ⁾
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/83493
-#EXTINF:-1,Discovery CH Lat ₮
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/47112
-#EXTINF:-1,Discovery CH ☂
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/102500
-#EXTINF:-1,Discovery Ch ☢ USA
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/223174
-#EXTINF:-1,Discovery Channel ★★★
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/564
-#EXTINF:-1,Discovery Espanol ₮
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/229728
+
+
+
+
 #EXTINF:-1,Discovery Familia ✪
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/571
 #EXTINF:-1,Discovery H&H ₮
@@ -78,8 +86,7 @@ http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/87107
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/591
 #EXTINF:-1,Discovery World ☆
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/592
-#EXTINF:-1,Discovery ✪ ESPAÑA
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/523
+
 #EXTINF:-1,CGTN Espanol ￥
 http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/27013
 
