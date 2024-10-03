@@ -99,6 +99,16 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186780
 http://cincotv.org:25461/Carol1N4/Cl4v3/186781
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",AMERICA TV LATINO USA
 http://cincotv.org:25461/Carol1N4/Cl4v3/186782
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",COMEDY CENTRAL 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186432
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",DISTRITO COMEDIA 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186436
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",FOOD NETWORK LATINO 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186437
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",GOURMET 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186438
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/jkid1" group-title="VARIEDADES",TBS 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186459
 
 ===== KIDS =====
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/4uwm6g" group-title="KIDS",DISCOVERY KIDS 
@@ -178,66 +188,78 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186992
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",ULTRA DOCU
 http://cincotv.org:25461/Carol1N4/Cl4v3/226541
 
-===== TV PREMIUM =====
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",COMEDY CENTRAL 
-http://cincotv.org:25461/Carol1N4/Cl4v3/186432
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",DISTRITO COMEDIA 
-http://cincotv.org:25461/Carol1N4/Cl4v3/186436
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",FOOD NETWORK LATINO 
-http://cincotv.org:25461/Carol1N4/Cl4v3/186437
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",GOURMET 
-http://cincotv.org:25461/Carol1N4/Cl4v3/186438
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",TBS 
-http://cincotv.org:25461/Carol1N4/Cl4v3/186459
-
-
 ===== CINE Y SERIES =====
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",CINEMAX USA
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",CINEMAX USA
 http://cincotv.org:25461/Carol1N4/Cl4v3/186466
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",CINEMAX 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",CINEMAX 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186452
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",SPACE 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",SPACE 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186453
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",CINECANAL 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",CINECANAL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186454
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",CINECANAL OPC 2
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",CINECANAL OPC 2
 http://cincotv.org:25461/Carol1N4/Cl4v3/186465
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",SONY CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",SONY CHANNEL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186456
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/vtwbz" group-title="TV PREMIUM",WARNER 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",WARNER 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186457
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",USA
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",USA
 http://cincotv.org:25461/Carol1N4/Cl4v3/186461
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",A&E 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",A&E 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186462
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",AMC
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",AMC
 http://cincotv.org:25461/Carol1N4/Cl4v3/186463
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",AXN 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",AXN 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186464
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",FX
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",FX
 http://cincotv.org:25461/Carol1N4/Cl4v3/186467
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",FILM  & ARTS
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",FILM  & ARTS
 http://cincotv.org:25461/Carol1N4/Cl4v3/186472
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",TCM
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",TCM
 http://cincotv.org:25461/Carol1N4/Cl4v3/186475
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",TNT SERIES 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",TNT SERIES 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186476
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",TNT 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",TNT 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186477
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",DE PELICULA
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",DE PELICULA
 http://cincotv.org:25461/Carol1N4/Cl4v3/24040
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",SUNDANCE
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",DE PELICULA PLUS
+http://cincotv.org:25461/Carol1N4/Cl4v3/189810
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",SUNDANCE
 http://cincotv.org:25461/Carol1N4/Cl4v3/25196
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",MULTIPREMIER
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",MULTIPREMIER
 http://cincotv.org:25461/Carol1N4/Cl4v3/126323
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",MY TIME NETWORK 
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",MY TIME NETWORK 
 http://cincotv.org:25461/Carol1N4/Cl4v3/139692
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",AXN MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",AXN MOVIES
 http://cincotv.org:25461/Carol1N4/Cl4v3/141568
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",SONY MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",SONY MOVIES
 http://cincotv.org:25461/Carol1N4/Cl4v3/126339
-#EXTINF:-1 tvg-id="" tvg-name="TV PREMIUM" tvg-logo="https://n9.cl/f1y2d1" group-title="TV PREMIUM",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",CINEMAX 1
 http://cincotv.org:25461/Carol1N4/Cl4v3/169185
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",CINE LATINO
+http://cincotv.org:25461/Carol1N4/Cl4v3/191821
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",RETRO TV
+http://cincotv.org:25461/Carol1N4/Cl4v3/196959
+##EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",RETROX TV
+http://cincotv.org:25461/Carol1N4/Cl4v3/196960
+
+===== CINEMAS =====
+
+CINEMA PREMIUM
+http://cincotv.org:25461/Carol1N4/Cl4v3/173277
+CINEMA 1
+http://cincotv.org:25461/Carol1N4/Cl4v3/176198
+CINEMA 2
+http://cincotv.org:25461/Carol1N4/Cl4v3/176201
+CINEMA 3
+http://cincotv.org:25461/Carol1N4/Cl4v3/176202
+CINEMA 4
+http://cincotv.org:25461/Carol1N4/Cl4v3/176203
+CINEMA 5
+http://cincotv.org:25461/Carol1N4/Cl4v3/176204
+CINEMA 6
+http://cincotv.org:25461/Carol1N4/Cl4v3/176205
 
 
 
