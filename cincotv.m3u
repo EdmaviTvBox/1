@@ -21,8 +21,6 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/24300
 http://cincotv.org:25461/Carol1N4/Cl4v3/24302
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO HD
 http://cincotv.org:25461/Carol1N4/Cl4v3/186494
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO FAMILY
-http://cincotv.org:25461/Carol1N4/Cl4v3/186482
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO 2
 http://cincotv.org:25461/Carol1N4/Cl4v3/186483
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO XTREME
@@ -35,6 +33,14 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186497
 http://cincotv.org:25461/Carol1N4/Cl4v3/186498
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO POP HD
 http://cincotv.org:25461/Carol1N4/Cl4v3/186499
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO FAMILY
+http://cincotv.org:25461/Carol1N4/Cl4v3/186482
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO FAMILY HD
+http://cincotv.org:25461/Carol1N4/Cl4v3/187565
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",SONY MOVIES
+http://cincotv.org:25461/Carol1N4/Cl4v3/188810
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",SONY NOVELAS
+http://cincotv.org:25461/Carol1N4/Cl4v3/188811
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO SIGNATURE HD
 http://cincotv.org:25461/Carol1N4/Cl4v3/186500
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",UNIVERSAL CINEMA HD
@@ -290,8 +296,14 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/169185
 http://cincotv.org:25461/Carol1N4/Cl4v3/191821
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",RETRO TV
 http://cincotv.org:25461/Carol1N4/Cl4v3/196959
-##EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",RETROX TV
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",RETROX TV
 http://cincotv.org:25461/Carol1N4/Cl4v3/196960
+
+===== SPORTS =====
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS" tvg-logo="https://n9.cl/vtwbz" group-title="SPORTS",TYC SPORTS 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186514
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS" tvg-logo="https://n9.cl/vtwbz" group-title="SPORTS",TNT SPORTS ARGENTINA 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186515
 
 ===== CINEMAS =====
 CINE AMAZON PRIME 
