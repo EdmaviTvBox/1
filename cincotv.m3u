@@ -1,5 +1,18 @@
 #EXTM3U
 
+===== PREMIUM =====
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",DE PELICULA
+http://cincotv.org:25461/Carol1N4/Cl4v3/24040
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",DE PELICULA PLUS
+http://cincotv.org:25461/Carol1N4/Cl4v3/189810
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO HD (MX)
+http://cincotv.org:25461/Carol1N4/Cl4v3/24300
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",HBO HD (LATINO)
+http://cincotv.org:25461/Carol1N4/Cl4v3/24302
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ih611" group-title="PREMIUM",GOLDEN 
+http://cincotv.org:25461/Carol1N4/Cl4v3/24301
+
 ===== EVENTOS PPV ====
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV" tvg-logo="https://n9.cl/v1my31" group-title="EVENTOS PPV",DAZN 1
@@ -151,6 +164,8 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/226543
 http://cincotv.org:25461/Carol1N4/Cl4v3/282476
 
 ===== CULTURAL =====
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",ODISEA
+http://cincotv.org:25461/Carol1N4/Cl4v3/184852
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",HGTV
 http://cincotv.org:25461/Carol1N4/Cl4v3/187125
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/mjbag" group-title="CULTURAL",LOVE NATURE
@@ -221,10 +236,6 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186475
 http://cincotv.org:25461/Carol1N4/Cl4v3/186476
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",TNT 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186477
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",DE PELICULA
-http://cincotv.org:25461/Carol1N4/Cl4v3/24040
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",DE PELICULA PLUS
-http://cincotv.org:25461/Carol1N4/Cl4v3/189810
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",SUNDANCE
 http://cincotv.org:25461/Carol1N4/Cl4v3/25196
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",MULTIPREMIER
@@ -233,8 +244,14 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/126323
 http://cincotv.org:25461/Carol1N4/Cl4v3/139692
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",AXN MOVIES
 http://cincotv.org:25461/Carol1N4/Cl4v3/141568
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",SONY MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",SONY CHANNEL
 http://cincotv.org:25461/Carol1N4/Cl4v3/126339
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",STUDIO UNIVERSAL 
+http://cincotv.org:25461/Carol1N4/Cl4v3/186488
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",STAR CHANNEL
+http://cincotv.org:25461/Carol1N4/Cl4v3/186489
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",DHE
+http://cincotv.org:25461/Carol1N4/Cl4v3/186481
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",CINEMAX 1
 http://cincotv.org:25461/Carol1N4/Cl4v3/169185
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/vtwbz" group-title="CINE Y SERIES",CINE LATINO
@@ -245,7 +262,30 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/196959
 http://cincotv.org:25461/Carol1N4/Cl4v3/196960
 
 ===== CINEMAS =====
-
+CINE AMAZON PRIME 
+http://cincotv.org:25461/Carol1N4/Cl4v3/185031
+CINE DISNEY+ 
+http://cincotv.org:25461/Carol1N4/Cl4v3/185032
+CINE PARAMOUNT+
+http://cincotv.org:25461/Carol1N4/Cl4v3/185034
+CINE STAR+ 
+http://cincotv.org:25461/Carol1N4/Cl4v3/185035
+CINEMA (DISNEY LIVE)
+http://cincotv.org:25461/Carol1N4/Cl4v3/139693
+CINEMA (ACCION CLASSICS)
+http://cincotv.org:25461/Carol1N4/Cl4v3/139694
+CINEMA (NAVIDAD)
+http://cincotv.org:25461/Carol1N4/Cl4v3/139695
+CINEMA (LEGO)
+http://cincotv.org:25461/Carol1N4/Cl4v3/139696
+CINEMA (ARTES MARCIALES)
+http://cincotv.org:25461/Carol1N4/Cl4v3/139698
+CINEMA FAMILIA
+http://cincotv.org:25461/Carol1N4/Cl4v3/139699
+CINEMA COMEDIA
+http://cincotv.org:25461/Carol1N4/Cl4v3/139700
+CLASICOS DE DISNEY
+http://cincotv.org:25461/Carol1N4/Cl4v3/139702
 CINEMA PREMIUM
 http://cincotv.org:25461/Carol1N4/Cl4v3/173277
 CINEMA 1
@@ -260,6 +300,19 @@ CINEMA 5
 http://cincotv.org:25461/Carol1N4/Cl4v3/176204
 CINEMA 6
 http://cincotv.org:25461/Carol1N4/Cl4v3/176205
+CINE PPV LATINOS 1
+http://cincotv.org:25461/Carol1N4/Cl4v3/75171
+CINE PPV LATINOS 2
+http://cincotv.org:25461/Carol1N4/Cl4v3/75173
+CINE PPV LATINOS 3
+http://cincotv.org:25461/Carol1N4/Cl4v3/75174
+CINE PPV LATINOS 4
+http://cincotv.org:25461/Carol1N4/Cl4v3/75175
+CINE PPV LATINOS 5
+http://cincotv.org:25461/Carol1N4/Cl4v3/75177
+CINE PPV LATINOS 6
+http://cincotv.org:25461/Carol1N4/Cl4v3/75178
+
 
 
 
