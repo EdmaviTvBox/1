@@ -37,209 +37,209 @@ http://209.45.101.36:50000/play/WinSports/index.m3u8
 http://209.45.101.36:50000/play/TyCSportsHD/index.m3u8
 
 ==== CINE Y SERIES =====
-#EXTINF:-1,A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",A&E HD
 http://209.45.101.36:50000/play/AyEHD/index.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AMC HD
 http://209.45.101.36:50000/play/AMCHD/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AXN HD
 http://209.45.101.36:50000/play/AXNHD/index.m3u8
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Cinecanal HD
 http://209.45.101.36:50000/play/CinecanalHD/index.m3u8
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Cinemax HD
 http://209.45.101.36:50000/play/CinemaxHD/index.m3u8
-#EXTINF:-1,Clover HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Clover HD
 http://209.45.101.36:50000/play/CloverHD/index.m3u8
-#EXTINF:-1,De Pelicula
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",De Pelicula
 http://209.45.101.36:50000/play/DePelicula/index.m3u8
-#EXTINF:-1,DHE HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DHE HD
 http://209.45.101.36:50000/play/DHEHD/index.m3u8
-#EXTINF:-1,Europa Europa
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Europa Europa
 http://209.45.101.36:50000/play/EuropaEuropa/index.m3u8
-#EXTINF:-1,Golden HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Golden HD
 http://209.45.101.36:50000/play/GoldenHD/index.m3u8
-#EXTINF:-1,Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Lifetime
 http://209.45.101.36:50000/play/Lifetime/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Paramount HD
 http://209.45.101.36:50000/play/ParamountHD/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",STAR CHANNEL HD
 http://209.45.101.36:50000/play/STARCHANNELHD/index.m3u8
-#EXTINF:-1,Sony HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Sony HD
 http://209.45.101.36:50000/play/SonyHD/index.m3u8
-#EXTINF:-1,Space HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Space HD
 http://209.45.101.36:50000/play/SpaceHD/index.m3u8
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Studio Universal HD
 http://209.45.101.36:50000/play/StudioUniversalHD/index.m3u8
-#EXTINF:-1,Sun Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",Sun Channel HD
 http://209.45.101.36:50000/play/SunChannelHD/index.m3u8
-#EXTINF:-1,SyFy
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SyFy
 http://209.45.101.36:50000/play/SyFy/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TCM
 http://209.45.101.36:50000/play/TCM/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TLC
 http://209.45.101.36:50000/play/TLC/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TNT HD
 http://209.45.101.36:50000/play/TNTHD/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TNT Series HD
 http://209.45.101.36:50000/play/TNTSeriesHD/index.m3u8
-#EXTINF:-1,TRUTV HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TRUTV HD
 http://209.45.101.36:50000/play/TRUTVHD/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",UNIVERSAL CHANNEL HD
 http://209.45.101.36:50000/play/UNIVERSALCHANNELHD/index.m3u8
 
 
 ===== PREMIUM =====
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO HD
 http://209.45.101.36:50000/play/HBOHD/index.m3u8
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 2 HD
 http://209.45.101.36:50000/play/HBO2HD/index.m3u8
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO Family HD
 http://209.45.101.36:50000/play/HBOFamilyHD/index.m3u8
-#EXTINF:-1,HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO MUNDI
 http://209.45.101.36:50000/play/HBOMUNDI/index.m3u8
-#EXTINF:-1,HBO POP HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO POP HD
 http://209.45.101.36:50000/play/HBOPOPHD/index.m3u8
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO Plus
 http://209.45.101.36:50000/play/HBOPlus/index.m3u8
-#EXTINF:-1,HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO Signature
 http://209.45.101.36:50000/play/HBOSignature/index.m3u8
-#EXTINF:-1,HBO XTREME HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO XTREME HD
 http://209.45.101.36:50000/play/HBOXTREMEHD/index.m3u8
 
 
 ===== VARIEDADES =====
-#EXTINF:-1,ATV
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ATV
 http://209.45.101.36:50000/play/ATV/index.m3u8
-#EXTINF:-1,America TV HD
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",America TV HD
 http://209.45.101.36:50000/play/AmericaTVHD/index.m3u8
-#EXTINF:-1,Antena 3
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",Antena 3
 http://209.45.101.36:50000/play/Antena3/index.m3u8
-#EXTINF:-1,CHV HD
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",CHV HD
 http://209.45.101.36:50000/play/CHVHD/index.m3u8
-#EXTINF:-1,E! HD
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",E! HD
 http://209.45.101.36:50000/play/E!HD/index.m3u8
-#EXTINF:-1,HOLA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",HOLA TV HD
 http://209.45.101.36:50000/play/HOLATVHD/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",Telemundo
 http://209.45.101.36:50000/play/Telemundo/index.m3u8
-#EXTINF:-1,MEGA HD
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",MEGA HD
 http://209.45.101.36:50000/play/MEGAHD/index.m3u8
-#EXTINF:-1,TVN HD
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TVN HD
 http://209.45.101.36:50000/play/TVNHD/index.m3u8
-#EXTINF:-1,Telefe
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",Telefe
 http://209.45.101.36:50000/play/Telefe/index.m3u8
-#EXTINF:-1,Telesur
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",Telesur
 http://209.45.101.36:50000/play/Telesur/index.m3u8
 
 
 ===== HISTORIA Y CULTURA =====
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",Animal Planet HD
 http://209.45.101.36:50000/play/AnimalPlanetHD/index.m3u8
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",Discovery H&H HD
 http://209.45.101.36:50000/play/DiscoveryHyHHD/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",Discovery Theater HD
 http://209.45.101.36:50000/play/DiscoveryTheaterHD/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",Discovery Turbo
 http://209.45.101.36:50000/play/DiscoveryTurbo/index.m3u8
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",Discovery World HD
 http://209.45.101.36:50000/play/DiscoveryWorldHD/index.m3u8
-#EXTINF:-1,HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",HGTV
 http://209.45.101.36:50000/play/HGTV/index.m3u8
-#EXTINF:-1,History 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",History 2 HD
 http://209.45.101.36:50000/play/History2HD/index.m3u8
-#EXTINF:-1,History Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",History Channel HD
 http://209.45.101.36:50000/play/HistoryChannelHD/index.m3u8
-#EXTINF:-1,ID HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",ID HD
 http://209.45.101.36:50000/play/IDHD/index.m3u8
-#EXTINF:-1,Love Nature HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",Love Nature HD
 http://209.45.101.36:50000/play/LoveNatureHD/index.m3u8
-#EXTINF:-1,Nat Geo HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",Nat Geo HD
 http://209.45.101.36:50000/play/NatGeoHD/index.m3u8
 
 
 ===== KIDS =====
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Discovery Kids HD
 http://209.45.101.36:50000/play/DiscoveryKidsHD/index.m3u8
-#EXTINF:-1,Baby TV
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Baby TV
 http://209.45.101.36:50000/play/BabyTV/index.m3u8
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Cartoon Network HD
 http://209.45.101.36:50000/play/CartoonNetworkHD/index.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Cartoonito
 http://209.45.101.36:50000/play/Cartoonito/index.m3u8
-#EXTINF:-1,Disney Jr
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Disney Jr
 http://209.45.101.36:50000/play/a1a3/index.m3u8
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Disney Junior
 http://209.45.101.36:50000/play/a1a6/index.m3u8
-#EXTINF:-1,Nick HD
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Nick HD
 http://209.45.101.36:50000/play/NickHD/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Nick Jr
 http://209.45.101.36:50000/play/NickJr/index.m3u8
-#EXTINF:-1,Tooncast
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Tooncast
 http://209.45.101.36:50000/play/Tooncast/index.m3u8
 
 ===== NOTICIAS =====
-#EXTINF:-1,CNN Chile HD
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://n9.cl/huvmh" group-title="NOTICIAS",CNN Chile HD
 http://209.45.101.36:50000/play/CNNChileHD/index.m3u8
-#EXTINF:-1,CNN International
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://n9.cl/huvmh" group-title="NOTICIAS",CNN International
 http://209.45.101.36:50000/play/CNNInternational/index.m3u8
-#EXTINF:-1,CableNoticias
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://n9.cl/huvmh" group-title="NOTICIAS",CableNoticias
 http://209.45.101.36:50000/play/CableNoticias/index.m3u8
-#EXTINF:-1,NTN 24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://n9.cl/huvmh" group-title="NOTICIAS",NTN 24 Horas
 http://209.45.101.36:50000/play/NTN24Horas/index.m3u8
 
 ===== NOVELAS =====
-#EXTINF:-1,Kanal D Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://n9.cl/skd17" group-title="NOVELAS",Kanal D Drama HD
 http://209.45.101.36:50000/play/KanalDDramaHD/index.m3u8
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://n9.cl/skd17" group-title="NOVELAS",Pasiones HD
 http://209.45.101.36:50000/play/PasionesHD/index.m3u8
-#EXTINF:-1,TNT Novelas
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://n9.cl/skd17" group-title="NOVELAS",TNT Novelas
 http://209.45.101.36:50000/play/a18v/index.m3u8
-#EXTINF:-1,Telenovelas
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://n9.cl/skd17" group-title="NOVELAS",Telenovelas
 http://209.45.101.36:50000/play/Telenovelas/index.m3u8
 
 
 ===== TV COLOMBIA =====
-#EXTINF:-1,Caracol
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Caracol
 http://209.45.101.36:50000/play/Caracol/index.m3u8
-#EXTINF:-1,Canal 1
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Canal 1
 http://209.45.101.36:50000/play/Canal1/index.m3u8
-#EXTINF:-1,Canal Institucional
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Canal Institucional
 http://209.45.101.36:50000/play/CanalInstitucional/index.m3u8
-#EXTINF:-1,Canal Capital
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Canal Capital
 http://209.45.101.36:50000/play/CanalCapital/index.m3u8
-#EXTINF:-1,Canal TRO
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Canal TRO
 http://209.45.101.36:50000/play/CanalTRO/index.m3u8
-#EXTINF:-1,CableNoticias
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CableNoticias
 http://209.45.101.36:50000/play/CableNoticias/index.m3u8
-#EXTINF:-1,City TV
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",City TV
 http://209.45.101.36:50000/play/CityTV/index.m3u8
-#EXTINF:-1,Epoca
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Epoca
 http://209.45.101.36:50000/play/Epoca/index.m3u8
-#EXTINF:-1,NTN 24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",NTN 24 Horas
 http://209.45.101.36:50000/play/NTN24Horas/index.m3u8
-#EXTINF:-1,Nuestra Tele
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Nuestra Tele
 http://209.45.101.36:50000/play/NuestraTele/index.m3u8
-#EXTINF:-1,RCN
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",RCN
 http://209.45.101.36:50000/play/RCN/index.m3u8
-#EXTINF:-1,Senal Colombia HD
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Senal Colombia HD
 http://209.45.101.36:50000/play/SenalColombiaHD/index.m3u8
-#EXTINF:-1,Teleantioquia
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Teleantioquia
 http://209.45.101.36:50000/play/Teleantioquia/index.m3u8
-#EXTINF:-1,Telecafe
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Telecafe
 http://209.45.101.36:50000/play/Telecafe/index.m3u8
-#EXTINF:-1,Telecaribe
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Telecaribe
 http://209.45.101.36:50000/play/Telecaribe/index.m3u8
-#EXTINF:-1,Teleislas
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Teleislas
 http://209.45.101.36:50000/play/Teleislas/index.m3u8
-#EXTINF:-1,Telepacifico
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Telepacifico
 http://209.45.101.36:50000/play/Telepacifico/index.m3u8
-#EXTINF:-1,Win Sports
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Win Sports
 http://209.45.101.36:50000/play/WinSports/index.m3u8
 
 
-===== +18 =====
-#EXTINF:-1,Playboy HD
+===== XXX =====
+#EXTINF:-1 tvg-id="" tvg-name="XXX" tvg-logo="https://n9.cl/mb381" group-title="XXX",Playboy HD
 http://209.45.101.36:50000/play/PlayboyHD/index.m3u8
-#EXTINF:-1,Sextreme
+#EXTINF:-1 tvg-id="" tvg-name="XXX" tvg-logo="https://n9.cl/mb381" group-title="XXX",Sextreme
 http://209.45.101.36:50000/play/Sextreme/index.m3u8
-#EXTINF:-1,Venus
+#EXTINF:-1 tvg-id="" tvg-name="XXX" tvg-logo="https://n9.cl/mb381" group-title="XXX",Venus
 http://209.45.101.36:50000/play/Venus/index.m3u8
