@@ -1,39 +1,39 @@
 #EXTM3U
 
 ===== DEPORTES =====
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN HD
 http://209.45.101.36:50000/play/ESPNHD/index.m3u8 
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 2 HD
 http://209.45.101.36:50000/play/ESPN2HD/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 3 HD
 http://209.45.101.36:50000/play/ESPN3HD/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 4 HD
 http://209.45.101.36:50000/play/ESPN4HD/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN EXTRA HD
 http://209.45.101.36:50000/play/ESPNEXTRAHD/index.m3u8
-#EXTINF:-1,Fox News
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Fox News
 http://209.45.101.36:50000/play/a191/index.m3u8
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Fox Sports 1
 http://209.45.101.36:50000/play/FoxSports1/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX Sports 2 HD
 http://209.45.101.36:50000/play/FOXSports2HD/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Fox Sports 3 HD
 http://209.45.101.36:50000/play/FoxSports3HD/index.m3u8
-#EXTINF:-1,GOLPERU HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GOLPERU HD
 http://209.45.101.36:50000/play/GOLPERUHD/index.m3u8
-#EXTINF:-1,GolTV HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GolTV HD
 http://209.45.101.36:50000/play/GolTVHD/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Movistar Deportes HD
 http://209.45.101.36:50000/play/MovistarDeportesHD/index.m3u8
-#EXTINF:-1,Movistar Plus
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Movistar Plus
 http://209.45.101.36:50000/play/MovistarPlus/index.m3u8
-#EXTINF:-1,TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS 3
 http://209.45.101.36:50000/play/TNTSPORTS3/index.m3u8
-#EXTINF:-1,TNT SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS HD
 http://209.45.101.36:50000/play/TNTSPORTSHD/index.m3u8
-#EXTINF:-1,Win Sports
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Win Sports
 http://209.45.101.36:50000/play/WinSports/index.m3u8
-#EXTINF:-1,TyC Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TyC Sports HD
 http://209.45.101.36:50000/play/TyCSportsHD/index.m3u8
 
 ==== CINE Y SERIES =====
