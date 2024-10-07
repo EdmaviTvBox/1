@@ -1,6 +1,6 @@
 #EXTM3U
 
-===== TV COLOMBIA =====
+═══════════ |★| TV COLOMBIA |★| ═══════════
 
 #EXTINF:-1,Cali Tv
 http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/19632
@@ -71,3 +71,19 @@ http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76958
 #EXTINF:-1,Cantina TV
 http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/74754
 
+═══════════ |★| CINE Y SERIES |★| ═══════════
+
+#EXTINF:-1,A&E HD
+http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2432
+#EXTINF:-1,AMC HD
+http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2619
+#EXTINF:-1,AMC HD OPC 2
+http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29513
+#EXTINF:-1,AXN HD
+http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2620
+#EXTINF:-1,Az Cinema
+http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14135
+#EXTINF:-1,Cinecanal HD
+http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2622
+#EXTINF:-1,Cinemax HD
+http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7059
