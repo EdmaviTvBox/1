@@ -190,17 +190,20 @@ http://791079848958321372.ofbo1005.xyz:80/live/manolomusic/03062024/321372.ts
 
 
 ===== KIDS =====
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Discovery Kids HD
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",ZOOMOO 
+http://160.20.165.246:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISCOVERY KIDS
 http://209.45.101.36:50000/play/DiscoveryKidsHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Baby TV
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",BABY TV
 http://209.45.101.36:50000/play/BabyTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",CARTOON NETWORK
 http://209.45.101.36:50000/play/CartoonNetworkHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",CARTOONITO
 http://209.45.101.36:50000/play/Cartoonito/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Disney Jr
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISNEY JR
 http://209.45.101.36:50000/play/a1a3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISNEY JUNIOR
 http://209.45.101.36:50000/play/a1a6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Nick HD
 http://209.45.101.36:50000/play/NickHD/index.m3u8
