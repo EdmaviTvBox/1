@@ -81,10 +81,8 @@ http://209.45.101.36:50000/play/SpaceHD/index.m3u8
 http://209.45.101.36:50000/play/StudioUniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SUN CHANNEL
 http://209.45.101.36:50000/play/SunChannelHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SYFY
-http://209.45.101.36:50000/play/SyFy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TCM
-http://209.45.101.36:50000/play/TCM/index.m3u8
+http://209.45.101.35:50000/play/TCM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TLC
 http://209.45.101.36:50000/play/TLC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TNT 
@@ -95,35 +93,43 @@ http://209.45.101.36:50000/play/TNTSeriesHD/index.m3u8
 http://209.45.101.36:50000/play/TRUTVHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",UNIVERSAL CHANNEL
 http://209.45.101.36:50000/play/UNIVERSALCHANNELHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",USA
+http://209.45.101.36:50000/play/SyFy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",WARNER CHANNEL
 http://209.45.101.35:50000/play/WarnerChannelHD/index.m3u8
 
 
 
 ===== PREMIUM =====
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 
 http://209.45.101.36:50000/play/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 2 
 http://209.45.101.36:50000/play/HBO2HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO FAMILY
 http://209.45.101.36:50000/play/HBOFamilyHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO MUNDI
 http://209.45.101.36:50000/play/HBOMUNDI/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO POP HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO POP 
 http://209.45.101.36:50000/play/HBOPOPHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO PLUS
 http://209.45.101.36:50000/play/HBOPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO SIGNATURE
 http://209.45.101.36:50000/play/HBOSignature/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO XTREME HD
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO XTREME 
 http://209.45.101.36:50000/play/HBOXTREMEHD/index.m3u8
 
 
 ===== VARIEDADES =====
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ATV
-http://209.45.101.36:50000/play/ATV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",AMERICA TV
 http://209.45.101.36:50000/play/AmericaTVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ANTENA 3 INT
+http://160.20.165.246:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ANTENA 3
+http://209.45.101.36:50000/play/Antena3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ATV
+http://209.45.101.36:50000/play/ATV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",CARACOL INT
+http://160.20.165.246:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",CHV 
 http://209.45.101.36:50000/play/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",E! 
@@ -132,28 +138,26 @@ http://209.45.101.36:50000/play/E!HD/index.m3u8
 http://160.20.165.246:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",HOLA TV 
 http://209.45.101.36:50000/play/HOLATVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TELEMUNDO
-http://209.45.101.36:50000/play/Telemundo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TELEMUNDO INT
-http://160.20.165.246:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",MEGA 
 http://209.45.101.36:50000/play/MEGAHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",OROMAR TV
 http://160.20.165.246:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TVN 
-http://209.45.101.36:50000/play/TVNHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TELEFE
-http://209.45.101.36:50000/play/Telefe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TELESUR
-http://209.45.101.36:50000/play/Telesur/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",CARACOL INT
-http://160.20.165.246:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ANTENA 3 INT
-http://160.20.165.246:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ANTENA 3
-http://209.45.101.36:50000/play/Antena3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",PASAJE TV
 http://160.20.165.246:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",STAR TVE 
+http://209.45.101.35:50000/play/STARTVEHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TELEFE
+http://209.45.101.36:50000/play/Telefe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TELEMUNDO
+http://209.45.101.36:50000/play/Telemundo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TELEMUNDO INT
+http://160.20.165.246:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TELESUR
+http://209.45.101.36:50000/play/Telesur/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TV+
+http://209.45.101.35:50000/play/TVPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",TVN 
+http://209.45.101.36:50000/play/TVNHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",VIA X
 http://209.45.101.35:50000/play/ViaX/index.m3u8
 
@@ -202,6 +206,8 @@ http://209.45.101.36:50000/play/DiscoveryTheaterHD/index.m3u8
 http://209.45.101.36:50000/play/DiscoveryTurbo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY WORLD
 http://209.45.101.36:50000/play/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY TLC
+http://209.45.101.35:50000/play/TLC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",ID 
 http://209.45.101.36:50000/play/IDHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",HGTV
@@ -308,9 +314,9 @@ http://209.45.101.36:50000/play/NTN24Horas/index.m3u8
 http://209.45.101.36:50000/play/NuestraTele/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",RCN
 http://209.45.101.36:50000/play/RCN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Senal Colombia HD
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",SENAL COLOMBIA
 http://209.45.101.36:50000/play/SenalColombiaHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Teleantioquia
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEANTIOQUIA
 http://209.45.101.36:50000/play/Teleantioquia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Telecafe
 http://209.45.101.36:50000/play/Telecafe/index.m3u8
