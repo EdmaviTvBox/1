@@ -1,47 +1,45 @@
 #EXTM3U
 
 ===== DEPORTES =====
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",WIN SPORTS
+http://209.45.101.35:50000/play/WinSports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 
 http://209.45.101.36:50000/play/ESPNHD/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 2 
 http://209.45.101.36:50000/play/ESPN2HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 3 
 http://209.45.101.36:50000/play/ESPN3HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 4 
 http://209.45.101.36:50000/play/ESPN4HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN EXTRA HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN EXTRA 
 http://209.45.101.36:50000/play/ESPNEXTRAHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Fox News
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX NEWS
 http://209.45.101.36:50000/play/a191/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Fox Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS 1
 http://209.45.101.36:50000/play/FoxSports1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS 2
 http://209.45.101.36:50000/play/FOXSports2HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Fox Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS 3
 http://209.45.101.36:50000/play/FoxSports3HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GOLPERU HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GOLPERU 
 http://209.45.101.36:50000/play/GOLPERUHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GolTV HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GOLTV 
 http://209.45.101.36:50000/play/GolTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Movistar Deportes HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",MOVISTAR DEPORTES
 http://209.45.101.36:50000/play/MovistarDeportesHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Movistar Plus
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",MOVISTAR PLUS
 http://209.45.101.36:50000/play/MovistarPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS 3
 http://209.45.101.36:50000/play/TNTSPORTS3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS 
 http://209.45.101.36:50000/play/TNTSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Win Sports
-http://209.45.101.36:50000/play/WinSports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TyC Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TyC SPORTS
 http://209.45.101.36:50000/play/TyCSportsHD/index.m3u8
 
 ==== CINE Y SERIES =====
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",FMHFAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",A&E
-http://160.20.165.246:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",A&E OPC 2
 http://209.45.101.36:50000/play/AyEHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AMC 
 http://209.45.101.36:50000/play/AMCHD/index.m3u8
@@ -67,6 +65,10 @@ http://209.45.101.36:50000/play/EuropaEuropa/index.m3u8
 http://209.45.101.36:50000/play/GoldenHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",LIFETIME
 http://209.45.101.36:50000/play/Lifetime/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTICINEMA
+http://160.20.165.246:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTIPREMIER
+http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",PARAMOUNT
 http://209.45.101.36:50000/play/ParamountHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",STAR CHANNEL 
@@ -93,9 +95,8 @@ http://209.45.101.36:50000/play/TNTSeriesHD/index.m3u8
 http://209.45.101.36:50000/play/TRUTVHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",UNIVERSAL CHANNEL
 http://209.45.101.36:50000/play/UNIVERSALCHANNELHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTICINEMA
-http://160.20.165.246:8000/play/a005/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",WARNER CHANNEL
+http://209.45.101.35:50000/play/WarnerChannelHD/index.m3u8
 
 
 
@@ -123,8 +124,6 @@ http://209.45.101.36:50000/play/HBOXTREMEHD/index.m3u8
 http://209.45.101.36:50000/play/ATV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",AMERICA TV
 http://209.45.101.36:50000/play/AmericaTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ANTENA 3
-http://209.45.101.36:50000/play/Antena3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",CHV 
 http://209.45.101.36:50000/play/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",E! 
@@ -151,8 +150,12 @@ http://209.45.101.36:50000/play/Telesur/index.m3u8
 http://160.20.165.246:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ANTENA 3 INT
 http://160.20.165.246:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",ANTENA 3
+http://209.45.101.36:50000/play/Antena3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",PASAJE TV
 http://160.20.165.246:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",VIA X
+http://209.45.101.35:50000/play/ViaX/index.m3u8
 
 
 ===== HISTORIA Y CULTURA =====
