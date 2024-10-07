@@ -286,25 +286,25 @@ http://209.45.101.36:50000/play/Telenovelas/index.m3u8
 
 
 ===== TV COLOMBIA =====
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Caracol
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CARACOL
 http://209.45.101.36:50000/play/Caracol/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Canal 1
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL 1
 http://209.45.101.36:50000/play/Canal1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Canal Institucional
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL INSTITUCIONAL
 http://209.45.101.36:50000/play/CanalInstitucional/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Canal Capital
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL CAPITAL
 http://209.45.101.36:50000/play/CanalCapital/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Canal TRO
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL TRO
 http://209.45.101.36:50000/play/CanalTRO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CableNoticias
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CABLENOTICIAS
 http://209.45.101.36:50000/play/CableNoticias/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",City TV
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CITY TV
 http://209.45.101.36:50000/play/CityTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Epoca
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",EPOCA
 http://209.45.101.36:50000/play/Epoca/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",NTN 24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",NTN 24 
 http://209.45.101.36:50000/play/NTN24Horas/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Nuestra Tele
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",NUESTRA TELE
 http://209.45.101.36:50000/play/NuestraTele/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",RCN
 http://209.45.101.36:50000/play/RCN/index.m3u8
