@@ -30,7 +30,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14873
 #EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #14
 http://nino4play.com:25461/YOUSELF3/CHILE3/14881
 
-═══════════ TV SPORTS ESPN⚽ ═══════════
+═══════════ ESPN⚽ ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN EXCLUSIVO       
 http://nino4play.com:25461/YOUSELF3/CHILE3/10974
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN COLOMBIA
@@ -100,7 +100,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14311
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",MOVIL ESPN PERU
 http://nino4play.com:25461/YOUSELF3/CHILE3/14315
 
-═══════════ TV SPORTS⚽ ═══════════
+═══════════ SPORTS⚽ ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX DEPORTES
 http://nino4play.com:25461/YOUSELF3/CHILE3/164
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX DEPORTES SD 
@@ -208,13 +208,13 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/4635
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS MEXICO OPC 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/159
 
-═══════════ TV COLOMBIA ═══════════
+═══════════ COLOMBIA ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="TV COLOMBIA★",CANAL CARACOL 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14192
 #EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="TV COLOMBIA★",LA KALLE HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/13881
 
-═══════════ TV INTERNACIONAL ═══════════
+═══════════ INTERNACIONAL ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",UNIVISION NOTICIAS 
 http://nino4play.com:25461/YOUSELF3/CHILE3/10825
 #EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",TELEMUNDO P. RICO
