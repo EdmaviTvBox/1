@@ -247,6 +247,8 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14755
 http://nino4play.com:25461/YOUSELF3/CHILE3/14588
 #EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",WILLAX
 http://nino4play.com:25461/YOUSELF3/CHILE3/14395
+CHIL 24 HORAS FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/13662
 
 ═══════════ TV USA LATINO ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="USA LATINO",UNIVISION NOTICIAS 
@@ -428,7 +430,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/1679
 WARNER FHD D.AUDIO
 http://nino4play.com:25461/YOUSELF3/CHILE3/14046
 
-═══════════ VIARIEDADES PREMIUM ═══════════
+═══════════ VARIEDADES PREMIUM ═══════════
 
 E! ENTERTAIMENT FHD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14349
@@ -439,125 +441,29 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/1576
 TV AZTECA 7 FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14347
 
-
-#EXTINF:-1 tvg-id="" tvg-name="VEVO LATINO HD" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9Y-IM4DZoAdTN_SBht2lmyPPQouJ0Wcr2WlNQo=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO MUSICA",VEVO LATINO HD
+═══════════ MUSIC ═══════════
+VEVO LATINO HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/852
-#EXTINF:-1 tvg-id="" tvg-name="✰ KANAL D FHD ( DRAMA )  ✰✰✰      " tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74" group-title="LATINO NOVELAS +",✰ KANAL D FHD ( DRAMA )  ✰✰✰      
+
+═══════════ NOVELAS ═══════════
+KANAL D FHD      
 http://nino4play.com:25461/YOUSELF3/CHILE3/13734
-#EXTINF:-1 tvg-id="" tvg-name="USA  ABC NEWS HD" tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o" group-title="MUNDOS",USA  ABC NEWS HD
+
+═══════════ MUNDO ═══════════
+USA  ABC NEWS HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/2819
-#EXTINF:-1 tvg-id="" tvg-name="USA  ATP WTA HD ( TENIS )" tvg-logo="https://qph.fs.quoracdn.net/main-qimg-3bbd4b8113250d9977aaba55c9304647-pjlq" group-title="MUNDO SPORTS",USA  ATP WTA HD ( TENIS )
+
+═══════════ MUNDO SPORTS ═══════════
+USA  ATP WTA HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/11983
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV " tvg-logo="https://yt3.googleusercontent.com/b5-GuGM5amAAszLlpemvfjsMv8SthDDwDOPxZGZMg0AE447xugLssYT50v_jcw9Vski10qqI=s900-c-k-c0x00ffffff-no-rj" group-title="BABY TV",BABY TV 
 http://nino4play.com:25461/YOUSELF3/CHILE3/94
 #EXTINF:-1 tvg-id="" tvg-name="CANAL INFANTIL FHD" tvg-logo="http://nino4play.com:25461/images/81d8c0d029ec6dd2a0d01da00daae94e.png" group-title="BABY TV",CANAL INFANTIL FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14028
-#EXTINF:-1 tvg-id="" tvg-name="24 HORAS FHD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE",24 HORAS FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/13662
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV AZTECA 7 FHD" tvg-logo="https://play-lh.googleusercontent.com/hmWXYD8fm76z2BejoCvdfT1GNCSih5FnyE2WVlg-tnR7N4rsLb8-nFiFfhlQ74nrAw" group-title="MEXICO",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR ECUAVISA HD  " tvg-logo="https://yt3.googleusercontent.com/iv1XIrBSiFFrT5zJGGlk4W7NPUbsPzaZ1PhN5uxpVdBGVvSbeMB0-5VehZsolA3NRPSYfaDsLZA=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",ECUADOR ECUAVISA HD  
-http://nino4play.com:25461/YOUSELF3/CHILE3/11593
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR ECUAVISA SD" tvg-logo="https://yt3.googleusercontent.com/rMCYmwKmYHLmXiljjkZfUCHrGtg-jhgS17__IEo9244edjjxKl_RRb2G6RlG8RbfEO1qRMG3NO8=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",ECUADOR ECUAVISA SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/15090
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR RTS SD   " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Rts_2005.png/revision/latest/scale-to-width-down/200?cb=20170426172209" group-title="LATINO +",ECUADOR RTS SD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/10971
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TC HD" tvg-logo="http://nino4play.com:25461/images/6f77070977257a4f7e312826613e85e8.png" group-title="LATINO +",
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TC SD   ec" tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png?mtime=20190825175049&focal=none" group-title="LATINO +",ECUADOR TC SD   ec
-http://nino4play.com:25461/YOUSELF3/CHILE3/8396
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TELEAMAZONAS FHD   " tvg-logo="http://nino4play.com:25461/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="LATINO +",ECUADOR TELEAMAZONAS FHD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/3344
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TELEAMAZONAS HD" tvg-logo="https://yt3.googleusercontent.com/h1jndjZrRYD3NaOJ705jsWaxC6cp1fZQPm81Ti8x_fxVgrxcMBn6PQ72tM3KEPVU4ywdzS5BRco=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",ECUADOR TELEAMAZONAS HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/15012
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV HD   " tvg-logo="http://nino4play.com:25461/images/529f9addc1936733abf148c2ca6f825a.jpg" group-title="LATINO +",ECUADOR TV HD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/10972
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA VENEVISION FHD" tvg-logo="https://yt3.googleusercontent.com/r2tcL_eF5mnwmwStu48zqIh-0Q-qxPD5VuRUvTpmYthi27DP54NrZR_6LRvZYHpZ1P4ZvuM3Uw=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",VENEZUELA VENEVISION FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14976
-
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA EVTV HD" tvg-logo="https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/363379344_307778848301478_6841927179843118296_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=w_LSetf-f4cAX-kiU53&_nc_ht=scontent.fyhu2-1.fna&oh=00_AfARRV6sev_6l_oO0qUzXqInSYhO9foYpvXflDaw3lGaHg&oe=65123360" group-title="LATINO +",VENEZUELA EVTV HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14582
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA GLOBOVISION HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Globovisi%C3%B3n_1994.png/revision/latest?cb=20191201143058&path-prefix=es" group-title="LATINO +",VENEZUELA GLOBOVISION HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14583
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA VENE TV HD" tvg-logo="https://play-lh.googleusercontent.com/yUD3-hbcZ3Gv_GMH-Sm8ZCZ-6CMknluz6CE6VHpqD6w_b1X0BZ9bjEBYfWS0vKFSttAz" group-title="LATINO +",VENEZUELA VENE TV HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14785
-#EXTINF:-1 tvg-id="" tvg-name="VENEZOLANA TELEVISION SD" tvg-logo="https://yt3.googleusercontent.com/Ys-LOp_XMVf2UG9Zfrn49eS3ONoBWVTREHbU2tDx70JfbrXMefWtatHRP_qd7i-5q68iY6rRMg=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",VENEZOLANA TELEVISION SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14690
-
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA VE PLUS SD" tvg-logo="https://yt3.googleusercontent.com/6IlJhfm7ZBK2cgbZWbweq2v5cyqIPiGG3fd-Zeapbii9tEel_XmY_JZCsYH3NYTJhprBzfMGPA=s176-c-k-c0x00ffffff-no-rj" group-title="LATINO +",VENEZUELA VE PLUS SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14580
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA  A + GUATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/A%2B_Guate_logo2023.webp/200px-A%2B_Guate_logo2023.webp.png" group-title="LATINO +",GUATEMALA  A + GUATE
-http://nino4play.com:25461/YOUSELF3/CHILE3/14924
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA CANAL 3 SD" tvg-logo="https://yt3.ggpht.com/a/AGF-l79ih6hqGF_QhzPib6KBUSGzerbLtODi_s2n=s900-c-k-c0xffffffff-no-rj-mo" group-title="LATINO +",GUATEMALA CANAL 3 SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/2462
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA GUATEVISION HD  " tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon-1.png?quality=82" group-title="LATINO +",GUATEMALA GUATEVISION HD  
-http://nino4play.com:25461/YOUSELF3/CHILE3/373
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA TELEVISIETE SD" tvg-logo="http://158.69.52.98:25461/images/ee81c5da030f9ff5c0f44b3f8b3a490b.png" group-title="LATINO +",GUATEMALA TELEVISIETE SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/374
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA TN 23 HD" tvg-logo="http://158.69.52.98:25461/images/cdbbbb20dcdf449eb3de6d1dd90d81ad.jpg" group-title="LATINO +",GUATEMALA TN 23 HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/375
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA  TV AZTECA HD" tvg-logo="http://nino4play.com:25461/images/cb5449756ecad9e1a60d042b9ac31fdd.jpg" group-title="LATINO +",GUATEMALA  TV AZTECA HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/13661
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR CANAL 2  " tvg-logo="http://158.69.52.98:25461/images/f900dc416b125c163dcb71e4185dd277.png" group-title="LATINO +",EL SALVADOR CANAL 2  
-http://nino4play.com:25461/YOUSELF3/CHILE3/3355
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR CANAL 4 HD   " tvg-logo="http://158.69.52.98:25461/images/cffb436be38d78c6b6a2fc6c9cef7545.png" group-title="LATINO +",EL SALVADOR CANAL 4 HD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/11972
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR CANAL C 10 HD" tvg-logo="http://nino4play.com:25461/images/ac08e6ef18f4ae1c6d1de9671588455a.jpg" group-title="LATINO +",EL SALVADOR CANAL C 10 HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/3356
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR CANAL 12" tvg-logo="https://yt3.ggpht.com/a/AATXAJz3gIdVp4zZeT7wAgmIUgzLo2-NuV8MAZAZ4p3okQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LATINO +",EL SALVADOR CANAL 12
-http://nino4play.com:25461/YOUSELF3/CHILE3/3306
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR  CANAL 19 " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest/scale-to-width-down/340?cb=20170623195922" group-title="LATINO +",EL SALVADOR  CANAL 19 
-http://nino4play.com:25461/YOUSELF3/CHILE3/3307
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR CANAL 21 " tvg-logo="data:image/jpeg;base64,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" group-title="LATINO +",EL SALVADOR CANAL 21 
-http://nino4play.com:25461/YOUSELF3/CHILE3/3308
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR TUTV CANAL 11HD " tvg-logo="http://nino4play.com:25461/images/d1f927cc324fc4b4a33ad55848ce4182.jpg" group-title="LATINO +",EL SALVADOR TUTV CANAL 11HD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/3309
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR CANAL 35 TCS + HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0xWfpmu4UHGGVvj1powAH_U-IXnydembTGg&usqp=CAU" group-title="LATINO +",EL SALVADOR CANAL 35 TCS + HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/3357
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS CANAL 5 HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaROUfb8xM4_9rF4KLO2JzUdIUfh3h7vNmDVMvdY4A=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",HONDURAS CANAL 5 HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14563
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS CANAL 11 HD " tvg-logo="http://158.69.52.98:25461/images/cf8863bcc3d5c1584ed61d30451ae1f5.jpg" group-title="LATINO +",HONDURAS CANAL 11 HD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/890
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HCH HD  " tvg-logo="https://cdn-profiles.tunein.com/s229704/images/logod.png?t=637547023560000000" group-title="LATINO +",HONDURAS HCH HD  
-http://nino4play.com:25461/YOUSELF3/CHILE3/1941
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS LTV HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRQvqMkYJhd7KR6uKUsq6h5wlKlGlZQpwq3hfsEhw=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",HONDURAS LTV HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14567
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS TSI HD" tvg-logo="http://nino4play.com:25461/images/130922bc1dd971164b7f0e0a77e8241d.png" group-title="LATINO +",HONDURAS TSI HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14562
-
-#EXTINF:-1 tvg-id="" tvg-name="R. DOMINICANA  CANAL 4 HD" tvg-logo="https://forounivers.com/gallery/image/1373-nuevo-logo-de-canal-4-monercarlo-tv-uruguay/?do=download" group-title="LATINO +",R. DOMINICANA  CANAL 4 HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/3738
-#EXTINF:-1 tvg-id="" tvg-name="R. DOMINICANA COLOR VISION FHD " tvg-logo="http://nino4play.com:25461/images/4450470f10b381484751f9f270fcb3ee.jpg" group-title="LATINO +",R. DOMINICANA COLOR VISION FHD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/1909
-#EXTINF:-1 tvg-id="" tvg-name="R. DOMINICANA TELECENTRO  " tvg-logo="http://158.69.52.98:25461/images/5d08938177130085067ff72fb36b8781.jpg" group-title="LATINO +",R. DOMINICANA TELECENTRO  
-http://nino4play.com:25461/YOUSELF3/CHILE3/3194
-#EXTINF:-1 tvg-id="" tvg-name="R. DOMINICANA  TELEUNIVERSO SD" tvg-logo="http://158.69.52.98:25461/images/b3178e184c240a3c6848d2544a90280a.jpg" group-title="LATINO +",R. DOMINICANA  TELEUNIVERSO SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/7150
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="✰ HBO POP FHD ✰✰✰" tvg-logo="http://nino4play.com:25461/images/a7bfd79f3bfb3168d2d63c619e0df41f.png" group-title="LATINO PREMIUM",✰ HBO POP FHD ✰✰✰
