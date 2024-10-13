@@ -216,72 +216,67 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/159
 ═══════════ COLOMBIA ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CANAL CARACOL 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14192
-CARACOL HD 
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CARACOL HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/3437
-CARACOL SD 
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CARACOL SD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/1502
-CARACOL HD 2
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CARACOL HD 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/49
-CARACOL NOTICIAS HD 
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CARACOL NOTICIAS HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/1579
 #EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",LA KALLE HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/13881
-CANAL UNO FHD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CANAL UNO FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/1570
-CANAL UNO HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CANAL UNO HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/10829
-CITY TV HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CITY TV HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/2675
-CITY TV SD 
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CITY TV SD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14361
-RCN FHD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",RCN FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14803
-RCN HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",RCN HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/52
-RCN SD  
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",RCN SD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/51
-RCN XTRA FHD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",RCN XTRA FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/13995
-RCN MAS HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",RCN MAS HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/10968
-RCN NUESTRA TELE HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",RCN NUESTRA TELE HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/10954
-ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",ESPN HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/62
-WIN SPORTS FHD 
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",WIN SPORTS FHD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/64
-WINSPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",WIN SPORTS HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14058
-WIN SPORTS PLUS FHD        
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",WIN SPORTS PLUS FHD        
 http://nino4play.com:25461/YOUSELF3/CHILE3/2263
-WIN SPORTS PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",WIN SPORTS PLUS HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/7321
-
-
-
-
-
-CANAL CAPITAL HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CANAL CAPITAL HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/10847
-CABLE NOTICIAS HD  
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CABLE NOTICIAS HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/54
-NTN 24 HD  
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",NTN 24 HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/55
-CANAL 13 HD.
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CANAL 13 HD.
 http://nino4play.com:25461/YOUSELF3/CHILE3/13878
-CALI TV
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CALI TV
 http://nino4play.com:25461/YOUSELF3/CHILE3/1582
-SEÑAL COLOMBIA HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",SEÑAL COLOMBIA HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/6098
-TELEANTOQUIA HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",TELEANTOQUIA HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/57
-TELECAFE HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",TELECAFE HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/1581
-TELECARIBE HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",TELECARIBE HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/10848
-TELEMEDELLIN HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",TELEMEDELLIN HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/59
-TELEPACIFICO HD
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",TELEPACIFICO HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/60
 
 ═══════════ INTERNACIONAL ═══════════
