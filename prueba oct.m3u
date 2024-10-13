@@ -1,4 +1,13 @@
 #EXTM3U
+
+═══════════ ★TV SPORTS★ ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="⚽TV SPORTS⚽",GOL PERU -PERU-
+http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126859
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="⚽TV SPORTS⚽",GOL PERU 1 -PERU-
+http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126860
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="⚽TV SPORTS⚽",MOVISTAR PLUS -PERU-
+http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126874
+
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO" tvg-logo="http://nino4play.com:25461/images/cf99ed107c18ef446227507c8e3e89a6.jpg" group-title="( EVENTOS )",EVENTO
 http://nino4play.com:25461/YOUSELF3/CHILE3/14186
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION NOTICIAS 24/7 FHD" tvg-logo="http://nino4play.com:25461/images/dbb053c4d88c108116f9fc44c5e4a45f.png" group-title="LATINO USA",UNIVISION NOTICIAS 24/7 FHD
