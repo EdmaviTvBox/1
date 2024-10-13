@@ -1,4 +1,9 @@
 #EXTM3U
+═══════════ KIDS ═══════════
+BABY TV 
+http://nino4play.com:25461/YOUSELF3/CHILE3/94
+CANAL INFANTIL FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14028
 
 ═══════════ EVENTOS⚽ ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #01
@@ -211,9 +216,72 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/159
 ═══════════ COLOMBIA ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",CANAL CARACOL 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14192
+CARACOL HD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/3437
+CARACOL SD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/1502
 #EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="COLOMBIA",LA KALLE HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/13881
+CANAL UNO FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/1570
+CANAL UNO HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/10829
+CITY TV HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/2675
+CITY TV SD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14361
+RCN FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14803
+RCN HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/52
+RCN SD  
+http://nino4play.com:25461/YOUSELF3/CHILE3/51
+RCN XTRA FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/13995
+RCN MAS HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/10968
+RCN NUESTRA TELE HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/10954
+ESPN HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/62
+WIN SPORTS FHD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/64
+WINSPORTS HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14058
+WIN SPORTS PLUS FHD        
+http://nino4play.com:25461/YOUSELF3/CHILE3/2263
+WIN SPORTS PLUS HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/7321
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD 2" tvg-logo="http://nino4play.com:25461/images/87f092e6dc7ece978e1f79788059ec24.png" group-title="COLOMBIA",CARACOL HD 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/49
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL NOTICIAS HD " tvg-logo="https://play-lh.googleusercontent.com/M7YKh7nuwvf1Gb3j8HcW0pk_8HzQMLKwFbi4ANz8PDalFzGxxolYSNz91DGKBrL4zX8" group-title="COLOMBIA",CARACOL NOTICIAS HD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/1579
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL HD" tvg-logo="http://nino4play.com:25461/images/af65b3dd35de98f43a031478db9afefa.png" group-title="COLOMBIA",CANAL CAPITAL HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/10847
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="CABLE NOTICIAS HD  " tvg-logo="http://nino4play.com:25461/images/082fdfd50b4758999e7f4f9ae554c3de.jpg" group-title="COLOMBIA",CABLE NOTICIAS HD  
+http://nino4play.com:25461/YOUSELF3/CHILE3/54
+#EXTINF:-1 tvg-id="" tvg-name="NTN 24 HD  " tvg-logo="https://yt3.ggpht.com/a/AATXAJxuf-EfIFH26vilyZO4kLPLFVg2KpGNYo6uHDNEwg=s240-c-k-c0xffffffff-no-rj-mo" group-title="COLOMBIA",NTN 24 HD  
+http://nino4play.com:25461/YOUSELF3/CHILE3/55
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD." tvg-logo="https://i.scdn.co/image/ab6775700000ee85ab4e2a630592468409188f26" group-title="COLOMBIA",CANAL 13 HD.
+http://nino4play.com:25461/YOUSELF3/CHILE3/13878
+#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="https://i.vimeocdn.com/portrait/23583263_640x640" group-title="COLOMBIA",CALI TV
+http://nino4play.com:25461/YOUSELF3/CHILE3/1582
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="SEÑAL COLOMBIA HD" tvg-logo="https://i2.wp.com/www.andestvco.com/wp-content/uploads/2014/12/LOGO-SE%C3%91AL-COLOMBIA.jpg?ssl=1" group-title="COLOMBIA",SEÑAL COLOMBIA HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/6098
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="TELEANTOQUIA HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f283151787f4823ac71112b5cb2687d0.webp" group-title="COLOMBIA",TELEANTOQUIA HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/57
+#EXTINF:-1 tvg-id="" tvg-name="TELECAFE HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Telecafe_2001_1.png/revision/latest/scale-to-width-down/340?cb=20170906161536" group-title="COLOMBIA",TELECAFE HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/1581
+#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE HD" tvg-logo="https://play-lh.googleusercontent.com/xJPjXtCa1vj47IRZiF3RNVepNHPN9Ro1oyQzWoisyI4jRtr8S_x96R98xu3wfDFO9WI" group-title="COLOMBIA",TELECARIBE HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/10848
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-name="TELEMEDELLIN HD" tvg-logo="https://i.vimeocdn.com/portrait/7189602_300x300" group-title="COLOMBIA",TELEMEDELLIN HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/59
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO HD" tvg-logo="http://nino4play.com:25461/images/c7871a2a5eb0095e3e39ecfb0ad26151.png" group-title="COLOMBIA",TELEPACIFICO HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/60
 ═══════════ INTERNACIONAL ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",UNIVISION NOTICIAS 
 http://nino4play.com:25461/YOUSELF3/CHILE3/10825
@@ -430,6 +498,40 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/1679
 WARNER FHD D.AUDIO
 http://nino4play.com:25461/YOUSELF3/CHILE3/14046
 
+═══════════ CINE PREMIUM ═══════════
+HBO POP FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14075
+HBO PREMIUM FHD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/365
+HBO XTREME FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/3186
+HBO FHD D.AUDIO
+http://nino4play.com:25461/YOUSELF3/CHILE3/14148
+HBO 2 FHD D.AUDIO
+http://nino4play.com:25461/YOUSELF3/CHILE3/132
+HBO FAMILY HD D.AUDIO   
+http://nino4play.com:25461/YOUSELF3/CHILE3/133
+HBO PLUS HD D.AUDIO   
+http://nino4play.com:25461/YOUSELF3/CHILE3/134
+HBO SIGNATURE HD   
+http://nino4play.com:25461/YOUSELF3/CHILE3/1677
+UNIVERSAL CINEMA FHD  D.AUDIO   
+http://nino4play.com:25461/YOUSELF3/CHILE3/125
+UNIVERSAL CINEMA HD  D.AUDIO   
+http://nino4play.com:25461/YOUSELF3/CHILE3/13973
+UNIVERSAL COMEDY FHD   
+http://nino4play.com:25461/YOUSELF3/CHILE3/13857
+UNIVERSAL COMEDY HD  D.AUDIO
+http://nino4play.com:25461/YOUSELF3/CHILE3/366
+UNIVERSAL CRIME FHD D.AUDIO
+http://nino4play.com:25461/YOUSELF3/CHILE3/14166
+UNIVERSAL CRIME HD D.AUDIO 
+http://nino4play.com:25461/YOUSELF3/CHILE3/124
+UNIVERSAL PREMIER FHD D.AUDIO
+http://nino4play.com:25461/YOUSELF3/CHILE3/13856
+UNIVERSAL PREMIER O HD D.AUDIO
+http://nino4play.com:25461/YOUSELF3/CHILE3/128
+
 ═══════════ VARIEDADES PREMIUM ═══════════
 
 E! ENTERTAIMENT FHD 
@@ -444,10 +546,34 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14347
 ═══════════ MUSIC ═══════════
 VEVO LATINO HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/852
+VEVO 80s HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/11016
+CLASICO TV HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/3698
+PORTAL MIX HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/1683
+MEGA MUNDIAL HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/2268
+TOP LATINO
+http://nino4play.com:25461/YOUSELF3/CHILE3/3524
+RETRO PLUS TV HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/1684
 
 ═══════════ NOVELAS ═══════════
+CORAZON HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/3030
 KANAL D FHD      
 http://nino4play.com:25461/YOUSELF3/CHILE3/13734
+RCN NOVELAS SD
+http://nino4play.com:25461/YOUSELF3/CHILE3/2579
+TLN NOVELAS SD
+http://nino4play.com:25461/YOUSELF3/CHILE3/13835
+TLN NOVELAS HD MEXICO 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14877
+TNT NOVELAS FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14481
+UNIVISION TL NOVELAS SD
+http://nino4play.com:25461/YOUSELF3/CHILE3/291
 
 ═══════════ MUNDO ═══════════
 USA  ABC NEWS HD
@@ -460,57 +586,11 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/11983
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV " tvg-logo="https://yt3.googleusercontent.com/b5-GuGM5amAAszLlpemvfjsMv8SthDDwDOPxZGZMg0AE447xugLssYT50v_jcw9Vski10qqI=s900-c-k-c0x00ffffff-no-rj" group-title="BABY TV",BABY TV 
-http://nino4play.com:25461/YOUSELF3/CHILE3/94
-#EXTINF:-1 tvg-id="" tvg-name="CANAL INFANTIL FHD" tvg-logo="http://nino4play.com:25461/images/81d8c0d029ec6dd2a0d01da00daae94e.png" group-title="BABY TV",CANAL INFANTIL FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14028
 
 
-#EXTINF:-1 tvg-id="" tvg-name="✰ HBO POP FHD ✰✰✰" tvg-logo="http://nino4play.com:25461/images/a7bfd79f3bfb3168d2d63c619e0df41f.png" group-title="LATINO PREMIUM",✰ HBO POP FHD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/14075
-#EXTINF:-1 tvg-id="" tvg-name="✰ HBO PREMIUM FHD    ✰✰✰" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_latino_small.gif" group-title="LATINO PREMIUM",✰ HBO PREMIUM FHD    ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/365
-#EXTINF:-1 tvg-id="" tvg-name="✰ HBO XTREME FHD  ✰✰✰" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0CMoLZ8gSKibhvNU1GM1M2-Ullpg6BG08AbufXkd3J4izwK4zjOAghqvU-DhSnhrTfY&usqp=CAU" group-title="LATINO PREMIUM",✰ HBO XTREME FHD  ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/3186
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD D.AUDIO" tvg-logo="https://play-lh.googleusercontent.com/ELLR6rcIP_mr6pB4kX9QhBKF-najkWHfb8RqceX4CBsyel3o_W9DoGas7WfPgfiIsQ" group-title="LATINO PREMIUM",HBO FHD D.AUDIO
-http://nino4play.com:25461/YOUSELF3/CHILE3/14148
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD D.AUDIO" tvg-logo="http://nino4play.com:25461/images/5549d156cd63bc6537608380b747f948.png" group-title="LATINO PREMIUM",HBO 2 FHD D.AUDIO
-http://nino4play.com:25461/YOUSELF3/CHILE3/132
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD D.AUDIO   " tvg-logo="http://nino4play.com:25461/images/c63f52bb327351cfe58cfc09a94a9004.png" group-title="LATINO PREMIUM",HBO FAMILY HD D.AUDIO   
-http://nino4play.com:25461/YOUSELF3/CHILE3/133
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD D.AUDIO   " tvg-logo="http://nino4play.com:25461/images/a50152f8b97487a6bf0a8a9994b69b5f.png" group-title="LATINO PREMIUM",HBO PLUS HD D.AUDIO   
-http://nino4play.com:25461/YOUSELF3/CHILE3/134
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD   " tvg-logo="http://nino4play.com:25461/images/0878448a83b78d1ade566ea7a076faa2.png" group-title="LATINO PREMIUM",HBO SIGNATURE HD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/1677
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA FHD  D.AUDIO   " tvg-logo="http://nino4play.com:25461/images/e2fafc632f041229fcf743dd6d495f17.jpg" group-title="LATINO PREMIUM",UNIVERSAL CINEMA FHD  D.AUDIO   
-http://nino4play.com:25461/YOUSELF3/CHILE3/125
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD  D.AUDIO   " tvg-logo="http://nino4play.com:25461/images/3f6231245d0a0fb0fed78f2089408921.jpg" group-title="LATINO PREMIUM",UNIVERSAL CINEMA HD  D.AUDIO   
-http://nino4play.com:25461/YOUSELF3/CHILE3/13973
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY FHD   " tvg-logo="https://yt3.ggpht.com/_xmrueXlQyPmO379bSt2BjirLWXxNOUoQn1jV0DpOlxxeCGlx9Z2L9HxfoWMgdsdIyGFh17W1A=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO PREMIUM",UNIVERSAL COMEDY FHD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/13857
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD  D.AUDIO" tvg-logo="http://nino4play.com:25461/images/3c2009bbd14d61e8be44d3ae5dd6cbe2.png" group-title="LATINO PREMIUM",UNIVERSAL COMEDY HD  D.AUDIO
-http://nino4play.com:25461/YOUSELF3/CHILE3/366
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME FHD D.AUDIO" tvg-logo="https://play-lh.googleusercontent.com/jIu3w4pPl2skCg7d36XdiwTF_NFNnlSITS4ZzYbnv6v0J8kwP_O4OgHAIo2MJj0MiQ" group-title="LATINO PREMIUM",UNIVERSAL CRIME FHD D.AUDIO
-http://nino4play.com:25461/YOUSELF3/CHILE3/14166
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD D.AUDIO   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79tqDVnF2OZt_8yyetO1XbR7fvv88K6cOfHr3WIUevnvLNuol6B6wUoj78yaFZwPKe5Y&usqp=CAU" group-title="LATINO PREMIUM",UNIVERSAL CRIME HD D.AUDIO   
-http://nino4play.com:25461/YOUSELF3/CHILE3/124
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIER FHD D.AUDIO" tvg-logo="http://nino4play.com:25461/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="LATINO PREMIUM",UNIVERSAL PREMIER FHD D.AUDIO
-http://nino4play.com:25461/YOUSELF3/CHILE3/13856
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIER O HD D.AUDIO" tvg-logo="http://nino4play.com:25461/images/3c2009bbd14d61e8be44d3ae5dd6cbe2.png" group-title="LATINO PREMIUM",UNIVERSAL PREMIER O HD D.AUDIO
-http://nino4play.com:25461/YOUSELF3/CHILE3/128
-#EXTINF:-1 tvg-id="" tvg-name="VEVO 80s HD" tvg-logo="http://nino4play.com:25461/images/acab0b8c90feaabd7fabe00b94c3f220.png" group-title="LATINO MUSICA",VEVO 80s HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/11016
-#EXTINF:-1 tvg-id="" tvg-name="CLASICO TV HD" tvg-logo="https://play-lh.googleusercontent.com/2nfc_1SvdbSUEq0UkrmDFC2LdWThlBX18IzHP5kCtrMS-cEfXOfMpT0cq3X-VesJnII" group-title="LATINO MUSICA",CLASICO TV HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/3698
-#EXTINF:-1 tvg-id="" tvg-name="PORTAL MIX HD" tvg-logo="http://nino4play.com:25461/images/01c826835ef7f02b707b72abce67abc6.jpg" group-title="LATINO MUSICA",PORTAL MIX HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/1683
-#EXTINF:-1 tvg-id="" tvg-name="MEGA MUNDIAL HD" tvg-logo="http://nino4play.com:25461/images/12e5ca8f19ee54c99c7f77e61f7189b7.jpg" group-title="LATINO MUSICA",MEGA MUNDIAL HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/2268
-#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="http://158.69.52.98:25461/images/8612d184afcb6d465d2b779527705bd4.jpg" group-title="LATINO MUSICA",TOP LATINO
-http://nino4play.com:25461/YOUSELF3/CHILE3/3524
-#EXTINF:-1 tvg-id="" tvg-name="RETRO PLUS TV HD" tvg-logo="http://nino4play.com:25461/images/9cb2995e30aabd07992e333694901f14.jpg" group-title="LATINO MUSICA",RETRO PLUS TV HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/1684
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN ESPANOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/CNN_LATINO.svg" group-title="LATINO NOTICIAS",CNN ESPANOL HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/382
 #EXTINF:-1 tvg-id="" tvg-name="DW ESP HD" tvg-logo="http://158.69.52.98:25461/images/9647e8e52da64993e8b24d14a59e5ce5.png" group-title="LATINO NOTICIAS",DW ESP HD
@@ -559,8 +639,11 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/6079
 http://nino4play.com:25461/YOUSELF3/CHILE3/10830
 #EXTINF:-1 tvg-id="" tvg-name="✰ KANAL D HD ( DRAMA VIVE )  ✰✰✰" tvg-logo="https://yt3.googleusercontent.com/juqFnrNWST4NSao1R2cVrBAh-RoVFeg9GTdbRfw28Y6PDB1l4BOoZ4N2ELPKSVqH6SFoZvMilMk=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO NOVELAS +",✰ KANAL D HD ( DRAMA VIVE )  ✰✰✰
 http://nino4play.com:25461/YOUSELF3/CHILE3/14478
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZON HD" tvg-logo="http://nino4play.com:25461/images/d132c49bf22dca4a5ab9a502ecab8ab1.jpg" group-title="LATINO NOVELAS +",AZTECA CORAZON HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/3030
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE LATINO SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPBtkTTszAuAlZnqrSTbVOn4XlpUQ2lcAcB_wghEQ=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO NOVELAS +",CINE LATINO SD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14351
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://nino4play.com:25461/images/8f061eac5b65cb8cccd45e7ff6e4a0bf.jpg" group-title="LATINO NOVELAS +",COMEDY CENTRAL FHD
@@ -587,14 +670,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14247
 http://nino4play.com:25461/YOUSELF3/CHILE3/6002
 #EXTINF:-1 tvg-id="" tvg-name="TLN NOVELAS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsbf4LTWyvob2EwOAA_cWxyR5rD93URB3SW6tboE1k9HmP9pConHMuaQmaz8idPJHEZ0&usqp=CAU" group-title="LATINO NOVELAS +",TLN NOVELAS FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14876
-#EXTINF:-1 tvg-id="" tvg-name="TLN NOVELAS SD" tvg-logo="http://nino4play.com:25461/images/2986e4f349ac4ad7287222a8a9a610df.png" group-title="LATINO NOVELAS +",TLN NOVELAS SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/13835
-#EXTINF:-1 tvg-id="" tvg-name="TLN NOVELAS HD ( MEXICO )" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1e9vs18bjIbn96SU82Sh24o0A_MgP7jNB1gWEa6r3xDul4bcIhzbr8IhL3PuMtaCBZww&usqp=CAU" group-title="LATINO NOVELAS +",TLN NOVELAS HD ( MEXICO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14877
-#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS FHD" tvg-logo="http://nino4play.com:25461/images/d533c7c30006aeb4ac1eb9dc2aae1be4.jpg" group-title="LATINO NOVELAS +",TNT NOVELAS FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14481
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TL NOVELAS SD" tvg-logo="http://nino4play.com:25461/images/a230484aa8ed4f77fb0174d1a87ed7ce.jpeg" group-title="LATINO NOVELAS +",UNIVISION TL NOVELAS SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/291
+
 #EXTINF:-1 tvg-id="" tvg-name="USA  ABC FHD" tvg-logo="https://static.wikia.nocookie.net/bewitched/images/a/a3/ABC-Color-Logo-logos-34761810-430-394.png/revision/latest?cb=20181018173705" group-title="MUNDOS",USA  ABC FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14384
 #EXTINF:-1 tvg-id="" tvg-name="USA  ABC 7 FHD" tvg-logo="http://nino4play.com:25461/images/d084edaaecc2b463e84ce55fb2706cdd.jpg" group-title="MUNDOS",USA  ABC 7 FHD
@@ -857,68 +933,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/11969
 http://nino4play.com:25461/YOUSELF3/CHILE3/15089
 #EXTINF:-1 tvg-id="" tvg-name="TV+ HD" tvg-logo="http://nino4play.com:25461/images/ee8d9fd38d8f57b02fa4d62688b34dde.jpg" group-title="CHILE",TV+ HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/15088
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="✰ CARACOL HD ✰✰✰" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/CaracolTVvariation3.svg/revision/latest/scale-to-width-down/250?cb=20171206205959" group-title="COLOMBIA",✰ CARACOL HD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/3437
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="✰ CARACOL SD ✰✰✰" tvg-logo="https://static.wikia.nocookie.net/ladygaga/images/c/ce/Caracol_TV.png/revision/latest?cb=20130130041410" group-title="COLOMBIA",✰ CARACOL SD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/1502
-#EXTINF:-1 tvg-id="Canal1.co" tvg-name="✰ CANAL UNO FHD ✰✰✰" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal_UNO_Colombia_HD_2017.png/revision/latest?cb=20180122191001" group-title="COLOMBIA",✰ CANAL UNO FHD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/1570
-#EXTINF:-1 tvg-id="Canal1.co" tvg-name="✰ CANAL UNO HD ✰✰✰" tvg-logo="https://play-lh.googleusercontent.com/b9q3M2O0bBkYOnAVcGYcFLb6H31tU5QdCkKwUPoX8rdOT6eSBGY3mP_MDYkhDGzx9-w" group-title="COLOMBIA",✰ CANAL UNO HD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/10829
-#EXTINF:-1 tvg-id="CitytvBogota.co" tvg-name="✰ CITY TV HD ✰✰✰" tvg-logo="http://nino4play.com:25461/images/028e7f67aef55be436b179e2e22b87a5.jpg" group-title="COLOMBIA",✰ CITY TV HD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/2675
-#EXTINF:-1 tvg-id="" tvg-name="✰ CITY TV SD  ✰✰✰" tvg-logo="https://play-lh.googleusercontent.com/T6YoqTNRTJM4Eozq4SNnb5nDyD7PRdk_z73K8A7zU3DHWiM9b1xyFyBtOq80xtFM-h0" group-title="COLOMBIA",✰ CITY TV SD  ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/14361
-#EXTINF:-1 tvg-id="" tvg-name="✰ RCN FHD ✰✰✰" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" group-title="COLOMBIA",✰ RCN FHD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/14803
-#EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="✰ RCN HD ✰✰✰" tvg-logo="http://nino4play.com:25461/images/dca042af11051a9a19835c5794dd4845.jpg" group-title="COLOMBIA",✰ RCN HD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/52
-#EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="✰ RCN SD  ✰✰✰" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Logo_Noticias_RCN_2014_12.30pm_2014.png/revision/latest/scale-to-width-down/250?cb=20171230012004" group-title="COLOMBIA",✰ RCN SD  ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/51
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN HD ✰✰✰" tvg-logo="http://nino4play.com:25461/images/f68d4b9226872243221c6e33e76da045.jpg" group-title="COLOMBIA",✰ ESPN HD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/62
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="✰ WINSPORTS FHD ✰✰✰" tvg-logo="https://play-lh.googleusercontent.com/lheVEBXOJcTsfyJ7lHeXpg3DwtqDuBAZ8UOOPKTFMggBnL4NlhgJ7ZYgPOGUpHd1lGgT" group-title="COLOMBIA",✰ WINSPORTS FHD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/64
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="✰ WINSPORTS HD ✰✰✰" tvg-logo="https://play-lh.googleusercontent.com/lheVEBXOJcTsfyJ7lHeXpg3DwtqDuBAZ8UOOPKTFMggBnL4NlhgJ7ZYgPOGUpHd1lGgT" group-title="COLOMBIA",✰ WINSPORTS HD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/14058
-#EXTINF:-1 tvg-id="" tvg-name="✰ WINSPORTS PLUS FHD  ✰✰✰        " tvg-logo="http://nino4play.com:25461/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="COLOMBIA",✰ WINSPORTS PLUS FHD  ✰✰✰        
-http://nino4play.com:25461/YOUSELF3/CHILE3/2263
-#EXTINF:-1 tvg-id="" tvg-name="✰ WINSPORTS PLUS HD ✰✰✰" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/win_sport_.jpg?UJIv5b6Z8y29Fb3.N110WFEkJKWE6Rvn&itok=dl41Wxqs" group-title="COLOMBIA",✰ WINSPORTS PLUS HD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/7321
-#EXTINF:-1 tvg-id="" tvg-name="RCN XTRA FHD" tvg-logo="http://158.69.52.98:25461/images/8e82026bdad52cbac558c56322762fd1.jpg" group-title="COLOMBIA",RCN XTRA FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/13995
-#EXTINF:-1 tvg-id="" tvg-name="RCN MAS HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTiqT1teFSpeu_fi7HKxmTzGmMLd7SJr2_oymqJvjY=s900-c-k-c0x00ffffff-no-rj" group-title="COLOMBIA",RCN MAS HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/10968
-#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS SD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_c3WlMQ2DhDr2aHCvvOW6bRGQqq9bUJDa3EQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="COLOMBIA",RCN NOVELAS SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/2579
-#EXTINF:-1 tvg-id="" tvg-name="RCN nuestra tele HD" tvg-logo="http://nino4play.com:25461/images/40fc5fd8c4256a9593914e7fe4097511.jpg" group-title="COLOMBIA",RCN nuestra tele HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/10954
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD 2" tvg-logo="http://nino4play.com:25461/images/87f092e6dc7ece978e1f79788059ec24.png" group-title="COLOMBIA",CARACOL HD 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/49
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL NOTICIAS HD " tvg-logo="https://play-lh.googleusercontent.com/M7YKh7nuwvf1Gb3j8HcW0pk_8HzQMLKwFbi4ANz8PDalFzGxxolYSNz91DGKBrL4zX8" group-title="COLOMBIA",CARACOL NOTICIAS HD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/1579
-#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL HD" tvg-logo="http://nino4play.com:25461/images/af65b3dd35de98f43a031478db9afefa.png" group-title="COLOMBIA",CANAL CAPITAL HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/10847
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="CABLE NOTICIAS HD  " tvg-logo="http://nino4play.com:25461/images/082fdfd50b4758999e7f4f9ae554c3de.jpg" group-title="COLOMBIA",CABLE NOTICIAS HD  
-http://nino4play.com:25461/YOUSELF3/CHILE3/54
-#EXTINF:-1 tvg-id="" tvg-name="NTN 24 HD  " tvg-logo="https://yt3.ggpht.com/a/AATXAJxuf-EfIFH26vilyZO4kLPLFVg2KpGNYo6uHDNEwg=s240-c-k-c0xffffffff-no-rj-mo" group-title="COLOMBIA",NTN 24 HD  
-http://nino4play.com:25461/YOUSELF3/CHILE3/55
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD." tvg-logo="https://i.scdn.co/image/ab6775700000ee85ab4e2a630592468409188f26" group-title="COLOMBIA",CANAL 13 HD.
-http://nino4play.com:25461/YOUSELF3/CHILE3/13878
-#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="https://i.vimeocdn.com/portrait/23583263_640x640" group-title="COLOMBIA",CALI TV
-http://nino4play.com:25461/YOUSELF3/CHILE3/1582
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="SEÑAL COLOMBIA HD" tvg-logo="https://i2.wp.com/www.andestvco.com/wp-content/uploads/2014/12/LOGO-SE%C3%91AL-COLOMBIA.jpg?ssl=1" group-title="COLOMBIA",SEÑAL COLOMBIA HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/6098
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="TELEANTOQUIA HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f283151787f4823ac71112b5cb2687d0.webp" group-title="COLOMBIA",TELEANTOQUIA HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/57
-#EXTINF:-1 tvg-id="" tvg-name="TELECAFE HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Telecafe_2001_1.png/revision/latest/scale-to-width-down/340?cb=20170906161536" group-title="COLOMBIA",TELECAFE HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/1581
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE HD" tvg-logo="https://play-lh.googleusercontent.com/xJPjXtCa1vj47IRZiF3RNVepNHPN9Ro1oyQzWoisyI4jRtr8S_x96R98xu3wfDFO9WI" group-title="COLOMBIA",TELECARIBE HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/10848
-#EXTINF:-1 tvg-id="Telemedellin.co" tvg-name="TELEMEDELLIN HD" tvg-logo="https://i.vimeocdn.com/portrait/7189602_300x300" group-title="COLOMBIA",TELEMEDELLIN HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/59
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO HD" tvg-logo="http://nino4play.com:25461/images/c7871a2a5eb0095e3e39ecfb0ad26151.png" group-title="COLOMBIA",TELEPACIFICO HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/60
+
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD " tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu9HD8qEfcn_LfGAmHEe6iibfH3NcsZj2udrUcgENA=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA ( Y OLE )",ANTENA 3 HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/376
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 SD " tvg-logo="http://nino4play.com:25461/images/4a7c44f8501ad5f03ad8fdb28fba3cdf.png" group-title="ESPAÑA ( Y OLE )",ANTENA 3 SD 
