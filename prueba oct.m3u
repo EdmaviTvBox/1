@@ -1,6 +1,34 @@
 #EXTM3U
 
+═══════════ EVENTOS⚽ ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #01
+http://nino4play.com:25461/YOUSELF3/CHILE3/14186
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #02
+http://nino4play.com:25461/YOUSELF3/CHILE3/11640
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #03
+http://nino4play.com:25461/YOUSELF3/CHILE3/244
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #04
+http://nino4play.com:25461/YOUSELF3/CHILE3/14737
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #05
+http://nino4play.com:25461/YOUSELF3/CHILE3/15016
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #06
+http://nino4play.com:25461/YOUSELF3/CHILE3/14359
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #07
+http://nino4play.com:25461/YOUSELF3/CHILE3/14358
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #08
+http://nino4play.com:25461/YOUSELF3/CHILE3/14360
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #09
+http://nino4play.com:25461/YOUSELF3/CHILE3/14297
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #10
+http://nino4play.com:25461/YOUSELF3/CHILE3/13830
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #11
+http://nino4play.com:25461/YOUSELF3/CHILE3/13829
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #12
+http://nino4play.com:25461/YOUSELF3/CHILE3/13817
+
 ═══════════ TV SPORTS ESPN⚽ ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN EXCLUSIVO       
+http://nino4play.com:25461/YOUSELF3/CHILE3/10974
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN COLOMBIA
 http://nino4play.com:25461/YOUSELF3/CHILE3/13972
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PERU
@@ -91,10 +119,18 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/4521
 http://nino4play.com:25461/YOUSELF3/CHILE3/155
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS PLUS
 http://nino4play.com:25461/YOUSELF3/CHILE3/156
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV FIGHT  
+http://nino4play.com:25461/YOUSELF3/CHILE3/14320
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TUDN USA 
 http://nino4play.com:25461/YOUSELF3/CHILE3/11763
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TUDN MEXICO  
 http://nino4play.com:25461/YOUSELF3/CHILE3/234
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",ZONA TUDN    
+http://nino4play.com:25461/YOUSELF3/CHILE3/14209
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",CLARO SPORTS  
+http://nino4play.com:25461/YOUSELF3/CHILE3/14260
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",CLARO SPORTS 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/14922
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOL PERU
 http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126859
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOLTV ECUADOR    
@@ -149,6 +185,8 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/6095
 http://nino4play.com:25461/YOUSELF3/CHILE3/14415
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",SKY SPORTS FOOTBALL  
 http://nino4play.com:25461/YOUSELF3/CHILE3/14901
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",LIGA 1 MAX 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14894
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS OPC 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/154
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS 2 OPC 2
@@ -166,45 +204,141 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/4635
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS MEXICO OPC 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/159
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO" tvg-logo="http://nino4play.com:25461/images/cf99ed107c18ef446227507c8e3e89a6.jpg" group-title="( EVENTOS )",EVENTO
-http://nino4play.com:25461/YOUSELF3/CHILE3/14186
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NOTICIAS 24/7 FHD" tvg-logo="http://nino4play.com:25461/images/dbb053c4d88c108116f9fc44c5e4a45f.png" group-title="LATINO USA",UNIVISION NOTICIAS 24/7 FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/10825
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN FHD EXCLUSIVO ⚽⚽⚽      " tvg-logo="http://nino4play.com:25461/images/86adba1ba33f03928f261326076db6ba.jpg" group-title="LATINO ESPN ",✰ ESPN FHD EXCLUSIVO ⚽⚽⚽      
-http://nino4play.com:25461/YOUSELF3/CHILE3/10974
-#EXTINF:-1 tvg-id="" tvg-name="✰ 01 MLS SOLO EVENTOS" tvg-logo="https://play-lh.googleusercontent.com/fzOLro2JVqIg3ccrDELIvqXQF79LHlDNUKwY2qHQof_yQSNEseqyXTWtlu6Wa14UPA" group-title="LATINO ESPN ",✰ 01 MLS SOLO EVENTOS
-http://nino4play.com:25461/YOUSELF3/CHILE3/11640
-#EXTINF:-1 tvg-id="" tvg-name="✰ 02 MLS SOLO EVENTOS" tvg-logo="http://nino4play.com:25461/images/42695bcaaf8cc7bfb7fd8011f3de7658.jpg" group-title="LATINO ESPN ",✰ 02 MLS SOLO EVENTOS
-http://nino4play.com:25461/YOUSELF3/CHILE3/244
-#EXTINF:-1 tvg-id="" tvg-name="✰ 1 CLARO SPORTS ⚽⚽⚽ " tvg-logo="http://nino4play.com:25461/images/8cc665598a341d8ee8ba3af43ae5b772.jpg" group-title="LATINO DEPORTE",✰ 1 CLARO SPORTS ⚽⚽⚽ 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14260
-#EXTINF:-1 tvg-id="" tvg-name="✰ 2 CLARO SPORTS 2⚽⚽⚽ " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/180?cb=20180803141855" group-title="LATINO DEPORTE",✰ 2 CLARO SPORTS 2⚽⚽⚽ 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14922
-#EXTINF:-1 tvg-id="" tvg-name="✰ 2 ZONA TUDN FHD ⚽⚽⚽      " tvg-logo="http://nino4play.com:25461/images/6db002663f857f78d435f51218118872.jpg" group-title="LATINO DEPORTE",✰ 2 ZONA TUDN FHD ⚽⚽⚽      
-http://nino4play.com:25461/YOUSELF3/CHILE3/14209
-#EXTINF:-1 tvg-id="" tvg-name="✰ 3 DTV FIGHT ( EVENTOS ) ⚽⚽⚽ " tvg-logo="http://nino4play.com:25461/images/9dada83b0f893c89746a52ae482caa73.png" group-title="LATINO DEPORTE",✰ 3 DTV FIGHT ( EVENTOS ) ⚽⚽⚽ 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14320
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR ECUAVISA FHD   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSm0W4Hkk29g0BvzGj9Dda0WL9VJfH4Kr9WjApmZ5B8wQl3hFmg" group-title="LATINO +",ECUADOR ECUAVISA FHD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/370
-#EXTINF:-1 tvg-id="" tvg-name="✰ DISCOVERY ESPAÑOL FHD  ✰✰✰" tvg-logo="https://play-lh.googleusercontent.com/IwA41BXmUn-TTMwYiqpO7uyNO0OypwI5DZmBpFjgt7u2SHKZTGuELUaIZx1PjItkZvM7" group-title="LATINO DOCUMENTAL",✰ DISCOVERY ESPAÑOL FHD  ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/14907
-#EXTINF:-1 tvg-id="I180.25788.schedulesdirect.org" tvg-name="✰ DISCOVERY ESPAÑOL HD  ✰✰✰" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSXFOeAE3Aw3SXHrDHa8pAupUaU32h69WVRi6gU=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO DOCUMENTAL",✰ DISCOVERY ESPAÑOL HD  ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/137
-#EXTINF:-1 tvg-id="I382.25793.schedulesdirect.org" tvg-name="✰ DISCOVERY ID FHD  ✰✰✰       " tvg-logo="https://yt3.ggpht.com/a/AGF-l7-kmgUNCHXb5Gz-8199fqOjSdz6bySx3tOSOA=s900-c-k-c0xffffffff-no-rj-mo" group-title="LATINO DOCUMENTAL",✰ DISCOVERY ID FHD  ✰✰✰       
-http://nino4play.com:25461/YOUSELF3/CHILE3/140
-#EXTINF:-1 tvg-id="" tvg-name="✰ AXN HD  ✰✰✰      " tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0e/ad/37/0ead3717-1324-ddd6-cb73-9e6f27e7294a/source/512x512bb.jpg?w=150" group-title="LATINO PREMIUM",✰ AXN HD  ✰✰✰      
-http://nino4play.com:25461/YOUSELF3/CHILE3/3033
-#EXTINF:-1 tvg-id="" tvg-name="LA KALLE HD" tvg-logo="https://play-lh.googleusercontent.com/SkwSwcz2dGuDTkqOFEbEvJ3lWIMYcrZzhktpJAwFt1AQkHgFoKLrEyz-Hp1zX7iabgKj" group-title="LATINO MUSICA",LA KALLE HD
+═══════════ TV COLOMBIA ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="TV COLOMBIA★",CANAL CARACOL 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14192
+#EXTINF:-1 tvg-id="" tvg-name="★TV COLOMBIA★" tvg-logo="https://n9.cl/jql5a" group-title="TV COLOMBIA★",LA KALLE HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/13881
+
+═══════════ TV INTERNACIONAL ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",UNIVISION NOTICIAS 
+http://nino4play.com:25461/YOUSELF3/CHILE3/10825
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",TELEMUNDO P. RICO
+http://nino4play.com:25461/YOUSELF3/CHILE3/13794
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",ECUAVISA ECUADOR  
+http://nino4play.com:25461/YOUSELF3/CHILE3/370
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",TC HD ECUADOR
+http://nino4play.com:25461/YOUSELF3/CHILE3/15068
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",AMERICA TV 
+http://nino4play.com:25461/YOUSELF3/CHILE3/8159
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",ANTENA 3 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14157
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",AMERICA 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14165
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",ATV 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14295
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",ATV + 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14462
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",LATINA 
+http://nino4play.com:25461/YOUSELF3/CHILE3/1
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",PANAMERICANA 
+http://nino4play.com:25461/YOUSELF3/CHILE3/7
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",RPP TV 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14906
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",WILLAX
+http://nino4play.com:25461/YOUSELF3/CHILE3/14395
+
+═══════════ TV USA LATINO ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION NOTICIAS 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14150
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION 23 HD MIAMI 
+http://nino4play.com:25461/YOUSELF3/CHILE3/10536
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION 34 HD LOS ANGELES 
+http://nino4play.com:25461/YOUSELF3/CHILE3/2790
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION 41 HD NEW YORK      
+http://nino4play.com:25461/YOUSELF3/CHILE3/2896
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION 45 HD HOUSTON
+http://nino4play.com:25461/YOUSELF3/CHILE3/13848
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIMAS HD ARIZONA
+http://nino4play.com:25461/YOUSELF3/CHILE3/288
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIMAS HD NEW YORK
+http://nino4play.com:25461/YOUSELF3/CHILE3/13753
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIMAS HD LOS ANGELES
+http://nino4play.com:25461/YOUSELF3/CHILE3/14054
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO HD CORPUS CHRISTI
+http://nino4play.com:25461/YOUSELF3/CHILE3/14898
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 20 HD SAN FRANCISCO
+http://nino4play.com:25461/YOUSELF3/CHILE3/13852
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 39 HD ARIZONA 
+http://nino4play.com:25461/YOUSELF3/CHILE3/13854
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 44 HD CHICAGO 
+http://nino4play.com:25461/YOUSELF3/CHILE3/282
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 47 HD NEW YORK 
+http://nino4play.com:25461/YOUSELF3/CHILE3/13853
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 52 HD LOS ANGELES 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14296
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 51 HD MIAMI
+http://nino4play.com:25461/YOUSELF3/CHILE3/281
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",NBC UNIVERSO WEST HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/287
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",HOLA TV HD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/289
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",HOLA TV PLAY HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/10828
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",MEGA TV HD MIAMI 
+http://nino4play.com:25461/YOUSELF3/CHILE3/13846
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",ESTRELLA TV HD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/283
+
+
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION 23 FHD MIAMI 
+http://nino4play.com:25461/YOUSELF3/CHILE3/277
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION 34 FHD LOS ANGELES  
+http://nino4play.com:25461/YOUSELF3/CHILE3/13849
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION 41 FHD NEW YORK
+http://nino4play.com:25461/YOUSELF3/CHILE3/278
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIMAS FHD CALIFORNIA 
+http://nino4play.com:25461/YOUSELF3/CHILE3/13851
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIMAS FHD NEW YORK 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14151
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 39 FHD HOUSTON
+http://nino4play.com:25461/YOUSELF3/CHILE3/14319
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 47 FHD NEW YORK 
+http://nino4play.com:25461/YOUSELF3/CHILE3/280
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 51 FHD MIAMI  
+http://nino4play.com:25461/YOUSELF3/CHILE3/11984
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 51 FHD FLORIDA
+http://nino4play.com:25461/YOUSELF3/CHILE3/14882
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 52 FHD CALIFORNIA
+http://nino4play.com:25461/YOUSELF3/CHILE3/14074
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 52 FHD LOS ANGELES 
+http://nino4play.com:25461/YOUSELF3/CHILE3/1061
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",NBC UNIVERSO FHD  
+http://nino4play.com:25461/YOUSELF3/CHILE3/13847
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",MEGA TV FHD MIAMI 
+http://nino4play.com:25461/YOUSELF3/CHILE3/3363
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",WAPA AMERICA FHD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/3739
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",ESTRELLA TV FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/6076
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",GALAVISION FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/285
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",GALAVISION FHD WEST
+http://nino4play.com:25461/YOUSELF3/CHILE3/14444
+
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",UNIVISION 41 SD NEW YORK 
+http://nino4play.com:25461/YOUSELF3/CHILE3/13850
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="TV USA LATINO★",TELEMUNDO 47 SD NEW YORK
+http://nino4play.com:25461/YOUSELF3/CHILE3/3651
+
+
+═══════════ CULTURA Y HISTORIA ═══════════
+DISCOVERY ESPAÑOL✰✰✰
+http://nino4play.com:25461/YOUSELF3/CHILE3/137
+DISCOVERY ID ✰✰✰       
+http://nino4play.com:25461/YOUSELF3/CHILE3/140
+
+DISCOVERY ESPAÑOL✰✰✰ OPC 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/14907
+
+═══════════ PREMIUM ═══════════
+AXN HD  ✰✰✰      
+http://nino4play.com:25461/YOUSELF3/CHILE3/3033
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="VEVO LATINO HD" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9Y-IM4DZoAdTN_SBht2lmyPPQouJ0Wcr2WlNQo=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO MUSICA",VEVO LATINO HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/852
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NOTICIAS 24/7 FHD." tvg-logo="http://nino4play.com:25461/images/e3f6cab0d651827f7c620e163c95e4d6.png" group-title="LATINO NOTICIAS",UNIVISION NOTICIAS 24/7 FHD.
-http://nino4play.com:25461/YOUSELF3/CHILE3/14150
 #EXTINF:-1 tvg-id="" tvg-name="✰ KANAL D FHD ( DRAMA )  ✰✰✰      " tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74" group-title="LATINO NOVELAS +",✰ KANAL D FHD ( DRAMA )  ✰✰✰      
 http://nino4play.com:25461/YOUSELF3/CHILE3/13734
 #EXTINF:-1 tvg-id="" tvg-name="USA  ABC NEWS HD" tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o" group-title="MUNDOS",USA  ABC NEWS HD
@@ -215,128 +349,16 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/11983
 http://nino4play.com:25461/YOUSELF3/CHILE3/94
 #EXTINF:-1 tvg-id="" tvg-name="CANAL INFANTIL FHD" tvg-logo="http://nino4play.com:25461/images/81d8c0d029ec6dd2a0d01da00daae94e.png" group-title="BABY TV",CANAL INFANTIL FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14028
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV FHD" tvg-logo="http://nino4play.com:25461/images/eabdcda490df5225d2a7c1643fd6e58d.png" group-title="ARGENTINA",AMERICA TV FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/8159
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS FHD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE",24 HORAS FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/13662
-#EXTINF:-1 tvg-id="" tvg-name="✰ CARACOL FHD ✰✰✰" tvg-logo="https://play-lh.googleusercontent.com/nN7k-naB2ZvPAj3S_y0vdUFG28-pNUcKCKbeg3kw9GUFBUF7UWtWeseq9hSykb-jnHo=w220" group-title="COLOMBIA",✰ CARACOL FHD ✰✰✰
-http://nino4play.com:25461/YOUSELF3/CHILE3/14192
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FHD" tvg-logo="http://nino4play.com:25461/images/d00f58766b3922989153a5a784be38e2.png" group-title="ESPAÑA ( Y OLE )",ANTENA 3 FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14157
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TV AZTECA 7 FHD" tvg-logo="https://play-lh.googleusercontent.com/hmWXYD8fm76z2BejoCvdfT1GNCSih5FnyE2WVlg-tnR7N4rsLb8-nFiFfhlQ74nrAw" group-title="MEXICO",TV AZTECA 7 FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14347
-#EXTINF:-1 tvg-id="" tvg-name="✰ 1 AMERICA FHD ( EXCLUSIVO )" tvg-logo="http://nino4play.com:25461/images/e68bf3e6eff456d5b353baedc0dcfb42.jpg" group-title="PERU",✰ 1 AMERICA FHD ( EXCLUSIVO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14165
-#EXTINF:-1 tvg-id="" tvg-name="✰ 2 ATV FHD ( EXCLUSIVO )" tvg-logo="http://nino4play.com:25461/images/7b8cf5f4fbe620b16724adbfb66ab7db.jpg" group-title="PERU",✰ 2 ATV FHD ( EXCLUSIVO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14295
-#EXTINF:-1 tvg-id="" tvg-name="✰ 3 ATV + FHD ( EXCLUSIVO )" tvg-logo="https://yt3.googleusercontent.com/QmM9u7IOYkK2dOGdnq-7U09hFS56QY3P7Z_6in4MAz5Q1AAY4nDKU7F6Z244uNOvXYYjPNZS-Q=s900-c-k-c0x00ffffff-no-rj" group-title="PERU",✰ 3 ATV + FHD ( EXCLUSIVO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14462
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="✰ 4 LATINA FHD ( EXCLUSIVO )" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Latina_TV_2019.svg/revision/latest/scale-to-width-down/200?cb=20210524134322" group-title="PERU",✰ 4 LATINA FHD ( EXCLUSIVO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/1
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="✰ 5 PANAMERICANA FHD ( EXCLISIVO )" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062011/captura_de_pantalla_2011-06-24_a_las_18.16.54.png?itok=kTyv4Wsb" group-title="PERU",✰ 5 PANAMERICANA FHD ( EXCLISIVO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/7
-#EXTINF:-1 tvg-id="" tvg-name="✰ 6 RPP TV FHD ( EXCLUSIVO )" tvg-logo="http://nino4play.com:25461/images/ae86989cea9dee574cba1405a1299de8.jpg" group-title="PERU",✰ 6 RPP TV FHD ( EXCLUSIVO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14906
-#EXTINF:-1 tvg-id="" tvg-name="✰ 7 WILLAX FHD ( EXCLUSIVIO )" tvg-logo="https://files.startupranking.com/startup/thumb/18145_6d2fa1ce03df1421eeb0ef0e3f961f7f0c633227_willax-tv_l.png" group-title="PERU",✰ 7 WILLAX FHD ( EXCLUSIVIO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14395
-#EXTINF:-1 tvg-id="" tvg-name="✰ LIGA 1 MAX FHD ⚽⚽⚽ " tvg-logo="https://claroperupoc.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" group-title="PERU",✰ LIGA 1 MAX FHD ⚽⚽⚽ 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14894
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 2" tvg-logo="http://nino4play.com:25461/images/ff7f7c458d866d59605815263cc863c9.jpg" group-title="( EVENTOS )",EVENTO 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/14737
-#EXTINF:-1 tvg-id="" tvg-name="1 UFC 307 5 OCTUBRE 8 PM" tvg-logo="https://scontent.fymq3-1.fna.fbcdn.net/v/t39.30808-6/455296747_1002561641880353_1871918551486602603_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BvRI3d5mH08Q7kNvgHrdcYv&_nc_ht=scontent.fymq3-1.fna&_nc_gid=Azt6caOEGYhU1qIm9v79uIo&oh=00_AYA-E4N7lljwXERJ3Mdn6h-JIqZ8QUnznzzMY674ijrLnQ&oe=67034C54" group-title="( EVENTOS )",1 UFC 307 5 OCTUBRE 8 PM
-http://nino4play.com:25461/YOUSELF3/CHILE3/13817
-#EXTINF:-1 tvg-id="" tvg-name="2 UFC 307 5 OCTUBRE 8 PM" tvg-logo="https://i.redd.it/ufc-308-is-stacked-but-what-about-307-v0-9eqg9xneghhd1.jpg?width=1638&format=pjpg&auto=webp&s=b563e51e5cc94d046abab42f817b06148bd01e48" group-title="( EVENTOS )",2 UFC 307 5 OCTUBRE 8 PM
-http://nino4play.com:25461/YOUSELF3/CHILE3/13829
-#EXTINF:-1 tvg-id="" tvg-name="3 UFC 307 5 OCTUBRE 8 PM" tvg-logo="https://instagram.fymq3-1.fna.fbcdn.net/v/t51.29350-15/455890312_1451619615490634_8703280880901827625_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fymq3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=OO9Ti2KqQUkQ7kNvgHqaeH2&_nc_gid=2ba17ce721dc406e8e9b7babfd9ac691&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzQzNjA0MzU1Mjk2NDQ1Nzk2Mw%3D%3D.3-ccb7-5&oh=00_AYDPWDa525A1C3MWWjvl2QNLlvH2RjwFjAvh1Lau8qPCww&oe=67033E2A&_nc_sid=10d13b" group-title="( EVENTOS )",3 UFC 307 5 OCTUBRE 8 PM
-http://nino4play.com:25461/YOUSELF3/CHILE3/13830
-#EXTINF:-1 tvg-id="" tvg-name="4 UFC 307 5 OCTUBRE 8 PM" tvg-logo="http://nino4play.com:25461/images/7f5d63fda6b408c865cd9f9fa3de5bdc.jpg" group-title="( EVENTOS )",4 UFC 307 5 OCTUBRE 8 PM
-http://nino4play.com:25461/YOUSELF3/CHILE3/14297
-#EXTINF:-1 tvg-id="" tvg-name="1 CLASIFICATORIAS SUDAMERICANAS 2026" tvg-logo="http://nino4play.com:25461/images/c33bb6e453314249249a8004693f5581.jpg" group-title="( EVENTOS )",1 CLASIFICATORIAS SUDAMERICANAS 2026
-http://nino4play.com:25461/YOUSELF3/CHILE3/14360
-#EXTINF:-1 tvg-id="" tvg-name="2 CLASIFICATORIAS SUDAMERICANAS 2026" tvg-logo="http://nino4play.com:25461/images/bc699743863bb5c7875b78681927f6fb.jpg" group-title="( EVENTOS )",2 CLASIFICATORIAS SUDAMERICANAS 2026
-http://nino4play.com:25461/YOUSELF3/CHILE3/14358
-#EXTINF:-1 tvg-id="" tvg-name="3 CLASIFICATORIAS SUDAMERICANAS 2026" tvg-logo="http://nino4play.com:25461/images/057b18396d0ce8266c2521a0c2bc4647.jpg" group-title="( EVENTOS )",3 CLASIFICATORIAS SUDAMERICANAS 2026
-http://nino4play.com:25461/YOUSELF3/CHILE3/14359
-#EXTINF:-1 tvg-id="" tvg-name="4 CLASIFICATORIAS SUDAMERICANAS 2026" tvg-logo="http://nino4play.com:25461/images/ad9ad377ce15ec092cb8336a618e4f0f.jpg" group-title="( EVENTOS )",4 CLASIFICATORIAS SUDAMERICANAS 2026
-http://nino4play.com:25461/YOUSELF3/CHILE3/15016
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 23 FHD ( MIAMI )" tvg-logo="http://nino4play.com:25461/images/150b2c29cf1d2f416364d9039f6886f7.jpg" group-title="LATINO USA",UNIVISION 23 FHD ( MIAMI )
-http://nino4play.com:25461/YOUSELF3/CHILE3/277
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 23 HD ( MIAMI )   " tvg-logo="https://lh3.googleusercontent.com/G2Gxq6UMhGeVvDYo_V96f94PHPSlPrjPB5T3kzBore8usKphY4wVnZJyDy8fSO__ekw" group-title="LATINO USA",UNIVISION 23 HD ( MIAMI )   
-http://nino4play.com:25461/YOUSELF3/CHILE3/10536
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 34 FHD ( LOS ANGELES )   " tvg-logo="http://nino4play.com:25461/images/52c731ba45bdc9ca2bffb3bfa1c3a7a7.jpg" group-title="LATINO USA",UNIVISION 34 FHD ( LOS ANGELES )   
-http://nino4play.com:25461/YOUSELF3/CHILE3/13849
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 34 HD ( LOS ANGELES )   " tvg-logo="http://nino4play.com:25461/images/459a6c58bf7cfad64cb16e4b87b7776e.png" group-title="LATINO USA",UNIVISION 34 HD ( LOS ANGELES )   
-http://nino4play.com:25461/YOUSELF3/CHILE3/2790
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 41 FHD ( NEW YORK )" tvg-logo="http://nino4play.com:25461/images/c4277de94d086f593e4176eeede3e885.png" group-title="LATINO USA",UNIVISION 41 FHD ( NEW YORK )
-http://nino4play.com:25461/YOUSELF3/CHILE3/278
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 41 HD ( NEW YORK )      " tvg-logo="http://nino4play.com:25461/images/c4277de94d086f593e4176eeede3e885.png" group-title="LATINO USA",UNIVISION 41 HD ( NEW YORK )      
-http://nino4play.com:25461/YOUSELF3/CHILE3/2896
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 41 SD ( NEW YORK )" tvg-logo="https://play-lh.googleusercontent.com/mD5JbmWkLzvpzi217qlYIr5lX_rH9b49pJ8OaEhPrd4G1FeGIy41ou9qrgzPVsQJWmmO" group-title="LATINO USA",UNIVISION 41 SD ( NEW YORK )
-http://nino4play.com:25461/YOUSELF3/CHILE3/13850
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 45 HD ( HOUSTON ) " tvg-logo="https://play-lh.googleusercontent.com/CgbLrqPuWdbjSKVN8SRs5WWZdO-eNRxnDNHAHoMccRXgp6q6QwWGORBs9ETWpY-xIg" group-title="LATINO USA",UNIVISION 45 HD ( HOUSTON ) 
-http://nino4play.com:25461/YOUSELF3/CHILE3/13848
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD ( ARIZONA )" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/f/fc/Unimas_phoenixkfph_NewLogo.png/revision/latest?cb=20220102230356" group-title="LATINO USA",UNIMAS HD ( ARIZONA )
-http://nino4play.com:25461/YOUSELF3/CHILE3/288
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS FHD ( CALIFORNIA )" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniK2X3-G2tSSyirxUuhgNv37fsshJ2VTMUHrvPZqA=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO USA",UNIMAS FHD ( CALIFORNIA )
-http://nino4play.com:25461/YOUSELF3/CHILE3/13851
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD ( NEW YORK )" tvg-logo="http://nino4play.com:25461/images/fdd42997c30168e887dcbac029ecbc1e.jpg" group-title="LATINO USA",UNIMAS HD ( NEW YORK )
-http://nino4play.com:25461/YOUSELF3/CHILE3/13753
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS FHD ( NEW YORK )" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail.gif?resize=550%2C605" group-title="LATINO USA",UNIMAS FHD ( NEW YORK )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14151
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD ( LOS ANGELES )" tvg-logo="http://nino4play.com:25461/images/4de170b574e9c5c23b41de7e6164f7c0.png" group-title="LATINO USA",UNIMAS HD ( LOS ANGELES )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14054
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HD ( Corpus Christi )" tvg-logo="data:image/png;base64,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" group-title="LATINO USA",TELEMUNDO HD ( Corpus Christi )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14898
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 20 HD ( SAN FRANCISCO )" tvg-logo="https://play-lh.googleusercontent.com/grUEdtR24J5QOyo5Lxb5x6TDuNafk5-UVbzhgfiwiZLZcwjNgzzTCO1uD5J9bOIc-08" group-title="LATINO USA",TELEMUNDO 20 HD ( SAN FRANCISCO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/13852
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 39 HD ( ARIZONA ) " tvg-logo="https://play-lh.googleusercontent.com/qV3tkEo31tjStLN4o8xq1KB2nGTl0arYl8yZIf7-Gxu8ylbqWnh2841ZUQGYpi6kM-Y" group-title="LATINO USA",TELEMUNDO 39 HD ( ARIZONA ) 
-http://nino4play.com:25461/YOUSELF3/CHILE3/13854
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 39 FHD ( HOUSTON )" tvg-logo="https://play-lh.googleusercontent.com/pOefDCBabuuBaaUWh27m8xyXNsGjH2Jv7NaTwMHFYP7BIDya1tDbvZngX9COeT_cTqWf=w240-h480-rw" group-title="LATINO USA",TELEMUNDO 39 FHD ( HOUSTON )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14319
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 44 HD ( CHICAGO )" tvg-logo="https://lh3.googleusercontent.com/qYASBkxcE4WGOx2gvBY_HDAynk_Of564iNRj5P-SEbH6nFXAPn_nXaTCTrApFhhL4A" group-title="LATINO USA",TELEMUNDO 44 HD ( CHICAGO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/282
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 47 FHD ( NEW YORK )   " tvg-logo="https://lh5.ggpht.com/TEfYd1Bj_fniCwK0Tkufw6q8iVtsai66CooYGcE5JMIoZjfXo7Yj3Rjw66azuvyjCg=h300" group-title="LATINO USA",TELEMUNDO 47 FHD ( NEW YORK )   
-http://nino4play.com:25461/YOUSELF3/CHILE3/280
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 47 HD ( NEW YORK )    " tvg-logo="https://lh3.googleusercontent.com/z79Lid24h9QoNcxRlx0QHUmW3JngGN1TGbr_1royHVuquP84mws6_6OBjM0Xk2LSXw" group-title="LATINO USA",TELEMUNDO 47 HD ( NEW YORK )    
-http://nino4play.com:25461/YOUSELF3/CHILE3/13853
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 47 SD ( NEW YORK )" tvg-logo="https://nebula.wsimg.com/5dff795031f055cfc2f2008f1f99e27a?AccessKeyId=FC98832E68A6D1FDAFB5&disposition=0&alloworigin=1" group-title="LATINO USA",TELEMUNDO 47 SD ( NEW YORK )
-http://nino4play.com:25461/YOUSELF3/CHILE3/3651
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 FHD ( MIAMI )    " tvg-logo="https://lh3.googleusercontent.com/c_Hu7SDQMrl_zimuiOjUR8qbOEDpGB7SOOFLs29OzlhonQ5D1UyHLXC-QB8gZVznApw" group-title="LATINO USA",TELEMUNDO 51 FHD ( MIAMI )    
-http://nino4play.com:25461/YOUSELF3/CHILE3/11984
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 HD ( MIAMI )" tvg-logo="https://play-lh.googleusercontent.com/c_Hu7SDQMrl_zimuiOjUR8qbOEDpGB7SOOFLs29OzlhonQ5D1UyHLXC-QB8gZVznApw" group-title="LATINO USA",TELEMUNDO 51 HD ( MIAMI )
-http://nino4play.com:25461/YOUSELF3/CHILE3/281
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 FHD ( FLORIDA )" tvg-logo="https://yt3.googleusercontent.com/Y7GKGOHidJBUEzjpyjcegIfM4b2Pv4MYOZT-WoePAZ5-0Nlc1EViUx8giAqrK-PCpF4w1gP8=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO USA",TELEMUNDO 51 FHD ( FLORIDA )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14882
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 52 FHD ( CALIFORNIA )" tvg-logo="https://play-lh.googleusercontent.com/pOefDCBabuuBaaUWh27m8xyXNsGjH2Jv7NaTwMHFYP7BIDya1tDbvZngX9COeT_cTqWf" group-title="LATINO USA",TELEMUNDO 52 FHD ( CALIFORNIA )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14074
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 52 FHD ( LOS ANGELES )  " tvg-logo="https://lh3.googleusercontent.com/GRZLkSx8xeaf0CahFJlUfT0bQ5Yxsn8KfalzK9Gn7KBkZGbVBjMX75Cm4XbwWYn3TA" group-title="LATINO USA",TELEMUNDO 52 FHD ( LOS ANGELES )  
-http://nino4play.com:25461/YOUSELF3/CHILE3/1061
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 52 HD ( LOS ANGELES )  " tvg-logo="http://nino4play.com:25461/images/a4f978fd5a5487db4087f1280bf338bd.jpg" group-title="LATINO USA",TELEMUNDO 52 HD ( LOS ANGELES )  
-http://nino4play.com:25461/YOUSELF3/CHILE3/14296
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO FHD  ( P. RICO )" tvg-logo="https://lh3.googleusercontent.com/VMpSJklzUthDeH2EfP0dmhiymZvS4raMuGsct4vwVCDxAeP2UTKxopImJEwm1_imKF4" group-title="LATINO USA",TELEMUNDO FHD  ( P. RICO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/13794
-#EXTINF:-1 tvg-id="" tvg-name="WAPA AMERICA FHD " tvg-logo="http://nino4play.com:25461/images/2823b8a484cb4e01d1e7443ad2d7cac6.jpg" group-title="LATINO USA",WAPA AMERICA FHD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/3739
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV FHD" tvg-logo="http://nino4play.com:25461/images/a3e6bf71f974b3d7ed72c6355f2b3755.png" group-title="LATINO USA",ESTRELLA TV FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/6076
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV HD " tvg-logo="http://nino4play.com:25461/images/1e42334035cfc6194ce84fe1b9584208.png" group-title="LATINO USA",ESTRELLA TV HD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/283
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION FHD" tvg-logo="http://nino4play.com:25461/images/748b49376cad26b02cac3463715b5793.png" group-title="LATINO USA",GALAVISION FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/285
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION FHD WEST" tvg-logo="https://yt3.googleusercontent.com/_e27rMWIrdh3iS4iZBSySGjyCeLRJZM1tO1M6BfUADTetlmRsbBCKuYkEe8ehkeYifWojOdNpA=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO USA",GALAVISION FHD WEST
-http://nino4play.com:25461/YOUSELF3/CHILE3/14444
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV FHD ( MIAMI ) " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUL0BOMAv3UoU-BMXNC9lQHj8A2Dku4gEC9mgexASy0D4pLKJq3a9rryhhEAao4tuu68&usqp=CAU" group-title="LATINO USA",MEGA TV FHD ( MIAMI ) 
-http://nino4play.com:25461/YOUSELF3/CHILE3/3363
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV HD ( MIAMI )   " tvg-logo="data:image/png;base64,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" group-title="LATINO USA",MEGA TV HD ( MIAMI )   
-http://nino4play.com:25461/YOUSELF3/CHILE3/13846
-#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO FHD  " tvg-logo="http://nino4play.com:25461/images/d1c68f23f3950095c2e51a6ea8045c8e.png" group-title="LATINO USA",NBC UNIVERSO FHD  
-http://nino4play.com:25461/YOUSELF3/CHILE3/13847
-#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO WEST HD" tvg-logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="LATINO USA",NBC UNIVERSO WEST HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/287
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV HD " tvg-logo="https://i1.wp.com/www.audiovisual451.com/wp-content/uploads/hola-concurso.png?fit=300%2C236&ssl=1" group-title="LATINO USA",HOLA TV HD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/289
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV PLAY HD" tvg-logo="https://image.pitchbook.com/5dSZGkokRkvpzWs5cAr2597YVuX1594151049473_200x200" group-title="LATINO USA",HOLA TV PLAY HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/10828
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="✰ 03 MLS SOLO EVENTOS" tvg-logo="http://nino4play.com:25461/images/c5d3150a457f2a1155aec4cc4a5dda65.png" group-title="LATINO ESPN ",✰ 03 MLS SOLO EVENTOS
 http://nino4play.com:25461/YOUSELF3/CHILE3/14873
 #EXTINF:-1 tvg-id="" tvg-name="✰ 04 MLS SOLO EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaCDAotF6ZvBiIll933siwjSmvvVSBUv1RdmNoFg99zTEaZaOgUL7PjAjuW5Rvka6B5fE&usqp=CAU" group-title="LATINO ESPN ",✰ 04 MLS SOLO EVENTOS
@@ -363,8 +385,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/11593
 http://nino4play.com:25461/YOUSELF3/CHILE3/15090
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR RTS SD   " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Rts_2005.png/revision/latest/scale-to-width-down/200?cb=20170426172209" group-title="LATINO +",ECUADOR RTS SD   
 http://nino4play.com:25461/YOUSELF3/CHILE3/10971
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TC HD" tvg-logo="http://nino4play.com:25461/images/6f77070977257a4f7e312826613e85e8.png" group-title="LATINO +",ECUADOR TC HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/15068
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TC HD" tvg-logo="http://nino4play.com:25461/images/6f77070977257a4f7e312826613e85e8.png" group-title="LATINO +",
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR TC SD   ec" tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png?mtime=20190825175049&focal=none" group-title="LATINO +",ECUADOR TC SD   ec
 http://nino4play.com:25461/YOUSELF3/CHILE3/8396
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR TELEAMAZONAS FHD   " tvg-logo="http://nino4play.com:25461/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="LATINO +",ECUADOR TELEAMAZONAS FHD   
