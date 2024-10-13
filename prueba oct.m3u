@@ -25,6 +25,10 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/13830
 http://nino4play.com:25461/YOUSELF3/CHILE3/13829
 #EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #12
 http://nino4play.com:25461/YOUSELF3/CHILE3/13817
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #13
+http://nino4play.com:25461/YOUSELF3/CHILE3/14873
+#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #14
+http://nino4play.com:25461/YOUSELF3/CHILE3/14881
 
 ═══════════ TV SPORTS ESPN⚽ ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN EXCLUSIVO       
@@ -235,6 +239,12 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/1
 http://nino4play.com:25461/YOUSELF3/CHILE3/7
 #EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",RPP TV 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14906
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",TV AZTECA HD HONDURAS 
+http://nino4play.com:25461/YOUSELF3/CHILE3/1910
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",VE PLUS HD VENEZUELA 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14755
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",VENEVISION HD VENEZUELA 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14588
 #EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="TV INTERNACIONAL★",WILLAX
 http://nino4play.com:25461/YOUSELF3/CHILE3/14395
 
@@ -331,7 +341,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/140
 DISCOVERY ESPAÑOL✰✰✰ OPC 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/14907
 
-═══════════ PREMIUM ═══════════
+═══════════ VIP ═══════════
 AXN HD  ✰✰✰      
 http://nino4play.com:25461/YOUSELF3/CHILE3/3033
 
@@ -359,10 +369,8 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14347
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="✰ 03 MLS SOLO EVENTOS" tvg-logo="http://nino4play.com:25461/images/c5d3150a457f2a1155aec4cc4a5dda65.png" group-title="LATINO ESPN ",✰ 03 MLS SOLO EVENTOS
-http://nino4play.com:25461/YOUSELF3/CHILE3/14873
-#EXTINF:-1 tvg-id="" tvg-name="✰ 04 MLS SOLO EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaCDAotF6ZvBiIll933siwjSmvvVSBUv1RdmNoFg99zTEaZaOgUL7PjAjuW5Rvka6B5fE&usqp=CAU" group-title="LATINO ESPN ",✰ 04 MLS SOLO EVENTOS
-http://nino4play.com:25461/YOUSELF3/CHILE3/14881
+
+
 
 
 
@@ -396,8 +404,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/15012
 http://nino4play.com:25461/YOUSELF3/CHILE3/10972
 #EXTINF:-1 tvg-id="" tvg-name="VENEZUELA VENEVISION FHD" tvg-logo="https://yt3.googleusercontent.com/r2tcL_eF5mnwmwStu48zqIh-0Q-qxPD5VuRUvTpmYthi27DP54NrZR_6LRvZYHpZ1P4ZvuM3Uw=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",VENEZUELA VENEVISION FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14976
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA VENEVISION HD" tvg-logo="https://play-lh.googleusercontent.com/XJKBLaDkJzZ8HCCjFWd6pvVg7lMUiqqit5MW5IwzxAfIq6WwGvJs2K4osqZrmT6tDA" group-title="LATINO +",VENEZUELA VENEVISION HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14588
+
 #EXTINF:-1 tvg-id="" tvg-name="VENEZUELA EVTV HD" tvg-logo="https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/363379344_307778848301478_6841927179843118296_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=w_LSetf-f4cAX-kiU53&_nc_ht=scontent.fyhu2-1.fna&oh=00_AfARRV6sev_6l_oO0qUzXqInSYhO9foYpvXflDaw3lGaHg&oe=65123360" group-title="LATINO +",VENEZUELA EVTV HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14582
 #EXTINF:-1 tvg-id="" tvg-name="VENEZUELA GLOBOVISION HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Globovisi%C3%B3n_1994.png/revision/latest?cb=20191201143058&path-prefix=es" group-title="LATINO +",VENEZUELA GLOBOVISION HD
@@ -406,8 +413,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14583
 http://nino4play.com:25461/YOUSELF3/CHILE3/14785
 #EXTINF:-1 tvg-id="" tvg-name="VENEZOLANA TELEVISION SD" tvg-logo="https://yt3.googleusercontent.com/Ys-LOp_XMVf2UG9Zfrn49eS3ONoBWVTREHbU2tDx70JfbrXMefWtatHRP_qd7i-5q68iY6rRMg=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",VENEZOLANA TELEVISION SD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14690
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA VE PLUS HD" tvg-logo="http://nino4play.com:25461/images/a0245a56f7228f2b93bbc8f3d273f4b3.png" group-title="LATINO +",VENEZUELA VE PLUS HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14755
+
 #EXTINF:-1 tvg-id="" tvg-name="VENEZUELA VE PLUS SD" tvg-logo="https://yt3.googleusercontent.com/6IlJhfm7ZBK2cgbZWbweq2v5cyqIPiGG3fd-Zeapbii9tEel_XmY_JZCsYH3NYTJhprBzfMGPA=s176-c-k-c0x00ffffff-no-rj" group-title="LATINO +",VENEZUELA VE PLUS SD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14580
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA  A + GUATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/A%2B_Guate_logo2023.webp/200px-A%2B_Guate_logo2023.webp.png" group-title="LATINO +",GUATEMALA  A + GUATE
@@ -448,8 +454,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/1941
 http://nino4play.com:25461/YOUSELF3/CHILE3/14567
 #EXTINF:-1 tvg-id="" tvg-name="HONDURAS TSI HD" tvg-logo="http://nino4play.com:25461/images/130922bc1dd971164b7f0e0a77e8241d.png" group-title="LATINO +",HONDURAS TSI HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14562
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS TV AZTECA HD" tvg-logo="https://yt3.googleusercontent.com/bW9kTZv6gZZccfbQ6HCnxzvTSi3MNARHOmpiquun8-TN9PKakixmapo6E66J8_HkgY2-ZpILsw=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO +",HONDURAS TV AZTECA HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/1910
+
 #EXTINF:-1 tvg-id="" tvg-name="R. DOMINICANA  CANAL 4 HD" tvg-logo="https://forounivers.com/gallery/image/1373-nuevo-logo-de-canal-4-monercarlo-tv-uruguay/?do=download" group-title="LATINO +",R. DOMINICANA  CANAL 4 HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/3738
 #EXTINF:-1 tvg-id="" tvg-name="R. DOMINICANA COLOR VISION FHD " tvg-logo="http://nino4play.com:25461/images/4450470f10b381484751f9f270fcb3ee.jpg" group-title="LATINO +",R. DOMINICANA COLOR VISION FHD 
