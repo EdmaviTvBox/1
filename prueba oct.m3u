@@ -1,11 +1,10 @@
 #EXTM3U
 
-═══════════ ★TV SPORTS★ ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="⚽TV SPORTS⚽",GOL PERU -PERU-
+GOL PERU -PERU-
 http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126859
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="⚽TV SPORTS⚽",GOL PERU 1 -PERU-
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS ⚽",GOL PERU 1 -PERU-
 http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126860
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="⚽TV SPORTS⚽",MOVISTAR PLUS -PERU-
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS ⚽",MOVISTAR PLUS -PERU-
 http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126874
 
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO" tvg-logo="http://nino4play.com:25461/images/cf99ed107c18ef446227507c8e3e89a6.jpg" group-title="( EVENTOS )",EVENTO
@@ -178,72 +177,93 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/10828
 http://nino4play.com:25461/YOUSELF3/CHILE3/14873
 #EXTINF:-1 tvg-id="" tvg-name="✰ 04 MLS SOLO EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaCDAotF6ZvBiIll933siwjSmvvVSBUv1RdmNoFg99zTEaZaOgUL7PjAjuW5Rvka6B5fE&usqp=CAU" group-title="LATINO ESPN ",✰ 04 MLS SOLO EVENTOS
 http://nino4play.com:25461/YOUSELF3/CHILE3/14881
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 1 FHD ( PERU ) ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/2ace58d3ba77351bde4ad3401cb49f04.jpg" group-title="LATINO ESPN ",✰ ESPN 1 FHD ( PERU ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/166
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 1 HD ( CHILE ) ⚽⚽⚽     " tvg-logo="http://nino4play.com:25461/images/0919c24e8eab4a719f5d7d5850ec13af.jpg" group-title="LATINO ESPN ",✰ ESPN 1 HD ( CHILE ) ⚽⚽⚽     
-http://nino4play.com:25461/YOUSELF3/CHILE3/13799
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 1 FHD ( COLOMBIA ) ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/a221c8c49579941e9445b3647e7f1056.jpg" group-title="LATINO ESPN ",✰ ESPN 1 FHD ( COLOMBIA ) ⚽⚽⚽
+
+
+═══════════ TV SPORTS ⚽ ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN COLOMBIA
 http://nino4play.com:25461/YOUSELF3/CHILE3/13972
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 1 HD ( COLOMBIA ) ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/f68d4b9226872243221c6e33e76da045.jpg" group-title="LATINO ESPN ",✰ ESPN 1 HD ( COLOMBIA ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/792
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 2 FHD ( COLOMBIA ) ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/6bd4a9a722f9cd1125fd44f60b24223c.png" group-title="LATINO ESPN ",✰ ESPN 2 FHD ( COLOMBIA ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/14913
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 2 FHD ( PERU ) ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/b0060e05db6390fc46e1da9ee38c2e2a.jpg" group-title="LATINO ESPN ",✰ ESPN 2 FHD ( PERU ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/152
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 3 FHD ( PERU ) ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/496e05e1aea0a9c4655800e8a7b9ea28.png" group-title="LATINO ESPN ",✰ ESPN 3 FHD ( PERU ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/10291
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 4 FHD ( PERU ) ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/a7f1c9fa8870a6661141de72ea23b44f.jpg" group-title="LATINO ESPN ",✰ ESPN 4 FHD ( PERU ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/11592
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 5 FHD ( EXCLUSIVO ) ⚽⚽⚽" tvg-logo="https://espnpressroom.com/us/files/2013/11/SC-App-Logo.jpg" group-title="LATINO ESPN ",✰ ESPN 5 FHD ( EXCLUSIVO ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/13970
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 6 FHD ( EXCLUSIVO ) ⚽⚽⚽" tvg-logo="https://s3.amazonaws.com/files.lafm.com.co/assets/public/styles/image_1200x1200/public/2021-05/star_8_0.jpg.webp?tRr6wuV5Om_sqk17AZ8WyLe0YKoeKqZo&itok=KYi6C16L" group-title="LATINO ESPN ",✰ ESPN 6 FHD ( EXCLUSIVO ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/11995
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN 7 FHD ( EXCLUSIVO ) ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/a477bbe1c93ec6982e561fba878989ea.jpg" group-title="LATINO ESPN ",✰ ESPN 7 FHD ( EXCLUSIVO ) ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/14878
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN DEPORTES FHD ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/74a703e74ad90c7cbf4001ad6899dea0.png" group-title="LATINO ESPN ",✰ ESPN DEPORTES FHD ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/165
-#EXTINF:-1 tvg-id="" tvg-name="✰ ESPN DEPORTES HD ⚽⚽⚽    " tvg-logo="http://nino4play.com:25461/images/7d9652d1774596f808ac862e58737c17.png" group-title="LATINO ESPN ",✰ ESPN DEPORTES HD ⚽⚽⚽    
-http://nino4play.com:25461/YOUSELF3/CHILE3/11761
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD ( MEXICO ) " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="LATINO ESPN ",ESPN 1 HD ( MEXICO ) 
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PERU
+http://nino4play.com:25461/YOUSELF3/CHILE3/166
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN CHILE
+http://nino4play.com:25461/YOUSELF3/CHILE3/13799
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN MEXICO
 http://nino4play.com:25461/YOUSELF3/CHILE3/230
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD ( MEXICO )" tvg-logo="http://nino4play.com:25461/images/98d20880f65aa650d9649538ff8a8a1b.jpg" group-title="LATINO ESPN ",ESPN 2 HD ( MEXICO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/6593
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD ( MEXICO )" tvg-logo="http://nino4play.com:25461/images/95ab37d4f6f33dd70da525dff279e573.png" group-title="LATINO ESPN ",ESPN 3 HD ( MEXICO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/13807
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD ( MEXICO )" tvg-logo="https://static.wikia.nocookie.net/programacao/images/d/dc/ESPN_4_Logo_tipo.jpg/revision/latest?cb=20220117191627&path-prefix=pt-br" group-title="LATINO ESPN ",ESPN 4 HD ( MEXICO )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14049
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 FHD ( MEXICO )  D.AUDIO" tvg-logo="http://nino4play.com:25461/images/ab0179f422411d4c76bb1322b8a8b21a.png" group-title="LATINO ESPN ",ESPN 5 FHD ( MEXICO )  D.AUDIO
-http://nino4play.com:25461/YOUSELF3/CHILE3/168
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM FHD ( CHILE )" tvg-logo="http://nino4play.com:25461/images/5b1d4e4d84d63d58440dda68625a0b17.png" group-title="LATINO ESPN ",ESPN PREMIUM FHD ( CHILE )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14879
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM FHD ( ARGENTINA )" tvg-logo="http://nino4play.com:25461/images/d0de5a974c5dcbb0c7e97894b8de5df9.png" group-title="LATINO ESPN ",ESPN PREMIUM FHD ( ARGENTINA )
-http://nino4play.com:25461/YOUSELF3/CHILE3/158
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD ( ARGENTINA )" tvg-logo="http://nino4play.com:25461/images/9ea102e4df5e33f4e656877c064d883a.jpg" group-title="LATINO ESPN ",ESPN 1 HD ( ARGENTINA )
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN ARGENTINA
 http://nino4play.com:25461/YOUSELF3/CHILE3/14201
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD ( ARGENTINA )" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdbPSPOKUytrt0406m_nYga7oSv6lQ-Q7HNbzag_rIgHrXcTKvpsofO3gO_R8sgwLNLQ&usqp=CAU" group-title="LATINO ESPN ",ESPN 2 HD ( ARGENTINA )
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 COLOMBIA
+http://nino4play.com:25461/YOUSELF3/CHILE3/14913
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 PERU
+http://nino4play.com:25461/YOUSELF3/CHILE3/152
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 MEXICO
+http://nino4play.com:25461/YOUSELF3/CHILE3/6593
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 ARGENTINA
 http://nino4play.com:25461/YOUSELF3/CHILE3/6303
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD ( ARGENTINA )" tvg-logo="https://d21gd0ap5v1ndt.cloudfront.net/web05/img.php?src=/images/news_imported/espn3.png&site=mside&crop" group-title="LATINO ESPN ",ESPN 3 HD ( ARGENTINA )
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 3 PERU 
+http://nino4play.com:25461/YOUSELF3/CHILE3/10291
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 3 MEXICO 
+http://nino4play.com:25461/YOUSELF3/CHILE3/13807
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 3 ARGENTINA 
 http://nino4play.com:25461/YOUSELF3/CHILE3/167
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD ( PERU ) " tvg-logo="http://nino4play.com:25461/images/f68d4b9226872243221c6e33e76da045.jpg" group-title="LATINO ESPN ",ESPN 1 FHD ( PERU ) 
-http://nino4play.com:25461/YOUSELF3/CHILE3/13843
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD ( PERU )" tvg-logo="http://nino4play.com:25461/images/eb50b3b737aad537b935da3087511ad8.png" group-title="LATINO ESPN ",ESPN 2 HD ( PERU )
-http://nino4play.com:25461/YOUSELF3/CHILE3/229
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD " tvg-logo="http://nino4play.com:25461/images/dc2dee2e115f90420ec96d3518694951.jpg" group-title="LATINO ESPN ",ESPN 3 HD 
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 3
 http://nino4play.com:25461/YOUSELF3/CHILE3/13971
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD " tvg-logo="http://nino4play.com:25461/images/a7f1c9fa8870a6661141de72ea23b44f.jpg" group-title="LATINO ESPN ",ESPN 4 HD 
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 4 PERU
+http://nino4play.com:25461/YOUSELF3/CHILE3/11592
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 4 MEXICO
+http://nino4play.com:25461/YOUSELF3/CHILE3/14049
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 4
 http://nino4play.com:25461/YOUSELF3/CHILE3/14883
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 FHD " tvg-logo="http://nino4play.com:25461/images/ece142362714501ede8bc19d19aad25f.png" group-title="LATINO ESPN ",ESPN 5 FHD 
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 5 MEXICO
+http://nino4play.com:25461/YOUSELF3/CHILE3/168
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 5 
+http://nino4play.com:25461/YOUSELF3/CHILE3/13970
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 6 
+http://nino4play.com:25461/YOUSELF3/CHILE3/11995
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 7 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14878
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN DEPORTES
+http://nino4play.com:25461/YOUSELF3/CHILE3/165
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PREMIUM CHILE
+http://nino4play.com:25461/YOUSELF3/CHILE3/14879
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PREMIUM ARGENTINA
+http://nino4play.com:25461/YOUSELF3/CHILE3/158
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN COLOMBIA OPC 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/792
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PERU OPC 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/13843
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN DEPORTES OPC 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/11761
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 5 OPC 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/14048
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 FHD" tvg-logo="http://nino4play.com:25461/images/49d362b1005c3d87b6a352f088a0c659.jpg" group-title="LATINO ESPN ",ESPN 6 FHD
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 6 OPC 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/14885
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 FHD " tvg-logo="http://nino4play.com:25461/images/42d62fce294871d8304fa27dd89ab8b4.jpg" group-title="LATINO ESPN ",ESPN 7 FHD 
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 7 OPC 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/14884
-#EXTINF:-1 tvg-id="" tvg-name="MOVIL ESPN 1 HD PERU " tvg-logo="http://nino4play.com:25461/images/068b6ff11ea4bd072ffe3846af732860.png" group-title="LATINO ESPN ",MOVIL ESPN 1 HD PERU 
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 PERU OPC 3
+http://nino4play.com:25461/YOUSELF3/CHILE3/229
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",MOVIL ESPN PERU 
 http://nino4play.com:25461/YOUSELF3/CHILE3/8444
-#EXTINF:-1 tvg-id="" tvg-name="MOVIL ESPN 1 COLOMBIA" tvg-logo="https://a.espncdn.com/combiner/i?img=i/espn/espn_logos/espn_red.png&w=200&h=200&transparent=true" group-title="LATINO ESPN ",MOVIL ESPN 1 COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",MOVIL ESPN COLOMBIA
 http://nino4play.com:25461/YOUSELF3/CHILE3/14311
-#EXTINF:-1 tvg-id="" tvg-name="MOVIL ESPN 2 HD PERU" tvg-logo="http://nino4play.com:25461/images/ef8972e694182ba02540ef3791e3eea1.png" group-title="LATINO ESPN ",MOVIL ESPN 2 HD PERU
+#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",MOVIL ESPN PERU
 http://nino4play.com:25461/YOUSELF3/CHILE3/14315
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="✰ DIRECTV SPORTS FHD 1 ⚽⚽⚽" tvg-logo="https://play-lh.googleusercontent.com/76omVPp8B4YjgG6c6RGiSTxsv5US9O8MvJKHC8WyPg9KzCiNwspVWaa8Jtq6tyMhPg" group-title="LATINO DEPORTE",✰ DIRECTV SPORTS FHD 1 ⚽⚽⚽
 http://nino4play.com:25461/YOUSELF3/CHILE3/154
 #EXTINF:-1 tvg-id="" tvg-name="✰ DIRECTV SPORTS HD 1 ⚽⚽⚽" tvg-logo="https://play-lh.googleusercontent.com/cFxWI5Oxw_WkTWko2gnLsliulpjNuU2u2Koy_tGzh2mTzE2WnEzpfiXPszJ_xufPgn8" group-title="LATINO DEPORTE",✰ DIRECTV SPORTS HD 1 ⚽⚽⚽
