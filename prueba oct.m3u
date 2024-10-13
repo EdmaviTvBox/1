@@ -1,12 +1,5 @@
 #EXTM3U
 
-GOL PERU -PERU-
-http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126859
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS ⚽",GOL PERU 1 -PERU-
-http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126860
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS ⚽",MOVISTAR PLUS -PERU-
-http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126874
-
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO" tvg-logo="http://nino4play.com:25461/images/cf99ed107c18ef446227507c8e3e89a6.jpg" group-title="( EVENTOS )",EVENTO
 http://nino4play.com:25461/YOUSELF3/CHILE3/14186
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION NOTICIAS 24/7 FHD" tvg-logo="http://nino4play.com:25461/images/dbb053c4d88c108116f9fc44c5e4a45f.png" group-title="LATINO USA",UNIVISION NOTICIAS 24/7 FHD
@@ -179,7 +172,7 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14873
 http://nino4play.com:25461/YOUSELF3/CHILE3/14881
 
 
-═══════════ TV SPORTS ⚽ ═══════════
+═══════════ TV SPORTS ESPN⚽ ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN COLOMBIA
 http://nino4play.com:25461/YOUSELF3/CHILE3/13972
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PERU
@@ -247,35 +240,50 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14311
 #EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",MOVIL ESPN PERU
 http://nino4play.com:25461/YOUSELF3/CHILE3/14315
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="✰ DIRECTV SPORTS FHD 1 ⚽⚽⚽" tvg-logo="https://play-lh.googleusercontent.com/76omVPp8B4YjgG6c6RGiSTxsv5US9O8MvJKHC8WyPg9KzCiNwspVWaa8Jtq6tyMhPg" group-title="LATINO DEPORTE",✰ DIRECTV SPORTS FHD 1 ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/154
-#EXTINF:-1 tvg-id="" tvg-name="✰ DIRECTV SPORTS HD 1 ⚽⚽⚽" tvg-logo="https://play-lh.googleusercontent.com/cFxWI5Oxw_WkTWko2gnLsliulpjNuU2u2Koy_tGzh2mTzE2WnEzpfiXPszJ_xufPgn8" group-title="LATINO DEPORTE",✰ DIRECTV SPORTS HD 1 ⚽⚽⚽
+═══════════ TV SPORTS⚽ ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS 
 http://nino4play.com:25461/YOUSELF3/CHILE3/4521
-#EXTINF:-1 tvg-id="" tvg-name="✰ DIRECTV SPORTS FHD 2 ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/25ef010a89e70a5445482f4e896b07db.png" group-title="LATINO DEPORTE",✰ DIRECTV SPORTS FHD 2 ⚽⚽⚽
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/155
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS PLUS
+http://nino4play.com:25461/YOUSELF3/CHILE3/156
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOL PERU
+http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126859
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",MOVISTAR PLUS 
+http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126874
+
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS OPC 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/154
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS 2 OPC 2
 http://nino4play.com:25461/YOUSELF3/CHILE3/14121
 #EXTINF:-1 tvg-id="" tvg-name="✰ DIRECTV SPORTS HD 2 ⚽⚽⚽" tvg-logo="http://nino4play.com:25461/images/02fd35caf3d213de4b88757b09f227ba.jpg" group-title="LATINO DEPORTE",✰ DIRECTV SPORTS HD 2 ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/155
+
 #EXTINF:-1 tvg-id="" tvg-name="✰ DIRECTV SPORTS PLUS FHD  ⚽⚽⚽" tvg-logo="https://dsportsradio-assets.tadevel-cdn.com/62ae18c55104019949f98846/icon.svg" group-title="LATINO DEPORTE",✰ DIRECTV SPORTS PLUS FHD  ⚽⚽⚽
 http://nino4play.com:25461/YOUSELF3/CHILE3/14246
-#EXTINF:-1 tvg-id="" tvg-name="✰ DIRECTV SPORTS PLUS HD  ⚽⚽⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROkUp9tvQZHWwKMcGa9AEE09zz0cYENuHjWkShUPtB7Ih-rC6t" group-title="LATINO DEPORTE",✰ DIRECTV SPORTS PLUS HD  ⚽⚽⚽
-http://nino4play.com:25461/YOUSELF3/CHILE3/156
+
+
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOL PERU OPC 2
+http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126860
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="✰ FOX DEPORTES HD ⚽⚽⚽    DP" tvg-logo="https://prim.dideo.ir/image/a2NjY2JjTFBBSk5rZnYyT1dMWURJZjNocU5EU2xva3paOC9rL2hVd2hoV1FlRndQZENXUE5ZeVAvbmRHZElWZjZKa3RGVkhUMmFnTkZCTGpFWVM3aUxBZ3VxV05XVGlFbGhOQmNjR2czN0h6ZWg4VUFzVktMMW1CbkFVREliVmxnRGIzR3hHT2Q2TEdKeGRpNVBzNmtaV2NnOXUwZXM4TmRuVlVMUWM2L0c2WjAxazFLdUpkSHVwREdpcjl3dnpTeFlyNzNkNFhTdFBzeFJjSTBoVmZaVGN1UGplL0NBdmVBU1dqdFZoenZEaHgxTXVkTXNaWC9XVTZuQzF3OVBCaEJHOFdiVjM5N04wUnlkSjlmaUdDQXUrbDFEMStxM091VHg0TU1vaENzN0huVmRHOVpPZUdjWmpENUZTaXJmYXE=" group-title="LATINO DEPORTE",✰ FOX DEPORTES HD ⚽⚽⚽    DP
 http://nino4play.com:25461/YOUSELF3/CHILE3/164
 #EXTINF:-1 tvg-id="" tvg-name="✰ FOX DEPORTES SD ⚽⚽⚽" tvg-logo="https://yt3.googleusercontent.com/DQjAsNXWp_Pxmgjt-1oHs4d21CCYXigCFv1CP5QR7F9_MnB5E0yJcst7eIMHUaQJntgdPdjJCQ=s900-c-k-c0x00ffffff-no-rj" group-title="LATINO DEPORTE",✰ FOX DEPORTES SD ⚽⚽⚽
