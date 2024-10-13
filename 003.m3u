@@ -101,6 +101,8 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14311
 http://nino4play.com:25461/YOUSELF3/CHILE3/14315
 
 ═══════════ TV SPORTS⚽ ═══════════
+#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS MEXICO OPC 2
+http://nino4play.com:25461/YOUSELF3/CHILE3/159
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX DEPORTES
 http://nino4play.com:25461/YOUSELF3/CHILE3/164
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX DEPORTES SD 
@@ -205,8 +207,6 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/235
 http://nino4play.com:25461/YOUSELF3/CHILE3/14842
 #EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",BEIN SPORTS OPC 2 
 http://nino4play.com:25461/YOUSELF3/CHILE3/4635
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS MEXICO OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/159
 
 ═══════════ |★| KIDS |★| ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Anime ZoneTV
