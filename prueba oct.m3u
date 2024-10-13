@@ -4,6 +4,24 @@ BABY TV
 http://nino4play.com:25461/YOUSELF3/CHILE3/94
 CANAL INFANTIL FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14028
+CARTOONITO HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/95
+CARTOON NETWORK HD  D.AUDIO
+http://nino4play.com:25461/YOUSELF3/CHILE3/96
+DISCOVERY KIDS HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14029
+DISNEY CHANNEL HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/97
+DISNEY JR HD   
+http://nino4play.com:25461/YOUSELF3/CHILE3/887
+NAT GEO KIDS HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/98
+NICK JUNIOR 1 HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/99
+NICKELODEON FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14154
+ZOOMOO HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14164
 
 ═══════════ EVENTOS⚽ ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #01
@@ -312,14 +330,48 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14755
 http://nino4play.com:25461/YOUSELF3/CHILE3/14588
 #EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",WILLAX
 http://nino4play.com:25461/YOUSELF3/CHILE3/14395
-CHIL 24 HORAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",CHIL 24 HORAS FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/13662
-PAN TELEMETRO HD 
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",PAN TELEMETRO HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/15101
-PAN TVN HD 
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",PAN TVN HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/6079
-PAN TVN MAX HD 
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",PAN TVN MAX HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/10830
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG AMERICA SD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/2917
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG CANAL 8 HD ( MAR DEL PLATA )
+http://nino4play.com:25461/YOUSELF3/CHILE3/14727
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG EL NUEVE FHD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/85
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG EL NUEVE HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/87
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG EL TRECE FHD   
+http://nino4play.com:25461/YOUSELF3/CHILE3/8398
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG EL TRECE HD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/84
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG TELEFE HD ( ROSARIO )   
+http://nino4play.com:25461/YOUSELF3/CHILE3/88
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG TELEFE HD ( SANTA FE )
+http://nino4play.com:25461/YOUSELF3/CHILE3/11722
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG TELEFE SD
+http://nino4play.com:25461/YOUSELF3/CHILE3/15013
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG TV PUBLICA FHD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/92
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARGTV PUBLICA HD ( CATAMARCA )
+http://nino4play.com:25461/YOUSELF3/CHILE3/14474
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG A24 HD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/79
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG 24/7 HD 
+http://nino4play.com:25461/YOUSELF3/CHILE3/80
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG 13 MAX HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/81
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG CANAL 10 HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/3358
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARG CANAL 26 HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/82
+#EXTINF:-1 tvg-id="" tvg-name="★TV INTERNACIONAL★" tvg-logo="https://n9.cl/6lm6s" group-title="INTERNACIONAL",ARGTELEPIN HD ( CANAL 2 )
+http://nino4play.com:25461/YOUSELF3/CHILE3/90
 
 ═══════════ TV USA LATINO ═══════════
 #EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="USA LATINO",UNIVISION NOTICIAS 
@@ -386,6 +438,12 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/14882
 http://nino4play.com:25461/YOUSELF3/CHILE3/14074
 #EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="USA LATINO",TELEMUNDO 52 FHD LOS ANGELES 
 http://nino4play.com:25461/YOUSELF3/CHILE3/1061
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="USA LATINO",TELEMUNDO INT FHD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14880
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="USA LATINO",TELEMUNDO INT HD
+http://nino4play.com:25461/YOUSELF3/CHILE3/14247
+#EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="USA LATINO",TELEMUNDO INT SD
+http://nino4play.com:25461/YOUSELF3/CHILE3/6002
 #EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="USA LATINO",NBC UNIVERSO FHD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/13847
 #EXTINF:-1 tvg-id="" tvg-name="★TV USA LATINO★" tvg-logo="https://n9.cl/c8mvl" group-title="USA LATINO",MEGA TV FHD MIAMI 
@@ -734,39 +792,39 @@ BRASIL  ESPN 3 HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/11681
 BRASIL ESPN 4 HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14256
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL PREMIERE HD  " tvg-logo="http://nino4play.com:25461/images/bfc0acfd567b942647ff2b74e91ddb03.png" group-title="MUNDO SPORTS",BRASIL PREMIERE HD  
+BRASIL PREMIERE HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/765
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL SPORTV 1 HD " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102012/untitled-1_15.png?itok=r79vmWZd" group-title="MUNDO SPORTS",BRASIL SPORTV 1 HD 
+BRASIL SPORTV 1 HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/431
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL SPORTV 2 HD  " tvg-logo="http://nino4play.com:25461/images/5efe667c2f82deedfeaad739bd064bf1.png" group-title="MUNDO SPORTS",BRASIL SPORTV 2 HD  
+BRASIL SPORTV 2 HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/836
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL SPORTV 3 HD D.AUDIO" tvg-logo="http://nino4play.com:25461/images/b4bf88ec0d1f6c163c21f15a5089f57f.png" group-title="MUNDO SPORTS",BRASIL SPORTV 3 HD D.AUDIO
+BRASIL SPORTV 3 HD D.AUDIO
 http://nino4play.com:25461/YOUSELF3/CHILE3/11682
-#EXTINF:-1 tvg-id="" tvg-name="✰ CA  RDS 1 FHD ✰✰✰" tvg-logo="http://nino4play.com:25461/images/e6d3b278a574aef18d5453f0dfc625f1.jpg" group-title="MUNDO SPORTS",✰ CA  RDS 1 FHD ✰✰✰
+CA  RDS 1 FHD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/11591
-#EXTINF:-1 tvg-id="" tvg-name="✰ CA  RDS 1 HD ✰✰✰  " tvg-logo="http://nino4play.com:25461/images/e40490109cdce445265735cb26654a1b.jpeg" group-title="MUNDO SPORTS",✰ CA  RDS 1 HD ✰✰✰  
+CA  RDS 1 HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/357
-#EXTINF:-1 tvg-id="" tvg-name="✰ CA  RDS 2 HD ✰✰✰" tvg-logo="http://nino4play.com:25461/images/a5e55c211022a154594a0697d1597640.png" group-title="MUNDO SPORTS",✰ CA  RDS 2 HD ✰✰✰
+CA  RDS 2 HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14141
-#EXTINF:-1 tvg-id="" tvg-name="✰ CA  TVA SPORTS FHD  ✰✰✰" tvg-logo="https://www.lequipe.fr/_medias/img-photo-jpg/les-canadiens-de-montreal-partent-a-la-conquete-d-un-25e-titre-a-partir-de-lundi-e-bolte-usa-today-sports-reuters/1500000001508868/0:0,1476:1476-828-828-75/b2a0c" group-title="MUNDO SPORTS",✰ CA  TVA SPORTS FHD  ✰✰✰
+A  TVA SPORTS FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/362
-#EXTINF:-1 tvg-id="" tvg-name="CA  TVA SPORTS 1 HD  " tvg-logo="http://nino4play.com:25461/images/a060e2a77a17c5f3d0116eec98cf9e7a.jpg" group-title="MUNDO SPORTS",CA  TVA SPORTS 1 HD  
+CA  TVA SPORTS 1 HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/11680
-#EXTINF:-1 tvg-id="" tvg-name="CA  TVA SPORTS 2 HD  " tvg-logo="http://nino4play.com:25461/images/420bf3d974670fd018f813d4bf76da38.png" group-title="MUNDO SPORTS",CA  TVA SPORTS 2 HD  
+CA  TVA SPORTS 2 HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/6042
-#EXTINF:-1 tvg-id="" tvg-name="CA  TSN 1 HD  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80UtKAGegLFmuYwk7EdUKZ7fB76Z2gg8OtU2A3sIrVYu8b72GdmEzTN--JNePS9AQuVQ&usqp=CAU" group-title="MUNDO SPORTS",CA  TSN 1 HD  
+CA  TSN 1 HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/11742
-#EXTINF:-1 tvg-id="" tvg-name="CA  TSN 2 HD  " tvg-logo="http://nino4play.com:25461/images/a1172362ca55bd588401a246b8d29a90.png" group-title="MUNDO SPORTS",CA  TSN 2 HD  
+CA  TSN 2 HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/14828
-#EXTINF:-1 tvg-id="" tvg-name="CA SPORTSNET NEW YORK  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWUomxxpDBcsPqj3u56UYdaQ9N9IAGZfHeC1xPGVYKg&s" group-title="MUNDO SPORTS",CA SPORTSNET NEW YORK  HD
+CA SPORTSNET NEW YORK  HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14908
-#EXTINF:-1 tvg-id="" tvg-name="CA SPORTSNET ONE FHD" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOne.png" group-title="MUNDO SPORTS",CA SPORTSNET ONE FHD
+CA SPORTSNET ONE FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14826
-#EXTINF:-1 tvg-id="" tvg-name="CA SPORTSNET ONTARIO HD " tvg-logo="http://nino4play.com:25461/images/9051b47e85d4bed9ee40dd0a4606eafc.png" group-title="MUNDO SPORTS",CA SPORTSNET ONTARIO HD 
+CA SPORTSNET ONTARIO HD 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14741
-#EXTINF:-1 tvg-id="" tvg-name="FR  RMC SPORT 1 HD  " tvg-logo="https://play-lh.googleusercontent.com/6yDUwNFaXWEQTHDpIVZ-i6GjB5IwJhz4pFVtlF3bMUmv20fbtt1_aIKclY4E9JkLe41E" group-title="MUNDO SPORTS",FR  RMC SPORT 1 HD  
+FR  RMC SPORT 1 HD  
 http://nino4play.com:25461/YOUSELF3/CHILE3/11751
-#EXTINF:-1 tvg-id="" tvg-name="FR  RMC SPORT 2 HD" tvg-logo="http://nino4play.com:25461/images/f5e9ddb2e4b8bbcecb188882f96c393d.png" group-title="MUNDO SPORTS",FR  RMC SPORT 2 HD
+FR  RMC SPORT 2 HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/11752
 
 
@@ -828,72 +886,13 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/8441
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLdSF72kcg_6Uo4dd2Y4mE8xFgSNeo1WaRtjRja-n0UvJA5mho5myi_Qo1iDoHhgRP4I&usqp=CAU" group-title="LATINO NOVELAS +",TELEMUNDO INT FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14880
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT HD" tvg-logo="http://nino4play.com:25461/images/0a5e11c21ea24731b73690c60f41770c.jpg" group-title="LATINO NOVELAS +",TELEMUNDO INT HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14247
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT SD" tvg-logo="http://nino4play.com:25461/images/b775770ed2e723b7a2a5b93bfdf0b558.jpeg" group-title="LATINO NOVELAS +",TELEMUNDO INT SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/6002
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI" group-title="BABY TV",CARTOONITO HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/95
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD  D.AUDIO" tvg-logo="http://nino4play.com:25461/images/57a4ebf2812c18923eb764516df4d2dc.jpg" group-title="BABY TV",CARTOON NETWORK HD  D.AUDIO
-http://nino4play.com:25461/YOUSELF3/CHILE3/96
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://nino4play.com:25461/images/57c4c14859e08cca979ea6cfe2060efb.jpg" group-title="BABY TV",DISCOVERY KIDS HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14029
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://nino4play.com:25461/images/f2127717efa9b188d759bce96acb99a1.jpg" group-title="BABY TV",DISNEY CHANNEL HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/97
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD   " tvg-logo="https://i.scdn.co/image/ab6761610000e5eb5ac9515e7e4f7961c944bcea" group-title="BABY TV",DISNEY JR HD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/887
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS HD" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/100/original/pic_natgeokids.png?1522178503" group-title="BABY TV",NAT GEO KIDS HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/98
-#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR 1 HD" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2020/06/natgeokids.jpg" group-title="BABY TV",NICK JUNIOR 1 HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/99
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8dFEVqvbbufEYHeJ1ihdsDnWzXSdx3l6VRV5hj5A=s900-c-k-c0x00ffffff-no-rj" group-title="BABY TV",NICKELODEON FHD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14154
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD" tvg-logo="http://nino4play.com:25461/images/a8aa2fb8452e11d77932f50a917d8a84.png" group-title="BABY TV",ZOOMOO HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/14164
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA SD ( ARG )" tvg-logo="http://nino4play.com:25461/images/fe314818dc841db3c5f0482aa44d9030.png" group-title="ARGENTINA",AMERICA SD ( ARG )
-http://nino4play.com:25461/YOUSELF3/CHILE3/2917
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 7 HD ( NEUQUEN )" tvg-logo="https://yt3.googleusercontent.com/YbQiMhJJqEXtgBCu7S-AnpYn2jlK8kGHHJ23i5aUAfep71WWTBGb8DbUmkUUnRX4D-oDatdzTA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CANAL 7 HD ( NEUQUEN )
-http://nino4play.com:25461/YOUSELF3/CHILE3/11723
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 HD ( MAR DEL PLATA )" tvg-logo="https://yt3.googleusercontent.com/TNncql_yVJS7qIdyB9Jclm8aCpKmhtcMUT7gtQa7imaXA13MKVGP-w0lLYEvF488c8TYe2YHEg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CANAL 8 HD ( MAR DEL PLATA )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14727
-#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE FHD " tvg-logo="http://nino4play.com:25461/images/1db22f6fd165d2ba7dccc51668f0dbd3.png" group-title="ARGENTINA",EL NUEVE FHD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/85
-#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE HD" tvg-logo="http://nino4play.com:25461/images/42b2709d8dc3294e81c716c6a2959152.jpg" group-title="ARGENTINA",EL NUEVE HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/87
-#EXTINF:-1 tvg-id="" tvg-name="EL TRECE FHD   " tvg-logo="https://play-lh.googleusercontent.com/THm4FcyIghHNbAuUNY2MCrruUajFRnPdE_Z53Gps4yAJGBjZfnDsQgRGiW87D8P1LqMi" group-title="ARGENTINA",EL TRECE FHD   
-http://nino4play.com:25461/YOUSELF3/CHILE3/8398
-#EXTINF:-1 tvg-id="" tvg-name="EL TRECE HD " tvg-logo="http://nino4play.com:25461/images/a7875399780c492a85335be5ad82ed15.png" group-title="ARGENTINA",EL TRECE HD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/84
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE HD ( ROSARIO )   " tvg-logo="http://nino4play.com:25461/images/f4d9bfc2f7f27d37a7e170438ed0a5ea.jpg" group-title="ARGENTINA",TELEFE HD ( ROSARIO )   
-http://nino4play.com:25461/YOUSELF3/CHILE3/88
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE HD ( SANTA FE )" tvg-logo="https://yt3.ggpht.com/CwlkrvdEhaxn-4C7cUFu0gpx2Fcn2f58gCp0GJ3QJkP_G-fp-a2iDuVv6HHw-SaIMvmp97id1Q=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",TELEFE HD ( SANTA FE )
-http://nino4play.com:25461/YOUSELF3/CHILE3/11722
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE SD" tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/8d/Telefe_New.jpg/revision/latest?cb=20230818010455" group-title="ARGENTINA",TELEFE SD
-http://nino4play.com:25461/YOUSELF3/CHILE3/15013
-#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA FHD " tvg-logo="http://nino4play.com:25461/images/e5bcfdbc9330ff886c439ae7a4aefc27.png" group-title="ARGENTINA",TV PUBLICA FHD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/92
-#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA HD ( CATAMARCA )" tvg-logo="http://nino4play.com:25461/images/640d96e78962cbce4420dec8263cef7f.jpg" group-title="ARGENTINA",TV PUBLICA HD ( CATAMARCA )
-http://nino4play.com:25461/YOUSELF3/CHILE3/14474
-#EXTINF:-1 tvg-id="" tvg-name="A24 HD " tvg-logo="http://nino4play.com:25461/images/baec2799c0d7716430173e35e9de3a57.png" group-title="ARGENTINA",A24 HD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/79
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HD " tvg-logo="https://yt3.ggpht.com/a/AGF-l7-lfi9XmpdoJBQhiyrgO_ZUx9RjXucx_i7pvw=s900-c-k-c0xffffffff-no-rj-mo" group-title="ARGENTINA",24/7 HD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/80
-#EXTINF:-1 tvg-id="" tvg-name="13 MAX HD" tvg-logo="https://lh4.googleusercontent.com/proxy/qw1JFH-4_c8fLiNB7tqKZ3DwAcCZRJWFYOzWTB89-3UCJhLrQRblAj_U9PgolOhcbxUzOuFQgad3QDEEUs3tmZu49cdRL6xWvdvMitzhMlVXtuAaNOXKQnw=w1200-h630-p-k-no-nu" group-title="ARGENTINA",13 MAX HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/81
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 HD" tvg-logo="http://nino4play.com:25461/images/f9c332bbca83b84ed1ced5c0e679e06e.png" group-title="ARGENTINA",CANAL 10 HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/3358
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 HD" tvg-logo="http://nino4play.com:25461/images/bf8b3a9be7485fadc33f5f48d6bf4aa3.png" group-title="ARGENTINA",CANAL 26 HD
-http://nino4play.com:25461/YOUSELF3/CHILE3/82
-#EXTINF:-1 tvg-id="" tvg-name="TELEPIN HD ( CANAL 2 )" tvg-logo="http://158.69.52.98:25461/images/6a7f1f5d23ac02f1f46d2ecb217e3c96.png" group-title="ARGENTINA",TELEPIN HD ( CANAL 2 )
-http://nino4play.com:25461/YOUSELF3/CHILE3/90
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN CHILE FHD" tvg-logo="http://nino4play.com:25461/images/6cc5ce54d26aca551878cbaede75e2ac.png" group-title="CHILE",CNN CHILE FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14909
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CANAL 13 FHD  " tvg-logo="https://leonardoveralopez.files.wordpress.com/2018/04/logo-canal-13rr.jpg?w=640" group-title="CHILE",CANAL 13 FHD  
