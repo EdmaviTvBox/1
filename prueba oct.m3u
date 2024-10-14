@@ -1,26 +1,26 @@
 #EXTM3U
 ═══════════ KIDS ═══════════
-BABY TV 
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",BABY TV 
 http://nino4play.com:25461/YOUSELF3/CHILE3/94
-CANAL INFANTIL FHD
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",CANAL INFANTIL FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14028
-CARTOONITO HD
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",CARTOONITO HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/95
-CARTOON NETWORK HD  D.AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",CARTOON NETWORK HD  D.AUDIO
 http://nino4play.com:25461/YOUSELF3/CHILE3/96
-DISCOVERY KIDS HD
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",DISCOVERY KIDS HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14029
-DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",DISNEY CHANNEL HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/97
-DISNEY JR HD   
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",DISNEY JR HD   
 http://nino4play.com:25461/YOUSELF3/CHILE3/887
-NAT GEO KIDS HD
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",NAT GEO KIDS HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/98
-NICK JUNIOR 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",NICK JUNIOR 1 HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/99
-NICKELODEON FHD
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",NICKELODEON FHD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14154
-ZOOMOO HD
+#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/6ap5w" group-title="KIDS",ZOOMOO HD
 http://nino4play.com:25461/YOUSELF3/CHILE3/14164
 
 ═══════════ EVENTOS⚽ ═══════════
