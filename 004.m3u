@@ -1,301 +1,238 @@
 #EXTM3U
 ===== ESPAÑA =====
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="⭐ ESPAÑA",LA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",LA 1 FHD
 http://277135150630321276.ofgd1018.xyz:80/live/secundino/10052025/321276.ts
-#EXTINF:-1,ES: LA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",LA 1 HD
 http://277135150630321277.ofgd1018.xyz:80/live/secundino/10052025/321277.ts
-#EXTINF:-1,ES: LA 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",LA 1 SD
 http://277135150630321278.ofgd1018.xyz:80/live/secundino/10052025/321278.ts
-#EXTINF:-1,ES: LA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",LA 2 FHD
 http://277135150630321279.ofgd1018.xyz:80/live/secundino/10052025/321279.ts
-#EXTINF:-1,ES: LA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",ES: LA 2 HD
 http://277135150630321280.ofgd1018.xyz:80/live/secundino/10052025/321280.ts
-#EXTINF:-1,ES: LA 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",LA 2 SD
 http://277135150630321281.ofgd1018.xyz:80/live/secundino/10052025/321281.ts
-#EXTINF:-1,ES: ANTENA 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",ANTENA 3 FHD
 http://277135150630321105.ofgd1018.xyz:80/live/secundino/10052025/321105.ts
-#EXTINF:-1,ES: ANTENA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",ANTENA 3 HD
 http://277135150630321106.ofgd1018.xyz:80/live/secundino/10052025/321106.ts
-#EXTINF:-1,ES: ANTENA 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",ANTENA 3 SD
 http://277135150630321107.ofgd1018.xyz:80/live/secundino/10052025/321107.ts
-#EXTINF:-1,ES: TELECINCO FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",TELECINCO FHD
 http://277135150630321429.ofgd1018.xyz:80/live/secundino/10052025/321429.ts
-#EXTINF:-1,ES: TELECINCO HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",TELECINCO HD
 http://277135150630321430.ofgd1018.xyz:80/live/secundino/10052025/321430.ts
-#EXTINF:-1,ES: TELECINCO SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",TELECINCO SD
 http://277135150630321431.ofgd1018.xyz:80/live/secundino/10052025/321431.ts
-#EXTINF:-1,ES: CUATRO FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",CUATRO FHD
 http://277135150630321196.ofgd1018.xyz:80/live/secundino/10052025/321196.ts
-#EXTINF:-1,ES: CUATRO HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",CUATRO HD
 http://277135150630321197.ofgd1018.xyz:80/live/secundino/10052025/321197.ts
-#EXTINF:-1,ES: CUATRO SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",CUATRO SD
 http://277135150630321198.ofgd1018.xyz:80/live/secundino/10052025/321198.ts
-#EXTINF:-1,ES: BABY TV SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA KIDS",BABY TV SD
 http://277135150630321122.ofgd1018.xyz:80/live/secundino/10052025/321122.ts
-#EXTINF:-1,ES: AMC FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA CINE Y SERIES",AMC FHD
 http://277135150630321102.ofgd1018.xyz:80/live/secundino/10052025/321102.ts
-#EXTINF:-1,ES: AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA CINE Y SERIES",AMC HD
 http://277135150630321103.ofgd1018.xyz:80/live/secundino/10052025/321103.ts
-#EXTINF:-1,ES: AMC SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA CINE Y SERIES",AMC SD
 http://277135150630321104.ofgd1018.xyz:80/live/secundino/10052025/321104.ts
-#EXTINF:-1,ES: M+ ORIGINALES FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",M+ ORIGINALES FHD
 http://277135150630321068.ofgd1018.xyz:80/live/secundino/10052025/321068.ts
-#EXTINF:-1,ES: M+ ORIGINALES HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",M+ ORIGINALES HD
 http://277135150630321069.ofgd1018.xyz:80/live/secundino/10052025/321069.ts
-#EXTINF:-1,ES: M+ ORIGINALES SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",M+ ORIGINALES SD
 http://277135150630321070.ofgd1018.xyz:80/live/secundino/10052025/321070.ts
-#EXTINF:-1,ES: #VAMOS HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",#VAMOS HD
 http://277135150630321072.ofgd1018.xyz:80/live/secundino/10052025/321072.ts
-#EXTINF:-1,ES: #VAMOS SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA",#VAMOS SD
 http://277135150630321073.ofgd1018.xyz:80/live/secundino/10052025/321073.ts
-#EXTINF:-1,ES: DAZN FORMULA 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",DAZN FORMULA 1 SD
 http://277135150630165257.ofgd1018.xyz:80/live/secundino/10052025/165257.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES FHD
 http://277135150630246282.ofgd1018.xyz:80/live/secundino/10052025/246282.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES HD
 http://277135150630165358.ofgd1018.xyz:80/live/secundino/10052025/165358.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES SD
 http://277135150630165359.ofgd1018.xyz:80/live/secundino/10052025/165359.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES FHD HEVC
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES FHD HEVC
 http://277135150630262412.ofgd1018.xyz:80/live/secundino/10052025/262412.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 2 FHD
 http://277135150630165365.ofgd1018.xyz:80/live/secundino/10052025/165365.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 2 HD
 http://277135150630282469.ofgd1018.xyz:80/live/secundino/10052025/282469.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 2 SD
 http://277135150630282458.ofgd1018.xyz:80/live/secundino/10052025/282458.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 3 HD
 http://277135150630282470.ofgd1018.xyz:80/live/secundino/10052025/282470.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 3 HD (OP1)
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 3 HD (OP1)
 http://277135150630282471.ofgd1018.xyz:80/live/secundino/10052025/282471.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 4 HD
 http://277135150630282472.ofgd1018.xyz:80/live/secundino/10052025/282472.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 4 HD (OP1)
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 4 HD (OP1)
 http://277135150630282473.ofgd1018.xyz:80/live/secundino/10052025/282473.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 5 HD
 http://277135150630282460.ofgd1018.xyz:80/live/secundino/10052025/282460.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 5 HD (OP1)
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 5 HD (OP1)
 http://277135150630282461.ofgd1018.xyz:80/live/secundino/10052025/282461.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 6 HD
 http://277135150630282462.ofgd1018.xyz:80/live/secundino/10052025/282462.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 6 HD (OP1)
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 6 HD (OP1)
 http://277135150630282463.ofgd1018.xyz:80/live/secundino/10052025/282463.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 7 HD
 http://277135150630282464.ofgd1018.xyz:80/live/secundino/10052025/282464.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 7 HD (OP1)
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 7 HD (OP1)
 http://277135150630282465.ofgd1018.xyz:80/live/secundino/10052025/282465.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LIGA DE CAMPEONES 8 HD
 http://277135150630282466.ofgd1018.xyz:80/live/secundino/10052025/282466.ts
-#EXTINF:-1,ES: DAZN FORMULA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",DAZN FORMULA 1 FHD
 http://277135150630165418.ofgd1018.xyz:80/live/secundino/10052025/165418.ts
-#EXTINF:-1,ES: DAZN FORMULA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",DAZN FORMULA 1 HD
 http://277135150630165419.ofgd1018.xyz:80/live/secundino/10052025/165419.ts
-#EXTINF:-1,ES: M+ LALIGA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA FHD
 http://277135150630165385.ofgd1018.xyz:80/live/secundino/10052025/165385.ts
-#EXTINF:-1,ES: M+ LALIGA HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA HD
 http://277135150630165392.ofgd1018.xyz:80/live/secundino/10052025/165392.ts
-#EXTINF:-1,ES: M+ LALIGA SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA SD
 http://277135150630165393.ofgd1018.xyz:80/live/secundino/10052025/165393.ts
-#EXTINF:-1,ES: M+ LALIGA FHD (H 265)
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA FHD (H 265)
 http://277135150630262413.ofgd1018.xyz:80/live/secundino/10052025/262413.ts
-#EXTINF:-1,ES: M+ LALIGA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 2 HD
 http://277135150630165398.ofgd1018.xyz:80/live/secundino/10052025/165398.ts
-#EXTINF:-1,ES: M+ LALIGA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 3 HD
 http://277135150630165400.ofgd1018.xyz:80/live/secundino/10052025/165400.ts
-#EXTINF:-1,ES: M+ DAZN 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 1 SD
 http://277135150630228384.ofgd1018.xyz:80/live/secundino/10052025/228384.ts
-#EXTINF:-1,ES: M+ DAZN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 1 HD
 http://277135150630228385.ofgd1018.xyz:80/live/secundino/10052025/228385.ts
-#EXTINF:-1,ES: M+ DAZN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 2 HD
 http://277135150630228388.ofgd1018.xyz:80/live/secundino/10052025/228388.ts
-#EXTINF:-1,ES: M+ DAZN 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 2 FHD
 http://277135150630228389.ofgd1018.xyz:80/live/secundino/10052025/228389.ts
-#EXTINF:-1,ES: M+ DAZN 1 (H265) FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 1 (H265) FHD
 http://277135150630228390.ofgd1018.xyz:80/live/secundino/10052025/228390.ts
-#EXTINF:-1,ES: M+ DAZN 2 FHD (H265) SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 2 FHD (H265) SD
 http://277135150630228391.ofgd1018.xyz:80/live/secundino/10052025/228391.ts
-#EXTINF:-1,ES: M+ DAZN 3 FHD (H265) FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 3 FHD (H265) FHD
 http://277135150630228392.ofgd1018.xyz:80/live/secundino/10052025/228392.ts
-#EXTINF:-1,ES: M+ DAZN 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 3 FHD
 http://277135150630228393.ofgd1018.xyz:80/live/secundino/10052025/228393.ts
-#EXTINF:-1,ES: M+ DAZN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 3 HD
 http://277135150630228394.ofgd1018.xyz:80/live/secundino/10052025/228394.ts
-#EXTINF:-1,ES: M+ DAZN 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 3 SD
 http://277135150630228395.ofgd1018.xyz:80/live/secundino/10052025/228395.ts
-#EXTINF:-1,ES: M+ DAZN 4 FHD (H265) FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 4 FHD (H265) FHD
 http://277135150630228396.ofgd1018.xyz:80/live/secundino/10052025/228396.ts
-#EXTINF:-1,ES: M+ DAZN 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 4 FHD
 http://277135150630228397.ofgd1018.xyz:80/live/secundino/10052025/228397.ts
-#EXTINF:-1,ES: M+ DAZN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 4 HD
 http://277135150630228398.ofgd1018.xyz:80/live/secundino/10052025/228398.ts
-#EXTINF:-1,ES: M+ DAZN 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ DAZN 4 SD
 http://277135150630228399.ofgd1018.xyz:80/live/secundino/10052025/228399.ts
-#EXTINF:-1,ES: M+ LALIGA 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 4 SD
 http://277135150630237729.ofgd1018.xyz:80/live/secundino/10052025/237729.ts
-#EXTINF:-1,ES: M+ LALIGA 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 5 SD
 http://277135150630237730.ofgd1018.xyz:80/live/secundino/10052025/237730.ts
-#EXTINF:-1,ES: M+ LALIGA 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 4 FHD
 http://277135150630237731.ofgd1018.xyz:80/live/secundino/10052025/237731.ts
-#EXTINF:-1,ES: M+ LALIGA 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 4 HD
 http://277135150630237732.ofgd1018.xyz:80/live/secundino/10052025/237732.ts
-#EXTINF:-1,ES: M+ LALIGA 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 5 FHD
 http://277135150630237733.ofgd1018.xyz:80/live/secundino/10052025/237733.ts
-#EXTINF:-1,ES: M+ LALIGA 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 5 HD
 http://277135150630237734.ofgd1018.xyz:80/live/secundino/10052025/237734.ts
-#EXTINF:-1,ES: M+ LALIGA 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 6 SD
 http://277135150630237735.ofgd1018.xyz:80/live/secundino/10052025/237735.ts
-#EXTINF:-1,ES: M+ LALIGA 7 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 7 SD
 http://277135150630237736.ofgd1018.xyz:80/live/secundino/10052025/237736.ts
-#EXTINF:-1,ES: M+ LALIGA 8 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 8 SD
 http://277135150630237737.ofgd1018.xyz:80/live/secundino/10052025/237737.ts
-#EXTINF:-1,ES: M+ LALIGA 9 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 9 SD
 http://277135150630237738.ofgd1018.xyz:80/live/secundino/10052025/237738.ts
-#EXTINF:-1,ES: M+ LALIGA 10 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ LALIGA 10 SD
 http://277135150630237739.ofgd1018.xyz:80/live/secundino/10052025/237739.ts
-#EXTINF:-1,ES: ALQUILER 1 FHD
-http://277135150630267808.ofgd1018.xyz:80/live/secundino/10052025/267808.ts
-#EXTINF:-1,ES: ALQUILER 2 FHD
-http://277135150630267809.ofgd1018.xyz:80/live/secundino/10052025/267809.ts
-#EXTINF:-1,ES: ALQUILER 3 FHD
-http://277135150630267810.ofgd1018.xyz:80/live/secundino/10052025/267810.ts
-#EXTINF:-1,ES: ALQUILER 4 FHD
-http://277135150630267811.ofgd1018.xyz:80/live/secundino/10052025/267811.ts
-#EXTINF:-1,ES: ALQUILER 5 FHD
-http://277135150630267812.ofgd1018.xyz:80/live/secundino/10052025/267812.ts
-#EXTINF:-1,ES: ALQUILER 10 FHD
-http://277135150630267837.ofgd1018.xyz:80/live/secundino/10052025/267837.ts
-#EXTINF:-1,ES: ALQUILER 6 HD
-http://277135150630267842.ofgd1018.xyz:80/live/secundino/10052025/267842.ts
-#EXTINF:-1,ES: ALQUILER 7 HD
-http://277135150630267845.ofgd1018.xyz:80/live/secundino/10052025/267845.ts
-#EXTINF:-1,ES: ALQUILER 9 FHD
-http://277135150630267848.ofgd1018.xyz:80/live/secundino/10052025/267848.ts
-#EXTINF:-1,ES: LALIGA TV BAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LALIGA TV BAR FHD
 http://277135150630268042.ofgd1018.xyz:80/live/secundino/10052025/268042.ts
-#EXTINF:-1,ES: M+ GOLF FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ GOLF FHD
 http://277135150630268094.ofgd1018.xyz:80/live/secundino/10052025/268094.ts
-#EXTINF:-1,ES: M+ GOLF HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ GOLF HD
 http://277135150630268095.ofgd1018.xyz:80/live/secundino/10052025/268095.ts
-#EXTINF:-1,ES: M+ GOLF SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",M+ GOLF SD
 http://277135150630268096.ofgd1018.xyz:80/live/secundino/10052025/268096.ts
-#EXTINF:-1,1MUZ SD
-http://277135150630272492.ofgd1018.xyz:80/live/secundino/10052025/272492.ts
-#EXTINF:-1,1MUZ RU SD
-http://277135150630272493.ofgd1018.xyz:80/live/secundino/10052025/272493.ts
-#EXTINF:-1,30A MUSIC HD
-http://277135150630272494.ofgd1018.xyz:80/live/secundino/10052025/272494.ts
-#EXTINF:-1,DITTY TV HD
-http://277135150630272496.ofgd1018.xyz:80/live/secundino/10052025/272496.ts
-#EXTINF:-1,IBIZA GLOBAL TV SD
-http://277135150630272498.ofgd1018.xyz:80/live/secundino/10052025/272498.ts
-#EXTINF:-1,M2O MUSIC HD
-http://277135150630272500.ofgd1018.xyz:80/live/secundino/10052025/272500.ts
-#EXTINF:-1,OCKO EXPRESS SD
-http://277135150630272503.ofgd1018.xyz:80/live/secundino/10052025/272503.ts
-#EXTINF:-1,OCKO SD
-http://277135150630272504.ofgd1018.xyz:80/live/secundino/10052025/272504.ts
-#EXTINF:-1,OCKO START SD
-http://277135150630272505.ofgd1018.xyz:80/live/secundino/10052025/272505.ts
-#EXTINF:-1,V2BEAT TV HD
-http://277135150630272509.ofgd1018.xyz:80/live/secundino/10052025/272509.ts
-#EXTINF:-1,PORTALFOXMIX SD
-http://277135150630273846.ofgd1018.xyz:80/live/secundino/10052025/273846.ts
-#EXTINF:-1,NG RADIO TV HD
-http://277135150630274958.ofgd1018.xyz:80/live/secundino/10052025/274958.ts
-#EXTINF:-1,ES: ALQUILER 1 HD
-http://277135150630275903.ofgd1018.xyz:80/live/secundino/10052025/275903.ts
-#EXTINF:-1,ES: ALQUILER 2 HD
-http://277135150630275904.ofgd1018.xyz:80/live/secundino/10052025/275904.ts
-#EXTINF:-1,1MUZ FHD
-http://277135150630276234.ofgd1018.xyz:80/live/secundino/10052025/276234.ts
-#EXTINF:-1,RETRO MUSIC TV SD
-http://277135150630276235.ofgd1018.xyz:80/live/secundino/10052025/276235.ts
-#EXTINF:-1,ES: ALQUILER 3 HD
-http://277135150630277422.ofgd1018.xyz:80/live/secundino/10052025/277422.ts
-#EXTINF:-1,ES: ALQUILER 4 HD
-http://277135150630277423.ofgd1018.xyz:80/live/secundino/10052025/277423.ts
-#EXTINF:-1,M2O HD
-http://277135150630277446.ofgd1018.xyz:80/live/secundino/10052025/277446.ts
-#EXTINF:-1,ES: ALQUILER 11 HD
-http://277135150630277781.ofgd1018.xyz:80/live/secundino/10052025/277781.ts
-#EXTINF:-1,ES: ALQUILER 12 FHD
-http://277135150630277782.ofgd1018.xyz:80/live/secundino/10052025/277782.ts
-#EXTINF:-1,ES: ALQUILER 8 FHD
-http://277135150630277789.ofgd1018.xyz:80/live/secundino/10052025/277789.ts
-#EXTINF:-1,ES: ALQUILER 8 HD
-http://277135150630277790.ofgd1018.xyz:80/live/secundino/10052025/277790.ts
-#EXTINF:-1,ES: LALIGA TV BAR HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",LALIGA TV BAR HD
 http://277135150630165407.ofgd1018.xyz:80/live/secundino/10052025/165407.ts
-#EXTINF:-1,ES: TAQUILLA 1 HD
-http://277135150630279332.ofgd1018.xyz:80/live/secundino/10052025/279332.ts
-#EXTINF:-1,ES: TAQUILLA 10 HD
-http://277135150630279333.ofgd1018.xyz:80/live/secundino/10052025/279333.ts
-#EXTINF:-1,ES: TAQUILLA 2 HD
-http://277135150630279334.ofgd1018.xyz:80/live/secundino/10052025/279334.ts
-#EXTINF:-1,ES: TAQUILLA 3 HD
-http://277135150630279335.ofgd1018.xyz:80/live/secundino/10052025/279335.ts
-#EXTINF:-1,ES: TAQUILLA 4 HD
-http://277135150630279336.ofgd1018.xyz:80/live/secundino/10052025/279336.ts
-#EXTINF:-1,ES: TAQUILLA 5 HD
-http://277135150630279337.ofgd1018.xyz:80/live/secundino/10052025/279337.ts
-#EXTINF:-1,ES: TAQUILLA 6 HD
-http://277135150630279338.ofgd1018.xyz:80/live/secundino/10052025/279338.ts
-#EXTINF:-1,ES: TAQUILLA 7 HD
-http://277135150630279339.ofgd1018.xyz:80/live/secundino/10052025/279339.ts
-#EXTINF:-1,ES: TAQUILLA 8 HD
-http://277135150630279340.ofgd1018.xyz:80/live/secundino/10052025/279340.ts
-#EXTINF:-1,ES: TAQUILLA 1 FHD
-http://277135150630279375.ofgd1018.xyz:80/live/secundino/10052025/279375.ts
-#EXTINF:-1,ES: TAQUILLA 4 FHD
-http://277135150630279377.ofgd1018.xyz:80/live/secundino/10052025/279377.ts
-#EXTINF:-1,ES: TAQUILLA 9 HD
-http://277135150630279378.ofgd1018.xyz:80/live/secundino/10052025/279378.ts
-#EXTINF:-1,ES: ALQUILER 9 HD
-http://277135150630283122.ofgd1018.xyz:80/live/secundino/10052025/283122.ts
-#EXTINF:-1,ES: ALQUILER 10 HD
-http://277135150630287103.ofgd1018.xyz:80/live/secundino/10052025/287103.ts
-#EXTINF:-1,ES: ALQUILER 6 FHD
-http://277135150630289390.ofgd1018.xyz:80/live/secundino/10052025/289390.ts
-#EXTINF:-1,ES: EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 1 FHD
 http://277135150630290348.ofgd1018.xyz:80/live/secundino/10052025/290348.ts
-#EXTINF:-1,ES: EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 1 HD
 http://277135150630290349.ofgd1018.xyz:80/live/secundino/10052025/290349.ts
-#EXTINF:-1,ES: EUROSPORT 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 1 SD
 http://277135150630290350.ofgd1018.xyz:80/live/secundino/10052025/290350.ts
-#EXTINF:-1,ES: EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 2 FHD
 http://277135150630290351.ofgd1018.xyz:80/live/secundino/10052025/290351.ts
-#EXTINF:-1,ES: EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 2 HD
 http://277135150630290352.ofgd1018.xyz:80/live/secundino/10052025/290352.ts
-#EXTINF:-1,ES: EUROSPORT 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 2 SD
 http://277135150630290353.ofgd1018.xyz:80/live/secundino/10052025/290353.ts
-#EXTINF:-1,ES: EUROSPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 4 HD
 http://277135150630290354.ofgd1018.xyz:80/live/secundino/10052025/290354.ts
-#EXTINF:-1,ES: EUROSPORT 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 5 HD
 http://277135150630290355.ofgd1018.xyz:80/live/secundino/10052025/290355.ts
-#EXTINF:-1,ES: EUROSPORT 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 6 HD
 http://277135150630290356.ofgd1018.xyz:80/live/secundino/10052025/290356.ts
-#EXTINF:-1,ES: EUROSPORT 8 HD
-http://277135150630290357.ofgd1018.xyz:80/live/secundino/10052025/290357.ts
-#EXTINF:-1,1MUZ RU FHD
-http://277135150630290431.ofgd1018.xyz:80/live/secundino/10052025/290431.ts
-#EXTINF:-1,ES: EUROSPORT 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 7 HD
 http://277135150630290783.ofgd1018.xyz:80/live/secundino/10052025/290783.ts
-#EXTINF:-1,ES: EUROSPORT 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 8 HD
+http://277135150630290357.ofgd1018.xyz:80/live/secundino/10052025/290357.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA SPORTS",EUROSPORT 9 HD
 http://277135150630290784.ofgd1018.xyz:80/live/secundino/10052025/290784.ts
-#EXTINF:-1,HIT MUSIC CHANNEL HD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",1MUZ SD
+http://277135150630272492.ofgd1018.xyz:80/live/secundino/10052025/272492.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",1MUZ RU SD
+http://277135150630272493.ofgd1018.xyz:80/live/secundino/10052025/272493.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",30A MUSIC HD
+http://277135150630272494.ofgd1018.xyz:80/live/secundino/10052025/272494.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",DITTY TV HD
+http://277135150630272496.ofgd1018.xyz:80/live/secundino/10052025/272496.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",IBIZA GLOBAL TV SD
+http://277135150630272498.ofgd1018.xyz:80/live/secundino/10052025/272498.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",M2O MUSIC HD
+http://277135150630272500.ofgd1018.xyz:80/live/secundino/10052025/272500.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",OCKO EXPRESS SD
+http://277135150630272503.ofgd1018.xyz:80/live/secundino/10052025/272503.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",OCKO SD
+http://277135150630272504.ofgd1018.xyz:80/live/secundino/10052025/272504.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",OCKO START SD
+http://277135150630272505.ofgd1018.xyz:80/live/secundino/10052025/272505.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",V2BEAT TV HD
+http://277135150630272509.ofgd1018.xyz:80/live/secundino/10052025/272509.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",PORTALFOXMIX SD
+http://277135150630273846.ofgd1018.xyz:80/live/secundino/10052025/273846.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",NG RADIO TV HD
+http://277135150630274958.ofgd1018.xyz:80/live/secundino/10052025/274958.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",1MUZ FHD
+http://277135150630276234.ofgd1018.xyz:80/live/secundino/10052025/276234.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",RETRO MUSIC TV SD
+http://277135150630276235.ofgd1018.xyz:80/live/secundino/10052025/276235.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",M2O HD
+http://277135150630277446.ofgd1018.xyz:80/live/secundino/10052025/277446.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",,1MUZ RU FHD
+http://277135150630290431.ofgd1018.xyz:80/live/secundino/10052025/290431.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",HIT MUSIC CHANNEL HD
 http://277135150630290801.ofgd1018.xyz:80/live/secundino/10052025/290801.ts
-#EXTINF:-1,READY TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",READY TV HD
 http://277135150630291412.ofgd1018.xyz:80/live/secundino/10052025/291412.ts
-#EXTINF:-1,MUSICTOP HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",MUSICTOP HD
 http://277135150630291664.ofgd1018.xyz:80/live/secundino/10052025/291664.ts
-#EXTINF:-1,RADIO CONTACT HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",RADIO CONTACT HD
 http://277135150630292645.ofgd1018.xyz:80/live/secundino/10052025/292645.ts
-#EXTINF:-1,ES: TAQUILLA 2 FHD
-http://277135150630293864.ofgd1018.xyz:80/live/secundino/10052025/293864.ts
-#EXTINF:-1,ES: TAQUILLA 3 FHD
-http://277135150630293865.ofgd1018.xyz:80/live/secundino/10052025/293865.ts
-#EXTINF:-1,LA MEGA MUNDIAL HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://n9.cl/b939q" group-title="⭐ ESPAÑA MUSIC",LA MEGA MUNDIAL HD
 http://277135150630294835.ofgd1018.xyz:80/live/secundino/10052025/294835.ts
+
+
+
 #EXTINF:-1,ES: DAZN LALIGA 2 HD
 http://277135150630320779.ofgd1018.xyz:80/live/secundino/10052025/320779.ts
 #EXTINF:-1,ES: DAZN LALIGA 2 FHD
