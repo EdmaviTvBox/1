@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,ES: LA 1 FHD
+===== ESPAÑA =====
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="⭐ ESPAÑA",LA 1 FHD
 http://277135150630321276.ofgd1018.xyz:80/live/secundino/10052025/321276.ts
 #EXTINF:-1,ES: LA 1 HD
 http://277135150630321277.ofgd1018.xyz:80/live/secundino/10052025/321277.ts
