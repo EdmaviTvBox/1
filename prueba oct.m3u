@@ -1,744 +1,136 @@
 #EXTM3U
 
-═══════════ COLOMBIA ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",TV COLOMBIA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51320
-#EXTINF:-1,13C
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51270
-#EXTINF:-1,ATV
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51220
-#EXTINF:-1,CANAL 2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51260
-#EXTINF:-1,CANAL INSTITUCIONAL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51299
-#EXTINF:-1,CANAL INSTITUCIONAL OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51286
-#EXTINF:-1,CABLE NOTICIAS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51318
-#EXTINF:-1,CANAL TRECE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51317
-#EXTINF:-1,CANAL UNO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51316
-#EXTINF:-1,CARACOL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51315
-#EXTINF:-1,CARACOL OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51285
-#EXTINF:-1,CITY TV
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51314
-#EXTINF:-1,COSMOVISION
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51298
-#EXTINF:-1,EL TIEMPO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51312
-#EXTINF:-1,NTN 24
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51310
-#EXTINF:-1,NTN 24 OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58012
-#EXTINF:-1,RCN
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51297
-#EXTINF:-1,RCN OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58008
-#EXTINF:-1,RCN FHD
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51269
-#EXTINF:-1,RCN MÁS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51309
-#EXTINF:-1,RCN NOVELAS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51308
-#EXTINF:-1,RCN NOVELAS OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51268
-#EXTINF:-1,RCN NOVELAS OP.3
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51280
-#EXTINF:-1,RCN TV
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51276
-#EXTINF:-1,RCN XTRA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51307
-#EXTINF:-1,SENAL COLOMBIA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51306
-#EXTINF:-1,TELECAFE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51305
-#EXTINF:-1,TELECAFE OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51293
-#EXTINF:-1,TELECAFE OP.3
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51193
-#EXTINF:-1,TELECARIBE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51304
-#EXTINF:-1,TELEMAX
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51279
-#EXTINF:-1,TELEMEDELLIN
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51296
-#EXTINF:-1,TELEMEDELLIN OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51228
-#EXTINF:-1,TELEPACIFICO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51295
-#EXTINF:-1,TELEPACIFICO OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51303
-#EXTINF:-1,TELEPACIFICO OP.3
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51274
-#EXTINF:-1,TV AGRO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51301
-#EXTINF:-1,CO037:TV GRACIA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51283
-#EXTINF:-1,CO020:WIN SPORTS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51300
-#EXTINF:-1,WIN SPORTS PLUS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57960
+===== CINE PREMIUM =====
+#EXTINF:-1,HBO 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2790
+#EXTINF:-1,HBO 2 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2791
+#EXTINF:-1,HBO 2 OP.2
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2806
+#EXTINF:-1,HBO HBO FAMILY 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2792
+#EXTINF:-1,HBO HBO PLUS 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2793
+#EXTINF:-1,HBO HBO SIGNATURE 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2794
+#EXTINF:-1,HBO HBO POP
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2795
+#EXTINF:-1,HBO MUNDI
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2796
+#EXTINF:-1,MY TIME MOVIE LATINO
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2559
 
+===== TV PREMIUM =====
 
-═══════════ USA LATINO ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNICABLE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57972
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIMAS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57971
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIMAS (NEW YORK)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57970
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIMAS ESTE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57969
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIMAS GEORGIA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57968
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION 62 (AUSTIN) 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60090
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION 66 (CHICAGO)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60117
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION 23 (DALLAS)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57966
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION 23 (DALLAS) OP2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57965
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION 21 (FRESNO) 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60113
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION 45 (HOUSTON)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60116
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION (MIAMI)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60204
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION 33 (PHOENIX) 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60098
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA LATINO",UNIVISION 46 (TUCSON) 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60101
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (CHICAGO)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57984
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (DALLAS)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60093
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (FRESNO)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60092
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (HOUSTON)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60089
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (HOUSTON) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60051
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (LAS VEGAS)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60082
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (LAMPA)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57982
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (LOS ANGELES)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60074
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (NEW YORK)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60065
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (NEW YORK) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60194
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (MIAMI)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60072
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (PHILADELPHIA)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60060
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (PHOENIX)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60055
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (SAN ANTONIO)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60054
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/v9w8k" group-title="USA",TELEMUNDO (WASHINGTON)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/60164
+===== KIDS =====
+#EXTINF:-1,Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | BOOMERANG UHD®
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2802
+#EXTINF:-1,Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | CARTOON NETWORK ®
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2803
 
-
-
-
-═══════════ MUSIC ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★MASTER LIST★" tvg-logo="https://n9.cl/5zrfxl" group-title="MUSIC",BANDAMAX
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58049
-#EXTINF:-1,CLARO MUSIC
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57962
-#EXTINF:-1,HTV (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49698
-#EXTINF:-1,MTV HD
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/3110
-#EXTINF:-1,MTV (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49693
-#EXTINF:-1,MTV HITS (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49692
-#EXTINF:-1,MUSIC TOP (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49691
-#EXTINF:-1,QUIERO MUSICA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49685
-#EXTINF:-1,VH1 HD
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/3087
-
-
-#EXTINF:-1,═══════════ EVENTOS ═══════════
-#EXTINF:-1,UFC Network
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/3084
-#EXTINF:-1,WWE-Network
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/3083
-#EXTINF:-1,UFC FIGHT PASS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/31050
-
-#EXTINF:-1,═══════════ SPORTS ═══════════
-#EXTINF:-1,WIN SPORTS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51288
-#EXTINF:-1,WIN SPORTS PLUS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51287
-#EXTINF:-1,CLARO SPORT (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51313
-#EXTINF:-1,DEPORTV
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49732
-#EXTINF:-1,DIRECTV SPORTS (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49731
-#EXTINF:-1,DIRECTV SPORTS 2 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49729
-#EXTINF:-1,DIRECTV SPORTS + (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49730
-#EXTINF:-1,CDF HD (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59121
-#EXTINF:-1,ESPN
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58029
-#EXTINF:-1,ESPN (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49721
-#EXTINF:-1,ESPN (PER)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51345
-#EXTINF:-1,ESPN 2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58028
-#EXTINF:-1,ESPN 2 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49720
-#EXTINF:-1,ESPN 3
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58027
-#EXTINF:-1,ESPN 3 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49719
-#EXTINF:-1,ESPN PREMIUM (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49718
-#EXTINF:-1,ESPN+ (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49717
-#EXTINF:-1,FOX SPORTS 1 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49714
-#EXTINF:-1,FOX SPORTS 1 (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51271
-#EXTINF:-1,FOX SPORTS 2 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49713
-#EXTINF:-1,FOX SPORTS 2 (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59056
-#EXTINF:-1,FOX SPORTS 3 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49712
-#EXTINF:-1,FOX SPORTS PREMIUM (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49711
-#EXTINF:-1,GOL PERU
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51343
-#EXTINF:-1,STAR SPORTS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57999
-#EXTINF:-1,STAR SPORTS 2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57998
-#EXTINF:-1,STAR SPORTS 2 (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58000
-#EXTINF:-1,STAR SPORTS 3
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57997
-#EXTINF:-1,TIGO SPORTS (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59002
-#EXTINF:-1,TIGO SPORTS (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58870
-#EXTINF:-1,TIGO SPORTS Plus (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58833
-#EXTINF:-1,TNT SPORTS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57975
-#EXTINF:-1,TNT SPORTS (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49981
-#EXTINF:-1,TNT SPORTS 1 (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59136
-#EXTINF:-1,TNT SPORTS 3 (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59133
-#EXTINF:-1,TUDN
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57973
-#EXTINF:-1,TYC SPORTS 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/30054
-#EXTINF:-1,TYC SPORTS (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49975
-#EXTINF:-1,TYC SPORTS INT (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49974
-
-#EXTINF:-1,═══════════ CINE PREMIUM ═══════════
-#EXTINF:-1,HBO (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49705
-#EXTINF:-1,HBO (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51294
-#EXTINF:-1,HBO 2 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49704
-#EXTINF:-1,HBO 2 (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51292
-#EXTINF:-1,HBO FAMILY (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49703
-#EXTINF:-1,HBO FAMILY (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51291
-#EXTINF:-1,HBO MUNDI (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49702
-#EXTINF:-1,HBO MUNDI (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51290
-#EXTINF:-1,HBO SIGNATURE (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49701
-#EXTINF:-1,HBO SIGNATURE (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51289
-#EXTINF:-1,HBO XTREME (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49700
-#EXTINF:-1,HBO XTREME (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51284
-#EXTINF:-1,STAR CLASSIC
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58001
-#EXTINF:-1,STARZ
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57996
-#EXTINF:-1,STARZ CINEMA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57995
-#EXTINF:-1,STARZ CINEMA WEST
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57994
-#EXTINF:-1,STARZ COMEDY
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57993
-#EXTINF:-1,STARZ EAST
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57992
-#EXTINF:-1,STARZ ENCORE CLASSIC
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57991
-#EXTINF:-1,STARZ ENCORE FAMILY
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57990
-#EXTINF:-1,STARZ KIDS & FAMILY
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57989
-
-#EXTINF:-1,═══════════ TV PREMIUM ═══════════
-
-#EXTINF:-1,Latino Premium
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/2428
-#EXTINF:-1,A&E (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49751
-#EXTINF:-1,A&E (LA)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58056
-#EXTINF:-1,AMC (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49750
-#EXTINF:-1,AMC (LA)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58055
-#EXTINF:-1,AXN (LA)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58053
-#EXTINF:-1,AXN (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49747
-#EXTINF:-1,AXN (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51319
-#EXTINF:-1,AXN (COL) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51282
-#EXTINF:-1,AXN (COL) OP.3
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51266
-#EXTINF:-1,CINEAR
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49740
-#EXTINF:-1,CINECANAL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58045
-#EXTINF:-1,CINECANAL (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49739
-#EXTINF:-1,CINEMAX (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49738
+===== VARIEDADES =====
 #EXTINF:-1,COMEDY CENTRAL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58042
-#EXTINF:-1,E! (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49725
-#EXTINF:-1,EUROPA (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49716
-#EXTINF:-1,FILM & ARTS (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49715
-#EXTINF:-1,FX
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58025
-#EXTINF:-1,FX (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49710
-#EXTINF:-1,ISAT
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58020
-#EXTINF:-1,LIFETIME
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58019
-#EXTINF:-1,MAX UP
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58018
-#EXTINF:-1,MAX UP (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49695
-#EXTINF:-1,PARAMOUNT
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58010
-#EXTINF:-1,PARAMOUNT (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49686
-#EXTINF:-1,SHOWTIME BEYOND
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58005
-#EXTINF:-1,SONY
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58004 
-#EXTINF:-1,SONY (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49683
-#EXTINF:-1,SPACE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58003
-#EXTINF:-1,SPACE (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49682
-#EXTINF:-1,STAR CHANNEL 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58002
-#EXTINF:-1,STAR CHANNEL (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49681
-#EXTINF:-1,STUDIO UNIVERSAL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57988
-#EXTINF:-1,STUDIO UNIVERSAL (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49680
-#EXTINF:-1,SYFY
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57987
-#EXTINF:-1,SYFY (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49679
-#EXTINF:-1,TCM
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57985
-#EXTINF:-1,TCM (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49677
-#EXTINF:-1,TNT
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57977
-#EXTINF:-1,TNT (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49983
-#EXTINF:-1,TNT SERIES
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57976
-#EXTINF:-1,TNT SERIES (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49982
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57967
-#EXTINF:-1,UNIVERSAL CHANNEL (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49973
-#EXTINF:-1,WARNER CHANNEL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57963
-#EXTINF:-1,WARNER CHANNEL (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49971
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2805
+#EXTINF:-1,TELENOVELAS SONY
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2050
 
 
+===== MUNDO Y CULTURA =====
+#EXTINF:-1,ANIMAL PLANET 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2800
+#EXTINF:-1,NATGEO
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2799
 
 
+===== SPORTS =====
+#EXTINF:-1,FOX SPORTS MX
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/1971
+#EXTINF:-1,FOX SPORTS 1
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2787
+#EXTINF:-1,FOX SPORTS 2 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2788
+#EXTINF:-1,FOX SPORTS 3 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2789
 
+===== CINEMAS =====
+#EXTINF:-1,CINELATINO 01
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2205
+#EXTINF:-1,CINELATINO 02
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2206
+#EXTINF:-1,CINELATINO 03
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2207
+#EXTINF:-1,CINELATINO 04
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2208
+#EXTINF:-1,CINELATINO 05
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2209
+#EXTINF:-1,CINELATINO 06
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2210
+#EXTINF:-1,CINELATINO 07
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2211
+#EXTINF:-1,CINELATINO 08
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2212
+#EXTINF:-1,CINELATINO 09
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2213
+#EXTINF:-1,CINELATINO 10
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2214
+#EXTINF:-1,CINELATINO 11
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2215
+#EXTINF:-1,CINELATINO 12
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2216
+#EXTINF:-1,CINELATINO 13
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2217
+#EXTINF:-1,CINELATINO 14
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2218
+#EXTINF:-1,CINELATINO 15
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2219
+#EXTINF:-1,CINELATINO 16
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2220
+#EXTINF:-1,CINELATINO 17
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2221
+#EXTINF:-1,CINELATINO 18
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2222
+#EXTINF:-1,CINELATINO 19
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2223
+#EXTINF:-1,CINELATINO 20
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2224
+#EXTINF:-1,CINELATINO 21
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2225
+#EXTINF:-1,CINELATINO 22
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2226
+#EXTINF:-1,CINELATINO 23
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2227
+#EXTINF:-1,CINELATINO 24
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2558
+#EXTINF:-1,CINE ACCION 01
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2544
+#EXTINF:-1,CINE ACCION 02
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2545
+#EXTINF:-1,CINE ACCION 03
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2546
+#EXTINF:-1,CINE CLASICOS M+ 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2552
+#EXTINF:-1,CINE COMEDIA 01
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2548
+#EXTINF:-1,CINE CLASICO
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2565
+#EXTINF:-1,CINE INFANTIL
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2554
+#EXTINF:-1,CINE KIDS
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2556
+#EXTINF:-1,CINE FICCION / FANTASIA 01
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2550
+#EXTINF:-1,CINE FICCION / FANTASIA SAGAS
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2553
+#EXTINF:-1,CINE RETRO 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2555
+#EXTINF:-1,CINE ROMANCE 01
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2561
+#EXTINF:-1,CINE ROMANCE 02
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2562
+#EXTINF:-1,COMEDIA TOP 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2547
+#EXTINF:-1,CINE TERROR
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2564
 
-
-
-
-#EXTINF:-1,═══════════ VARIEDADES ═══════════
-#EXTINF:-1,AZTECA 7
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58052
-#EXTINF:-1,AZTECA CLIC
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58051
-#EXTINF:-1,BBC WORLD NEWS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58048
-#EXTINF:-1,CANAL 11
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58046
-#EXTINF:-1,CLARO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58044
-#EXTINF:-1,CLARO CINEMA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58043
-#EXTINF:-1,CNN (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49736
-#EXTINF:-1,CNN EN ESPANIOL (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49735
-#EXTINF:-1,COMEDY CENTRAL (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49734
-#EXTINF:-1,EL GOURMET
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58030
-#EXTINF:-1,EL GOURMET (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49707
-#EXTINF:-1,FUTV (C.RICA)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58026
-#EXTINF:-1,GALAVISION
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58024
-#EXTINF:-1,GLITZ
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58023
-#EXTINF:-1,GLITZ (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49708
-#EXTINF:-1,HOLA! TV
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58021
-#EXTINF:-1,HOLA! TV (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51311
-#EXTINF:-1,MAS CHIC (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49696
-#EXTINF:-1,MULTIMEDIOS TELEVISION
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58017
-#EXTINF:-1,TELEMETRO 13 PAN 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58011
-#EXTINF:-1,PASIONES
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58009
-#EXTINF:-1,TELEFUTURO (RD) 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58007
-#EXTINF:-1,TELEMICRO (RD) 
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58006
-#EXTINF:-1,TELEMUNDO INTERNACIONAL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57983
-#EXTINF:-1,TELESISTEMA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57981
-#EXTINF:-1,TNT NOVELAS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57986
-#EXTINF:-1,TRU TV
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57974
-#EXTINF:-1,TRU TV (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49979
-#EXTINF:-1,VTV (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57964
-
-
-#EXTINF:-1,═══════════ KIDS ═══════════
-#EXTINF:-1,BABY TV
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58050
-#EXTINF:-1,BABY TV (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49746
-#EXTINF:-1,CARTOONITO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58047
-#EXTINF:-1,CARTOONITO (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49745
-#EXTINF:-1,CARTOON NETWORK
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57961
-#EXTINF:-1,CARTOON NETWORK (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49743
-#EXTINF:-1,DISCOVERY KIDS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58037
-#EXTINF:-1,DISNEY CHANNEL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58033
-#EXTINF:-1,DISNEY CHANNEL (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49728
-#EXTINF:-1,DISNEY CHANNEL (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51281
-#EXTINF:-1,DISNEY JR
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58032
-#EXTINF:-1,DISNEY JR (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49727
-#EXTINF:-1,DISNEY JR (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51278
-#EXTINF:-1,DISNEY XD
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58031
-#EXTINF:-1,DISNEY XD (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49726
-#EXTINF:-1,DISNEY XD (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51277
-#EXTINF:-1,NICK JR
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58014
-#EXTINF:-1,NICK JR (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49688
-#EXTINF:-1,NICKELODEON
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58013
-#EXTINF:-1,NICKELODEON (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49689
-#EXTINF:-1,PAKA PAKA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49687
-#EXTINF:-1,TOONCAST
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49980
-#EXTINF:-1,TOONCAST (COL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51261
-#EXTINF:-1,TOONCAST (COL) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/51302
-
-#EXTINF:-1,═══════════ MUNDO Y CULTURA ═══════════
-#EXTINF:-1,DISCOVERY CHANNEL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58041
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58040
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58039
-#EXTINF:-1,DISCOVERY INVESTIGATION
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58038
-#EXTINF:-1,DISCOVERY SCIENCE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58036
-#EXTINF:-1,DISCOVERY THEATER
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58035
-#EXTINF:-1,DISCOVERY TURBO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58034
-#EXTINF:-1,GARAGE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49709
-#EXTINF:-1,HISTORY (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49699
-#EXTINF:-1,H2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58022
-#EXTINF:-1,H2 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49706
-#EXTINF:-1,NAT GEO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58016
-#EXTINF:-1,NAT GEO (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49690
-#EXTINF:-1,NAT GEO WILD
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58015
-#EXTINF:-1,TLC
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57978
-
-#EXTINF:-1,═══════════ LATINO AMERICANO ═══════════
-
-#EXTINF:-1,CANAL UNO (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57959
-#EXTINF:-1,CANAL UNO (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58764
-#EXTINF:-1,CANELA TV (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57958
-#EXTINF:-1,CANELA TV (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58763
-#EXTINF:-1,ECUADOR TV (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57957
-#EXTINF:-1,ECUADOR TV (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58762
-#EXTINF:-1,ECUADOR TV HD (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59188
-#EXTINF:-1,ECUAVISA (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57956
-#EXTINF:-1,ECUAVISA (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58761
-#EXTINF:-1,LA164:RTS (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58741
-#EXTINF:-1,GAMA TV (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57955
-#EXTINF:-1,GAMA TV (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58760
-#EXTINF:-1,GAMAVISION (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57954
-#EXTINF:-1,GAMAVISION (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58759
-#EXTINF:-1,GOL TV (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57953
-#EXTINF:-1,GOL TV (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58758
-#EXTINF:-1,OROMAR TV (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57952
-#EXTINF:-1,OROMAR TV (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58757
-#EXTINF:-1,TC TELEVISION (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57951
-#EXTINF:-1,TELE AMAZONAS (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/57950
-#EXTINF:-1,TELE AMAZONAS (EC) OP.2
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58735
-#EXTINF:-1,TVC (EC)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59192
-
-#EXTINF:-1,Canal 13 Cable (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59183
-#EXTINF:-1,Canal 13 (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59175
-#EXTINF:-1,24 Horas (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59166
-#EXTINF:-1,Teletrak HD (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59067
-#EXTINF:-1,CDO HD (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59102
-#EXTINF:-1,Chilevision HD (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59066
-#EXTINF:-1,La Red (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59054
-#EXTINF:-1,Mega (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59041
-#EXTINF:-1,TVN (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59036
-#EXTINF:-1,TV Chile (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59034
-#EXTINF:-1,Etc TV (CL)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59032
-
-#EXTINF:-1,Canal 14 TV Sur (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/59021
-#EXTINF:-1,Repretel 6 (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58997
-#EXTINF:-1,Teletica 7 HD(CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58996
-#EXTINF:-1,Repretel 4 (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58991
-#EXTINF:-1,Repretel 2 (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58983
-#EXTINF:-1,Nex Canal 21 (PA)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58978
-#EXTINF:-1,Repretel 11 (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58977
-#EXTINF:-1,Teleuno (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58947
-#EXTINF:-1,88 Stereo (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58946
-#EXTINF:-1,CANAL 10 (CR)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58897
-
-
-#EXTINF:-1,TELE R (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58945
-#EXTINF:-1,1000XHora TV (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58925
-#EXTINF:-1,A+V (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58911
-#EXTINF:-1,LCANAL 12 (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58891
-#EXTINF:-1,CANAL 4 (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58885
-#EXTINF:-1,CANAL 4 SALTO (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58878
-#EXTINF:-1,CANAL 6 DURAZNO (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58877
-#EXTINF:-1,TV CIUDAD (UY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58875
-
-#EXTINF:-1,LA146:Paraguay TV (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58828
-#EXTINF:-1,LA147:TV Camara (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58812
-#EXTINF:-1,LA148:C9N (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58798
-#EXTINF:-1,LA149:FARRA PLAY (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58780
-#EXTINF:-1,LA150:GEN TV (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58779
-#EXTINF:-1,LA151:LA TELE (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58770
-#EXTINF:-1,LA152:NOTICIAS (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58769
-#EXTINF:-1,LA153:RPC (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58767
-#EXTINF:-1,LA154:SNT (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58766
-#EXTINF:-1,LA155:UNICANAL (PY)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58765
-
-#EXTINF:-1,LA166:CAMPUS TV (HN)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58701
-#EXTINF:-1,LA167:CANAL 10 (HN)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58695
-#EXTINF:-1,LA168:CANAL 5 (HN)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58690
-#EXTINF:-1,LA169:CANAL 6 (HN)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58668
-#EXTINF:-1,LA170:TELECADENA (HN)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58650
-#EXTINF:-1,LA171:UNE TV (HN)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58649
-
-#EXTINF:-1,TV ARGENTINA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49752
-#EXTINF:-1,AMERICA 24 (ARG)
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49749
-#EXTINF:-1,AMERICA TV
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49748
-#EXTINF:-1,C5N
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49744
-#EXTINF:-1,:CANAL 26
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49742
-#EXTINF:-1,CANAL 9 SALTA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49741
-#EXTINF:-1,CIUDAD MAGAZINE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49737
-#EXTINF:-1,CRONICA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49733
-#EXTINF:-1,ARG028:EL NUEVE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49724
-#EXTINF:-1,ARG029:EL TRECE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49723
-#EXTINF:-1,ARG030:ENCUENTRO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49722
-#EXTINF:-1,ARG055:LN
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49697
-#EXTINF:-1,ARG058:METRO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49694
-#EXTINF:-1,ARG068:RAI
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49684
-#EXTINF:-1,ARG074:TBS VERY FUNNY
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49678
-#EXTINF:-1,ARG076:TELEFE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49676
-#EXTINF:-1,ARG077:TELEMAX
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49675
-#EXTINF:-1,ARG078:TELEMUNDO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49987
-#EXTINF:-1,ARG079:TELESUR
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49986
-#EXTINF:-1,ARG080:TELEVISION PUBLICA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49985
-#EXTINF:-1,ARG081:TN
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49984
-#EXTINF:-1,ARG087:TV PUBLICA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49978
-#EXTINF:-1,ARG088:TV5 MONDE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49977
-#EXTINF:-1,ARG089:TVE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49976
-#EXTINF:-1,ARG093:VOLVER
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/49972
 
 
