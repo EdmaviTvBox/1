@@ -1,168 +1,168 @@
 #EXTM3U
 
 ===== EVENTOS =====
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 1 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 1 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4323
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 1 OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 1 OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4324
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA DE CAMPEONES 2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4325
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 2 FULLHD 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 2 FULLHD 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4326
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 3  
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 3  
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4327
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 4
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA DE CAMPEONES 4
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4328
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 5 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 5 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4329
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 6 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 6 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4330
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 7 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 7 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4331
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 8 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 8 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4332
 
-===== CINE PREMIUM =====
-#EXTINF:-1,HBO 
+===== CINE PREMIUM ===== 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2790
-#EXTINF:-1,HBO LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4796
-#EXTINF:-1,HBO 2 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO 2 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2791
-#EXTINF:-1,HBO 2 LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO 2 LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4797
-#EXTINF:-1,HBO 2 OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO 2 OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2806
-#EXTINF:-1,HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO XTREME
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3015
-#EXTINF:-1,HBO FAMILY 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO FAMILY 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2792
-#EXTINF:-1,HBO FAMILY LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO FAMILY LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4798
-#EXTINF:-1,HBO PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO PLUS 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2793
-#EXTINF:-1,HBO PLUS LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO PLUS LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4799
-#EXTINF:-1,HBO SIGNATURE 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO SIGNATURE 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2794
-#EXTINF:-1,HBO POP
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO POP
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2795
-#EXTINF:-1,HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO MUNDI
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2796
-#EXTINF:-1,HBO MUNDI LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO MUNDI LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4800
-#EXTINF:-1,MY TIME MOVIE LATINO
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",MY TIME MOVIE LATINO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2559
 
 
 ===== TV PREMIUM =====
-#EXTINF:-1,A&E 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",A&E 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3020
-#EXTINF:-1,AMC 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",AMC 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3019
-#EXTINF:-1,ATRESERIES 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",ATRESERIES 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2786
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",AXN
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2801
-#EXTINF:-1,CINEAR
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINEAR
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3551
-#EXTINF:-1,CINE CANAL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINE CANAL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2804
-#EXTINF:-1,DHE 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",DHE 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3028
-#EXTINF:-1,FILM & ARTS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FILM & ARTS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3021
-#EXTINF:-1,FX LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FX LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4788
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2824
-#EXTINF:-1,FX OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FX OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3017
-#EXTINF:-1,FX MEX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FX MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3645
-#EXTINF:-1,FX MEX OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FX MEX OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3646
-#EXTINF:-1,FX MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FX MOVIES
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4789
-#EXTINF:-1,GOLDEN PLUS MEX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",GOLDEN PLUS MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3648
-#EXTINF:-1,PARAMOUNT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",PARAMOUNT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2826
-#EXTINF:-1,CINE: PARAMOUNT CHANNEL MEX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",PARAMOUNT CHANNEL MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3667
-#EXTINF:-1,SPACE 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SPACE 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3008
-#EXTINF:-1,STAR CHANNEL (Enc.)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STAR CHANNEL (Enc.)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2693
-#EXTINF:-1,STAR CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STAR CHANNEL 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2695
-#EXTINF:-1,STAR CHANNEL LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STAR CHANNEL LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4781
-#EXTINF:-1,STAR CHANNEL LAT OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STAR CHANNEL LAT OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4784
-#EXTINF:-1,STAR CHANNEL MEX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STAR CHANNEL MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3642
-#EXTINF:-1,STAR MOVIE 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STAR MOVIE 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2698
-#EXTINF:-1,STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STUDIO UNIVERSAL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3009
-#EXTINF:-1,STUDIO UNIVERSAL MEX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STUDIO UNIVERSAL MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3674
-#EXTINF:-1,SUNDANCE
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SUNDANCE
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3033
-#EXTINF:-1,SYFY 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SYFY 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3010
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",TNT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2797
-#EXTINF:-1,TNT SERIES 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",TNT SERIES 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2798
-#EXTINF:-1,TNT SERIES MEX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",TNT SERIES MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3644
-#EXTINF:-1,UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",UNIVERSAL CHANNEL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3012
-#EXTINF:-1,WARNER
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",WARNER
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3013
-#EXTINF:-1,WARNER CHANNEL MEX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",WARNER CHANNEL MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3694
 
 
 
 
-===== KIDS =====
-#EXTINF:-1,CARTOON NETWORK 
+===== KIDS ===== 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",CARTOON NETWORK 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2803
-#EXTINF:-1,CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",CARTOONITO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2802
-#EXTINF:-1,DISCOVERY KIDS 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISCOVERY KIDS 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2811
-#EXTINF:-1,DISCOVERY KIDS LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISCOVERY KIDS LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4791
-#EXTINF:-1,DISNEY CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISNEY CHANNEL 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2815
-#EXTINF:-1,DISNEY CHANNEL LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISNEY CHANNEL LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4820
-#EXTINF:-1,DISNEY JR 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISNEY JR 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2819
-#EXTINF:-1,DISNEY XD 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISNEY XD 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2820
-#EXTINF:-1,DISNEY XD LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISNEY XD LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4793
-#EXTINF:-1,LOLI KIDS 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",LOLI KIDS 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3660
-#EXTINF:-1,NICK 2 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICK 2 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3022
-#EXTINF:-1,NICK 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICK 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3023
-#EXTINF:-1,NICK MX SD
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICK MX SD
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3662
-#EXTINF:-1,NICKTOONS MX SD
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICKTOONS MX SD
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3665
-#EXTINF:-1,PAKA PAKA
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",PAKA PAKA
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3537
 
 
 ===== VARIEDADES =====
-#EXTINF:-1,AZ CLIC
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="          " group-title="VARIEDADES",AZ CLIC
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3026
 #EXTINF:-1,CENTRAL COMEDY 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2696
@@ -195,293 +195,290 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3035
 
 
 
-===== MUNDO Y CULTURA =====
+===== MUNDO Y CULTURA ===== 
 
-#EXTINF:-1,ANIMAL PLANET 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",ANIMAL PLANET 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2800
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2807
-#EXTINF:-1,DISCOVERY CHANNEL LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4819
-#EXTINF:-1,DISCOVERY Civilization
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY Civilization
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2808
-#EXTINF:-1,DISCOVERY H&H 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY H&H 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2809
-DISCOVERY HOME AND HEALTH LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY HOME AND HEALTH LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4809
-#EXTINF:-1,DISCOVERY ID 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY ID 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2810
-#EXTINF:-1,DISCOVERY INVESTIGATION LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY INVESTIGATION LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4790
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2812
-#EXTINF:-1,DISCOVERY THEATER 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY THEATER 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3016
-#EXTINF:-1,DISCOVERY TURBO 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY TURBO 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2813
-#EXTINF:-1,DISCOVERY TURBO LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY TURBO LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4792
-#EXTINF:-1,DISCOVERY WORLD
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",DISCOVERY WORLD
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2814
-#EXTINF:-1,GARAGE TV
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",GARAGE TV
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3549
-#EXTINF:-1,H2 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",H2 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3018
-#EXTINF:-1,HISTORY
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",HISTORY
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2825
-#EXTINF:-1,NATGEO
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATGEO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2799
-#EXTINF:-1,NATGEO MEX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATGEO MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3659
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",TLC
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3011
 
-===== SPORTS =====
-
-
-
-#EXTINF:-1,ALL SPORTS (BR)
+===== SPORTS ===== 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ALL SPORTS (BR)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3655
-#EXTINF:-1,DIRECTV SPORTS CHL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",DIRECTV SPORTS CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3309
-#EXTINF:-1,DEPORTV
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",DEPORTV
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3540
-#EXTINF:-1,ESPN 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2823
-#EXTINF:-1,ESPN 2 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN 2 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2821
-#EXTINF:-1,ESPN 2 LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN 2 LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4794
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN 3
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2822
-#EXTINF:-1,ESPN 3 LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN 3 LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4795
-#EXTINF:-1,ESPN PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN PLUS 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3014
-#EXTINF:-1,ESPN SUR 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN SUR 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3036
-#EXTINF:-1,ESPN 2 SUR 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN 2 SUR 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3037
-#EXTINF:-1,ESPN 3 SUR 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN 3 SUR 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3038
-#EXTINF:-1,ESPN 4 SUR 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN 4 SUR 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3039
-#EXTINF:-1,ESPN CHL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3526
-#EXTINF:-1,ESPN CHIL OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ESPN CHIL OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3527
-#EXTINF:-1,FOX SPORTS MX
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS MX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/1971
-#EXTINF:-1,FOX SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS 1
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2787
-#EXTINF:-1,FOX SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS 2 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2788
-#EXTINF:-1,FOX SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS 3 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2789
-#EXTINF:-1,FOX SPORTS 3 SUR 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS 3 SUR 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3041
-#EXTINF:-1,FOX SPORTS 2 CHL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS 2 CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3313
-#EXTINF:-1,FOX SPORTS 3 CHL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS 3 CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3312
-#EXTINF:-1,FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS PREMIUM
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4787
-#EXTINF:-1,GOLF CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",GOLF CHANNEL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3030
-#EXTINF:-1,TNT SPORTS CHL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",TNT SPORTS CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3528
-#EXTINF:-1,TNT SPORTS 2 CHL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",TNT SPORTS 2 CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3530
-#EXTINF:-1,WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",WIN SPORTS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3025
 
 
 
 
-===== MUSIC =====
-#EXTINF:-1,RMS MX
+===== MUSIC ===== 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",RMS MX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3669
-#EXTINF:-1,CANAL DE LA MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",CANAL DE LA MUSICA
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3552
-#EXTINF:-1,QUIERO MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",QUIERO MUSICA
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3548
-#EXTINF:-1,MC 90's
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MC 90's
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3173
-#EXTINF:-1,VEVO 4K Hits
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO 4K Hits
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3174
-#EXTINF:-1,TANGO TV (Argentina & Uruguay)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",TANGO TV (Argentina & Uruguay)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3175
-#EXTINF:-1,VEVO 80's Hits
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO 80's Hits
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3176
-#EXTINF:-1,Music 90's Hits
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Music 90's Hits
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3177
-#EXTINF:-1,VEVO Country Hits 2K
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO Country Hits 2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3178
-#EXTINF:-1,VEVO R&B Hits 2K
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO R&B Hits 2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3179
-#EXTINF:-1,Mola Music Hits 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Mola Music Hits 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3181
-#EXTINF:-1,DANCE Latinos Hits 2K
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",DANCE Latinos Hits 2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3182
-#EXTINF:-1,LATIDO 2K Music Hits 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",LATIDO 2K Music Hits 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3183
-#EXTINF:-1,VM LATINO Music Hits
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VM LATINO Music Hits
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3184
-#EXTINF:-1,Euro Indie Music UK
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Euro Indie Music UK
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3185
-#EXTINF:-1,HITS 4K
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",HITS 4K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3186
-#EXTINF:-1,Stingray: Remember the 80’s 2K 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Stingray: Remember the 80’s 2K 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3187
-#EXTINF:-1,XITE World Hits 2K
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",XITE World Hits 2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3188
-#EXTINF:-1,DELUXE Pop & Tecno 2K
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",DELUXE Pop & Tecno 2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3189
-#EXTINF:-1,Hitmusic 2K 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Hitmusic 2K 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3190
-#EXTINF:-1,M2o Tv Y2K
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",M2o Tv Y2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3191
 
 ===== CINEMAS =====
-#EXTINF:-1,CINELATINO 01
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 01
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2205
-#EXTINF:-1,CINELATINO 02
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 02
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2206
-#EXTINF:-1,CINELATINO 03
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 03
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2207
-#EXTINF:-1,CINELATINO 04
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 04
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2208
-#EXTINF:-1,CINELATINO 05
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 05
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2209
-#EXTINF:-1,CINELATINO 06
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 06
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2210
-#EXTINF:-1,CINELATINO 07
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 07
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2211
-#EXTINF:-1,CINELATINO 08
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 08
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2212
-#EXTINF:-1,CINELATINO 09
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 09
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2213
-#EXTINF:-1,CINELATINO 10
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 10
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2214
-#EXTINF:-1,CINELATINO 11
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 11
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2215
-#EXTINF:-1,CINELATINO 12
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 12
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2216
-#EXTINF:-1,CINELATINO 13
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 13
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2217
-#EXTINF:-1,CINELATINO 14
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 14
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2218
-#EXTINF:-1,CINELATINO 15
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 15
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2219
-#EXTINF:-1,CINELATINO 16
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 16
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2220
-#EXTINF:-1,CINELATINO 17
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 17
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2221
-#EXTINF:-1,CINELATINO 18
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 18
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2222
-#EXTINF:-1,CINELATINO 19
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 19
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2223
-#EXTINF:-1,CINELATINO 20
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 20
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2224
-#EXTINF:-1,CINELATINO 21
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 21
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2225
-#EXTINF:-1,CINELATINO 22
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 22
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2226
-#EXTINF:-1,CINELATINO 23
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 23
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2227
-#EXTINF:-1,CINELATINO 24
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 24
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2558
-#EXTINF:-1,CINE ACCION 01
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE ACCION 01
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2544
-#EXTINF:-1,CINE ACCION 02
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE ACCION 02
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2545
-#EXTINF:-1,CINE ACCION 03
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE ACCION 03
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2546
-#EXTINF:-1,CINE CLASICOS M+ 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE CLASICOS M+ 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2552
-#EXTINF:-1,CINE COMEDIA 01
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE COMEDIA 01
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2548
-#EXTINF:-1,CINE CLASICO
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE CLASICO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2565
-#EXTINF:-1,CINE INFANTIL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE INFANTIL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2554
-#EXTINF:-1,CINE KIDS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE KIDS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2556
-#EXTINF:-1,CINE FICCION / FANTASIA 01
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE FICCION / FANTASIA 01
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2550
-#EXTINF:-1,CINE FICCION / FANTASIA SAGAS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE FICCION / FANTASIA SAGAS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2553
-#EXTINF:-1,CINE RETRO 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE RETRO 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2555
-#EXTINF:-1,CINE ROMANCE 01
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE ROMANCE 01
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2561
-#EXTINF:-1,CINE ROMANCE 02
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE ROMANCE 02
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2562
-#EXTINF:-1,COMEDIA TOP 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",COMEDIA TOP 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2547
-#EXTINF:-1,CINE TERROR
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE TERROR
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2564
 
-===== LOW =====
-#EXTINF:-1,Low | AXN (Low)
+===== LOW ===== 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Low | AXN (Low)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3840
-#EXTINF:-1,Low | Boomerang (Low)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Boomerang (Low)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3841
-#EXTINF:-1,Low | Cartoon Network (Low)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Cartoon Network (Low)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3842
-#EXTINF:-1,Low | Cinecanal
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Cinecanal
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3843
-#EXTINF:-1,Low | Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Cinemax
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3844
-#EXTINF:-1,Low | Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Comedy Central
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3845
-#EXTINF:-1,Low | Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Discovery Channel
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3846
-#EXTINF:-1,Low | Discovery Home & Healt
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Discovery Home & Healt
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3847
-#EXTINF:-1,Low | Discovery Turbo (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Discovery Turbo (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3848
-#EXTINF:-1,Low | Disney Junior (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Disney Junior (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3849
-#EXTINF:-1,Low | Disney XD (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Disney XD (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3850
-#EXTINF:-1,Low | ESPN (Low)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",ESPN (Low)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3851
-#EXTINF:-1,Low | ESPN 2 (Low)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",ESPN 2 (Low)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3852
-#EXTINF:-1,Low |  ESPN 3 (Low)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",ESPN 3 (Low)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3853
-#EXTINF:-1,Low | Distrito Comedia (Low)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Distrito Comedia (Low)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3854
-#EXTINF:-1,Low |  Star Channel (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Star Channel (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3855
-#EXTINF:-1,Low |  Star Channel (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Star Channel (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3856
-#EXTINF:-1,Low | Lifetime (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Lifetime (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3857
-#EXTINF:-1,Low |  Star Cinema (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Star Cinema (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3858
-#EXTINF:-1,Low | Star Channel (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Star Channel (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3859
-#EXTINF:-1,Low | TNT Series (Low)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",TNT Series (Low)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3860
-#EXTINF:-1,Low |  Fox Sports (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Fox Sports (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3861
-#EXTINF:-1,Low |  Fox Sports 2 (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Fox Sports 2 (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3862
-#EXTINF:-1,Low |  Fox Sports 3 (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Fox Sports 3 (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3863
-#EXTINF:-1,Low |  FX (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",FX (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3864
-#EXTINF:-1,Low |  H2 (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",H2 (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3865
-#EXTINF:-1,Low |  HBO (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",HBO (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3866
-#EXTINF:-1,Low |  HBO 2 (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",HBO 2 (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3867
-#EXTINF:-1,Low |  HBO Family (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",HBO Family (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3868
-#EXTINF:-1,Low |  Las Estrellas (L)
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Las Estrellas (L)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3869
 
 
