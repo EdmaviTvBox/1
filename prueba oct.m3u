@@ -1,5 +1,23 @@
 #EXTM3U
 
+===== COLOMBIA =====
+#EXTINF:-1,CANAL CAPITAL
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4813
+#EXTINF:-1,CARACOL NACIONAL
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4810
+#EXTINF:-1,CITY TV
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4867
+#EXTINF:-1,RCN NUESTRA TELE
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4811
+#EXTINF:-1,SENAL COLOMBIANA
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4875
+#EXTINF:-1,TELEPACIFICO
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4863
+#EXTINF:-1,WIN SPORTS
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4812
+#EXTINF:-1,ZOOM Colombia
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4872
+
 ===== EVENTOS =====
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/ggl97" group-title="EVENTOS",MOVISTAR LIGA CAMPEONES 1 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4323
@@ -64,12 +82,22 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3019
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2786
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",AXN
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2801
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",AXN LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4844
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINEAR
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3551
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINE CANAL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINECANAL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2804
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINECANAL LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4805
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINEMA DINAMITA LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4806
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINEMAX LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4807
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",DHE 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3028
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",EUROPA EUROPA LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4825
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FILM & ARTS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3021
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FX LAT
@@ -86,12 +114,18 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3646
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4789
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",GOLDEN PLUS MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3648
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",LIFETIME LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4782
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",PARAMOUNT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2826
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",PARAMOUNT CHANNEL MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3667
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SONY LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4801
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SPACE 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3008
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SPACE LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4802
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STAR CHANNEL (Enc.)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2693
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",STAR CHANNEL 
@@ -112,10 +146,14 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3674
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3033
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SYFY 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3010
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",TCM LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4804
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",TNT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2797
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",TNT SERIES 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2798
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",TNT SERIES LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4785
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",TNT SERIES MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3644
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",UNIVERSAL CHANNEL
@@ -131,6 +169,8 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3694
 ===== KIDS ===== 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",CARTOON NETWORK 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2803
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",CARTOON NETWORK LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4850
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",CARTOONITO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2802
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISCOVERY KIDS 
@@ -147,16 +187,24 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2819
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2820
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",DISNEY XD LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4793
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",LOLI KIDS 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",LATINO KIDS SUR
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4861
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",LOLLY KIDS 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3660
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",LOLLY KIDS LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4857
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICK 2 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3022
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICK 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3023
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICK MX SD
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3662
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICK JR LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4858
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICKTOONS MX SD
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3665
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",NICKELODEON LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4859
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/wgewro" group-title="KIDS",PAKA PAKA
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3537
 
@@ -225,10 +273,14 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4792
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2814
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",GARAGE TV
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3549
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",HGTV LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4815
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",H2 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3018
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",HISTORY
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2825
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",HISTORY CHANNEL LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4808
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATGEO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2799
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATGEO MEX
@@ -239,6 +291,16 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3011
 ===== SPORTS ===== 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ALL SPORTS (BR)
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3655
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",CDF BASICO
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4816
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",CDF PREMIUM
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4817
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",CDO BASICO
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4818
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",CLARO SPORTS LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4848
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",CM Deportes
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4836
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",DIRECTV SPORTS CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3309
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",DEPORTV
@@ -283,10 +345,18 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3313
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3312
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",FOX SPORTS PREMIUM
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4787
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",GOL TV LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4827
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",GOL TV PERU
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4828
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",GOLPERU LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4841
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",GOLF CHANNEL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3030
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",TNT SPORTS CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3528
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",TNT SPORTS 2 LAT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4851
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",TNT SPORTS 2 CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3530
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",WIN SPORTS
