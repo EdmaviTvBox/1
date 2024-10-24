@@ -76,9 +76,12 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/5065
 http://209.45.101.36:50000/play/HBOMUNDI/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO SIGNATURE 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4965
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",MY TIME MOVIE LATINO
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",SONY COMEDIAS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276162
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",SONY COMPETENCIAS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/218342
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",SONY MOVIES
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/469055
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",STAR CHANNEL CINEMA 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4944
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",STAR MOVIE 
@@ -91,43 +94,42 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4947
 
 ===== TV PREMIUM =====
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",A&E 
-http://209.45.101.36:50000/play/AyEHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186628
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",AMC 
-http://209.45.101.36:50000/play/AMCHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",ATRESERIES X
-
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/159149
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",ATRESERIES 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/171484
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",AXN 
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4912
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/241995
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",AXN ESP
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/126240
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",AXN MOVIES ESP
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/126241
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINEAR X
-
+CINEAR X
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINECANAL
-http://209.45.101.36:50000/play/CinecanalHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINEMA DINAMITA X
-
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439760
+CINEMA DINAMITA X
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINEMAX 
-http://209.45.101.36:50000/play/CinemaxHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",CINE LATINO X
-
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242025
+CINE LATINO X
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",DHE 
 http://209.45.101.36:50000/play/DHEHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",EUROPA EUROPA LAT
-http://209.45.101.36:50000/play/EuropaEuropa/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/473708
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FILM & ARTS
-http://209.45.101.35:50000/play/FilmyArts/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19535
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",FX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4955
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",GOLDEN 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4957
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",GOLDEN PLUS  X
-
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",GOLDEN PLUS 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53089
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",GOLDEN PREMIER
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/67425
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",LIFETIME 
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4979
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242002
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",PARAMOUNT
-http://209.45.101.36:50000/play/ParamountHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439787
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SONY 
 http://209.45.101.36:50000/play/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/se4xw" group-title="TV PREMIUM",SPACE 
