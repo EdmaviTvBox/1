@@ -1,25 +1,25 @@
 #EXTM3U
 
 ===== COLOMBIA =====
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="           " group-title="COLOMBIA",CANAL CAPITAL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CANAL CAPITAL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4813
-CANAL TRO
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CANAL TRO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4898
-#EXTINF:-1,CARACOL NACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CARACOL NACIONAL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4810
-#EXTINF:-1,CITY TV
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CITY TV
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4867
-#EXTINF:-1,RCN NUESTRA TELE
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",RCN NUESTRA TELE
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4811
-RCN NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",RCN NOVELAS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4896
-#EXTINF:-1,SENAL COLOMBIANA
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",SENAL COLOMBIANA
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4875
-#EXTINF:-1,TELEPACIFICO
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",TELEPACIFICO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4863
-#EXTINF:-1,WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",WIN SPORTS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4812
-#EXTINF:-1,ZOOM Colombia
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",ZOOM Colombia
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4872
 
 ===== EVENTOS =====
@@ -272,49 +272,49 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3537
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/5064
 
 ===== VARIEDADES =====
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="          " group-title="VARIEDADES",AZ CLIC
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",AZ CLIC
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3026
-#EXTINF:-1,CENTRAL COMEDY 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",CENTRAL COMEDY 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2696
-CNN ESPANOL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",CNN ESPANOL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4922
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",COMEDY CENTRAL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2805
-COMEDY CENTRAL ARG
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",COMEDY CENTRAL ARG
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4924
-#EXTINF:-1,DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",DISTRITO COMEDIA
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4783
-#EXTINF:-1,E ENTERTAIMENTS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",E ENTERTAIMENTS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3029
-E! ENTERTAIMENTS ARG
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",E! ENTERTAIMENTS ARG
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4936
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",MTV
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3031
-MTV ARG
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",MTV ARG
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4981
-MTV LAT
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",MTV LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4856
-MTV USA 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",MTV USA 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6587
-#EXTINF:-1,MTV LIVE MX 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",MTV LIVE MX 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3658
-NBC UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",NBC UNIVERSO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6594
-#EXTINF:-1,PASIONES 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",PASIONES 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2827
-#EXTINF:-1,SONY 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",SONY 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3007
-#EXTINF:-1,SONY TELENOVELAS 
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",SONY TELENOVELAS 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2050
-#EXTINF:-1,TELENOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",TELENOVELAS UNISION
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3678
-#EXTINF:-1,TLNOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",TLNOVELAS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3798
-#EXTINF:-1,TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",TELEMUNDO INTERNACIONAL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3024
-#EXTINF:-1,STAR TVE HD
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",STAR TVE HD
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3032
-#EXTINF:-1,VH1
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/s45vem" group-title="VARIEDADES",VH1
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3035
 
 ===== MUNDO Y CULTURA ===== 
@@ -615,25 +615,25 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2547
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2564
 
 ===== 24/7 =====
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="        " group-title="24/7",Súper Campeones
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Súper Campeones
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129319
-#EXTINF:-1,24/7 | Pokémon
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Pokémon
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129325
-#EXTINF:-1,24/7 | Tom and Jerry
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Tom and Jerry
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129327
-#EXTINF:-1,24/7 | Looney Tunes
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Looney Tunes
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129338
-#EXTINF:-1,24/7 | Death Note
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",24/7 | Death Note
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129340
-#EXTINF:-1,Peliculas Marvel
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Peliculas Marvel
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129366
-#EXTINF:-1,Peliculas Crepusculo
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Peliculas Crepusculo
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129374
-#EXTINF:-1,Peliculas John Wick
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Peliculas John Wick
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129378
-#EXTINF:-1,Peliculas Resident Evil
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Peliculas Resident Evil
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129379
-#EXTINF:-1,Peliculas Matrix
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/qd1it" group-title="24/7",Peliculas Matrix
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129381
 
 ===== LOW ===== 
