@@ -371,12 +371,20 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4966
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2799
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATGEO MEX
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3659
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NAT GEO ARG
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATGEO ARG
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4983
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NAT GEO ARG OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATGEO ARG OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4985
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATIONAL GEOGRAPHIC ESP
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/126222
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",NATIONAL GEO WILD ESP
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/126223
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",ODISEA 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/126226
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",TLC
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3011
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/3g0vm" group-title="MUNDO Y CULTURA",VIAJAR 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/126234
 
 ===== SPORTS ===== 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",ALL SPORTS (BR)
@@ -605,6 +613,28 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2562
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2547
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINE TERROR
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2564
+
+===== 24/7 =====
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="        " group-title="24/7",Súper Campeones
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129319
+#EXTINF:-1,24/7 | Pokémon
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129325
+#EXTINF:-1,24/7 | Tom and Jerry
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129327
+#EXTINF:-1,24/7 | Looney Tunes
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129338
+#EXTINF:-1,24/7 | Death Note
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129340
+#EXTINF:-1,Peliculas Marvel
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129366
+#EXTINF:-1,Peliculas Crepusculo
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129374
+#EXTINF:-1,Peliculas John Wick
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129378
+#EXTINF:-1,Peliculas Resident Evil
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129379
+#EXTINF:-1,Peliculas Matrix
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/129381
 
 ===== LOW ===== 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/2krfr" group-title="LOW",Low | AXN (Low)
