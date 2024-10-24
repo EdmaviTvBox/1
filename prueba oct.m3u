@@ -1,24 +1,47 @@
 #EXTM3U
 
 ===== COLOMBIA =====
+#EXTINF:-1,CO: 
+#EXTINF:-1,CO: 
+#EXTINF:-1,CO: 
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CANAL CAPITAL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4813
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CANAL TRO
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4898
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CARACOL NACIONAL
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4810
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CANAL UNO
+http://fortv.cc:8080/4RMv3A/588852/78698
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CARACOL 
+http://fortv.cc:8080/4RMv3A/588852/78700
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CARACOL INTERNACIONAL
+http://fortv.cc:8080/4RMv3A/588852/78701
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",CITY TV
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4867
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",NTN 24 
+http://fortv.cc:8080/4RMv3A/588852/78704
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",RCN NUESTRA TELE
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4811
+http://fortv.cc:8080/4RMv3A/588852/78694
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",RCN NOVELAS
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4896
+http://fortv.cc:8080/4RMv3A/588852/78716
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",SENAL COLOMBIANA
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4875
+http://fortv.cc:8080/4RMv3A/588852/78711
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",TELEANTIOQUIA
+http://fortv.cc:8080/4RMv3A/588852/78706
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",TELECAFE
+http://fortv.cc:8080/4RMv3A/588852/78726
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",TELEMEDELLIN
+http://fortv.cc:8080/4RMv3A/588852/78722
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",TELEPACIFICO
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4863
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",WIN SPORTS
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4812
+http://fortv.cc:8080/4RMv3A/588852/78729
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",WIN SPORTS PLUS
+http://fortv.cc:8080/4RMv3A/588852/78717
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",WIN SPORTS PLUS (EXCLUSIVO)
+http://fortv.cc:8080/4RMv3A/588852/78697
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo=" https://n9.cl/l4s74" group-title="COLOMBIA",ZOOM Colombia
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4872
 
