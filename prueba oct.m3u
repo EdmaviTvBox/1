@@ -53,6 +53,8 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4961
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4796
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO 2 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2791
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO 2 MULTI IDIOMA
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6588
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO 2 ARG
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4962
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/9sejw" group-title="CINE PREMIUM",HBO 2 LAT
@@ -292,8 +294,12 @@ MTV ARG
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4981
 MTV LAT
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4856
+MTV USA 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6587
 #EXTINF:-1,MTV LIVE MX 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3658
+NBC UNIVERSO
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6594
 #EXTINF:-1,PASIONES 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/2827
 #EXTINF:-1,SONY 
@@ -449,6 +455,8 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3030
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/5179
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",SPORTV 3 BRA
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/5180
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",TIGO SPORTS TV ESP
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6512
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",TNT SPORTS CHL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3528
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/lslkc" group-title="SPORTS",TNT SPORTS 2 LAT
@@ -507,6 +515,16 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3189
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3190
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",M2o Tv Y2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3191
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6383
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL OP.2
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6386
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL RUS
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6376
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL RUS OP.2
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6385
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",SONGTV RUS
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6576
 
 ===== CINEMAS =====
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/a87ypq" group-title="CINEMAS",CINELATINO 01
