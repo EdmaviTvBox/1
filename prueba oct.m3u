@@ -1,39 +1,64 @@
 #EXTM3U
 
 ===== COLOMBIA =====
-
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CANAL CAPITAL X
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4813
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CANAL TRO X
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4898
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CABLE NOTICIAS 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53259
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CALI TV
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/100565
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CANAL C
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/254860
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CANAL CAPITAL 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12832
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CANAL TRO 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/215911
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CANAL UNO
-http://fortv.cc:8080/4RMv3A/588852/78698
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242016
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CARACOL 
-http://fortv.cc:8080/4RMv3A/588852/78700
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CARACOL INTERNACIONAL X
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/46257
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CARACOL TV
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/190520
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CARACOL INTERNACIONAL 
 http://fortv.cc:8080/4RMv3A/588852/78701
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CITY TV X
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4867
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",CITY TV 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12837
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",MULTICANAL TV CALI
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/254859
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",NTN 24 
-http://fortv.cc:8080/4RMv3A/588852/78704
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9483
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",RCN 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259372
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",RCN INT
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/215912
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",RCN SD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12847
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",RCN NUESTRA TELE
-http://fortv.cc:8080/4RMv3A/588852/78694
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/214145
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",RCN NOVELAS
-http://fortv.cc:8080/4RMv3A/588852/78716
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9907
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",SENAL COLOMBIANA
-http://fortv.cc:8080/4RMv3A/588852/78711
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12841
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",TELEANTIOQUIA
-http://fortv.cc:8080/4RMv3A/588852/78706
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/35873
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",TELECAFE
-http://fortv.cc:8080/4RMv3A/588852/78726
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12843
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",TELECARIBE
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12844
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",TELEMEDELLIN
-http://fortv.cc:8080/4RMv3A/588852/78722
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12845
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",TELEPACIFICO
-http://fortv.cc:8080/4RMv3A/588852/78729
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12846
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",TV AGRO
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53260
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",TRECE
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186613
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",WIN SPORTS SD 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12851
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",WIN SPORTS PLUS
-http://fortv.cc:8080/4RMv3A/588852/78717
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12840
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",WIN SPORTS PLUS (EXCLUSIVO)
 http://fortv.cc:8080/4RMv3A/588852/78697
+#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",WIN SPORTS PLUS SD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12759
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/l4s74" group-title="COLOMBIA",ZOOM Colombia X
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4872
 
