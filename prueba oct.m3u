@@ -454,61 +454,81 @@ http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4945
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3025
 
 ===== MUSIC ===== 
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",HTV
-
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MTV HIT ARG
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4982
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",RMS MX
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3669
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",CANAL DE LA MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",CANAL DE LA MUSICA
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3552
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",QUIERO MUSICA
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3548
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MC 90's
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3173
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO 4K Hits
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3174
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",TANGO TV (Argentina & Uruguay)
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3175
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO 80's Hits
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3176
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Music 90's Hits
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3177
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO Country Hits 2K
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3178
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO R&B Hits 2K
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3179
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Mola Music Hits 
-http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3181
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",DANCE Latinos Hits 2K
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",DANCE Latinos Hits 2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3182
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",LATIDO 2K Music Hits 
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",HTV 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/217140
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",NOW ROCK
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3177
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC"" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Mola Music Hits 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3181
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Music Top
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54273
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MTV Classics 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177365
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MTV HIT
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/4982
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MTV Latino FHD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9464
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MTV Live HD (Y)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9613
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MTV Club
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/49629
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",MTV Classic HD (Y)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53197
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",QUIERO MUSICA
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3548
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Retro Music TV
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54274
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Retro Music Television
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/41923
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",TELEHIT MUSICA
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3669
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Tele Ritmo
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/254816
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Vevo '70s
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259764
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Vevo '80s
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259763
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO Country Hits
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3178
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Vevo Latin 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/2243
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VEVO R&B Hits 
+http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3179
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Vevo Reggaton
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/224311
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VH1 Classic  
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9619
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",LATIDO 2K Music Hits 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3183
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VM LATINO Music Hits
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",VM LATINO Music Hits
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3184
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Euro Indie Music UK
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Euro Indie Music UK
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3185
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",HITS 4K
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",HITS 4K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3186
 #EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Stingray: Remember the 80’s 2K 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3187
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",XITE World Hits 2K
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",XITE World Hits 2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3188
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",DELUXE Pop & Tecno 2K
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",DELUXE Pop & Tecno 2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3189
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Hitmusic 2K 
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",Hitmusic 2K 
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3190
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",M2o Tv Y2K
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",M2o Tv Y2K
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/3191
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6383
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6386
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL RUS
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL RUS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6376
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL RUS OP.2
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",FIRTS MUSIC CHANNEL RUS OP.2
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6385
-#EXTINF:-1 tvg-id="" tvg-name="MASTER LIST" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",SONGTV RUS
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/97gmh" group-title="MUSIC",SONGTV RUS
 http://00322.xyz:8000/Q3FBGWUU0F/I3N4WGD6QY/6576
 
 ===== CINEMAS =====
