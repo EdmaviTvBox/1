@@ -3,6 +3,18 @@
 ===== DEPORTES =====
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",WIN SPORTS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12851
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ADRENALINA SPORTS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/71832
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Afizzionados HD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54984
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Bein Sports Ñ 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/36401
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Claro Sports HD
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/164262
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",DirecTV Sports
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/158511
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",DirecTV Sports 2 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/257326
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/220727
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 2 
@@ -33,8 +45,6 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19495
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/36389
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX Sports Premium
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/158454
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ADRENALINA SPORTS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/71832
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",Gol Perú 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21773
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GOLTV 
@@ -51,10 +61,13 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12919
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439763
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS PREMIUM
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21961
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TUDN USA  
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185148
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TyC SPORTS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19461
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TYC Sports Internacional HD
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/188939
+
 
 ==== CINE Y SERIES =====
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",FMHFAMILY
