@@ -61,6 +61,8 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12919
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439763
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS PREMIUM
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21961
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TUDN MEXICO
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/218637
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TyC SPORTS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19461
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TYC Sports Internacional HD
@@ -137,25 +139,45 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19561
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",WARNER CHANNEL
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53044
 
-
-
 ===== PREMIUM =====
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 
-http://209.45.101.36:50000/play/HBOHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242029
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 2 
-http://209.45.101.36:50000/play/HBO2HD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/159126
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO FAMILY
-http://209.45.101.36:50000/play/HBOFamilyHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439797
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO MUNDI
-http://209.45.101.36:50000/play/HBOMUNDI/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19547
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO POP 
-http://209.45.101.36:50000/play/HBOPOPHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185169
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO PLUS
-http://209.45.101.36:50000/play/HBOPlus/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185172
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO SIGNATURE
-http://209.45.101.36:50000/play/HBOSignature/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/167659
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO XTREME 
-http://209.45.101.36:50000/play/HBOXTREMEHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185175
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO West ⭐️
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/218834
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY COMEDIAS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276162
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY COMPETENCIAS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/218342
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY MOVIES
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/469055
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY NOVELAS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276161
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL CINEMA
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185152
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL COMEDY
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185166
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL CRIME
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185163
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL PREMIERE
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/236380
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL REALITY
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/198741
 
 
 ===== VARIEDADES =====
