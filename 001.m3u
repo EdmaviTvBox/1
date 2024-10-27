@@ -236,8 +236,6 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56106
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NATIONAL GEOGRAPHIC ESP
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54520
 
-
-
 ===== VARIEDADES =====
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",A3SERIES 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53059
@@ -290,34 +288,37 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177331
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA NAVIDAD
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177336
 
-
-
-
 ===== KIDS =====
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",FMHKIDS
-http://160.20.165.246:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",BABY TV
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56214
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",BABY FIRST 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9419
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",BOING 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186608
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",CARTOON NETWORK
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19458
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",CARTOONITO
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19474
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISCOVERY KIDS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9426
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISNEY CHANNEL 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/211237
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISNEY JR
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53062
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",NICKELODEON
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9576
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",NICK 2
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9424
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",NICK JR
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/211305
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS", TOONCAST
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19567
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",ZOOMOO 
 http://160.20.165.246:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISCOVERY KIDS
-http://209.45.101.36:50000/play/DiscoveryKidsHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISCOVERY KIDS OPC 2
-http://160.20.165.246:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",BABY TV
-http://209.45.101.36:50000/play/BabyTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",CARTOON NETWORK
-http://209.45.101.36:50000/play/CartoonNetworkHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",CARTOONITO
-http://209.45.101.36:50000/play/Cartoonito/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISNEY JR
-http://209.45.101.36:50000/play/a1a3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISNEY JUNIOR
-http://209.45.101.36:50000/play/a1a6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Nick HD
-http://209.45.101.36:50000/play/NickHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Nick Jr
-http://209.45.101.36:50000/play/NickJr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",Tooncast
-http://209.45.101.36:50000/play/Tooncast/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",FMHKIDS
+http://160.20.165.246:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",MAGIC KIDS TV
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/552801
 
 ===== MUSIC =====
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MI MUSICA HITS
