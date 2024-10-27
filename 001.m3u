@@ -179,6 +179,14 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/236380
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL REALITY
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/198741
 
+#EXTINF:-1,MOVISTAR ACCION
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/59533
+#EXTINF:-1,MOVISTAR COMEDIA
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53276
+#EXTINF:-1,MOVISTAR GOLF
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/33526
+#EXTINF:-1,MOVISTAR SERIES MANIA
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/47438
 
 ===== VARIEDADES =====
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/kqgtbq" group-title="VARIEDADES",AMERICA TV
