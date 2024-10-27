@@ -1,7 +1,7 @@
 #EXTM3U
 
 ===== DEPORTES =====
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",WIN SPORTS +
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12851
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ADRENALINA SPORTS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/71832
@@ -61,8 +61,6 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12919
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439763
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS PREMIUM
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21961
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TUDN USA  
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185148
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TyC SPORTS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19461
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TYC Sports Internacional HD
