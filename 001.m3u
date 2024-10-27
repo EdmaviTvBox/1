@@ -2,17 +2,17 @@
 
 ===== DEPORTES =====
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",WIN SPORTS
-http://209.45.101.35:50000/play/WinSports/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12851
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 
-http://209.45.101.36:50000/play/ESPNHD/index.m3u8 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/220727
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 2 
-http://209.45.101.36:50000/play/ESPN2HD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185666
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 3 
-http://209.45.101.36:50000/play/ESPN3HD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21220
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 4 
-http://209.45.101.36:50000/play/ESPN4HD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439770
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN EXTRA 
-http://209.45.101.36:50000/play/ESPNEXTRAHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/454717
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX NEWS
 http://209.45.101.36:50000/play/a191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS 1
