@@ -71,63 +71,71 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/188939
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",FMHFAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",A&E
-http://209.45.101.36:50000/play/AyEHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186628
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AMC 
-http://209.45.101.36:50000/play/AMCHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/159149
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AXN 
-http://209.45.101.36:50000/play/AXNHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53047
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AXN OPC 2
 http://160.20.165.246:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINE LATINO
+http://nino4play.com:25461/YOUSELF3/CHILE3/14351
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINEMA DINAMITA
+http://91177113518930256.ofd92622.xyz:80/live/ja1106721/MAPXj9jPgx/930256.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINECANAL
-http://209.45.101.36:50000/play/CinecanalHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9494
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINEMAX
-http://209.45.101.36:50000/play/CinemaxHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CLOVER
-http://209.45.101.36:50000/play/CloverHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CLOVER OPC 2
-http://160.20.165.246:8000/play/a006/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242025
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA
-http://209.45.101.36:50000/play/DePelicula/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA PLUS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53091
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA CLASICO
+http://nino4play.com:25461/YOUSELF3/CHILE3/3032
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DHE 
-http://209.45.101.36:50000/play/DHEHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/225716
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",EUROPA EUROPA
-http://209.45.101.36:50000/play/EuropaEuropa/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/473708
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN
-http://209.45.101.36:50000/play/GoldenHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9504
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN EDGE
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9349
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PLUS
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53089
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PREMIER
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/67425
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",LIFETIME
-http://209.45.101.36:50000/play/Lifetime/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242002
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTICINEMA
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTIPREMIER
 http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",PARAMOUNT
-http://209.45.101.36:50000/play/ParamountHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439787
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",STAR CHANNEL 
-http://209.45.101.36:50000/play/STARCHANNELHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439809
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SONY CHANNEL
-http://209.45.101.36:50000/play/SonyHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53039
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SPACE
-http://209.45.101.36:50000/play/SpaceHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54168
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",STUDIO UNIVERSAL
-http://209.45.101.36:50000/play/StudioUniversalHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19572
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SUN CHANNEL
-http://209.45.101.36:50000/play/SunChannelHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439742
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TCM
-http://209.45.101.35:50000/play/TCM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TLC
-http://209.45.101.36:50000/play/TLC/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19563
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TNT 
-http://209.45.101.36:50000/play/TNTHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9495
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TNT SERIES
-http://209.45.101.36:50000/play/TNTSeriesHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53054
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TRUTV 
-http://209.45.101.36:50000/play/TRUTVHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19466
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",UNIVERSAL CHANNEL
-http://209.45.101.36:50000/play/UNIVERSALCHANNELHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439738
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",USA
-http://209.45.101.36:50000/play/SyFy/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19561
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",WARNER CHANNEL
-http://209.45.101.35:50000/play/WarnerChannelHD/index.m3u8
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53044
 
 
 
