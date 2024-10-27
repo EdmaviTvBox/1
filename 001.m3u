@@ -222,16 +222,15 @@ http://nino4play.com:25461/YOUSELF3/CHILE3/13803
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",EL GARAGE TV 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19529
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",HISTORIA
-http://nino4play.com:25461/YOUSELF3/CHILE3/14346
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",HISTORY 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56221
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",HISTORY 
+http://nino4play.com:25461/YOUSELF3/CHILE3/14346
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NAT GEO 
 http://nino4play.com:25461/YOUSELF3/CHILE3/889
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NATIONAL GEOGRAPHIC WILD ESP
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56106
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NATIONAL GEOGRAPHIC ESP
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54520
-
 
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",ODISEA 
 
@@ -258,55 +257,55 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54520
 
 
 ===== VARIEDADES =====
-#EXTINF:-1,A3SERIES 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",A3SERIES 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53059
-#EXTINF:-1,ANTENA 3 INT
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",ANTENA 3 INT
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/211202
-#EXTINF:-1,EL GOURMET
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",EL GOURMET
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9408
-#EXTINF:-1,ESTRELLA TV
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",ESTRELLA TV
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/51169
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",FOOD NETWORK
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9554
-#EXTINF:-1,GALAVISION
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",GALAVISION
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53754
-#EXTINF:-1,GLITZ 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",GLITZ 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54399
-#EXTINF:-1,HOLA TV 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",HOLA TV 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9397
-#EXTINF:-1,KANAL D DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",KANAL D DRAMA
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/183185
-#EXTINF:-1,NBC UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",NBC UNIVERSO
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185096
-#EXTINF:-1,TELEMUNDO
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",TELEMUNDO
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/165351
-#EXTINF:-1,TELEMUNDO INT
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",TELEMUNDO INT
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/199197
-#EXTINF:-1,UNICABLE
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",UNICABLE
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242004
-#EXTINF:-1,UNIMAS
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",UNIMAS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53742
-#EXTINF:-1,UNIVISION
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",UNIVISION
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53722
-#EXTINF:-1,VTV PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",VTV PLUS 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186609
 
 ===== CINEMAS =====
-#EXTINF:-1,CINEMA DC COMICS
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DC COMICS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177322
-#EXTINF:-1,CINEMA DC UNIVERSE
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DC UNIVERSE
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177323
-#EXTINF:-1,CINEMA DISNEY FAMILIY
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DISNEY FAMILIY
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177324
-#EXTINF:-1,CINEMA DISNEY LIVE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DISNEY LIVE ACTION
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177338
-#EXTINF:-1,CINEMA DREAMWORKS
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DREAMWORKS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177326
-#EXTINF:-1,CINEMA HORROR
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA HORROR
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177330
-#EXTINF:-1,CINEMA LEGO MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA LEGO MOVIES
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177331
-#EXTINF:-1,CINEMA NAVIDAD
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA NAVIDAD
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177336
 
 
