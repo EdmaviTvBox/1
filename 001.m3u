@@ -225,34 +225,16 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19529
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56221
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",HISTORY 
 http://nino4play.com:25461/YOUSELF3/CHILE3/14346
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",LOVE NATURE
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276310
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NAT GEO 
-http://nino4play.com:25461/YOUSELF3/CHILE3/889
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242015
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NAT GEO MUNDO
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54154
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NATIONAL GEOGRAPHIC WILD ESP
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56106
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NATIONAL GEOGRAPHIC ESP
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54520
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",ODISEA 
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",IBERALIA ORIGINAL 
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",IBERALIA 100% CAZA 
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",IBERALIA 100% PESCA 
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",COCINA FAMILIA 
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",DW EN ESPAñOL 
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",BUENVIAJE
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",HGTV
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",LOVE NATURE
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",NAT GEO WILD ESP
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="" group-title="HISTORIA Y CULTURA",HISTORY 2
 
 
 
@@ -294,9 +276,9 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186609
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DC COMICS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177322
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DC UNIVERSE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177323
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DISNEY FAMILIY
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177324
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DISNEY FAMILIY
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177323
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DISNEY LIVE ACTION
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177338
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DREAMWORKS
