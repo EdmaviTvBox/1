@@ -105,11 +105,9 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/67425
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PLUS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53089
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PREMIER
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/207463
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PREMIER 2
 http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/207464
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",HOLLYWOOD
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/815
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="" group-title="CINE Y SERIES",HOLLYWOOD
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/1414
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",LIFETIME
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242002
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTICINEMA
@@ -152,7 +150,7 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242029
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 2 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/159126
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO FAMILY
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439797
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/218717
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO MUNDI
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19547
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO POP 
@@ -162,15 +160,18 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185172
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO SIGNATURE
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19582
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO XTREME 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185170
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/218720
+
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",DISNEY +
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/40696
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY COMEDIAS
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY CINE
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276162
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY COMEDIA
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/148280
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY COMPETENCIAS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/218342
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY MOVIES
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/469055
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY CHANNEL
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/124
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY NOVELAS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276161
 
