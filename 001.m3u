@@ -321,7 +321,7 @@ http://160.20.165.246:8000/play/a01f/index.m3u8
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/552801
 
 ===== MUSIC =====
-===== MUSIC =====
+
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Cadena Elite
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259316
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Classica 
@@ -370,6 +370,56 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/224314
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/224311
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",VH1 Classic  
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9619
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV 00's
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246150
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",VH1 Classic
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246152
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Conciertos por Stingray
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246158
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Biggest Pop
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246160
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Spankin' New
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246161
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Music Made in Spain
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246163
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Live Music Replay
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246167
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV en español
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246168
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Pop
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246171
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Latino
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246172
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Country
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246173
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo '70s
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246174
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Reggaetón & Trap
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246175
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",CMT Equal Play
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246176
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",TV POP
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246180
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",V2BEAT
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246184
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Colosal TV
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246188
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",FARRA PLAY
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246190
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",88 STEREO
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246195
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",CADENA ELITE
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246196
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",OXIGENO TV
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246199
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",VH1 Classics
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246200
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",LA MEGA MUSICAL TV
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246202
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",HTV
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246203
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Video Tour Channel  | CR
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246204
 
 ===== NOTICIAS =====
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://n9.cl/huvmh" group-title="NOTICIAS",CNN Chile HD
