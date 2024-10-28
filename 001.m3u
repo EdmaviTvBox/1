@@ -80,14 +80,14 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53047
 http://160.20.165.246:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINE LATINO
 http://nino4play.com:25461/YOUSELF3/CHILE3/14351
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINEMA DINAMITA
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="" group-title="CINE Y SERIES",CINEMA DINAMITA
 http://91177113518930256.ofd92622.xyz:80/live/ja1106721/MAPXj9jPgx/930256.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINECANAL
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9494
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/335
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINEMAX
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242025
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA
-
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA 
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/181553
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA PLUS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53091
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA CLASICO
@@ -97,13 +97,19 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/225716
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",EUROPA EUROPA
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/473708
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9504
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/181554
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN EDGE
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9349
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN EDGE OP2
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/67425
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PLUS
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53089
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PREMIER
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/67425
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/207463
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PREMIER 2
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/207464
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",HOLLYWOOD
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/815
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",LIFETIME
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242002
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTICINEMA
@@ -133,9 +139,9 @@ http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53054
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TRUTV 
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19466
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",UNIVERSAL CHANNEL
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439738
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",USA
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19561
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/359
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SYFY
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/57
 #EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",WARNER CHANNEL
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53044
 
