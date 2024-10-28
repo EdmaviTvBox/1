@@ -352,43 +352,59 @@ http://209.45.101.36:50000/play/Telenovelas/index.m3u8
 
 
 ===== TV COLOMBIA =====
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CALI TV
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/611
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CARACOL
-http://209.45.101.36:50000/play/Caracol/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/221
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CARACOL INTERNACIONAL  
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/222
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL 1
-http://209.45.101.36:50000/play/Canal1/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/220
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL INSTITUCIONAL
-http://209.45.101.36:50000/play/CanalInstitucional/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/121293
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL CAPITAL
-http://209.45.101.36:50000/play/CanalCapital/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/614
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL TRECE
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/455
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL TRO
-http://209.45.101.36:50000/play/CanalTRO/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/121294
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CABLENOTICIAS
 http://209.45.101.36:50000/play/CableNoticias/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CITY TV
-http://209.45.101.36:50000/play/CityTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",EPOCA
-http://209.45.101.36:50000/play/Epoca/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/239
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",COSMOVISION
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/615
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="" group-title="TV COLOMBIA",EPOCA
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",MUNDO + 
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/616
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",NTN 24 
-http://209.45.101.36:50000/play/NTN24Horas/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/532
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",NUESTRA TELE
-http://209.45.101.36:50000/play/NuestraTele/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/557
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",RCN
-http://209.45.101.36:50000/play/RCN/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/241
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",RCN NOVELA
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/558
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",SENAL COLOMBIA
-http://209.45.101.36:50000/play/SenalColombiaHD/index.m3u8
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/416
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEANTIOQUIA
-http://209.45.101.36:50000/play/Teleantioquia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Telecafe
-http://209.45.101.36:50000/play/Telecafe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Telecaribe
-http://209.45.101.36:50000/play/Telecaribe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Teleislas
-http://209.45.101.36:50000/play/Teleislas/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Telepacifico
-http://209.45.101.36:50000/play/Telepacifico/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",Win Sports
-http://209.45.101.36:50000/play/WinSports/index.m3u8
-
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/413
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELECAFE
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/83482
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELECARIBE
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/414
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEISLAS
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/245810
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEMEDELLIN 
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/415
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEPACIFICO
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/412
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TV AGRO
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/617
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",WIN SPORTS
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/245505
+#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",WIN SPORTS +
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/197667
 
 
 
