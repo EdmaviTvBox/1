@@ -321,14 +321,55 @@ http://160.20.165.246:8000/play/a01f/index.m3u8
 http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/552801
 
 ===== MUSIC =====
+===== MUSIC =====
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Cadena Elite
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259316
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Classica 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53777
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Hermandad Salsera
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53779
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",HTV Latino
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/217140
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MI MUSICA HITS
 http://160.20.165.246:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MI MUSICA REGETON
 http://160.20.165.246:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MI MUSICA ROMANTICA
 http://160.20.165.246:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",,MI MUSICA SALSA
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MI MUSICA SALSA
 http://160.20.165.246:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Music Top
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54273
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MTV Classics 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177365
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MTV Classic (Y)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53197
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MTV Club
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/49629
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MTV Latino
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9464
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",MTV Live (Y)
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9613
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Nick Music
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53770
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Retro Music TV
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54274
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Retro Music Television
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/41923
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",TeleHit Música
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/199531
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Tele Ritmo
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/254816
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Vevo '70s
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259764
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Vevo '80s
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259763
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Vevo Latin 
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/224314
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",Vevo Reggaton
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/224311
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/dnfjj" group-title="MUSIC",VH1 Classic  
+http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9619
 
 ===== NOTICIAS =====
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://n9.cl/huvmh" group-title="NOTICIAS",CNN Chile HD
