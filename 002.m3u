@@ -37,15 +37,13 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/173269
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/328
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL TRO »1«
 https://liveingesta118.cdnmedia.tv/canaltro2live/live-900/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL TRO »2«
-http://cincotv.org:25461/Carol1N4/Cl4v3/187030
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CABLE NOTICIAS »1«
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/326
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CABLE NOTICIAS »2«
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/327
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CITYTV »1«
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/337
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CITYTV »1«
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CITYTV »2«
 http://cincotv.org:25461/Carol1N4/Cl4v3/186539
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CNC MEDELLIN
 http://cincotv.org:25461/Carol1N4/Cl4v3/187001
@@ -81,6 +79,8 @@ http://ultra-premium-pro.xyz:8080/979325766tv/y34397/355
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/356
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEMEDELLIN »3«
 http://cincotv.org:25461/Carol1N4/Cl4v3/173271
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEMEDELLIN »4«
+http://cincotv.org:25461/Carol1N4/Cl4v3/187030
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEPACIFICO »1«
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/357
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEPACIFICO »2«
