@@ -235,11 +235,6 @@ http://ultra-premium-pro.xyz:8080/979325766tv/y34397/12397
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS PPV" tvg-logo="https://n9.cl/zpusd7" group-title="EVENTOS PPV",DAZN RINGSIDE 
 http://cincotv.org:25461/Carol1N4/Cl4v3/188845
 
-===== TV COLOMBIA ====
-
-
-
-
 ===== VARIEDADES =====
 #EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",ADULT SWIM
 http://cincotv.org:25461/Carol1N4/Cl4v3/185141
@@ -325,22 +320,28 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/226543
 http://cincotv.org:25461/Carol1N4/Cl4v3/282476
 
 ===== CULTURAL =====
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",ODISEA
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/ed7we" group-title="CULTURAL",ODISEA
 http://cincotv.org:25461/Carol1N4/Cl4v3/184852
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/ed7we" group-title="CULTURAL",HGTV
 http://cincotv.org:25461/Carol1N4/Cl4v3/187125
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",LOVE THE PLANET
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/ed7we" group-title="CULTURAL",LOVE THE PLANET
 http://cincotv.org:25461/Carol1N4/Cl4v3/173274
-#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",DISCOVERY CHANNEL (COL)
-http://cincotv.org:25461/Carol1N4/Cl4v3/23756
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/ed7we" group-title="CULTURAL",DISCOVERY CHANNEL (ESP)
+http://ultra-premium-pro.xyz:8080/979325766tv/y34397/236340
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/ed7we" group-title="CULTURAL",DISCOVERY CHANNEL
+http://ultra-premium-pro.xyz:8080/979325766tv/y34397/406
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",DISCOVERY CHANNEL (MEX)
-http://cincotv.org:25461/Carol1N4/Cl4v3/23757
+http://ultra-premium-pro.xyz:8080/979325766tv/y34397/24908
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",DISCOVERY CIVILIZATION 
+http://ultra-premium-pro.xyz:8080/979325766tv/y34397/409
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",DISCOVERY FAMILIA
 http://cincotv.org:25461/Carol1N4/Cl4v3/25197
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",INVESTIGATION DISCOVERY 
-http://cincotv.org:25461/Carol1N4/Cl4v3/186501
+http://ultra-premium-pro.xyz:8080/979325766tv/y34397/437
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",DISCOVERY SCIENCIE 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186503
+#EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",DISCOVERY THEATER
+http://ultra-premium-pro.xyz:8080/979325766tv/y34397/418
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",DISCOVERY TURBO  
 http://cincotv.org:25461/Carol1N4/Cl4v3/186505
 #EXTINF:-1 tvg-id="" tvg-name="CULTURAL" tvg-logo="https://n9.cl/m4n16" group-title="CULTURAL",DISCOVERY WORLD 
