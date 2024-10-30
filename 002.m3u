@@ -89,8 +89,6 @@ http://ultra-premium-pro.xyz:8080/979325766tv/y34397/368
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/359
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pwkhn" group-title="TV COLOMBIA",RCN XTRA
 http://cincotv.org:25461/Carol1N4/Cl4v3/110832
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pwkhn" group-title="TV COLOMBIA",CANAL UNO
-
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pwkhn" group-title="TV COLOMBIA",SEÑAL COLOMBIA
 http://cincotv.org:25461/Carol1N4/Cl4v3/171153
 #EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/pwkhn" group-title="TV COLOMBIA",TELEMEDELLIN 
@@ -243,47 +241,47 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/188845
 
 
 ===== VARIEDADES =====
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",ADULT SWIM
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",ADULT SWIM
 http://cincotv.org:25461/Carol1N4/Cl4v3/185141
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",ESTRELLA TV
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",ESTRELLA TV
 http://cincotv.org:25461/Carol1N4/Cl4v3/23729
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",NBC UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",NBC UNIVERSO
 http://cincotv.org:25461/Carol1N4/Cl4v3/23730
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",KANAL D DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",KANAL D DRAMA
 http://cincotv.org:25461/Carol1N4/Cl4v3/66150
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",UNIVISION 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",UNIVISION 
 http://cincotv.org:25461/Carol1N4/Cl4v3/162346
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",TELEMUNDO 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",TELEMUNDO 
 http://cincotv.org:25461/Carol1N4/Cl4v3/162347
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",TELEMUNDO INTERNACIONAL
 http://cincotv.org:25461/Carol1N4/Cl4v3/186429
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",XTREMA TV
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",XTREMA TV
 http://cincotv.org:25461/Carol1N4/Cl4v3/172175
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",MEGA TV USA
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",MEGA TV USA
 http://cincotv.org:25461/Carol1N4/Cl4v3/186433
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",CANAL DE LAS ESTRELLAS
 http://cincotv.org:25461/Carol1N4/Cl4v3/186434
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",E! ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",E! ENTRETENIMIENTO
 http://cincotv.org:25461/Carol1N4/Cl4v3/186435
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",GALAVISION
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",GALAVISION
 http://cincotv.org:25461/Carol1N4/Cl4v3/186439
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",UNICABLE
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",UNICABLE
 http://cincotv.org:25461/Carol1N4/Cl4v3/186440
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",HOLA TV
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",HOLA TV
 http://cincotv.org:25461/Carol1N4/Cl4v3/186780
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",MAS CHIC
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",MAS CHIC
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/622
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",AMERICA TV LATINO USA
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",AMERICA TV LATINO USA
 http://cincotv.org:25461/Carol1N4/Cl4v3/186782
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",COMEDY CENTRAL 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186432
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",DISTRITO COMEDIA 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",DISTRITO COMEDIA 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186436
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",FOOD NETWORK LATINO 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",FOOD NETWORK LATINO 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186437
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",GOURMET 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",GOURMET 
 http://cincotv.org:25461/Carol1N4/Cl4v3/186438
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/6jzshf" group-title="VARIEDADES",TBS 
+#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="https://n9.cl/p166h" group-title="VARIEDADES",TBS 
 http://ultra-premium-pro.xyz:8080/979325766tv/y34397/24845
 
 ===== KIDS =====
