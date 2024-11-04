@@ -7,28 +7,32 @@ http://home-playtv.com:8080/powertv/TmZMqpkdUusg/46257
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170190.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CARACOL »3«
 http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/221
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CARACOL INTERNACIONAL »1«
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CARACOL INT »1«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/211350
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CARACOL INTERNACIONAL »2«
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CARACOL INT »2«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/172500.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CARACOL INTERNACIONAL »3«
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CARACOL INT »3«
 http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/222
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN »1«
-http://home-playtv.com:8080/powertv/TmZMqpkdUusg/55815
+http://home-playtv.com:8080/powertv/TmZMqpkdUusg/215912
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN »2«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170170.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN »3«
 http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/241
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN INTERNACIONAL »1«
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN INT »1«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170201.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN INTERNACIONAL »2«
-http://home-playtv.com:8080/powertv/TmZMqpkdUusg/215912
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN +
+
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN MAS »1«
 http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/188257
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN XTRA
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN MAS »2«
+http://home-playtv.com:8080/powertv/TmZMqpkdUusg/552797
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN XTRA »1«
 http://cincotv.org:25461/Carol1N4/Cl4v3/110832
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN XTRA »2«
+http://home-playtv.com:8080/powertv/TmZMqpkdUusg/552798
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN NOVELAS »1« 
-http://home-playtv.com:8080/powertv/TmZMqpkdUusg/9907
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN NOVELAS »2«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170200.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RCN NOVELAS »3«
@@ -38,7 +42,7 @@ http://home-playtv.com:8080/powertv/TmZMqpkdUusg/53259
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CABLE NOTICIAS »2«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/172497.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CABLE NOTICIAS »3«
-http://209.45.101.36:50000/play/CableNoticias/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CALI TV »1«
 http://cincotv.org:25461/Carol1N4/Cl4v3/187002
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CALI TV »2«
@@ -52,23 +56,23 @@ http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/220
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL 1 »3«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170171.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL C
-http://home-playtv.com:8080/powertv/TmZMqpkdUusg/254860
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL CAPITAL »1«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/12832
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL CAPITAL »2«
-https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/256975.ts
+https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170195.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL CAPITAL »3«
 http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/614
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL INSTITUCIONAL »1«
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/121293
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL INSTITUCIONAL »2«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/552800
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL TRO »1«
-https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/190304.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL TRO »2«
-http://home-playtv.com:8080/powertv/TmZMqpkdUusg/215911
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CANAL TRO »3«
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/121294
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CITYTV »1«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/12837
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",CITYTV »2«
@@ -88,9 +92,9 @@ http://cincotv.org:25461/Carol1N4/Cl4v3/186533
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",EL TIEMPO »2« 
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170179.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",EL TRECE »1«
-http://home-playtv.com:8080/powertv/TmZMqpkdUusg/186613
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",EL TRECE »2«
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/455
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",LA KALLE
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170173.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",MULTICANAL »1«
@@ -102,13 +106,17 @@ http://home-playtv.com:8080/powertv/TmZMqpkdUusg/9483
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",NTN 24 »2«
 http://cincotv.org:25461/Carol1N4/Cl4v3/186532
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",NTN 24 »3«
-https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/256983.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",PASIONES »1«
 http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/459
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",PASIONES »2«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/242017
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",PASIONES »3«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/169874.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RED + »1«
+http://home-playtv.com:8080/powertv/TmZMqpkdUusg/552799
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",RED + »2«
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEANTIOQUIA »1«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/35873
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEANTIOQUIA »2«
@@ -126,13 +134,13 @@ http://home-playtv.com:8080/powertv/TmZMqpkdUusg/12844
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELECARIBE »2«
 http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/414
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELECARIBE »3«
-https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/256988.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEISLAS
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/245810
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEMEDELLIN »1«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/12845
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEMEDELLIN »2«
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/415
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEMEDELLIN »3«
 http://cincotv.org:25461/Carol1N4/Cl4v3/173271
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",TELEPACIFICO »1«
@@ -152,17 +160,17 @@ http://home-playtv.com:8080/powertv/TmZMqpkdUusg/12841
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",SEÑAL COLOMBIA »2«
 http://cincotv.org:25461/Carol1N4/Cl4v3/171153
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",SEÑAL COLOMBIA »3«
-https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170182.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",WIN SPORTS+ »1«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/12759
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",WIN SPORTS+ »2«
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/197667
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/245505
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",WIN SPORTS+ »3«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170198.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",WIN SPORTS »1«
 http://home-playtv.com:8080/powertv/TmZMqpkdUusg/12851
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",WIN SPORTS »2«
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/245505
+http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/197667
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",WIN SPORTS »3«
 https://castlempire.site:443/Cuenta42/4hQTscJnrHfb/170187.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://n9.cl/ce6mw" group-title="COLOMBIA",ZOOM
