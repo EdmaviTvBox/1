@@ -1,731 +1,320 @@
 #EXTM3U
 
 ===== COLOMBIA =====
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/dofy3" group-title="COLOMBIA",CARACOL
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CARACOL
 http://disfruta.net/live/richardactiva247/gwqUJUjvgE/30fa6e5b-1394-4cd1-8c88-07e034d1d1ae.m3u
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/dofy3" group-title="COLOMBIA",CARACOL HD2
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CARACOL HD2
 http://disfruta.net/live/richardactiva247/gwqUJUjvgE/559b2ef9-4e9e-4960-858c-d02bf6d1715e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/m6t9r" group-title="COLOMBIA",CARACOL INT
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CARACOL INT
 http://disfruta.net/live/richardactiva247/gwqUJUjvgE/997d1d2f-cf27-43fd-84ee-b28691c1a8e3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/2avo4" group-title="COLOMBIA",RCN
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",RCN
 http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e3f5562b-c463-43b8-b750-4d960267042b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/g7zj8" group-title="COLOMBIA",RCN MAS
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",RCN MAS
 http://disfruta.net/live/richardactiva247/gwqUJUjvgE/1a26a8df-59aa-4e48-b997-3799b67695a6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/ec8xjr" group-title="COLOMBIA",RCN XTRA
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",RCN XTRA
 http://disfruta.net/live/richardactiva247/gwqUJUjvgE/efccbb75-eea7-4929-9772-549dbf56f932.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CABLENOTICIAS 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/8902f915-6d16-44aa-9878-734ca73bd3c9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CALI TV
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/0b82a398-ad34-4621-a825-35427fc82a0b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CANAL CAPITAL 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/660d9dc7-9b31-4790-b116-3793636bb8cf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CANAL INSTITUCIONAL 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/fdf5b095-1fc7-44e9-832f-6df9648356fd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CANAL TRECE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/8a3b5ea6-473a-4466-8a1d-3f2e830bacd0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CANAL UNO 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/519d4374-40d3-4c49-bb0c-56a4ecd7ae0d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",CITY TV
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/daf7079f-ad68-4a33-ba75-21cb2d1f7bf5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",COSMOVISION 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/38026ef8-acec-4605-88eb-6d3103db224f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",NTN24 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/4151e48b-651e-4f66-a2a1-a1bf96146a58.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",OASIS TV
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/a4c7fd22-3d5a-420d-b8bc-5160cb074c52.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",TELEANTOQUIA 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/6b2729d8-4a45-4889-80bd-46cc82839f17.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",TELECAFE 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b2e50911-03f4-4db9-88b2-17ab98ab8af3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",TELECARIBE 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/4a222de0-1bcf-4d8e-a825-ef2cb9a47ace.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",TELEMEDELLIN 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/0a26c0af-2164-4cb2-be34-99efa2c17ba1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/l6uq6" group-title="COLOMBIA",TELEPACIFICO 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/6608ada5-095a-4c77-9517-1d9603704792.m3u
 
 
 
 ===== KIDS =====
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",Teennick
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2636
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",Teennick HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50834
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",BABY TV
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/482a3fc7-9230-4227-8ca8-b414a469dc03.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",BOING
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/660ff5a1-bdc9-4a1e-a5f0-c5abb49e3446.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",CARTOONITO
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/6b6c295b-64ba-4c3f-b640-a912aeda3007.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",DISCOVERY KIDS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/2a9533fa-030a-4a98-8c63-7532fa2bff76.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",DISNEY CHANNEL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/daabd056-5902-4221-994c-9cedd1bbc84a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",DISNEY JUNIOR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/923f59ae-acab-433e-96f4-cbe487dfba4d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",NICKELODEON
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/5d7ef767-22a7-49f3-9b1e-de56758ec05a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",PAKA PAKA 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/c026ad3c-a96e-4311-b648-b89cdc822ef3.m3u
 
 
 ===== NATURAL Y CULTURA =====
 #EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Animal Planet 1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2454
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Animal Planet 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2685
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",CGTN en Español
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Channel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2455
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Channel HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2686
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Channel FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30417
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Familia
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/37281
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Familia HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2456
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Home & Health
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2457
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Home & Health HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2687
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Investigation 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30608
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Investigation HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2458
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Science 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30609
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Science HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2459
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Theater
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/38519
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Theater HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2460
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Theater FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2688
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery TLC
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2461
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery TLC HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2689
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Turbo
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2462
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery Turbo HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2690
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery World 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30610
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Discovery World HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/4891
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",CRIMEN E INVESTIGACION
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/6b91fbee-e502-4198-90b2-b543eaeff3ee.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY ANIMAL PLANET
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/3893fb43-1c6b-4847-96a3-745a184e8c5c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY CHANNEL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/856abf41-ec0b-4865-91db-b1fb78d15624.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY CHANNEL ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/6a560089-8ff5-4ae6-b4bf-e55413ff7fca.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY H&H
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/014bb525-5cb0-4537-bd1d-5e4939ad6121.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY ID
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/f89dde91-5eba-4319-ba98-15659d948d0b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY SCIENCE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/04861b5a-c226-45b0-b696-fee088f4438d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY THEATER
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/d45ec258-a794-40aa-86f6-d3b6413b0a31.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY TLC
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b7466c2c-92ce-433b-82ef-76732efd4c73.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY TURBO
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/994bea95-2011-4587-b1f8-8d534fdd0d12.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",DISCOVERY WORLD
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/840bce0d-26bf-42ff-96c5-6dc4021645f7.m3u
 #EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",H2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2463
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",H2 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50969
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",H2 FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30470
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",History
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7062
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",History HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2464
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",History FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2691
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",HGTV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30822
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Love Nature HD
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e14142a7-37b8-477b-b175-139c6c035d77.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",HISTORIA
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/5e568aca-6fdf-44b0-b8dd-a85045178fc3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",HISTORY CHANNEL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/435fcf93-97ee-4f8b-92f4-e82b2e2e2897.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",IBERALIA
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/58ad54ba-9344-497d-9a3f-3c933d90fe70.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Love Nature /////
 http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51512
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",National Geographic (op.1)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2465
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",National Geographic (op.2)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30611
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Nat Geo WILD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2466
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Nat Geo WILD FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2692
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",Nat Geo Mundo
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76057
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",NAT GEO
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9737e451-69fc-4664-ad40-10c7bb6645a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",NATIONAL GEOGRAPHIC ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/141e3391-c2c7-4449-a36e-7b3e487274b0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",NAT GEO WILD ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/ac8014c8-117c-4dbd-8911-60221791a17d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/s3w8a" group-title="NATURAL Y CULTURA",ODISEA
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/d285e5ab-bc7b-4f4f-9a55-57cc38d685cc.m3u
+
 
 ===== VIP =====
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Star Channel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7015
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Star Channel HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2628
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Star Channel FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2671
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Sony 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2648
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Sony HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30414
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Sony FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/32655
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Sony Cine
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52273
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Sony Movies 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/72017
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Space
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/47856
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Space HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2649
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Space FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2679
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Studio Universal 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2658
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Studio Universal HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30627
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",USA
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2660
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",USA HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30628
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Showtime West 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14717
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Showtime Beyond
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30725
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Showtime East 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30726
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Showtime Extreme 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30727
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Starz Action 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2654
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Prime Video
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2650
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Starz Classic 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2655
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Sony Movies
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2651
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",FMH Family 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2653
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Starz Oeste HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6886
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Starz Suspense 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2656
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Warner Channel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7049
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Warner Channel HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2666
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Warner Channel FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7050
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",My Time Movie Network - En Español
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/69792
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",TV Retro
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76552
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",RetroX
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76558
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Top Cine
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/72786
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Cine Romantico
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76560
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",Terror TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/75670
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",CINEVISION
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/abcb082e-23fb-47dd-a3cd-cc988c8917c9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",COMEDY CENTRAL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/3dc2a8cf-5cdb-45e2-b6e8-11ad0adb3eea.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",COMEDY CENTRAL ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/ac436164-b4da-4454-af0a-1a48ba410526.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",FILM & ARTS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9d41657a-4772-4e8b-8e34-ed016275f27a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",HOLLYWOOD 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/7e449e94-a714-4e08-8764-55efcf493689.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",LIFETIME
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/20c5d61a-b403-48a5-9efa-add7faf4f627.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/1kh9l" group-title="VIP",NBC UNIVERSO
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/95990c75-461e-41fd-9c9a-caa5c042653b.m3u
+
+
 
 ===== PREMIUM =====
 #EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7010
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2642
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2676
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/ae61cfe6-68ed-4eaf-9c8e-1a7bf4e10987.m3u
 #EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7011
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO 2 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2643
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO 2 FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2677
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Family
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7013
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Family HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2644
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Family FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6509
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Mundi 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/15618
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Mundi  HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30415
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Mundi FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/39810
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Plus
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7012
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Plus HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2645
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Plus FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2678
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Pop 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/15619
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Pop HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30416
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Pop FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50829
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Signature
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7014
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Signature HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2646
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Signature FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6510
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Xtreme
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30625
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Xtreme HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2695
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO Xtreme FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/39811
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Paramount Channel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/4884
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Paramount Channel HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30626
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Prime Video
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2657
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Cinema
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50467
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Cinema 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50835
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Crime
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50468
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Crime op.2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2637
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Comedy
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56568
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Comedy HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50469
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Comedy OP.2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6884
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Premiere
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56569
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Premiere HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50470
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Universal Reality
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50466
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Movistar Acción
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2524
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Movistar Comedia
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2525
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Movistar Drama
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2527
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Movistar Estrenos
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2526
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",Movistar Series
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2522
-
-
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/65fbee9b-efd1-4e85-9a13-dd7d07c300de.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO FAMILY
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b1f95cbb-334d-4c2e-9836-e21dbedcc090.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO MUNDI
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/4b146d33-5324-4817-8c84-f0a410c328b1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO PLUS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/319b301d-f477-403c-9cba-82340da35363.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO POP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/a2a587c1-1d9a-4210-86af-178330eeeb9f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO SIGNATURE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e4b553a8-a4c2-4034-ab9d-7200cbd77735.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",HBO XTREME
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/4f69c79c-1c3b-40e3-9b9e-55cf3a2571f9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",UNIVERSAL CINEMA
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e0363e16-dd1c-4012-b84f-2c025866f533.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",UNIVERSAL CRIME 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/1c5129c0-7aa6-4613-9f97-e6ed5c96338c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",UNIVERSAL COMEDY 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/03d56e46-52e7-4bc3-9004-e3bfad773add.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",UNIVERSAL PREMIERE 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/efaa08cf-8ebc-4834-b80e-37b7411ee797.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",UNIVERSAL REALITY
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/0a3436ee-4325-470d-a1fc-3fb470de805d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",MOVISTAR ACCION 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/354c7ae2-a82c-4d33-8712-1fbd6b3b810d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",MOVISTAR CINEDOC & ROLL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/a7e2807f-05f1-42aa-9bc6-0d604e9747df.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",MOVISTAR COMEDIA 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9cd82d8b-4eaf-49db-9f49-fed3aa20ca3a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",MOVISTAR DCINE ESPANOL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/7510d2bf-818c-49b8-8d37-2051b926cbdc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",MOVISTAR DRAMA 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9736d375-3014-4467-a666-3a58856abd07.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",MOVISTAR ESTRENOS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/52ad2e66-0e16-4801-b884-eed0e93207d9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/6wn32" group-title="PREMIUM",MOVISTAR SERIES
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/47abe843-15ec-4f98-8488-1a3733a2169f.m3u
 
 ===== CINE Y SERIES =====
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Cine Latino
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49062
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Cinema Dinamita
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49384
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Canal Hollywood
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29483
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",De Película
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2624
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",De Película Plus
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2625
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",De Película Clásico
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14716
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",DreamWorks
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56978
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Europa Europa 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2626
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",A&E
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/7169d2c7-8f09-4da1-a5dd-0ac0544d2aaf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",A&E ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/6b13915b-7c48-4683-9937-fd566a96c46c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",A3SERIES
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/33a23b1f-1be8-4be7-a06b-a79bc25dec16.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",AMC
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/c3d3499c-3b61-4a74-a99e-6f57a8a9de19.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",AMC ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b38bf9b1-6aec-439f-8ae6-805140137ee2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",AXN
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/44651bda-8dec-489e-a91c-b2646578ab97.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",AXN ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/7c48f6ee-04c1-469f-aa84-1cc71c0c5c70.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",AXN WHITE ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/fccedcc5-cd0d-4a3b-9a53-0e8c4ace4bb3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",CINE LATINO
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/23a98d7b-446e-4160-841e-8736c58904a5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",CINECANAL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9492cbe1-4ebe-452a-bf64-865c353e4aef.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",CINEMAX
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/83e6254d-7acb-47b8-bfff-0b43e25e9803.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",DE PELICULA PLUS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/77f875f8-b744-4a56-a5af-c3d5a6e2d76b.m3u
 #EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",FX
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30432
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Film & Arts HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2627
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Film & Arts SD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56693
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Golden
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2638
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Golden Edge
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2639
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Golden Plus
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2640
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Golden Premier
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49061
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Golden Premier 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53388
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Movistar Cine
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2647
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",MultiPremier
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/77337
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Netflix Cinema 1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51451
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Netflix Cinema 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51452
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Netflix Cinema 3
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51453
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Netflix Cinema 4
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51454
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Netflix Cinema 5
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51455
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Disney Cinema 1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51456
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Disney Cinema 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51457
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Disney Cinema 3
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51458
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Universal Channel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7051
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Universal Channel HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2665
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Universal Channel FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7052
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",TNT
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57187
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",TNT Series
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57188
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/af589e47-3b58-4ac6-b8d2-5c5df2d66cc5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",PARAMOUNT NETWORK
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/d1142835-0a68-43e4-be44-1216456b3ae4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",SONY CHANNEL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/ab090c47-f33e-4bc9-b0c6-4d0c3af0b5a0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",SPACE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/be7ceec3-124a-4179-a865-312d0265b0a9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",STAR CHANNEL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9dbc1aed-8c0b-4984-a7c4-7b791cce011a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",STUDIO UNIVERSAL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/555e5509-69f6-4e85-b776-6bcda7f69c5d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",SYFY ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/2efa7479-eda9-404d-be9c-91b39370a8bb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",TCM ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/c197a776-2317-4546-a9a9-160cec8df47a.m3u
 #EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",TCM
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2662
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Ultra Kidz
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/23668
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Ultra Cine 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5688
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Ultra Familia 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5691
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",Ultra Film 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5687
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/26c49fd5-a1e4-4e05-80a1-5ba4a117f0fb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",TNT
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e95c5422-836e-4325-9161-94f00e39ab6a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",TNT ESP
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9bb1a400-99fc-4dda-9aaf-68c6b7bd1e4b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",TNT SERIES
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/08d3393e-c8e0-42cb-9223-65b89de0cc0a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",UNIVERSAL TV
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/ca1f514c-06cc-46d9-84fe-70a56a7a5740.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/32gtui" group-title="CINE Y SERIES",WARNER CHANNEL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b9f1c6cd-05b6-487f-9634-74e1b7c66ccc.m3u
 
 ===== NOVELAS =====
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/ydlyp" group-title="NOVELAS",TNT Novelas HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57189
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/ydlyp" group-title="NOVELAS",TNT Novelas
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2661
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/ydlyp" group-title="NOVELAS",PASIONES
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/7d16c523-c911-4279-923a-8b3eb325f62f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/ydlyp" group-title="NOVELAS",TNT NOVELAS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/25af148e-54fe-4ce2-b33d-3eaf3469e701.m3u
 
 ===== SPORTS =====
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Eventos Especiales
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50562
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Eventos Deportivos STAR+
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/55037
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",All Sports
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/31755
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bar TV La Liga
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6854
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bein Sports La Liga (España)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3419
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bein Sports Ñ
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3061
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bein Sports Extra
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51476
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bein Sports USA
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/37457
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bein Sports USA HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/37458
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bein Sports English 1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51370
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bein Sports 4
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76983
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Bein Sports 5
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76982
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Futbol Chile Estadio
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57154
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TNT Sports Premium SD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57155
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TNT Sports Premium HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57156
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TNT Sports Premium FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57157
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TNT Sports SD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57160
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TNT Sports  HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57161
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TNT Argentina
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57162
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TNT Argentina HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57163
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",CDO
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3117
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",CDO Premium
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/9399
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Combate (Brasil)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14128
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Claro Sports
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/39993
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Claro Sports HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/39994
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN 1 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53500
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN 1 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51263
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN 2 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53501
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN 3
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51265
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN 4
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51266
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN F1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53418
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN LA LIGA 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53496
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN LA LIGA HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53497
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN LA LIGA 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53498
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN LA LIGA 2 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53499
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",DAZN Womens Football
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57278
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS SP (Arg)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/47580
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS SP HD (arg)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/33608
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS (Chi)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/31759
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS HD (Chi)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51491
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS (Col)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52452
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS Motor
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52453
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS (Ecu)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56979
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS SP +
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/31761
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS + HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/32680
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ADRENALINA SPORTS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/8e116683-fd76-49ac-8548-51c5ec80f220.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",AYM SPORTS 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/ba58f57d-1e6b-456a-9fe3-a27bf683a208.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",BEIN SPORTS Ñ
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b70b8c2f-00eb-4990-ab80-9487b21e97fb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",BEIN SPORTS Ñ 2
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/437de0a8-f1e8-4611-8ca7-f89d4891e7eb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",BEIN SPORTS XTRA Ñ
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b22a5700-ee18-42e8-9bf2-1a5755873e49.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/c5f141cd-1906-429f-94f9-3dc6b2141ec7.m3u
 #EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/31760
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS 2 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/37484
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS 2 FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/37485
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS FIGHT
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52506
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 1 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51157
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 1 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51155
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 1 FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51154
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 2 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51158
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 2 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51156
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 2 FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5600
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 3
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5601
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 3 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/31026
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN ARG 3 FHD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/31027
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Premium Argentina
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6463
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Premium Argentina HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3085
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 4
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50373
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 4 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50372
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 5
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52202
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 5 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76707
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 6
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/54541
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 6 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3084
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 7
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/37134
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 7 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3083
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Chile
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50968
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Chile HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51270
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Colombia
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/54850
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Extra Brasil
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14132
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 1 Latino
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7023
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 1 Latino HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53419
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 2 Latino
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7024
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 2 Latino HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3075
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 3 Latino
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7025
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 3 Latino HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3077
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Deportes
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/53387
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Extra
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50010
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Extra HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/54070
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN Usa
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30900
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN News Usa
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30902
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 2 Chile HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/79153
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",EUROSPORTS 1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51159
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",EUROSPORTS 1 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51367
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",EUROSPORTS 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3424
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",EUROSPORTS 2 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51368
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ECDF
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52252
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fight Time
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6915
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Flow Sports
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6872
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 1 Argentina 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3082
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 1 Argentina HD 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30935
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 2 Argentina
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3086
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 2 Argentina HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76708
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 3 Argentina
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76709
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 3 Argentina HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76710
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 1 Latino 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3087
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 1 Latino HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3088
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 2 Latino 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3089
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 2 Latino HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3090
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 3 Latino 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3091
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 3 Latino HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3092
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports México HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5616
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports Premium
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52561
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 2 Brasil
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14134
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports 2 USA
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56087
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Fox Sports USA
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/77437
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Formula 1 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/38487
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Gol Peru
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14029
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Gol Peru HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3098
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Golf Channel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3099
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Golf Channel HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/38903
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",GOLTV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57191
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",GolTV Ecuador HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3095
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Liga 1 Perú
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56088
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Liga 1 Max Perú
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56089
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Movistar Deportes España
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3100
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Movistar Deportes Peru
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3102
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Movistar Vamos
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30360
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Movistar Golf HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3103
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Movistar La Liga
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50584
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Movistar Liga De Campeones
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49752
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",MLB Network
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/38900
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",MLB Network 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49190
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",MLB Network 3
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49191
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",MLB Network 4
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52073
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",MLB Network 5
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76978
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",MLB Network 6
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76979
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",MLS 1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51474
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",MLS 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57109
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",NBA TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3104
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",NBA Network
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50943
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",NBA (Solo Eventos)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76980
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",NBA (Solo Eventos 2)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76981
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",NHL Network
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/47581
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",NFL Network
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/43879
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",NFL Channel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/43878
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Premiere Clube (Brasil)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14129
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",PGA Tour
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51475
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Sporting Club Chile
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6331
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Sportv 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/33328
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Sportv  2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49187
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Sportv 3
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49188
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Sportv 3 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56010
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",STAR +1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50006
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",STAR +2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50007
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",STAR +3
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50009
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",STAR +4
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50008
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",STAR +5
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50481
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",SKY 1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51267
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",SKY Sports F1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57308
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",SKY Sports Main Event
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51268
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",SKY Sports Arena
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51269
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TD+
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30477
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TD+2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30478
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Teletrak Chile
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7009
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TV Turf
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30915
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tennis Channel USA HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3108
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tigo Sports
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57134
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tigo Sports Bolivia
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3123
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tigo Sports 2 Bolivia
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56860
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tigo Sports 3 Bolivia
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7092
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tigo Sports Costa Rica
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3125
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tigo Sports Guatemala
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/55825
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tigo Sports Honduras
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3124
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Tigo Sports Paraguay (Solo Partidos)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3122
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TVC Deportes
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/13689
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Deportes TVC
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/77400
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TyC Sports
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5582
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TyC Sports HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3110
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Teledeporte
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/49493
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TVG Network
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50004
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TVG 2 Network 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50005
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TUDN
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57110
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",UFC Network
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3112
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",UFC Fight Pass
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50530
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Win Sports
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7715
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Win Sports HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3115
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Win Sports+
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/15348
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Win Sports+ (op2)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/37305
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Win Sports+ HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/15349
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Win Sports+ FHD (conexiones rápidas)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/50262
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",WWE 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/31856
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",YES Network USA
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/6349
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Sports Net 1 (Canada)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56054
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Sports Net Ontario (Canada)
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56055
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FuTV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57436
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Red Bull TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/71434
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",PANAM SPORTS
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57834
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Dubai Sports
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30454
-#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",Dubai Sports 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30455
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/efaa4738-4cd9-4881-8657-8e6b4aa627ac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",D SPORTS PLUS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/3e0bb337-7401-4d4f-967c-9707fcce6109.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN (CO)
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/12d3d8be-373a-4013-9b05-0707cd47cd10.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN NORTE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/5214ac35-abb9-46ea-bad9-0894632ae09b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/5889739e-66fb-4606-9cac-9577759c5de6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 2 (CO)
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/a36e231a-739e-4b34-a638-cc47939b4020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 2 NORTE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/a712a0e9-b578-4e6a-a871-98c9466cc862.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 2 SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b1d15981-516c-41e5-ae9a-94fca8e2243a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 3 (CO)
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/2ade0d27-bb28-47ad-aa55-2196e5ed1b8f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 3 NORTE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/296e8a77-a871-4f14-91a0-21484636838e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 3 SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/f8859d1c-ad4b-444f-a946-f6306162f8c5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 4 (CO)
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/a2a2ed12-d726-468e-91fa-fdf296ee07cc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 4 NORTE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/ffd0dba3-ea92-4975-81dc-89a4489296ad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 4 SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/11360a8d-0a67-4b67-94a7-6bf13b750f98.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 5 (CO)
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/091a7017-4c22-4c9c-a23f-6acd7e5cf784.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 5 SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/c2ad18aa-b75a-44e1-a3c7-d64d67dd9920.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 6 (CO)
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/0a290a92-e8aa-4043-8cea-7e55a87c5670.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 6 SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/06673a04-f523-43f7-ad01-5a9df2e450ab.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 7 (CO)
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/aceb4716-b11a-43f1-8d69-f278c9965bdd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN 7 SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9ed11193-9b09-4b49-ae1f-e195f4412f4d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN DEPORTES
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/9db9023b-972f-4776-aecf-5386bae176db.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",ESPN PREMIUM SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/108e6f14-e17d-4a9e-a04e-9c567875532c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",EUROSPORT 1
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/bd57334f-48af-43d2-95cd-278b2e6e7b7f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FOX DEPORTES
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b3be4505-7efa-4a5a-99d5-8516325716b9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FOX SPORTS NORTE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e2b529af-cfb9-4860-b102-1ad60e92f7f8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FOX SPORTS SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/8b01736f-c63d-4906-aa9a-0e9d9899c37a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FOX SPORTS 2 NORTE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/08ab7996-7e98-4e59-82e8-4b2f2bfbc0c2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FOX SPORTS 2 SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/d3d77af8-fcf1-4bbb-9840-eaf32d1b78df.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FOX SPORTS 3 NORTE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/6291883a-4e40-44e5-96f4-662e196dad44.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FOX SPORTS 3 SUR
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e278e3b3-cb7c-429d-9f18-b9adf78a83bb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",FOX SPORTS PREMIUM NORTE
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/88be8f3c-f759-4cf2-8f30-1b9d57b517be.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TUDN MX
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/40b6bc7b-9dad-4056-913c-eeb7963977cf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",TUDN US
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/90a2fca3-0e44-458d-8654-a26de06d91d6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",WIN SPORTS 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/3aef40a5-2d6f-4161-9780-55acf8d6db26.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/3j7x2v" group-title="SPORTS",WIN SPORTS FUTBOL 
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/815fab14-9aab-4577-bb21-22abeee09009.m3u
+
+
 
 
 
