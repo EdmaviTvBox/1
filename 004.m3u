@@ -1,5 +1,21 @@
 #EXTM3U
 
+===== COLOMBIA =====
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/dofy3" group-title="COLOMBIA",CARACOL
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/30fa6e5b-1394-4cd1-8c88-07e034d1d1ae.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/dofy3" group-title="COLOMBIA",CARACOL HD2
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/559b2ef9-4e9e-4960-858c-d02bf6d1715e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/m6t9r" group-title="COLOMBIA",CARACOL INT
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/997d1d2f-cf27-43fd-84ee-b28691c1a8e3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/2avo4" group-title="COLOMBIA",RCN
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e3f5562b-c463-43b8-b750-4d960267042b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/g7zj8" group-title="COLOMBIA",RCN MAS
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/1a26a8df-59aa-4e48-b997-3799b67695a6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/ec8xjr" group-title="COLOMBIA",RCN XTRA
+http://disfruta.net/live/richardactiva247/gwqUJUjvgE/efccbb75-eea7-4929-9772-549dbf56f932.m3u
+
+
+
 ===== KIDS =====
 #EXTINF:-1 tvg-id="" tvg-name="★LISTA TV★" tvg-logo="https://n9.cl/yygbp" group-title="⛄KIDS",Teennick
 http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2636
