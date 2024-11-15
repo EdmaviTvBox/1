@@ -89,18 +89,6 @@ https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/1069730
 
 ⚪USA LATINO
 =====================
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",Dominicana
-https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586081
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",ESTRELLA TV
-https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586107
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",ESTRELLA TV OP2
-https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586092
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",KINT El Paso
-https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586053
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",KUNP
-https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586135
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",Pasiones
-https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586079
 #EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",AZ | TUCSON | TELEMUNDO KHRR
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585437
 #EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",CA | MERCED | TELEMUNDO KNSO
@@ -129,7 +117,7 @@ https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585890
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585891
 #EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",TELEMUNDO (KGLA-NEW ORLEANS LA)
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585892
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/oysmie" group-title="⚪TELEMUNDO",TELEMUNDO (KOHA-OMAHA NE)
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",TELEMUNDO (KOHA-OMAHA NE)
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585893
 #EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",TELEMUNDO (KSTS-DT Â€“ SAN FRANCISCO
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585894
@@ -235,58 +223,80 @@ https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585983
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586088
 
 
-⚪INTERNACIONAL
+⚪SPANISH INTERN
 =======================
-ANTENA 3
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",Dominicana
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586081
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",ANTENA 3
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585424
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="" group-title="⚪INTERNACIONAL",ATRESERIES
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",ATRESERIES
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585430
-FOROTV
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",AZTECA MUNDO
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/602191
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",AZTECA MUNDO (OP2)
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/602193
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",ESTRELLA TV
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586107
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/t7u5d" group-title="⚪USA LATINO",ESTRELLA TV OP2
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586092
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",FOROTV
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585563
-GALAVISION
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",GALAVISION
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585606
-LA 1
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",KINT El Paso
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586053
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",KUNP
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586135
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",LA 1
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585662
-LA 1 CATALUNYA
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",LA 1 CATALUNYA
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585675
-LA 2
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",LA 2
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585663
-LA SEXTA
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",LA SEXTA
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585664
-MEGA
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",MEGA
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585685
-NEOX
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",MULTIMEDIOS
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/602184
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",MULTIMEDIOS (OP2)
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/602185
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",NEOX
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585787
-NOVA
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",NOVA
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585800
-TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",PASIONES
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/586079
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/mphyg" group-title="⚪SPANISH INTERN",TELEFE
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585888
 
 
 ⚪PREMIUM
 =====================
-HBO LATINO EAST (OP1)
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/pgijv2" group-title="⚪PREMIUM",HBO LATINO EAST (OP1)
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/600797
-HBO LATINO EAST (OP2)
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/pgijv2" group-title="⚪PREMIUM",HBO LATINO EAST (OP2)
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/600816
-HBO LATINO WEST  (OP2)*
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/pgijv2" group-title="⚪PREMIUM",HBO LATINO WEST  (OP2)*
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/600818
-HBO LATINO WEST (OP2)
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/pgijv2" group-title="⚪PREMIUM",HBO LATINO WEST (OP2)
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/600819
-HBO EAST (OP1)
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/pgijv2" group-title="⚪PREMIUM",HBO EAST (OP1)
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/600833
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="" group-title="⚪PREMIUM",CINE SONY (OP3)
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/pgijv2" group-title="⚪PREMIUM",CINE SONY (OP3)
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585511
 
 ⚪VIP
 ======================
-DE PELICULA
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/l73fp1" group-title="⚪VIP",CINEMA DINAMITA
+https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/601904
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/l73fp1" group-title="⚪VIP",DE PELICULA
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585528
-DE PELICULA CLASICO
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/l73fp1" group-title="⚪VIP",DE PELICULA CLASICO
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585529
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="" group-title="⚪VIP",PARAMOUNT NETWORK ES
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/l73fp1" group-title="⚪VIP",PARAMOUNT NETWORK ES
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585861
-#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="" group-title="⚪VIP",SONY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="VENC 13 DIC" tvg-logo="https://n9.cl/l73fp1" group-title="⚪VIP",SONY CHANNEL
 https://dnslivetv.online:443/elviavaldez0524/zt5gEhszzB/585510
 
 
