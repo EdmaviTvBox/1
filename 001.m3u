@@ -1,514 +1,511 @@
 #EXTM3U
 
-===== DEPORTES =====
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",WIN SPORTS +
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/12851
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ADRENALINA SPORTS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/71832
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",PX SPORTS SD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54984
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",BEIN SPORTS Ñ 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/36401
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",CLARO SPORTS SD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/164262
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",DIRECTV SPORTS +
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/158511
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",DIRECTTV SPORTS 2 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/257326
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/220727
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 2 
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/138
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 3 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/518963
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 4 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439801
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 5
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/454717
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 6
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439771
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN 7
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19496
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN EXTRA HD MX
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19485
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",ESPN PREMIUM HD AR
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/215252
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX DEPORTES 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/36396
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS 1
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/36387
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS 2
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19652
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS 2 MEX
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19495
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS 3 SD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/36389
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",FOX SPORTS PREMIUM
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/158454
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GOLPERU 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21773
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",GOLTV 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/51263
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",MOVISTAR DEPORTES
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439746
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/224369
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TNT SPORTS PREMIUM
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/21961
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TUDN MEXICO
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/218637
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TUDN USA
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/395
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TyC SPORTS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19461
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="https://n9.cl/gq3fh" group-title="DEPORTES",TyC SPORTS INT
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/188939
+CINE Y SERIES
+================
 
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",A&E SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186628
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",A&E NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/241996
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",AMC SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/159149
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",AXN FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/241995
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Cinecanal HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9494
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Cine Latino 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/55511
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Cine Sureño @
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/199527
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Cinemax SUR FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242025
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Claro Cinema
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/276307
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",DHE FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/225716
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Paramount Channel HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54277
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Paramount Channel SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242033
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Paramount Network NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19556
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",TNT LAT NORTE FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9495
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Showtime latino HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/159148
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Sony 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/199523
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Space FHD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19454
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Space SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/159153
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",STAR Channel FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/198736
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",STAR Channel MX HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/198735
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Starz latino HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/159130
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Studio Universal SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/222826
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Studio Universal SUR FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/241984
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Usa Network (SyFy) HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54240
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Usa Network (SyFy) SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19561
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",TBS HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19562
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Top Cine @
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/199528
 
-==== CINE Y SERIES =====
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CLARO CINEMA
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276307
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",FMHFAMILY
-http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",A&E
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186628
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AMC 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/159149
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AXN 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53047
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",AXN OPC 2
-http://160.20.165.246:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINE LATINO
-http://nino4play.com:25461/YOUSELF3/CHILE3/14351
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="" group-title="CINE Y SERIES",CINEMA DINAMITA
-http://91177113518930256.ofd92622.xyz:80/live/ja1106721/MAPXj9jPgx/930256.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINECANAL
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/335
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",CINEMAX
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242025
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA 
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/181553
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA PLUS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53091
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DE PELICULA CLASICO
-http://nino4play.com:25461/YOUSELF3/CHILE3/3032
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",DHE 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/225716
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",EUROPA EUROPA
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/473708
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/181554
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN EDGE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9349
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN EDGE OP2
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/67425
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PLUS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53089
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",GOLDEN PREMIER
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/207464
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="" group-title="CINE Y SERIES",HOLLYWOOD
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/1414
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",LIFETIME
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242002
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTICINEMA
-http://160.20.165.246:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",MULTIPREMIER
-http://160.20.165.246:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",ORBIT TV
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/558324
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",PARAMOUNT
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439787
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",STAR CHANNEL 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439809
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SONY CHANNEL
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53039
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SPACE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54168
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",STUDIO UNIVERSAL
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19572
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SUN CHANNEL
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/439742
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TCM
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19563
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TNT 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9495
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TNT SERIES
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53054
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",TRUTV 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19466
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",UNIVERSAL CHANNEL
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/359
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",SYFY
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/57
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y SERIES" tvg-logo="https://n9.cl/l6kpy" group-title="CINE Y SERIES",WARNER CHANNEL
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53044
+CINE Y SERIES INTERN
+================================
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",ActionMax ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48613
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",Cinemax 5 Star Max ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54242
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",CineMax EAST ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48607
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",Cinemax West⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/105981
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",EPIX ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48609
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",EPIX 2 ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48611
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",Epix Drive IN ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54635
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",EPIX Hits ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48610
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",FXM ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54280
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",Hallmark Drama ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48617
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",Hallmark Movies & Mysteries⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36483
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",HBO Comedy⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/47607
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",HBO Family⭐️ 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36440
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",HBO Zone⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/47608
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",More Max⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48608
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",MoviePlex⭐️ 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/71946
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",Starz Kids & Family⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/108634
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",Starz Encore Espal⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/166117
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",TBS HD ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54276
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",ThrillerMax⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48614
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/65ewua" group-title="CINE Y SERIES INTERN",WGN America⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/50687
 
-===== PREMIUM =====
+PREMIUM PACK
+=======================
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",De Película 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53095
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",De Película SUR SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9506
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",De Película Classic@
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53090
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Golden SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9504
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Golden NORTE SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242027
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Golden Edge FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9505
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Golden Plus HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9496
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Golden Premier FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/222829
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242029
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54282
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO NORTE SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/198760
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO 2 NORTE FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19579
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO 2 SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/286151
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Family SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185178
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Family NORTE FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/12854
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Family SUR FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/73200
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Mundi HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19547
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Plus 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/73199
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Plus @
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/198755
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Plus HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185172
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Plus NORTE FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/198753
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Plus SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19581
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Pop
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185169
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Pop SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/159124
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Signature LAT HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/167659
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Xtreme FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185175
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Xtreme SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185170
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Xtreme NORTE FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19548
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",HBO Xtreme SUR HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54164
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",SONY Novelas
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/276161
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",SONY Novelas OPC 2
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/218340
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",SONY Comedias
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/276162
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",SONY Competencias
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/218342
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Universal Cinema NORTE FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185152
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Universal Comedy NORTE FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185166
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Universal Crime FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185163
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Universal Premiere 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/236380
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Universal Premiere FHD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/198730
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/gc0so" group-title="PREMIUM PACK",Universal Reality NORTE FHD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/198741
 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242029
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO 2 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/159126
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO FAMILY
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/218717
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO MUNDI
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19547
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO POP 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185169
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO PLUS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185172
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO SIGNATURE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19582
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",HBO XTREME 
-https://zona593.live:8443/Tiago12345/Tiago12345/531624.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",DISNEY +
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/40696
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY CINE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276162
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY COMEDIA
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/148280
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY COMPETENCIAS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/218342
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY CHANNEL
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/124
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",SONY NOVELAS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276161
-
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL CINEMA
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185152
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL COMEDY
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185166
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL CRIME
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185163
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL PREMIERE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/236380
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",UNIVERSAL REALITY
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/198741
-
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",MOVISTAR ACCION
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/59533
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",MOVISTAR COMEDIA
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53276
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",MOVISTAR GOLF
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/33526
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM" tvg-logo="https://n9.cl/ikize" group-title="PREMIUM",MOVISTAR SERIES MANIA
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/47438
-
-===== HISTORIA Y CULTURA =====
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",ANIMAL PLANET 
-http://nino4play.com:25461/YOUSELF3/CHILE3/13800
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",CAZAVISION 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/47670
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",CRIMEN INVESTIGACION 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54524
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY CHANNEL
-http://nino4play.com:25461/YOUSELF3/CHILE3/136
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY ESPAÑOL 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14907
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY H&H 
-http://nino4play.com:25461/YOUSELF3/CHILE3/139
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY ID
-http://nino4play.com:25461/YOUSELF3/CHILE3/140
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY SCIENCE
-http://nino4play.com:25461/YOUSELF3/CHILE3/142
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY THEATER
-http://nino4play.com:25461/YOUSELF3/CHILE3/143
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY TLC 
-http://nino4play.com:25461/YOUSELF3/CHILE3/6026
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY TURBO 
-http://nino4play.com:25461/YOUSELF3/CHILE3/145
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",DISCOVERY WORLD
-http://nino4play.com:25461/YOUSELF3/CHILE3/13803
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",EL GARAGE TV 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19529
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",HISTORIA
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56221
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",HISTORY 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14346
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",LOVE NATURE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/276310
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NAT GEO 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242015
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NAT GEO MUNDO
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54154
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NATIONAL GEOGRAPHIC WILD ESP
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56106
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA Y CULTURA" tvg-logo="https://n9.cl/h438a" group-title="HISTORIA Y CULTURA",NATIONAL GEOGRAPHIC ESP
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54520
-
-===== VARIEDADES =====
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",A3SERIES 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53059
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",ANTENA 3 INT
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/211202
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",EL GOURMET
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9408
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",ESTRELLA TV
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/51169
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",FOOD NETWORK
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9554
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",GALAVISION
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53754
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",GLITZ 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54399
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",HOLA TV 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9397
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",KANAL D DRAMA
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/183185
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",NBC UNIVERSO
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/185096
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",TELEMUNDO
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/165351
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",TELEMUNDO INT
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/199197
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",UNICABLE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/242004
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",UNIMAS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53742
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",UNIVISION
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53722
-#EXTINF:-1 tvg-id="" tvg-name="VARIEDADES" tvg-logo="" group-title="VARIEDADES",VTV PLUS 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186609
-
-===== CINEMAS =====
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DC COMICS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177322
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DC UNIVERSE
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177324
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DISNEY FAMILIY
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177323
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DISNEY LIVE ACTION
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177338
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA DREAMWORKS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177326
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA HORROR
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177330
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA LEGO MOVIES
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177331
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAS" tvg-logo="" group-title="CINEMAS",CINEMA NAVIDAD
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177336
-
-===== KIDS =====
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",BABY TV
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/56214
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",BABY FIRST 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9419
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",BOING 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/186608
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",CARTOON NETWORK
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19458
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",CARTOONITO
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19474
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISCOVERY KIDS
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9426
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISNEY CHANNEL 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/211237
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",DISNEY JR
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53062
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",NICKELODEON
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9576
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",NICK 2
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9424
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",NICK JR
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/211305
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS", TOONCAST
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/19567
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",ZOOMOO 
-http://160.20.165.246:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",FMHKIDS
-http://160.20.165.246:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="https://n9.cl/dnfjj" group-title="KIDS",MAGIC KIDS TV
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/552801
-
-===== MUSIC =====
-
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Cadena Elite
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259316
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Classica 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53777
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Hermandad Salsera
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53779
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",HTV Latino
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/217140
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MI MUSICA HITS
-http://160.20.165.246:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MI MUSICA REGETON
-http://160.20.165.246:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MI MUSICA ROMANTICA
-http://160.20.165.246:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MI MUSICA SALSA
-http://160.20.165.246:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Music Top
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54273
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Classics 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/177365
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Classic (Y)
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53197
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Club
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/49629
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Latino
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9464
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Live (Y)
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9613
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Nick Music
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/53770
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Retro Music TV
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/54274
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Retro Music Television
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/41923
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",TeleHit Música
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/199531
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Tele Ritmo
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/254816
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo '70s
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259764
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo '80s
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/259763
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Latin 
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/224314
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Reggaton
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/224311
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",VH1 Classic  
-http://home-playtv.com:8080/skyperu2021/tqZnuwEDTaeT/9619
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV 00's
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246150
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",VH1 Classic
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246152
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Conciertos por Stingray
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246158
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Biggest Pop
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246160
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Spankin' New
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246161
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV Music Made in Spain
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246163
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Live Music Replay
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246167
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",MTV en español
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246168
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Pop
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246171
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Latino
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246172
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Country
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246173
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo '70s
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246174
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Vevo Reggaetón & Trap
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246175
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",CMT Equal Play
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246176
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",TV POP
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246180
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",V2BEAT
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246184
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Colosal TV
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246188
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",FARRA PLAY
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246190
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",88 STEREO
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246195
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",CADENA ELITE
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246196
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",OXIGENO TV
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246199
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",VH1 Classics
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246200
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",LA MEGA MUSICAL TV
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246202
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",HTV
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246203
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://n9.cl/9ci5a" group-title="MUSIC",Video Tour Channel  | CR
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/246204
-
-===== NOTICIAS =====
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://n9.cl/huvmh" group-title="NOTICIAS",CNN ESPAÑOL
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/181582
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://n9.cl/huvmh" group-title="NOTICIAS",CNN INTERNATIONAL
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/9
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="" group-title="NOTICIAS",CABLENOTICIAS
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/245758
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="" group-title="NOTICIAS",NTN 24 
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/532
-
-===== NOVELAS =====
-#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="" group-title="NOVELAS",AZ CORAZON 
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/279
-#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://n9.cl/skd17" group-title="NOVELAS",KANAL D DRAMA  
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/83954
-#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://n9.cl/skd17" group-title="NOVELAS",PASIONES 
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/459
-#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://n9.cl/skd17" group-title="NOVELAS",TLNOVELAS
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/278
-#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="" group-title="NOVELAS",TNT NOVELAS
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/219053
-
-
-===== TV COLOMBIA =====
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CALI TV
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/611
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CARACOL
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/221
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CARACOL INTERNACIONAL  
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/222
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL 1
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/220
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL INSTITUCIONAL
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/121293
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL CAPITAL
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/614
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL TRECE
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/455
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CANAL TRO
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/121294
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CABLENOTICIAS
-http://209.45.101.36:50000/play/CableNoticias/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",CITY TV
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/239
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",COSMOVISION
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/615
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="" group-title="TV COLOMBIA",EPOCA
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",MUNDO + 
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/616
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",NTN 24 
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/532
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",NUESTRA TELE
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/557
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",RCN
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/241
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",RCN NOVELA
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/558
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",SENAL COLOMBIA
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/416
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEANTIOQUIA
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/413
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELECAFE
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/83482
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELECARIBE
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/414
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEISLAS
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/245810
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEMEDELLIN 
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/415
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TELEPACIFICO
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/412
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",TV AGRO
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/617
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",WIN SPORTS
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/245505
-#EXTINF:-1 tvg-id="" tvg-name="TV COLOMBIA" tvg-logo="https://n9.cl/0jd2b" group-title="TV COLOMBIA",WIN SPORTS +
-http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/197667
+HISTORIA Y CULTURA
+======================
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Animal Planet HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9517
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Animal Planet NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/439824
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Animal Planet HD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/229242
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Animal Planet SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/276193
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Canal Cocina
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/453809
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Channel Lat
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186572
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Channel FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9520
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery en Esp HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/452236
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Familia 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/10769
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Home & Health LAT
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/273322
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Home & Health FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242008
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Home & Health FHD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/439759
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Home & Health SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53078
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Investigation Discovery FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/439789
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Investigation Discovery SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53051
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Investigation Discovery SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36458
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Science FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36466
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Theater FHD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/439786
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery TLC FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242009
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery TLC HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/199201
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery TLC  
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/268886
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery TLC HD MEX
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19596
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Turbo HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54283
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery Turbo SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19505
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery World FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53077
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Discovery World SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9516
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",DW América
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/181177
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",HGTV HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/452238
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",HGTV MX
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/178146
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Historia
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56221
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",History 2 HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19542
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",History 2 FHD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/105685
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",History 2 SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/439767
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",History FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53074
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",History Channel HD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242013
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",History Channel SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186570
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Lifetime  SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19536
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Love Nature
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/276310
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Nat Geo FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/439788
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Nat Geo SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242015
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",National Geographic HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54520
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Nat Geo Mundo 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54154
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Natgeo Wild
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/452237
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Natgeo Wild SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36470
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Natgeo Wild ESP HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56106
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Odisea
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56105
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/7x85io" group-title="HISTORIA Y CULTURA",Saber Mas HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/453808
 
 
 
+HISTORIA Y CULTURA INT
+==================================
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Animal Planet USA ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36479
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Investigation Discovery ⭐️ 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36467
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Discovery Channel⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36463
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Discovery Family⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36464
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Discovery Life ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36465
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Discovery Science SD ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53222
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",HGTV ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48084
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",History 2 HD ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/218907
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",LifeTime⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54234
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Nat Geo ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53812
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Nat Geo Wild ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53185
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Nat Geo Wild EAST ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/165691
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/j8hwa" group-title="HISTORIA Y CULTURA INT",Smithsonian Channel⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/10798
+
+ENTRETENIMIENTO
+========================
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",A&E HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9547
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",A3series 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53059
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Distrito Comedia SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9565
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Distrito Comedia HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9412
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",E! Entertainment SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9405
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Food Network HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9554
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Gala TV 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54962
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",NBC Universo
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/199524
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",BET FHD ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/181048
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",BET Her ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/49094
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",BET Soul ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/165331
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Bounce ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/49633
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Bravo ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48959
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",E!⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/51171
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Food Network⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48633
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Fox⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/71869
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",Fuse⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/50685
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/omdby" group-title="ENTRETENIMIENTO",FXX ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/49635
 
 
+SPORT
+====================
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Adrenalina Sports
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/71832
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Afizzionados HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54984
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Band Sports BRA
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48534
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Bein Sports Ñ 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36401
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Bein Sports Ñ SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/228360
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",CDO Básico SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/12826
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Claro Sports HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/164262
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Claro Sports 2
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/164261
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",DirecTV Sports 1 ARG HD ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/158511
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",DirecTV Sports 2 HD COL
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/257326
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN Extra  MX 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/21229
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN Extra HD MX @
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19485
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 1 PERÚ
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/220727
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 1  SD ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/219173
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 1 PERÚ HD ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/219172
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 1 HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/219171
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 1 MX HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9380
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 1 MX SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185154
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 2 AR 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185666
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 2 MX HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36391
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 2 FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185149
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 3  AR HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/21220
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 3  MX 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9530
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 3 FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/40735
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186774
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 4 FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/224430
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN Deportes SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54094
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 5
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/272499
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN Premium FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/276163
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 3 FHD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518962
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 3 AR 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518963
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 2 AR SD  ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518964
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 2 MX
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518965
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN 2 PERU HD ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518967
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN Extra BRA
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/168997
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Deportes 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36396
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 1 SUR  FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36387
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 2 SUR FHD ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186606
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19652
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 2 HD BRA
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/48540
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 2 FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186573
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 2 MEX HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19495
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 2 SD SUR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185155
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 3 MX HD ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19496
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 3 HD MEX 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9538
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 3 SUR FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36389
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 3 FHD NORTE
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/93563
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports Premium
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/158454
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",ESPN Premium HD AR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/215252
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports Premium op2
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/21298
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 1 HD COL
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518960
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",FOX Sports 1 SUR SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/518961
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",GOL TV LAT
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/51263
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",NBA TV
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/481702
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Premiere 1 HD BRA
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56720
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Premiere 3  BRA
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/49111
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Premiere 5 HD BRA
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56716
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",SKY Sports 16 HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/149063
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",SKY Sports 24 HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/149064
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TNT Sports AR
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/211363
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TNT Sports ARG
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36424
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TNT Sports 3 HD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19638
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TUDN mexico SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/218637
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TUDN HD USA  ►℗
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/185148
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TUDN USA FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242045
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TUDN USA
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/166029
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TVC Deportes HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/36406
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TyC Sport SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/21222
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TyC Sport  FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19461
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",TYC Sports Internacional HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/188939
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",SuperSport Tennis
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/469491
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",VTV Plus URU HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186609
 
-
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",DirecTV Sports FHD ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/158506
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",DirecTV Sports 2 SD ⭐️
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/158513
 
 
 
@@ -522,10 +519,3 @@ http://tvgusplay.info:8080/nova/PTvMaLYxKYmd/197667
 
 
 
-
-
-
-
-
-
-===== PREMIUM =====
