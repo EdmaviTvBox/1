@@ -133,6 +133,8 @@ http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/225716
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/473708
 #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Film & Arts HD
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/19535
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",I-SAT
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/69392
 #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",Morbido TV HD
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/453507
 #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/c6h7u" group-title="CINE Y SERIES",MultiCinema
@@ -571,6 +573,8 @@ SPORT
 ====================
 #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Adrenalina Sports
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/71832
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",AYM Sports (MX)
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9540
 #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Afizzionados HD
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54984
 #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",Band Sports BRA
@@ -623,7 +627,100 @@ http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/469491
 #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/orgetn" group-title="SPORT",VTV Plus URU HD
 http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186609
 
-
+MEXICO
+===============================
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",ADN 40 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/52967
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",AZ Cinema HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9492
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",AZ Clic! 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9463
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",AZ Corazon SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53052
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",AZ Mundo HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186631
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",AZ Mundo SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53058
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Azteca 1
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9599
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Azteca 1 - 2 HORAS 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/217392
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Azteca 7 FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/241992
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Azteca 7 SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/52965
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Azteca Mundo
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/50294
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Bandamax @
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9621
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",BitMe SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9430
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 4 Guadalajara HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/165148
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 5 HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/241991
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 5 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/186607
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 8
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56367
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 9 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/415388
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 9 OPC 2
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/67449
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 10 Cancún 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/50297
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 11 FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56369
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal 26
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56365
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal de Las Estrellas FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9439
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal de Las Estrellas HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/236447
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal de Las Estrellas HD - 2 HORAS 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/217393
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal de Las Estrellas SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/272264
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal de Las Estrellas
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/415379
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal de Las Estrellas OPC 2
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/415380
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Canal de Las Estrellas OPC 3
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/415381
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Excélsior TV
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/56215
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Foro TV HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/52964
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Foro TV FHD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/241994
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Imagen Tv HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/241993
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Ingenio TV SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9457
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Mexiquense TV SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53036
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Milenio TV HD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53104
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Multimedios 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9603
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Multimedios SD 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/52969
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Multimedio CDMX
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/415409
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Multimedios Laguna
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/533350
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Multimedios Monterrey
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/50298
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Multimedio 6 Monterrey
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/415408
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Telefórmula
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9609
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",Televisa Monterrey  
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/67424
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",TLNovelas 
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/108594
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="https://n9.cl/cnkuz" group-title="MEXICO",TLNovelas SD
+http://home-playtv.com:8080/cfrJNc6LUjaG/8ZE5KZTcv3Ne/108249
 
 CINE Y SERIES INTERN⭐️
 ================================
