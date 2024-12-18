@@ -1,80 +1,653 @@
 #EXTM3U
+CINEMA PPV LATINOS
+==========================
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://tvlatino.club:2082/images/cae225005c906bd2add646a81468a376.png" group-title="⏺CINE",A&E
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184589
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="http://tvlatino.club:2082/images/3654b34017508a963ccce2426e91e4cd.png" group-title="⏺CINE",AMC FHD
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184592
-#EXTINF:-1 tvg-id="" tvg-name="AXN #1" tvg-logo="http://tvlatino.club:2082/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="⏺CINE",AXN #1
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184595
-#EXTINF:-1 tvg-id="" tvg-name="AXN #2" tvg-logo="http://tvlatino.club:2082/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="⏺CINE",AXN #2
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184597
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="http://tvlatino.club:2082/images/d13e29b538ee121efc36c98ea2683a31.png" group-title="⏺CINE",CINE LATINO
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184604
-#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="http://tvlatino.club:2082/images/d8789fa93cccd0e82d756e2743d1827f.png" group-title="⏺CINE",CineCanal
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184609
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX #1" tvg-logo="http://tvlatino.club:2082/images/89250e125e1ddc9dcd6f9b1b59687b60.png" group-title="⏺CINE",CINEMAX #1
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184610
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="⏺CINE",DE PELICULA PLUS
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184615
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="http://tvlatino.club:2082/images/d1eaff2d9e0c64c895ebf3467805a4c0.png" group-title="⏺CINE",DE PELICULA
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184616
-#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="http://tvlatino.club:2082/images/26f61b24028d039f04a9e2207396d735.png" group-title="⏺CINE",DHE
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184618
-#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/SKbQ4mG/euroapa.png" group-title="⏺CINE",EUROPA EUROPA
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184621
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://tvlatino.club:2082/images/bdf17377b7d4df78c5eeeb95362c14e4.png" group-title="⏺CINE",FX
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184623
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS #1" tvg-logo="http://tvlatino.club:2082/images/c51d52090d4ba7af2ac109b3179ef47f.png" group-title="⏺CINE",GOLDEN PLUS #1
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184626
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS #2" tvg-logo="http://tvlatino.club:2082/images/c51d52090d4ba7af2ac109b3179ef47f.png" group-title="⏺CINE",GOLDEN PLUS #2
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184627
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="http://tvlatino.club:2082/images/b2f0e1cfe2bd147a2bf3e7f5f1a27724.png" group-title="⏺CINE",GOLDEN PREMIER
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184629
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="⏺CINE",GOLDEN
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184630
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="⏺CINE",HBO
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184634
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://tvlatino.club:2082/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="⏺CINE",HBO 2 HD
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184638
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="http://tvlatino.club:2082/images/4362f9515924289e842af2dc213d5548.png" group-title="⏺CINE",HBO FAMILY
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184641
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="http://tvlatino.club:2082/images/0d780a8b6c04197286b619f02c914477.png" group-title="⏺CINE",HBO PLUS
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184647
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="http://tvlatino.club:2082/images/e409e80eff6116b9c2a51598f12ec88c.png" group-title="⏺CINE",HBO SIGNATURE
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184650
-#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="⏺CINE",MULTIPREMIER HD
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184653
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://tvlatino.club:2082/images/3e48cca712d5060410a85a4135606ac8.png" group-title="⏺CINE",PARAMOUNT CHANNEL
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184655
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="⏺CINE",SONY MOVIES
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184658
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL HD" tvg-logo="http://tvlatino.club:2082/images/a98e8946ae1f91f55b58e19bcd71e329.png" group-title="⏺CINE",SONY CHANNEL HD
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184659
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://tvlatino.club:2082/images/e33e91ad177f380afdacb2191a80dae6.png" group-title="⏺CINE",SPACE HD
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184661
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://i.ibb.co/qjqScj2/space1.png" group-title="⏺CINE",Space HD
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184662
-#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="⏺CINE",Space FHD
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184663
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL #1" tvg-logo="http://tvlatino.club:2082/images/4577ff4638e742a24eb0795d5e9cb8f3.png" group-title="⏺CINE",STAR CHANNEL #1
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184664
-#EXTINF:-1 tvg-id="202dtv.co" tvg-name="STAR CHANNEL #2" tvg-logo="http://tvlatino.club:2082/images/4577ff4638e742a24eb0795d5e9cb8f3.png" group-title="⏺CINE",STAR CHANNEL #2
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184665
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://tvlatino.club:2082/images/34873cfb55ea349f1cf2cf8b6c0e4c25.png" group-title="⏺CINE",STUDIO UNIVERSAL
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184669
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://tvlatino.club:2082/images/14831b3a087423067dd5af937a12204b.png" group-title="⏺CINE",SYFY
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184672
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://tvlatino.club:2082/images/d15273ef2a3b8e15938db017f7d2a54a.png" group-title="⏺CINE",TBS
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184676
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://tvlatino.club:2082/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="⏺CINE",TCM
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184679
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://tvlatino.club:2082/images/48ff33422d64cb067135784ebfd9b04e.png" group-title="⏺CINE",TNT
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184681
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://tvlatino.club:2082/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="⏺CINE",TNT SERIES
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184685
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="⏺CINE",UNIVERSAL
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184689
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="http://tvlatino.club:2082/images/c8ef3cdb7188e15c855815ae24efbafa.png" group-title="⏺CINE",UNIVERSAL
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184692
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD" tvg-logo="http://tvlatino.club:2082/images/73c16d64ebf2567efc573e11893f4cc5.png" group-title="⏺CINE",WARNER TV HD
-http://tvlatino.club:2082/34498BBsz/Ukeg6HfJRUWr/184694
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 01 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11987
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 02 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11988
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 03 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11989
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 04 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11990
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 05 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11991
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 06 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11992
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 07 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11993
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 08 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11994
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 09 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11995
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 10 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11996
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 11 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11997
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 12 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11998
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 13 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/11999
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 14 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12000
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 15 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12001
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 16 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12002
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 17 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12003
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 18 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12004
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 19 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12005
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 20 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12006
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 21 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12007
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 22 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12008
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 23 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12009
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 24 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12010
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 25 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12011
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 26 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12012
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 27 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12013
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 28 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12014
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 29 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12015
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 30 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12016
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 31 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12017
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 32 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12018
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 33 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12019
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 34 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12020
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 35 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12021
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 36 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12022
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CINEMA PPV LATINOS",Cinema 37 PPV
+http://fastream.xyz:8080/982148614tv/s41h70t/12023
+
+PACK PREMIUM
+=======================
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",DE PELÍCULA (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/35092
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",DE PELÍCULA (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/181
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",DE PELÍCULA CLASICO (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/182
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",DE PELÍCULA CLASICO (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/35093
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",DE PELÍCULA PLUS (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/183
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/139
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/140
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/141
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO SUBTITULADO (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/154
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO SUBTITULADO (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/155
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO 2 (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/131
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO 2 (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/132
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO 2 (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/133
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO 2 (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/134
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO FAMILY (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/135
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO FAMILY (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/136
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO FAMILY (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/137
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO FAMILY (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/138
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO MUNDI (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/142
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO PLUS (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/144
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO PLUS (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/145
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO PLUS (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/146
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO POP (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/147
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO POP (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/148
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO POP (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/149
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO SIGNATURE (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/150
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO SIGNATURE (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/151
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO SIGNATURE (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/152
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO SIGNATURE (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/153
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO XTREME (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/156
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO XTREME (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/157
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK PREMIUM",HBO XTREME (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/158
+
+CULTURAL
+========================
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CULTURAL",13 CULTURA (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/79
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CULTURAL",DISCOVERY EN ESPAñOL
+http://fastream.xyz:8080/982148614tv/s41h70t/35096
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="CULTURAL",DISCOVERY FAMILIA
+http://fastream.xyz:8080/982148614tv/s41h70t/35097
+
+USA LATINO
+========================
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="USA LATINO",TELEMUNDO KUAN
+http://fastream.xyz:8080/982148614tv/s41h70t/35103
+
+COLOMBIA
+=========================
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CARACOL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/331
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CARACOL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/332
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CARACOL (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/333
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CARACOL (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/334
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CARACOL INTERNACIONAL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/335
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CARACOL INTERNACIONAL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/336
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",RCN (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/343
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",RCN (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/344
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",RCN (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/345
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",RCN (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/346
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",RCN NUESTRA TELE (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/349
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",RCN INTERNACIONAL (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/347
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",RCN NOVELAS (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/348
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",TELECARIBE (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/353
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",TELECARIBE (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/354
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CABLE NOTICIAS (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/326
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CABLE NOTICIAS (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/327
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",NTN 24 (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/339
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",NTN 24 (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/340
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",PASIONES (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/341
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",PASIONES (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/342
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",TELEMEDELLIN (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/355
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",TELEMEDELLIN (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/356
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",TELEPACIFICO (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/357
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",TELEPACIFICO (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/358
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CANAL 1 (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/330
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CANAL TRO (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/329
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CITY TV (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/337
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",EL TRECE (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/338
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",TELECAFE (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/352
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",TELEANTIOQUIA (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/351
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",CANAL CAPITAL (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/328
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",SENAL COLOMBIA (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/350
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS+ (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/359
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS+ (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/360
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS+ (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/361
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/362
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/363
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/364
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/365
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS (HD) »5«
+http://fastream.xyz:8080/982148614tv/s41h70t/366
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS (HD) »6«
+http://fastream.xyz:8080/982148614tv/s41h70t/367
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS (HD) »7«
+http://fastream.xyz:8080/982148614tv/s41h70t/368
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="COLOMBIA",WIN SPORTS (HD) »8«
+http://fastream.xyz:8080/982148614tv/s41h70t/369
+
+
+EVENTOS PPV
+========================
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",EVENTOS 1 (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/20203
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",EVENTOS 2 (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/20220
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",EVENTOS 3 (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/20233
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",EVENTOS 4 (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/20285
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",EVENTOS 5 (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/20286
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",LA LIGA 2D (SOLO EVENTOS) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/20339
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",LA LIGA 2D (SOLO EVENTOS) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/251627
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",LA LIGA 2D (SOLO EVENTOS) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/251628
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",UFC TV (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/20374
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",UFC FIGHT PASS (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/20382
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",UFC FIGHT PASS (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/20430
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",WWE NETWORK (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/20509
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",WWE NETWORK (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/20533
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",WWE NETWORK (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/20558
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",WWE NETWORK (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/20623
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",WWE NETWORK (HD) »5«
+http://fastream.xyz:8080/982148614tv/s41h70t/20669
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",COMBATE (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/20693
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",COMBATE (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/20694
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",COMBATE WORLD (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/21007
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",FIGHTING SPIRIT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/21045
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",THE FIGHT NETWORK (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/21159
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",THE FIGHT NETWORK (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/21185
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",THE FIGHT NETWORK (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/21186
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="EVENTOS PPV",WWE NETWORK RAW (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/21340
+
+PACK DEPORT LATINO
+========================
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/481
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/465
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CL (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/247836
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CL (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/58289
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CL (HD) »5«
+http://fastream.xyz:8080/982148614tv/s41h70t/248240
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CL (HD) »6«
+http://fastream.xyz:8080/982148614tv/s41h70t/247839
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CL (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/484
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/480
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/483
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CO (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/482
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS CO (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/485
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS PE (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/317
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS PE (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/318
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS PE (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/479
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS 2 CL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/464
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS 2 CL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/478
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS 2 CL (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/475
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS 2 AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/473
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS 2 AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/474
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS 2 CO (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/476
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS 2 PE (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/477
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS 2 PE (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/316
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS+ CL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/472
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS+ CL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/469
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS+ AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/467
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS+ AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/466
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS+ AR (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/468
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS+ CO (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/470
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS+ PE (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/471
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS+ PE (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/315
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",DIRECTV SPORTS FIGHT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/20350
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN CL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/501
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN CL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/502
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN CL (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/67188
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN CL (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/67190
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN CL (HD) »5«
+http://fastream.xyz:8080/982148614tv/s41h70t/67191
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/518
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/520
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN LAT (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/522
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN LAT (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/524
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN MX (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/519
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN MX (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/521
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN MX (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/523
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 CL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/452
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 CL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/503
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 CL (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/504
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/506
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/507
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 LAT (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/508
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 LAT (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/510
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 MX (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/505
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 2 MX (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/509
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 3 CL (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/512
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 3 AR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/513
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 3 LAT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/514
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 3 MX (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/511
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 4 LAT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/517
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 4 MX (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/515
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 4 MX (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/516
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 5 (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/526
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 5 (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/527
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 5 (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/528
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 5 (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/541
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 6 (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/539
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 6 (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/536
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 7 (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/453
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 7 (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/454
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO", ESPN 7 (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/530
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 7 (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/532
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN 7 (HD) »5«
+http://fastream.xyz:8080/982148614tv/s41h70t/533
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN PREMIUM (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/542
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN PREMIUM (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/543
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN PREMIUM (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/544
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",ESPN PREMIUM (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/545
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 1 AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/456
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 1 AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/457
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 1 AR (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/458
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 1 AR (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/525
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 1 MX (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/540
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 1 MX (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/534
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 2 MX (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/529
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 2 MX (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/531
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 2 MX (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/535
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 3 AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/455
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 3 AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/537
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="PACK DEPORT LATINO",FOX SPORTS 3 AR (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/538
+
+DEPORTES LATINOS
+=========================
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",UFC (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/580
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",UFC (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/586
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",UFC FIGHT PASS (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/581
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",WWE NETWORK (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/583
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",AFIZZIONADOS MX (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/579
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",CDO BASICO CL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/74106
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",CDO PREMIUM CL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/26000
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",CDO PREMIUM CL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/25999
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",CLARO SPORTS CO (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/463
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",ECDF EC (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/585
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",EUROSPORT 1 (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/577
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",EUROSPORT 2 (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/578
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",GOL TV EC (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/486
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",GOL TV EC (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/489
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",GOL TV EC (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/488
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",GOL TV EC (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/487
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",GOLF CHANNEL MX (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/549
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",RED BULL TV (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/584
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TENNIS CHANNEL (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/551
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/459
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/460
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS AR (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/461
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/98
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/99
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/56659
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/56660
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL PREMIUM (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/248242
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL PREMIUM (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/247844
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL PREMIUM (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/92
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL PREMIUM (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/93
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL PREMIUM 2 (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/248243
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL PREMIUM 2 (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/96
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TNT SPORTS CL PREMIUM 2 (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/97
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TUDN MX (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/553
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TUDN MX (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/552
+
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TYC SPORTS AR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/554
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TYC SPORTS AR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/462
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",TYC SPORTS AR (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/555
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",VTV UR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/558
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",VTV UR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/557
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",VTV UR (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/556
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",VTV+ UR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/560
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES LATINOS",VTV+ UR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/559
+
+DEPORTES ESPAÑA
+===================================
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA TV ES (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/490
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",LA LIGA TV BAR ES (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/491
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. DEPORTES ES (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/550
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA ES (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/497
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA ES (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/496
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA ES (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/495
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA ES (HD) »4«
+http://fastream.xyz:8080/982148614tv/s41h70t/492
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA 2 ES (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/493
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA 3 ES (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/494
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA DE CAMPEONES ES (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/500
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA DE CAMPEONES ES (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/499
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",M. LA LIGA DE CAMPEONES ES (HD) »3«
+http://fastream.xyz:8080/982148614tv/s41h70t/498
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES ESPAÑA",REAL MADRID TV ES (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/587
+
+DEPORTES PORTUGUES
+============================
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",ELEVEN SPORTS 1 PT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/570
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",ELEVEN SPORTS 2 PT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/571
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE CLUBES BR (HD) »1«
+http://fastream.xyz:8080/982148614tv/s41h70t/568
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE CLUBES BR (HD) »2«
+http://fastream.xyz:8080/982148614tv/s41h70t/569
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 1 BR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/561
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 2 BR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/562
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 3 BR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/563
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 4 BR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/564
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 5 BR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/565
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 6 BR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/566
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 7 BR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/567
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV 1 PT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/573
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV 2 PT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/574
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV 3 PT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/575
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV 4 PT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/576
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV+ PT (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/572
+#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",COMBATE BR (HD)
+http://fastream.xyz:8080/982148614tv/s41h70t/582
