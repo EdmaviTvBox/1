@@ -1225,7 +1225,7 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/247844
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/248240
 #EXTINF:-1 tvg-id="" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »1«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEPORTES LATINOS ←",FCL• TNT SPORTS PREMIUM (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/248242
-#EXTINF:-1 tvg-id="" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »1«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEPORTES LATINOS ←←",FCL• TNT SPORTS PREMIUM 2 (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »1«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEPORTES LATINOS ←",FCL• TNT SPORTS PREMIUM 2 (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/248243
 #EXTINF:-1 tvg-id="" tvg-name="DEP• TNT SPORTS AR (HD) »1«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/459
@@ -1530,39 +1530,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIFI SPORTS" tvg-logo="" group-title="→ DEPORTES LATINOS ←",UNIFI SPORTS
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/268324
 
-DEPORTES PORTUGUES
-============================
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",ELEVEN SPORTS 1 PT (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/570
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",ELEVEN SPORTS 2 PT (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/571
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE CLUBES BR (HD) »1«
-http://fastream.xyz:8080/982148614tv/s41h70t/568
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE CLUBES BR (HD) »2«
-http://fastream.xyz:8080/982148614tv/s41h70t/569
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 1 BR (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/561
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 2 BR (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/562
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 3 BR (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/563
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 4 BR (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/564
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 5 BR (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/565
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 6 BR (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/566
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",PREMIERE 7 BR (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/567
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV 1 PT (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/573
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV 2 PT (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/574
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV 3 PT (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/575
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV 4 PT (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/576
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",SPORT TV+ PT (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/572
-#EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="" group-title="DEPORTES PORTUGUES",COMBATE BR (HD)
-http://fastream.xyz:8080/982148614tv/s41h70t/582
+
