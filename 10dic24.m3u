@@ -1,142 +1,83 @@
 #EXTM3U
-Colombia SD
-===================
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CALI TV SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008264.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CABLE NOTICIAS SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008261.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CANAL INSTITUCIONAL SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008268.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CANAL TRO SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008279.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CANAL VIVE TV SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023338.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CARACOL OP1 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008284.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CARACOL OP2 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1009265.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CARACOL NOTICIAS SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1017180.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",CITY TV SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013135.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",EL TIEMPO SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/968167.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",ESPN 4 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019898.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",FOX SPORTS 3 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019902.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",TELEANTIOQUIA SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021508.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",TELECARIBE SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021511.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",TELEPACIFICO SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008316.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",TOONCAST SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008318.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",NTN 24 OP1 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/989078.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",NTN 24 OP2 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1016331.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia SD",WIN SPORTS+ SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019910.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CABLE NOTICIAS HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008263.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CANAL MAX HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013131.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CARACOL 02 HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023339.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CITY TV OP1 HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008285.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CITY TV OP2 HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021501.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CNC SANTANDER DE QUILICHAO HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023340.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CNC TULUA HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023334.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CTV BARRANQUILLA HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023341.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",ESPN HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021505.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",ESPN 2 HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019896.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",LAS ESTRELLAS HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023342.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",NETS TELEVISION HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019903.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",RCN PLUS HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023343.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",RCN NOVELAS HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008302.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CANAL MEMORIAS TV HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023335.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CANAL SAN JACINTO HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1014834.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CANAL VISIÓN DORADA HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023337.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",SENAL COLOMBIA OP1 HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008306.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",SENAL COLOMBIA OP2 HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023345.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",SENAL COLOMBIA OP3 HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021507.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",TELECARIBE HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021510.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",TELEMEDELLIN HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019907.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia HD",CANAL SANTA MARTA HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021502.ts
+KIDS
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",123 GO
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/754633
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",BitMe
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195811
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Cartoon Network
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195814
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Discovery Kids
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195817
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Disney Channel
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195818
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Disney JR
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195819
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Dreamworks
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/745432
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Ideas en 5 minutos
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/754634
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Nick
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195826
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Nick JR
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195828
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Teen Nick
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743647
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Toon Goggles
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/387031
+#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Tooncast
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195836
 
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",AVIVAMIENTO ABN FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021500.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",CABLE NOTICIAS FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1016325.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",CANAL CAPITAL FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019892.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",CANAL INSTITUCIONAL FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013130.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",CANAL TRECE OP1 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008277.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",CANAL TRECE OP2 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1017179.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",CANAL TRECE+ FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023336.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",CANAL UNO FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021503.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",CARACOL INTERNACIONAL FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021504.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",ESPN 3 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019897.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",RCN OP1 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019904.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",RCN OP2 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023344.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",RCN NOVELAS FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1021506.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",TELECAFE OP1 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008311.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",TELECAFE OP2 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019906.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",TELEMEDELLIN FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008314.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",TV AGRO VIP FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/946101.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",WIN SPORTS+ OP1 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/946102.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",WIN SPORTS+ OP2 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019277.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",WIN SPORTS+ OP3 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/970443.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",WIN SPORTS+ OP4 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/989574.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",WIN SPORTS OP1 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/949379.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",WIN SPORTS OP2 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1019278.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",WIN SPORTS OP3 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/993446.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia FHD",ZOOM FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008322.ts
+Colombia
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",ATN Televisión 
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/739999
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Cablenoticias
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536875
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Cali TV
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536837
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Canal 2 Alpavisión Neiva
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/740097
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Canal Institucional
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536843
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Canal Visión Dorada
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536846
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Capital TV
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743443
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Caracol
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536880
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Caracol Inter
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/580526
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",City TV
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536883
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",RCN
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743427
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",RCN Mas+
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536885
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",RCN Novelas
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536886
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Red+
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743442
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Señal Colombia
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536887
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Tele Familia
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536864
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Telecafé
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743444
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Telecaribe
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536888
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Teleislas
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743445
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Telemedellin
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536889
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Telepacífico
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743440
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",TV Peñol
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536866
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",WIN SPORTS
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/690011
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",WIN SPORTS +
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/690012
+
 
 
 
