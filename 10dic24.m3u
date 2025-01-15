@@ -178,8 +178,10 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/368
 #EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »8«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/369
 
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="→ Cultural ←",US: Discovery Familia
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="→ Cultural ←",CULT: Discovery Familia
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23415
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/qjNXztc.png" group-title="→ USA ←",CULT: Discovery Español
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23418
 
 
 
@@ -215,71 +217,4 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23415
 
 
 
-Cine
-================
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013447.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO opc 2 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013557.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO WEST FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1022725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO ARG SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1018534.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO ARG FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1002025.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO MX FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1022847.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO 2 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023924.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO 2 opc 2 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023994.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO 2 FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1008647.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO 2 WEST FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013551.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO 2 ARG SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1018526.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO 2 ARG HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1022191.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO 2 MX SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1018257.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO FAMILY SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013552.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO FAMILY HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1022697.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO FAMILY ARG SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1018527.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO FAMILY ARG FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1002017.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO MUNDI SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1020368.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO MUNDI opc 2 SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1022698.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO MUNDI ARG SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1018529.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO MUNDI ARG HD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1018530.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO MUNDI ARG FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1020836.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO PLUS SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013553.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO POP SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023925.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO POP FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1022724.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO SIGNATURE SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1013555.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO SIGNATURE ARG SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1018532.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO SIGNATURE ARG FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1002023.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO XTREME SD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1022103.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",HBO XTREME FHD
-http://yy.xxe38.xyz:80/live/te327851/RT5atmHXJP/1023995.ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-logo="" group-title="Cine",
 
