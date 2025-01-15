@@ -79,6 +79,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/348
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/349
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←",COL• SENAL COLOMBIA (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/350
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←",COL• SENAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="→ COLOMBIA ←",COL• TELEANTIOQUIA (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/351
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/jqGHPQ0C/Telecaf-logo-svg.png" group-title="→ COLOMBIA ←",COL• TELECAFE (HD)
@@ -97,6 +99,61 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/357
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/358
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="→ COLOMBIA ←",COL: LAS ESTRELLAS FHD
 http://45.175.139.194:8000/play/58
+
+Colombia II
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/898_Buenisima_Radio_TV.png" group-title="→ Colombia II ←",Buenisima Radio TV | CO
+https://stream.mediaserver.com.co:8088/live/buenisimatv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/113_Cali_TV.png" group-title="→ Colombia II ←",Cali TV | CO
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/114_Canal_12_Valledupar.png" group-title="→ Colombia II ←",Canal 12 Valledupar | CO
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmaBpKu1K3lYAAAA/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/115_Canal_Capital.png" group-title="→ Colombia II ←",Canal Capital | CO
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/116_Canal_CNC_Medellin.png" group-title="→ Colombia II ←",Canal CNC Medellin | CO
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/117_Canal_CNC_Pasto.png" group-title="→ Colombia II ←",Canal CNC Pasto | CO
+http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/118_Canal_Doce_Sincelejo.png" group-title="→ Colombia II ←",Canal Doce Sincelejo | CO
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png" group-title="→ Colombia II ←",Canal Institucional | CO
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/119_Canal_Trece.png" group-title="→ Colombia II ←",Canal Trece | CO
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/121_Canal_TRO.png" group-title="→ Colombia II ←",Canal TRO | CO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/122_Canal_Vision_Dorada.png" group-title="→ Colombia II ←",Canal Visión Dorada | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/123_Caracol.png" group-title="→ Colombia II ←",Caracol | CO
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/125_Cosmovision.png" group-title="→ Colombia II ←",Cosmovisión | CO
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/126_CTV.png" group-title="→ Colombia II ←",CTV | CO
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/1090_Noticiero_90_Minutos.png" group-title="→ Colombia II ←",Noticiero 90 Minutos | CO
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/129_Suram.png" group-title="→ Colombia II ←",Suram | CO
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/130_TDI.png" group-title="→ Colombia II ←",TDI | CO
+https://play.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/137_Tele_Islas.png" group-title="→ Colombia II ←",Tele Islas | CO
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/804_Tele_Pasto.png" group-title="→ Colombia II ←",Tele Pasto | CO
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/1614_Teleamiga.png" group-title="→ Colombia II ←",Teleamiga | CO
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/131_Telecafe.png" group-title="→ Colombia II ←",Telecafe | CO
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png" group-title="→ Colombia II ←",Telemedellin | CO
+https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/135_Telepacifico.png" group-title="→ Colombia II ←",Telepacífico | CO
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/860_TV_Penol.png" group-title="→ Colombia II ←",TV Peñol | CO
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/1157_Veo_TV.png" group-title="→ Colombia II ←",Veo TV | CO
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/140_Zoom_TV.png" group-title="→ Colombia II ←",Zoom TV | CO
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8?PlaylistM3UCL
+
 
 
 
