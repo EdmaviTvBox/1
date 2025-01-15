@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Kids SD:Discovery Kids SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24808
+
 Colombia 
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/326
@@ -152,8 +155,21 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/369
 
 #EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="→ Cultural ←",CULT: Discovery Familia
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23415
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/qjNXztc.png" group-title="→ USA ←",CULT: Discovery Español
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/qjNXztc.png" group-title="→ Cultural ←",CULT: Discovery Español
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23418
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Channel SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24804
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Civilization SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24805
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Home & Health SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24806
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Investigation SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24807
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:DIscovery Theater SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24809
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Turbo SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24810
+
 
 
 
