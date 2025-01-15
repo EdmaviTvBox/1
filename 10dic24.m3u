@@ -11,28 +11,55 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59396
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59445
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network SD 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59446
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network HD 
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59535
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids SD Op 1
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24808
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids SD Op 2
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59462
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids HD Op 1
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24910
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids HD Op 2
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59542
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/t5vgv5" group-title="→ Kids ←",Disney Channel SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59450
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/t5vgv5" group-title="→ Kids ←",Disney Channel HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59539
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/glfqs" group-title="→ Kids ←",Disney Jr. SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59452
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/glfqs" group-title="→ Kids ←",Disney Jr. HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59541
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/gbc2m" group-title="→ Kids ←",Nick SD Op 1
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59447
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/gbc2m" group-title="→ Kids ←",Nick SD Op 2
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59448
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/54tae" group-title="→ Kids ←",Nick Jr. SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59451
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/54tae" group-title="→ Kids ←",Nick Jr. HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59540
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Nickelodeon SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59536
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Nickelodeon HD 
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59537
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/y0hpf" group-title="→ Kids ←",NickMusic SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59449
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="→ Kids ←",TeenNick SD
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/y0hpf" group-title="→ Kids ←",NickMusic HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59538
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/ea8bh" group-title="→ Kids ←",TeenNick SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59477
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/vdh8y" group-title="→ Kids ←",Tooncast SD 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59444
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/vdh8y" group-title="→ Kids ←",Tooncast HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59534
+
+
+
+
+
+
+
+
+
 
 Colombia 
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »1«
