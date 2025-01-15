@@ -250,29 +250,24 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59402
 #EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="→ Cultural ←",Nat Geo 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59398
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Entretenimiento
+#EXTINF:-1 tvg-id="" tvg-name="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png" group-title="→ Entretenimiento ←",Mas Chic SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59470
+#EXTINF:-1 tvg-id="" tvg-name="Entretenimiento" tvg-logo="https://i.imgur.com/nHPCYaN.png" group-title="→ Entretenimiento ←",Hola TV SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59471
+#EXTINF:-1 tvg-id="" tvg-name="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="→ Entretenimiento ←",MX || Unicable SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59472
+#EXTINF:-1 tvg-id="" tvg-name="Entretenimiento" tvg-logo="https://i.imgur.com/cHGfy69.jpg" group-title="→ Entretenimiento ←",MX || Comedy Central HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59473
+#EXTINF:-1 tvg-id="" tvg-name="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" group-title="→ Entretenimiento ←",Tru TV SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59476
 
 Cine y Series
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="→ Cine y Series ←",AMC SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59426
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="→ Cine y Series ←",AMC HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59429
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="→ Cine y Series ←",CINECANAL SD
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="→ Cine y Series ←",Cinecanal SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59432
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg" group-title="→ Cine y Series ←",Cinemax SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59427
@@ -294,12 +289,6 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59458
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59431
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="→ Cine y Series ←",TNT Series SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59457
-
-
-
-
-
-
 
 Cine Pack
 #EXTINF:-1 tvg-id="" tvg-name="Cine Pack" tvg-logo="" group-title="→ Cine Pack ←",DE PELíCULA
