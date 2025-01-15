@@ -28,7 +28,7 @@ http://new-tv.cloud:25461/Oscaravalos30/Oa15352/387031
 #EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="KIDS",Tooncast
 http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195836
 
-Colombia
+Colombia 
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/326
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »2«
@@ -153,6 +153,34 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/140_Zoom_TV.png" group-title="→ Colombia II ←",Zoom TV | CO
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8?PlaylistM3UCL
+
+Sports Col
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="→ Sports Col ←",COL• WIN SPORTS+ (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/359
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="→ Sports Col ←",COL• WIN SPORTS+ (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/360
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="→ Sports Col ←",COL• WIN SPORTS+ (HD) »3«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/361
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/362
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/363
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »3«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/364
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »4«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/365
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »5«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/366
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »6«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/367
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »7«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/368
+#EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »8«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/369
+
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="→ Cultural ←",US: Discovery Familia
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23415
+
 
 
 
