@@ -29,54 +29,74 @@ http://new-tv.cloud:25461/Oscaravalos30/Oa15352/387031
 http://new-tv.cloud:25461/Oscaravalos30/Oa15352/195836
 
 Colombia
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",ATN Televisión 
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/739999
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Cablenoticias
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536875
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Cali TV
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536837
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Canal 2 Alpavisión Neiva
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/740097
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Canal Institucional
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536843
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Canal Visión Dorada
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536846
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Capital TV
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743443
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Caracol
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536880
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Caracol Inter
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/580526
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",City TV
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536883
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",RCN
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743427
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",RCN Mas+
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536885
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",RCN Novelas
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536886
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Red+
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743442
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Señal Colombia
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536887
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Tele Familia
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536864
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Telecafé
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743444
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Telecaribe
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536888
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Teleislas
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743445
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Telemedellin
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536889
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",Telepacífico
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743440
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",TV Peñol
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536866
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",WIN SPORTS
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/690011
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="Colombia",WIN SPORTS +
-http://new-tv.cloud:25461/Oscaravalos30/Oa15352/690012
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/326
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/327
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="→ COLOMBIA ←",COL• CANAL CAPITAL (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/328
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="→ COLOMBIA ←",COL• CANAL TRO (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/329
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ryKfSfvg/Canal-1-colombia.png" group-title="→ COLOMBIA ←",COL• CANAL 1 (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/330
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",COL• CARACOL (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/331
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",COL• CARACOL (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/332
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",COL• CARACOL (HD) »3«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/333
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",COL• CARACOL (HD) »4«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/334
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/YqCDhXbp/CARACOL-INTERNACIONAL.png" group-title="→ COLOMBIA ←",COL• CARACOL INTERNACIONAL (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/335
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/YqCDhXbp/CARACOL-INTERNACIONAL.png" group-title="→ COLOMBIA ←",COL• CARACOL INTERNACIONAL (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/336
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="→ COLOMBIA ←",COL• CITY TV (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/337
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="→ COLOMBIA ←",COL• EL TRECE (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/338
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/339
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/340
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ COLOMBIA ←",COL• PASIONES (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/341
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ COLOMBIA ←",COL• PASIONES (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/342
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/343
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/344
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »3«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/345
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »4«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/346
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/KjMXVJwS/Nuestra-Tele-Internacional2019.png" group-title="→ COLOMBIA ←",COL• RCN INTERNACIONAL (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/347
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="→ COLOMBIA ←",COL• RCN NOVELAS (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/348
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/kgrMntvv/RCN-Televisi-n-Nueva-Imagen.png" group-title="→ COLOMBIA ←",COL• RCN NUESTRA TELE (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/349
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←",COL• SENAL COLOMBIA (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/350
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="→ COLOMBIA ←",COL• TELEANTIOQUIA (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/351
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/jqGHPQ0C/Telecaf-logo-svg.png" group-title="→ COLOMBIA ←",COL• TELECAFE (HD)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/352
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="→ COLOMBIA ←",COL• TELECARIBE (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/353
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="→ COLOMBIA ←",COL• TELECARIBE (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/354
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/NM2PfL4R/Logotipo-de-Telemedell-n.png" group-title="→ COLOMBIA ←",COL• TELEMEDELLIN (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/355
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/NM2PfL4R/Logotipo-de-Telemedell-n.png" group-title="→ COLOMBIA ←",COL• TELEMEDELLIN (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/356
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="→ COLOMBIA ←",COL• TELEPACIFICO (HD) »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/357
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="→ COLOMBIA ←",COL• TELEPACIFICO (HD) »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/358
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="→ COLOMBIA ←",COL: LAS ESTRELLAS FHD
+http://45.175.139.194:8000/play/58
 
 
 
