@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Kids SD:Discovery Kids SD
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://i.imgur.com/rRLDWHg.jpg" group-title="→ Kids ←",Baby TV SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59400
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="→ Kids ←",Baby First HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59396
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Discovery Kids SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24808
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Discovery Kids HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24910
 
 Colombia 
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »1«
@@ -34,6 +40,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/338
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/339
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (HD) »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/340
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (HD) »3«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35401
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ COLOMBIA ←",COL• PASIONES (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/341
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ COLOMBIA ←",COL• PASIONES (HD) »2«
@@ -50,8 +58,10 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/346
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/347
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="→ COLOMBIA ←",COL• RCN NOVELAS (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/348
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/kgrMntvv/RCN-Televisi-n-Nueva-Imagen.png" group-title="→ COLOMBIA ←",COL• RCN NUESTRA TELE (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/kgrMntvv/RCN-Televisi-n-Nueva-Imagen.png" group-title="→ COLOMBIA ←",COL• RCN NUESTRA TELE Op 1
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/349
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/kgrMntvv/RCN-Televisi-n-Nueva-Imagen.png" group-title="→ COLOMBIA ←",COL• RCN NUESTRA TELE Op 2
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35402
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←",COL• SENAL COLOMBIA (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/350
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←",COL• SENAL COLOMBIA
@@ -153,22 +163,108 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/368
 #EXTINF:-1 tvg-id="" tvg-name="Sports Col" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ Sports Col ←",COL• WIN SPORTS (HD) »8«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/369
 
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="→ Cultural ←",CULT: Discovery Familia
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23415
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/qjNXztc.png" group-title="→ Cultural ←",CULT: Discovery Español
+Cultural
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdn.m3u.cl/logo/1171_Canal_Cultural_Huauchinango.png" group-title="→ Cultural ←",Canal Cultural Huauchinango
+https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdn.m3u.cl/logo/633_Cultura_365.png" group-title="→ Cultural ←",Cultura 365
+http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/qjNXztc.png" group-title="→ Cultural ←",Discovery Español Op 1
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23418
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Channel SD
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/qjNXztc.png" group-title="→ Cultural ←",Discovery Español Op 2
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35096
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="→ Cultural ←",Discovery Familia Op 1
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23415
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="→ Cultural ←",Discovery Familia Op 2
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35097
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Channel SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24804
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Civilization SD
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Channel HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24908
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Civilization SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24805
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Home & Health SD
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Home & Health SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24806
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Investigation SD
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Home & Health HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24909
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Investigation SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24807
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:DIscovery Theater SD
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",DIscovery Theater SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24809
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",CULT SD:Discovery Turbo SD
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Theater HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24911
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Turbo SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24810
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Discovery Turbo HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24912
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-dw-espano.jpg" group-title="→ Cultural ←",DW
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24913
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-dw-espano.jpg" group-title="→ Cultural ←",DW SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59417
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="→ Cultural ←",Nat Geo SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59394
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="→ Cultural ←",Nat Geo HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59402
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="→ Cultural ←",Nat Geo 
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59398
+
+
+Cine y Series
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" group-title="→ Cine y Series ←",FX SD Op 1
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59399
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" group-title="→ Cine y Series ←",FX SD Op 2
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59395
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/sv_lifetime_m.png" group-title="→ Cine y Series ←",Life Time SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59406
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="→ Cine y Series ←",Studio Universal SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59407
+
+Cine Pack
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pack" tvg-logo="" group-title="→ Cine Pack ←",DE PELíCULA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35092
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pack" tvg-logo="" group-title="→ Cine Pack ←",DE PELíCULA CLáSICO
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35093
+
+Usa Latino
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",GALAVISIóN
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35170
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",LA 1
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35226
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",LA 1 CATALUNYA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35239
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",LA 2
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35227
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",LA SEXTA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35228
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO KRDO
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35082
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO WWDT
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35112
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO WWSI
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35396
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO KTDO
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35398
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO KASA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35399
+
+Sport Latino
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://i.imgur.com/2IPssYz.png" group-title="→ Sport Latino ←",Espn 2 SD Mex
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59419
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://i.imgur.com/2IPssYz.png" group-title="→ Sport Latino ←",Espn SD Mex
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59420
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="→ Sport Latino ←",Espn 3 SD Mex
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59421
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://i.imgur.com/3ZdQQhs.jpg" group-title="→ Sport Latino ←",Fox Sports 1 Mexico
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59401
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="" group-title="→ Sport Latino ←",GOLTV 
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35175
+
+
+
+
+
+
+
+
 
 
 
