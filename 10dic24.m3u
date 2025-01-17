@@ -13,8 +13,12 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24141
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59445
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/dy5xi4" group-title="→ Kids ←",Cartoonito SD >>2<<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24773
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network SD 
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/dy5xi4" group-title="→ Kids ←",Cartoonito SD >>3<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24793
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network SD >>1<<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59446
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network SD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24799
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network HD 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59535
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids SD »1«
@@ -59,6 +63,9 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59537
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59444
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/vdh8y" group-title="→ Kids ←",Tooncast HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59534
+
+
+
 
 
 Colombia 
@@ -364,12 +371,16 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59426
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59429
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://n9.cl/h54sd" group-title="→ Cine y Series ←",AMC HD Op 2
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59520
+#EXTINF:-1 tvg-id="" Cine y Series" tvg-logo="" group-title="→ Cine y Series ←",AXN SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24781
 #EXTINF:-1 tvg-id="" Cine y Series" tvg-logo="" group-title="→ Cine y Series ←",AXN HD Op 1
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59479
 #EXTINF:-1 tvg-id="" Cine y Series" tvg-logo="" group-title="→ Cine y Series ←",AXN HD Op 2
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59576
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://n9.cl/jx0wb" group-title="→ Cine y Series ←",Cinecanal SD
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://n9.cl/jx0wb" group-title="→ Cine y Series ←",Cinecanal SD >>1<<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59432
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://n9.cl/jx0wb" group-title="→ Cine y Series ←",Cinecanal SD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24800
 #EXTINF:-1 tvg-id="" Cine y Series" tvg-logo="" group-title="→ Cine y Series ←",Cinema HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59522
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://n9.cl/2aot3" group-title="→ Cine y Series ←",Cinemax SD
@@ -434,6 +445,7 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59458
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59549
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="" group-title="→ Cine y Series ←",Warner Channel HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59482
+
 
 
 
@@ -677,6 +689,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23763
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23764
 
 Music
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="→ Music ←",MTV Hits SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24778
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://w7.pngwing.com/pngs/909/479/png-transparent-music-choice-television-directv-music-video-others-television-text-logo.png" group-title="→ Music ←",Music Choice - Mexican
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23973
 
