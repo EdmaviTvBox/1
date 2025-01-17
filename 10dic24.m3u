@@ -134,8 +134,7 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/356
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/357
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELEPACIFICO HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/358
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="→ COLOMBIA ←",COL: LAS ESTRELLAS FHD
-http://45.175.139.194:8000/play/58
+
 
 Colombia II
 #EXTINF:-1 tvg-id="" tvg-name="Colombia II" tvg-logo="https://cdn.m3u.cl/logo/898_Buenisima_Radio_TV.png" group-title="→ Colombia II ←",Buenisima Radio TV
@@ -216,9 +215,9 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/368
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/369
 
 Cultural
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="" group-title="→ Cultural ←",Animal Planet HD 
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://n9.cl/c1316" group-title="→ Cultural ←",Animal Planet HD 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59554
-#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://n9.cl/3khzw" group-title="→ Cultural ←",Canal Cultural Huauchinango
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://n9.cl/stg99" group-title="→ Cultural ←",Canal Cultural Huauchinango
 https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://n9.cl/uepck" group-title="→ Cultural ←",Cultura 365
 http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
