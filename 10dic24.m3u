@@ -7,8 +7,12 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59400
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59485
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/nxh5je" group-title="→ Kids ←",Baby First HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59396
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/dy5xi4" group-title="→ Kids ←",Cartoonito SD
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Bitme HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24141
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/dy5xi4" group-title="→ Kids ←",Cartoonito SD >>1<<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59445
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/dy5xi4" group-title="→ Kids ←",Cartoonito SD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24773
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network SD 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59446
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network HD 
@@ -448,8 +452,12 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24825
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24826
 
 Usa Latino
-#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",GALAVISIóN
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CNNespa.png" group-title="→ Usa Latino ←",CNN en Español
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23402
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="http://mylatinotv.com:8080/images/mexico/galavision.png" group-title="→ Usa Latino ←",GALAVISION >>1<<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35170
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="http://mylatinotv.com:8080/images/mexico/galavision.png" group-title="→ Usa Latino ←",GALAVISION >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23796
 #EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",LA 1
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35226
 #EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",LA 1 CATALUNYA
@@ -458,24 +466,90 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35239
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35227
 #EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",LA SEXTA
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35228
-#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO KRDO
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/NY1_Noticias_%28Short%29.svg/revision/latest/scale-to-width-down/250?cb=20201123230039" group-title="→ Usa Latino ←",Spectrum Noticias NY1 HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23760
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo 52 test
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24138
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo KRDO
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35082
-#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO WWDT
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo WWDT
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35112
-#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO WWSI
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo WWSI
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35396
-#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO KTDO
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo KTDO
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35398
-#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="" group-title="→ Usa Latino ←",TELEMUNDO KASA
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo KASA
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35399
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Tucson
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23422
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo San francisco
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23423
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Phoenix >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23424
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Phoenix >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23655
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Philadelphia
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23425
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Miami >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23426
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Miami >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23657
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo New York
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23656
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Los Angeles
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23427
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Las Vegas
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23428
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Houston >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23429
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Houston >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23658
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Fresno
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23430
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Dallas
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23431
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Chicago >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23432
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Chicago >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23659
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Chicago >>3<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24139
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Boston >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23433
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",Telemundo Boston >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23660
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ Usa Latino ←",NBC Telemundo
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23434
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/25_es.png" group-title="→ Usa Latino ←",Unimas
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23885
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="http://mylatinotv.com:8080/images/mexico/unimas.png" group-title="→ Usa Latino ←",Unimas Los Angeles
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24142
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://i.ibb.co/Km5cMWb/Univision-2019.png" group-title="→ Usa Latino ←",Univision Los Angeles
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24143
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="https://i.ibb.co/Km5cMWb/Univision-2019.png" group-title="→ Usa Latino ←",Univision Denver
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24144
+#EXTINF:-1 tvg-id="" tvg-name="Usa Latino" tvg-logo="http://mylatinotv.com:8080/images/mexico/wapa.png" group-title="→ Usa Latino ←",WAPA America HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23772
+
+
+
+
+
+
 
 Sport Latino
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Adrenalina Sports.
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59599
-#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Aym Sports HD
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24889
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Aym Sports
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24841
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Aym Sports SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24782
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Aym Sports HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24889
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg" group-title="→ Sport Latino ←",Bein Sports En Esp >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23404
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg" group-title="→ Sport Latino ←",Bein Sports En Esp >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23741
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Espn HD Mex
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24916
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Espn 2 SD Mex
@@ -490,12 +564,22 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24915
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59421
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Espn 3 HD Mex
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59515
-#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Fox Sports 1 Mex SD
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59491
-#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Fox Sports 1 Mex
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://tinyurl.com/yxmz8v2v" group-title="→ Sport Latino ←",Espn Deportes
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23624
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Fox Sports Mex
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59401
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Fox Sports Mex SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59491
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Fox Sports Mex HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24771
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Fox Sports 3 Mex HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24922
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="" group-title="→ Sport Latino ←",Fox Sports Deportes HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24060
+#EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://i.imgur.com/MDHaf0F.png" group-title="→ Sport Latino ←",FOX Sports En Español
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23437
+#EXTINF:-1 tvg-id="" tvg-name="LA_MEX-:FOX SPORTS PREMIUM" tvg-logo="" group-title="→ MÉXICO ←",Fox Sports Premium
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24775
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",GOLTV 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35175
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",Latin American sports LAS
@@ -519,6 +603,82 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/56660
 #EXTINF:-1 tvg-id="" tvg-name="Sport Latino" tvg-logo="https://n9.cl/uepck" group-title="→ Sport Latino ←",DIRECTV SPORTS HD CL »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/58289
 
+
+
+
+
+Azteca Network
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="→ Azteca Network ←",Azteca 1 >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55052
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="→ Azteca Network ←",Azteca 1 >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24787
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="→ Azteca Network ←",Azteca 1 SD >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55051
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="→ Azteca Network ←",Azteca 1 SD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55050
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="→ Azteca Network ←",Azteca 1 HD >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55055
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="→ Azteca Network ←",Azteca 1 HD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24944
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="→ Azteca Network ←",Azteca 1 HD >>3<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55054
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="→ Azteca Network ←",Azteca 7 SD >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24788
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="→ Azteca Network ←",Azteca 7 SD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24772
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="→ Azteca Network ←",Azteca 7 SD >>3<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55048
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="→ Azteca Network ←",Azteca 7 SD >>4<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55049
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="→ Azteca Network ←",Azteca 7 HD >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55053
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="→ Azteca Network ←",Azteca 7 HD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24894
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="→ Azteca Network ←",Azteca Internacional
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55062
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="→ Azteca Network ←",Azteca Internacional HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55058
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ Azteca Network ←",Azteca Corazon SD >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55056
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ Azteca Network ←",Azteca Corazon SD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55059
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ Azteca Network ←",Azteca Corazon SD >>3<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24785
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ Azteca Network ←",Azteca Corazon HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55061
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/RrQZvyy.png" group-title="→ Azteca Network ←",Azteca Click SD >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55060
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/RrQZvyy.png" group-title="→ Azteca Network ←",Azteca Click SD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24784
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://i.imgur.com/cOf7mXM.png" group-title="→ Azteca Network ←",Azteca Click HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55063
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="→ Azteca Network ←",Cinema SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55057
+
+
+
+
+Eventos USA
+#EXTINF:-1 tvg-id="" tvg-name="Eventos USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="→ Eventos USA ←",Fight Sport HD >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24037
+#EXTINF:-1 tvg-id="" tvg-name="Eventos USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="→ Eventos USA ←",Fight Sport HD >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24038
+#EXTINF:-1 tvg-id="" tvg-name="Eventos USA" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png" group-title="→ Eventos USA ←",US: Motor Trend
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24064
+#EXTINF:-1 tvg-id="" tvg-name="Eventos USA" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png" group-title="→ Eventos USA ←",US: Motor Trend HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24065
+#EXTINF:-1 tvg-id="" tvg-name="Eventos USA" tvg-logo="http://mma.uno/wp-content/uploads/2018/10/ufc-logo.jpg" group-title="→ Eventos USA ←",UFC TV HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23886
+#EXTINF:-1 tvg-id="" tvg-name="Eventos USA" tvg-logo="https://tinyurl.com/y6249rxw" group-title="→ Eventos USA ←",WWE
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23878
+#EXTINF:-1 tvg-id="" tvg-name="Eventos USA" tvg-logo="https://tinyurl.com/y6249rxw" group-title="→ Eventos USA ←",WWE PPV
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23763
+#EXTINF:-1 tvg-id="" tvg-name="Eventos USA" tvg-logo="https://tinyurl.com/y6249rxw" group-title="→ Eventos USA ←",WWE 24/7 FHD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23764
+
+Music
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://w7.pngwing.com/pngs/909/479/png-transparent-music-choice-television-directv-music-video-others-television-text-logo.png" group-title="→ Music ←",Music Choice - Mexican
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23973
 
 
 
