@@ -13,13 +13,13 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59445
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59446
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/c4pld" group-title="→ Kids ←",Cartoon Network HD 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59535
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids SD Op 1
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids SD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24808
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids SD Op 2
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids SD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59462
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids HD Op 1
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24910
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids HD Op 2
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/8m14iz" group-title="→ Kids ←",Discovery Kids HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59542
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/t5vgv5" group-title="→ Kids ←",Disney Channel SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59450
@@ -31,116 +31,108 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59452
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59541
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/gbc2m" group-title="→ Kids ←",Nick
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24835
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/gbc2m" group-title="→ Kids ←",Nick SD Op 1
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/gbc2m" group-title="→ Kids ←",Nick SD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59447
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/gbc2m" group-title="→ Kids ←",Nick SD Op 2
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/gbc2m" group-title="→ Kids ←",Nick SD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59448
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/54tae" group-title="→ Kids ←",Nick Jr. SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59451
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/54tae" group-title="→ Kids ←",Nick Jr. HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59540
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Nickelodeon SD
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59536
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="" group-title="→ Kids ←",Nickelodeon HD 
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59537
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/y0hpf" group-title="→ Kids ←",NickMusic SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59449
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/y0hpf" group-title="→ Kids ←",NickMusic HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59538
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/ea8bh" group-title="→ Kids ←",TeenNick SD
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/ea8bh" group-title="→ Kids ←",TeenNick SD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59477
-#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/ea8bh" group-title="→ Kids ←",TeenNick HD 
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/ea8bh" group-title="→ Kids ←",TeenNick SD »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59536
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/ea8bh" group-title="→ Kids ←",TeenNick HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59573
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/ea8bh" group-title="→ Kids ←",TeenNick HD »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59537
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/vdh8y" group-title="→ Kids ←",Tooncast SD 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59444
 #EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="https://n9.cl/vdh8y" group-title="→ Kids ←",Tooncast HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59534
 
 
-
-
-
-
-
-
-
-
 Colombia 
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CABLENOTICIAS HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/326
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←",COL• CABLE NOTICIAS (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CABLENOTICIAS HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/327
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="→ COLOMBIA ←",COL• CANAL CAPITAL (HD)
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/328
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="→ COLOMBIA ←",COL• CANAL TRO (HD)
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/329
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ryKfSfvg/Canal-1-colombia.png" group-title="→ COLOMBIA ←",COL• CANAL 1 (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CANAL 1 HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/330
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",COL• CARACOL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CANAL CAPITAL HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/328
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CANAL TRO HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/329
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CARACOL HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/331
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",COL• CARACOL (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CARACOL HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/332
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",COL• CARACOL (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CARACOL HD »3«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/333
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",COL• CARACOL (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CARACOL HD »4«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/334
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/YqCDhXbp/CARACOL-INTERNACIONAL.png" group-title="→ COLOMBIA ←",COL• CARACOL INTERNACIONAL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CARACOL INTERNACIONAL HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/335
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/YqCDhXbp/CARACOL-INTERNACIONAL.png" group-title="→ COLOMBIA ←",COL• CARACOL INTERNACIONAL (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CARACOL INTERNACIONAL HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/336
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="→ COLOMBIA ←",COL• CITY TV (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",CITY TV HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/337
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="→ COLOMBIA ←",COL• EL TRECE (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",EL TRECE HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/338
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (SD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",NTN 24 SD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59626
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (SD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",NTN 24 SD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59639
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",NTN 24 HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/339
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",NTN 24 HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/340
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←",COL• NTN 24 (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",NTN 24 HD »3«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35401
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ COLOMBIA ←",COL• PASIONES (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",PASIONES HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/341
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ COLOMBIA ←",COL• PASIONES (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",PASIONES HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/342
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",RCN HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/343
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",RCN HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/344
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",RCN HD »3«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/345
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ COLOMBIA ←",COL• RCN (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",RCN HD »4«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/346
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/KjMXVJwS/Nuestra-Tele-Internacional2019.png" group-title="→ COLOMBIA ←",COL• RCN INTERNACIONAL (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",RCN INTERNACIONAL HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/347
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="→ COLOMBIA ←",COL• RCN NOVELAS (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",RCN NOVELAS HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/348
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/kgrMntvv/RCN-Televisi-n-Nueva-Imagen.png" group-title="→ COLOMBIA ←",COL• RCN NUESTRA TELE Op 1
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",RCN NUESTRA TELE »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/349
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/kgrMntvv/RCN-Televisi-n-Nueva-Imagen.png" group-title="→ COLOMBIA ←",COL• RCN NUESTRA TELE Op 2
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",RCN NUESTRA TELE »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35402
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←",COL• SENAL COLOMBIA (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",SENAL COLOMBIA HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/350
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←",COL• SENAL COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="→ COLOMBIA ←",COL• TELEANTIOQUIA (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELEANTIOQUIA HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/351
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/jqGHPQ0C/Telecaf-logo-svg.png" group-title="→ COLOMBIA ←",COL• TELECAFE (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELECAFE HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/352
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="→ COLOMBIA ←",COL• TELECARIBE (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELECARIBE HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/353
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="→ COLOMBIA ←",COL• TELECARIBE (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELECARIBE HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/354
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/NM2PfL4R/Logotipo-de-Telemedell-n.png" group-title="→ COLOMBIA ←",COL• TELEMEDELLIN (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELEMEDELLIN HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/355
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://i.postimg.cc/NM2PfL4R/Logotipo-de-Telemedell-n.png" group-title="→ COLOMBIA ←",COL• TELEMEDELLIN (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELEMEDELLIN HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/356
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="→ COLOMBIA ←",COL• TELEPACIFICO (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELEPACIFICO HD »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/357
-#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="→ COLOMBIA ←",COL• TELEPACIFICO (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="https://n9.cl/uepck" group-title="→ COLOMBIA ←",TELEPACIFICO HD »2«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/358
 #EXTINF:-1 tvg-id="" tvg-name="Colombia" tvg-logo="" group-title="→ COLOMBIA ←",COL: LAS ESTRELLAS FHD
 http://45.175.139.194:8000/play/58
