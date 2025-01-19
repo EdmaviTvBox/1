@@ -1,525 +1,703 @@
 #EXTM3U
 
-═══════════ EVENTOS⚽ ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #01
-http://nino4play.com:25461/YOUSELF3/CHILE3/14186
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #02
-http://nino4play.com:25461/YOUSELF3/CHILE3/11640
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #03
-http://nino4play.com:25461/YOUSELF3/CHILE3/244
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #04
-http://nino4play.com:25461/YOUSELF3/CHILE3/14737
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #05
-http://nino4play.com:25461/YOUSELF3/CHILE3/15016
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #06
-http://nino4play.com:25461/YOUSELF3/CHILE3/14359
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #07
-http://nino4play.com:25461/YOUSELF3/CHILE3/14358
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #08
-http://nino4play.com:25461/YOUSELF3/CHILE3/14360
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #09
-http://nino4play.com:25461/YOUSELF3/CHILE3/14297
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #10
-http://nino4play.com:25461/YOUSELF3/CHILE3/13830
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #11
-http://nino4play.com:25461/YOUSELF3/CHILE3/13829
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #12
-http://nino4play.com:25461/YOUSELF3/CHILE3/13817
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #13
-http://nino4play.com:25461/YOUSELF3/CHILE3/14873
-#EXTINF:-1 tvg-id="" tvg-name="★EVENTOS★" tvg-logo="https://n9.cl/a9oxn" group-title="EVENTOS⚽",EVENTOS #14
-http://nino4play.com:25461/YOUSELF3/CHILE3/14881
+#EXTINF:-1 tvg-id="" tvg-name="Avivamiento TV" tvg-logo="https://i.postimg.cc/1Rc5rN22/Avivamiento.png" group-title="COLOMBIA",Avivamiento TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100475
+#EXTINF:-1 tvg-id="" tvg-name="Cali Tv" tvg-logo="https://i.postimg.cc/7L2qGCSB/CaliTV2.png" group-title="COLOMBIA",Cali Tv
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100476
+#EXTINF:-1 tvg-id="" tvg-name="Canal Insitucional" tvg-logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA",Canal Insitucional
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100477
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1" tvg-logo="https://i.ibb.co/7pMZ9gg/1.png" group-title="COLOMBIA",Canal 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100478
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1 HD" tvg-logo="https://i.ibb.co/7pMZ9gg/1.png" group-title="COLOMBIA",Canal 1 HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100479
+#EXTINF:-1 tvg-id="" tvg-name="Canal TDI" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="COLOMBIA",Canal TDI
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100480
+#EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://lh3.googleusercontent.com/-fpmZty2YwYo/XzghYb0Ii5I/AAAAAAAA4X8/pFIdyPz9X-Uaj2c-1TYEoVx0sG2Gob1WwCK8BGAsYHg/s0/2020-08-15.png" group-title="COLOMBIA",Canal TRO
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100481
+#EXTINF:-1 tvg-id="" tvg-name="Canal Vision Dorada" tvg-logo="https://cdn.colombia.com/canales/canal-vision-dorada-2371.jpg" group-title="COLOMBIA",Canal Vision Dorada
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100482
+#EXTINF:-1 tvg-id="" tvg-name="Canal Trece" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2012-2016-logo-286AB7AB77-seeklogo.com.png" group-title="COLOMBIA",Canal Trece
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100483
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png" group-title="COLOMBIA",Caracol Noticias
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100484
+#EXTINF:-1 tvg-id="" tvg-name="Caracol SD" tvg-logo="https://i.postimg.cc/52gv3ynd/caracol.png" group-title="COLOMBIA",Caracol SD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100485
+#EXTINF:-1 tvg-id="" tvg-name="Caracol HD" tvg-logo="https://i.postimg.cc/52gv3ynd/caracol.png" group-title="COLOMBIA",Caracol HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100488
+#EXTINF:-1 tvg-id="" tvg-name="Caracol FHD" tvg-logo="https://i.postimg.cc/52gv3ynd/caracol.png" group-title="COLOMBIA",Caracol FHD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100489
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional" tvg-logo="https://i.ibb.co/jTPvRbf/int.jpg" group-title="COLOMBIA",Caracol Internacional
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100490
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/Citytv-bogota-special-logo-1.png/revision/latest/scale-to-width-down/640?cb=20170906220357" group-title="COLOMBIA",City TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100491
+#EXTINF:-1 tvg-id="" tvg-name="City TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/Citytv-bogota-special-logo-1.png/revision/latest/scale-to-width-down/640?cb=20170906220357" group-title="COLOMBIA",City TV HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100492
+#EXTINF:-1 tvg-id="" tvg-name="CNC Medellín" tvg-logo="http://canalcncmedellin.com/recursos/images/logo_cnc.png" group-title="COLOMBIA",CNC Medellín
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100493
+#EXTINF:-1 tvg-id="" tvg-name="CNC Pasto" tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="COLOMBIA",CNC Pasto
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100494
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovisión" tvg-logo="https://www.cosmovision.tv/dayparting-assets/undefined-show.jpg" group-title="COLOMBIA",Cosmovisión
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100495
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/203px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA",Canal Capital
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100496
+#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="https://lh3.googleusercontent.com/-HEzkYTo02Rk/Xzgh99tP4iI/AAAAAAAA4YQ/mTot01o9dXAeWSFyVaHucohKWQSBIcEVgCK8BGAsYHg/s0/2020-08-15.jpg" group-title="COLOMBIA",CTV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100497
+#EXTINF:-1 tvg-id="" tvg-name="Eureka" tvg-logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png" group-title="COLOMBIA",Eureka
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100498
+#EXTINF:-1 tvg-id="" tvg-name="La Despechada TV" tvg-logo="https://i2.paste.pics/f3abe4415e90765f85d20737dcfdb006.png" group-title="COLOMBIA",La Despechada TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100499
+#EXTINF:-1 tvg-id="" tvg-name="La Kalle" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sdgsdm2qwcu6.jpeg" group-title="COLOMBIA",La Kalle
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100500
+#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="http://i.imgur.com/fzsER.png" group-title="COLOMBIA",NTN24
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100501
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero 90 Minutos" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png" group-title="COLOMBIA",Noticiero 90 Minutos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100502
+#EXTINF:-1 tvg-id="" tvg-name="Oasis TV" tvg-logo="https://lh3.googleusercontent.com/-412AERiYMxI/YKQhU6rdR0I/AAAAAAABCYU/dIiDILugmbA8oKWQjiJuQCUlFD44BctuwCK8BGAsYHg/s512/2021-05-18.jpg" group-title="COLOMBIA",Oasis TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100503
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://i.postimg.cc/264Sq3GW/rcn.png" group-title="COLOMBIA",RCN
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100504
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://i.postimg.cc/264Sq3GW/rcn.png" group-title="COLOMBIA",RCN HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100505
+#EXTINF:-1 tvg-id="" tvg-name="RCN FHD" tvg-logo="https://i.postimg.cc/264Sq3GW/rcn.png" group-title="COLOMBIA",RCN FHD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100506
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/Kx2HwGP/rc.png" group-title="COLOMBIA",RCN Novelas
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100507
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD 2" tvg-logo="https://i.postimg.cc/264Sq3GW/rcn.png" group-title="COLOMBIA",RCN HD 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100508
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia HD" tvg-logo="https://cr00.epimg.net/radio/imagenes/2020/04/05/nacional/1586118577_974673_1586118902_noticia_normal.jpg" group-title="COLOMBIA",Señal Colombia HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100509
+#EXTINF:-1 tvg-id="" tvg-name="Suram TV HD" tvg-logo="https://i.postimg.cc/bv8mbWtK/LOGO-SURAM.png" group-title="COLOMBIA",Suram TV HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100510
+#EXTINF:-1 tvg-id="" tvg-name="Tele Medellin" tvg-logo="https://i.postimg.cc/QCRbMyDY/telemedellin.png" group-title="COLOMBIA",Tele Medellin
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100511
+#EXTINF:-1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="https://1.bp.blogspot.com/-1tWrFwjBSfI/WIYTBL-JGnI/AAAAAAAAkbU/7OnJUIEkW247d5amflFaGh86fBRAkq4ggCLcB/w1200-h630-p-k-no-nu/large.Teleantioquia.png.5e54041611d5b156482d93ff8c2f0bd2.png" group-title="COLOMBIA",Teleantioquia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100512
+#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" group-title="COLOMBIA",Telecafé
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100513
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA",Telecaribe
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100514
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA",Telecaribe2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100515
+#EXTINF:-1 tvg-id="" tvg-name="Teleislas" tvg-logo="https://i.postimg.cc/XNTmq2s0/Teleislas.png" group-title="COLOMBIA",Teleislas
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100516
+#EXTINF:-1 tvg-id="" tvg-name="Tele Familia" tvg-logo="http://127.0.0.1/" group-title="COLOMBIA",Tele Familia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100517
+#EXTINF:-1 tvg-id="" tvg-name="Telemusica HD" tvg-logo="https://i.postimg.cc/3rDfsXYf/telenusica.png" group-title="COLOMBIA",Telemusica HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100518
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA",Telepacifico
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100519
+#EXTINF:-1 tvg-id="" tvg-name="TV Peñol" tvg-logo="https://lh3.googleusercontent.com/-IjTc4ETC9nM/YJrm_HJajaI/AAAAAAABCPA/SwuODmd0rtIduTCeQniwOaSBvR_YqDykgCK8BGAsYHg/s512/2021-05-11.png" group-title="COLOMBIA",TV Peñol
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100520
+#EXTINF:-1 tvg-id="" tvg-name="TDI" tvg-logo="https://lh3.googleusercontent.com/-vyt5Jhg2zHM/Xzgifjcw9EI/AAAAAAAA4Yo/w6AHqx1V86URrFxDMQ7mjNIZ9b97NbjswCK8BGAsYHg/s0/2020-08-15.jpg" group-title="COLOMBIA",TDI
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100521
+#EXTINF:-1 tvg-id="" tvg-name="Tu Universo Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739a50b1dceef6584293d88b88d1ec92.webp" group-title="COLOMBIA",Tu Universo Tv
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100522
 
-═══════════ TV SPORTS ESPN⚽ ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN EXCLUSIVO       
-http://nino4play.com:25461/YOUSELF3/CHILE3/10974
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN COLOMBIA
-http://nino4play.com:25461/YOUSELF3/CHILE3/13972
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PERU
-http://nino4play.com:25461/YOUSELF3/CHILE3/166
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN CHILE
-http://nino4play.com:25461/YOUSELF3/CHILE3/13799
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN MEXICO
-http://nino4play.com:25461/YOUSELF3/CHILE3/230
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN ARGENTINA
-http://nino4play.com:25461/YOUSELF3/CHILE3/14201
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 COLOMBIA
-http://nino4play.com:25461/YOUSELF3/CHILE3/14913
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 PERU
-http://nino4play.com:25461/YOUSELF3/CHILE3/152
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 MEXICO
-http://nino4play.com:25461/YOUSELF3/CHILE3/6593
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 ARGENTINA
-http://nino4play.com:25461/YOUSELF3/CHILE3/6303
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 3 PERU 
-http://nino4play.com:25461/YOUSELF3/CHILE3/10291
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 3 MEXICO 
-http://nino4play.com:25461/YOUSELF3/CHILE3/13807
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 3 ARGENTINA 
-http://nino4play.com:25461/YOUSELF3/CHILE3/167
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 3
-http://nino4play.com:25461/YOUSELF3/CHILE3/13971
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 4 PERU
-http://nino4play.com:25461/YOUSELF3/CHILE3/11592
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 4 MEXICO
-http://nino4play.com:25461/YOUSELF3/CHILE3/14049
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 4
-http://nino4play.com:25461/YOUSELF3/CHILE3/14883
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 5 MEXICO
-http://nino4play.com:25461/YOUSELF3/CHILE3/168
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 5 
-http://nino4play.com:25461/YOUSELF3/CHILE3/13970
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 6 
-http://nino4play.com:25461/YOUSELF3/CHILE3/11995
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 7 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14878
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN DEPORTES
-http://nino4play.com:25461/YOUSELF3/CHILE3/165
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PREMIUM CHILE
-http://nino4play.com:25461/YOUSELF3/CHILE3/14879
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PREMIUM ARGENTINA
-http://nino4play.com:25461/YOUSELF3/CHILE3/158
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN COLOMBIA OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/792
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN PERU OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/13843
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN DEPORTES OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/11761
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 5 OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/14048
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 6 OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/14885
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 7 OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/14884
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",ESPN 2 PERU OPC 3
-http://nino4play.com:25461/YOUSELF3/CHILE3/229
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",MOVIL ESPN PERU 
-http://nino4play.com:25461/YOUSELF3/CHILE3/8444
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",MOVIL ESPN COLOMBIA
-http://nino4play.com:25461/YOUSELF3/CHILE3/14311
-#EXTINF:-1 tvg-id="" tvg-name="★SPORTS ESPN★" tvg-logo="https://n9.cl/a2x11" group-title="TV SPORTS ESPN⚽",MOVIL ESPN PERU
-http://nino4play.com:25461/YOUSELF3/CHILE3/14315
+#EXTINF:-1 tvg-id="" tvg-name="Canal I" tvg-logo="https://lh3.googleusercontent.com/-EZAjwsDGsfM/YEth5st_ZaI/AAAAAAABAkk/SmN2QnV5cpsk_CQ8FC9zPRTPBqsZqEj2gCK8BGAsYHg/s512/2021-03-12.png" group-title="VENEZUELA",Canal I
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100524
+#EXTINF:-1 tvg-id="" tvg-name="Catatumbo TV" tvg-logo="http://www.m3u.cl/logo/108656_Catatumbo_TV.png" group-title="VENEZUELA",Catatumbo TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100525
+#EXTINF:-1 tvg-id="" tvg-name="DAN TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/366f33df3dbfb786579cb2984e8fe536.webp" group-title="VENEZUELA",DAN TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100527
+#EXTINF:-1 tvg-id="" tvg-name="Italianissimo TV" tvg-logo="https://i2.paste.pics/f98ee219e6d74ae697f46761bfc763c3.png" group-title="VENEZUELA",Italianissimo TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100528
+#EXTINF:-1 tvg-id="" tvg-name="IVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="VENEZUELA",IVC
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100529
+#EXTINF:-1 tvg-id="" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png" group-title="VENEZUELA",MovieFE
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100530
+#EXTINF:-1 tvg-id="" tvg-name="Oxigeno Network" tvg-logo="https://i.ibb.co/SPg5HX9/o2.png" group-title="VENEZUELA",Oxigeno Network
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100533
+#EXTINF:-1 tvg-id="" tvg-name="Panavision TV" tvg-logo="https://1.bp.blogspot.com/-QAjgp3Q980s/YAsNLUl7zUI/AAAAAAAADGE/0Ap4z8WKE7s5rJiAV5uuDOKciQvFiFR_ACLcBGAsYHQ/s580/panavision-tv-venezuela.png" group-title="VENEZUELA",Panavision TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100534
+#EXTINF:-1 tvg-id="" tvg-name="Promar TV" tvg-logo="https://pbs.twimg.com/media/FUpynKkXoAM7Gjx.png" group-title="VENEZUELA",Promar TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100535
+#EXTINF:-1 tvg-id="" tvg-name="ShowVen TV" tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png" group-title="VENEZUELA",ShowVen TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100537
+#EXTINF:-1 tvg-id="" tvg-name="Telesur HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/large.Telesur-2017-2.png.3655285137f0b35ea68ed5f8fd5f374e.png" group-title="VENEZUELA",Telesur HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100538
+#EXTINF:-1 tvg-id="" tvg-name="Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="VENEZUELA",Televen
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100539
+#EXTINF:-1 tvg-id="" tvg-name="Televen Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="VENEZUELA",Televen Tv
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100540
+#EXTINF:-1 tvg-id="" tvg-name="TLT" tvg-logo="https://lh3.googleusercontent.com/-Bqe9dITrTQg/XxzwInUx4II/AAAAAAAA3a4/5U6cSU5Zo687qn4p5Etiv_BfzD5tRGBegCK8BGAsYHg/s0/2020-07-25.png" group-title="VENEZUELA",TLT
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100541
+#EXTINF:-1 tvg-id="" tvg-name="Venevision" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="VENEZUELA",Venevision
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100543
+#EXTINF:-1 tvg-id="" tvg-name="globovision" tvg-logo="https://seeklogo.com/images/G/Globovision-logo-511846BF9E-seeklogo.com.png" group-title="VENEZUELA",globovision
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/298080
 
-═══════════ TV SPORTS⚽ ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS MEXICO OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/159
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX DEPORTES
-http://nino4play.com:25461/YOUSELF3/CHILE3/164
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX DEPORTES SD 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14472
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS ARGENTINA 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14200
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS 2 ARGENTINA
-http://nino4play.com:25461/YOUSELF3/CHILE3/160
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS MEXICO
-http://nino4play.com:25461/YOUSELF3/CHILE3/14742
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS 2 MEXICO
-http://nino4play.com:25461/YOUSELF3/CHILE3/162
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX SPORTS 3 MEXICO 
-http://nino4play.com:25461/YOUSELF3/CHILE3/163
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",FOX  SPORTS PREMIUN 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14348
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS 
-http://nino4play.com:25461/YOUSELF3/CHILE3/4521
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/155
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS PLUS
-http://nino4play.com:25461/YOUSELF3/CHILE3/156
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV FIGHT  
-http://nino4play.com:25461/YOUSELF3/CHILE3/14320
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TUDN USA 
-http://nino4play.com:25461/YOUSELF3/CHILE3/11763
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TUDN MEXICO  
-http://nino4play.com:25461/YOUSELF3/CHILE3/234
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",ZONA TUDN    
-http://nino4play.com:25461/YOUSELF3/CHILE3/14209
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",CLARO SPORTS  
-http://nino4play.com:25461/YOUSELF3/CHILE3/14260
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",CLARO SPORTS 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/14922
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOL PERU
-http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126859
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOLTV ECUADOR    
-http://nino4play.com:25461/YOUSELF3/CHILE3/2396
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOL TV LATINO AMERICA 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14318
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOL TV USA
-http://nino4play.com:25461/YOUSELF3/CHILE3/231
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TYC SPORTS ARGENTINA
-http://nino4play.com:25461/YOUSELF3/CHILE3/2580
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TYC SPORTS INT
-http://nino4play.com:25461/YOUSELF3/CHILE3/233
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",MOVISTAR PLUS 
-http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126874
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TIGO SPORTS 
-http://nino4play.com:25461/YOUSELF3/CHILE3/13805
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",ZAPPING SPOTS 
-http://nino4play.com:25461/YOUSELF3/CHILE3/11753
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",BEIN SPORTS 
-http://nino4play.com:25461/YOUSELF3/CHILE3/153
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",ECDF ECUADOR
-http://nino4play.com:25461/YOUSELF3/CHILE3/11971
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TD + C. RICA 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14756
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TNT SPORTS ARGENTINA 
-http://nino4play.com:25461/YOUSELF3/CHILE3/232
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",WAPA DEPORTES
-http://nino4play.com:25461/YOUSELF3/CHILE3/14476
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DAZN 1
-http://nino4play.com:25461/YOUSELF3/CHILE3/14366
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DAZN 1 LA LIGA 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14155
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DAZN FORMULA 1   
-http://nino4play.com:25461/YOUSELF3/CHILE3/3321
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOL
-http://nino4play.com:25461/YOUSELF3/CHILE3/14911
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",MOVISTAR LA LIGA 1        
-http://nino4play.com:25461/YOUSELF3/CHILE3/4638
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",MOVISTAR LA LIGA  
-http://nino4play.com:25461/YOUSELF3/CHILE3/4636
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",M+ LA LIGA TV1 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14156
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",M+ LA LIGA TV2 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14367
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",M+ VAMOS 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14910
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",MOVISTAR LIGA DE CAMPEONES  
-http://nino4play.com:25461/YOUSELF3/CHILE3/3350
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",SKY SPORTS ESPAÑA
-http://nino4play.com:25461/YOUSELF3/CHILE3/6095
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",SKY SPORTS MEXICO 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14415
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",SKY SPORTS FOOTBALL  
-http://nino4play.com:25461/YOUSELF3/CHILE3/14901
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",LIGA 1 MAX 
-http://nino4play.com:25461/YOUSELF3/CHILE3/14894
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/154
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS 2 OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/14121
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",DIRECTV SPORTS PLUS OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/14246
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",GOL PERU OPC 2
-http://arboltv.xyz:8080/8gXWEheR7T/yxSTRS9C6D/126860
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TUDN USA OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/235
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",TUDN MEXICO OPC 2
-http://nino4play.com:25461/YOUSELF3/CHILE3/14842
-#EXTINF:-1 tvg-id="" tvg-name="★TV SPORTS★" tvg-logo="https://n9.cl/9c15v" group-title="TV SPORTS⚽",BEIN SPORTS OPC 2 
-http://nino4play.com:25461/YOUSELF3/CHILE3/4635
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ECUADOR",Ecuador
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100557
+#EXTINF:-1 tvg-id="" tvg-name="Canal UNO" tvg-logo="https://lh6.googleusercontent.com/-5noHuNdiw4o/Tw5TXXC6R0I/AAAAAAAAAjk/EZBL0KrA9r8/s255/UNO-n.jpg" group-title="ECUADOR",Canal UNO
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100558
+#EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="http://www.forosecuador.ec/imgfe/ver-canela-tv-en-vivo-online.jpg" group-title="ECUADOR",Canela TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100559
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/EcuadorTV-Vertical.png/revision/latest?cb=20171202010639" group-title="ECUADOR",Ecuador TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100560
+#EXTINF:-1 tvg-id="" tvg-name="Gama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",Gama TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100562
+#EXTINF:-1 tvg-id="" tvg-name="Hechos" tvg-logo="https://pbs.twimg.com/profile_images/1054001649507807232/_Ckj9Z0__400x400.jpg" group-title="ECUADOR",Hechos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100563
+#EXTINF:-1 tvg-id="" tvg-name="Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR",Oromar TV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100564
+#EXTINF:-1 tvg-id="" tvg-name="RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100565
+#EXTINF:-1 tvg-id="" tvg-name="TC Television HD" tvg-logo="https://radiosecuador.sfo2.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png" group-title="ECUADOR",TC Television HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100566
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100567
+#EXTINF:-1 tvg-id="" tvg-name="Televicentro TVC HD" tvg-logo="https://3.bp.blogspot.com/-hFhNVAiHE94/W0xwnAiM8YI/AAAAAAAAGYk/tqwkNCTwvpUuaVZtXoddv7Gn07eVdNCRgCLcBGAs/w700-h400-p-k-no-nu/TVC+en+vivo+ecuador.jpg" group-title="ECUADOR",Televicentro TVC HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100568
 
-═══════════ |★| KIDS |★| ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Anime ZoneTV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51708
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Baby TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2467
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Baby First
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5825
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Bitme
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/55394
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Boing
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56044
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Cine Familiar
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/48615
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Magic Kids
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2469
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Cartoon Network 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2470
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Cartoon Network HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/48374
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Discovery Kids 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2471
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Discovery Kids HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/47837
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Disney Channel 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2472
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Disney Channel HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30366
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Disney Junior 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2473
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Disney Junior HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/48375
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Dreamworks HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2476
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Dios Teve Kids
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30916
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",El Chavo Del 8 TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/3614
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Locomotion
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/20
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Nickelodeon 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2477
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Nickelodeon HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/42923
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Nick Jr.
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2478
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Nick Classics
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/32359
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Paka-Paka
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2480
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Pequeradio TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51767
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Reino Infantil
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30604
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Tooncast
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2482
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Tooncast HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30603
-#EXTINF:-1 tvg-id="" tvg-name="★KIDS★" tvg-logo="https://n9.cl/2qxyqe" group-title="★KIDS★",Zoomo
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76242
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",A+V
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100832
+#EXTINF:-1 tvg-id="" tvg-name="A+V" tvg-logo="https://www.amasv.com.uy/images/LOGO-web-AMASV-MUCHA-COSA-BUENA.png" group-title="URUGUAY",A+V
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100833
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Monte Carlo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Canal_4_2019.png" group-title="URUGUAY",Canal 4 Monte Carlo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100834
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Salto" tvg-logo="https://pbs.twimg.com/profile_images/973670642666147848/m7E42H6N_400x400.jpg" group-title="URUGUAY",Canal 4 Salto
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100835
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Rse-logo-canal10-home.png" group-title="URUGUAY",Canal 10
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100836
+#EXTINF:-1 tvg-id="" tvg-name="Canal M" tvg-logo="https://www.gastronomia.com.uy/plantillas/imagenes/logo-canalm.png" group-title="URUGUAY",Canal M
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100837
+#EXTINF:-1 tvg-id="" tvg-name="Canal 12" tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_6c982c9657.png" group-title="URUGUAY",Canal 12
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100838
+#EXTINF:-1 tvg-id="" tvg-name="Latina TV Paysandu" tvg-logo="https://i.postimg.cc/4Nh2S3Lr/latina-tv.jpg" group-title="URUGUAY",Latina TV Paysandu
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100839
+#EXTINF:-1 tvg-id="" tvg-name="TeleDoce (Op.1)" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png" group-title="URUGUAY",TeleDoce (Op.1)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100840
+#EXTINF:-1 tvg-id="" tvg-name="La Red Uruguay" tvg-logo="http://www.redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" group-title="URUGUAY",La Red Uruguay
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100841
+#EXTINF:-1 tvg-id="" tvg-name="VTV HD" tvg-logo="https://i.postimg.cc/05ZV483c/vtv-uy.png" group-title="URUGUAY",VTV HD
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100842
+#EXTINF:-1 tvg-id="" tvg-name="VTV HD (Op.2)" tvg-logo="https://i.postimg.cc/05ZV483c/vtv-uy.png" group-title="URUGUAY",VTV HD (Op.2)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100843
+#EXTINF:-1 tvg-id="" tvg-name="VTV Plus" tvg-logo="https://i.postimg.cc/tCTBQKGy/vtv-uy-plus.png" group-title="URUGUAY",VTV Plus
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100844
+#EXTINF:-1 tvg-id="" tvg-name="VTV Plus (op.2)" tvg-logo="https://i.postimg.cc/tCTBQKGy/vtv-uy-plus.png" group-title="URUGUAY",VTV Plus (op.2)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/100845
 
-
-═══════════ |★| TV COLOMBIA |★| ═══════════
-
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Cali Tv
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/19632
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Canal Insitucional
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/13321
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Canal 1 HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56581
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Canal TRO
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/54979
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Canal Vision Dorada
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2616
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Canal Trece
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2614
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Caracol Noticias
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/13322
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Caracol HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/38211
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Caracol Internacional
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30720
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",City TV HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/37335
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",CNC Medellín
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/13328
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Cosmovisión
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/13326
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Canal Capital
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30363
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",CTV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30364
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Global TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51902
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",La Kalle
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/55183
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",NTN24
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2374
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Oasis TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/13324
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",RCN HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30679
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",RCN HD 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/44540
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",RCN Novelas
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30612
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",RCN Más+
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57151
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Señal Colombia HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51027
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Suram TV HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/19635
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Teleantioquia 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/31854
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Telecafé
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2377
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Telecaribe
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2378
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Teleislas
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/13323
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Tele Familia
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/48452
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",TV Peñol
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w101353964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Tu Universo Tv
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52926
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",VEO TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/19634
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Canal 2 - Cali
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76555
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Mi Música Popular
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76958
-#EXTINF:-1 tvg-id="" tvg-name="★ TV COLOMBIA ★" tvg-logo="https://n9.cl/2qxyqe" group-title="★TV COLOMBIA★",Cantina TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/74754
-
-═══════════ |★| CINE Y SERIES |★| ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★ CINE Y SERIES ★" tvg-logo="https://n9.cl/rskwyv" group-title="★CINE Y SERIES★",A&E HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2432
-#EXTINF:-1 tvg-id="" tvg-name="★ CINE Y SERIES ★" tvg-logo="https://n9.cl/rskwyv" group-title="★CINE Y SERIES★",AMC HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2619
-#EXTINF:-1 tvg-id="" tvg-name="★ CINE Y SERIES ★" tvg-logo="https://n9.cl/rskwyv" group-title="★CINE Y SERIES★",AXN ESP
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29513
-#EXTINF:-1 tvg-id="" tvg-name="★ CINE Y SERIES ★" tvg-logo="https://n9.cl/rskwyv" group-title="★CINE Y SERIES★",AXN
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2620
-#EXTINF:-1 tvg-id="" tvg-name="★ CINE Y SERIES ★" tvg-logo="https://n9.cl/rskwyv" group-title="★CINE Y SERIES★",Az Cinema
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14135
-#EXTINF:-1 tvg-id="" tvg-name="★ CINE Y SERIES ★" tvg-logo="https://n9.cl/rskwyv" group-title="★CINE Y SERIES★",Cinecanal HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2622
-#EXTINF:-1 tvg-id="" tvg-name="★ CINE Y SERIES ★" tvg-logo="https://n9.cl/rskwyv" group-title="★CINE Y SERIES★",Cinemax HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/7059
-
-═══════════ |★| HISTORIA Y CULTURA |★| ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DW Español
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/41312
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DW Latino América
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/40029
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",Crime + Investigation
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/70649
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DISCOVERY CHANNEL
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58041
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DISCOVERY CIVILIZATION
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58040
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DISCOVERY HOME & HEALTH
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58039
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DISCOVERY INVESTIGATION
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58038
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DISCOVERY KIDS
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58037
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DISCOVERY SCIENCE
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58036
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DISCOVERY THEATER
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58035
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",DISCOVERY TURBO
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58034
-#EXTINF:-1 tvg-id="" tvg-name="★HISTORIA Y CULTURA★" tvg-logo="https://n9.cl/mxd08k" group-title="★HISTORIA Y CULTURA★",Animal Planet LA
-http://vo01.mohdtv.com:8880/ALLChannels681def058dbf/99512984/58054
-
-═══════════ |★| TV PREMIUM |★| ═══════════
-Azteca 1
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2547
-Azteca Internacional
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76554
-Comedy Central
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2436
-E! 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2699
-Estrella TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2548
-Hola! TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2442
-Las Estrellas
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/54491
-Mas Chic
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2444
-MTV 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2538
-MTV Classic
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/16039
-Telemundo Internacional
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/56927
-Telemundo
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/55146
-Unicable
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2450
-
-
-
-═══════════ |★| INTERNACIONALES |★| ═══════════
-America TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30721
-ATV+
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/51108
-ATV SUR
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/40604
-Canal N
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30718
-Ecuador TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2381
-Frecuencia Latina
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30886
-Gama TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2383
-Imagen TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2554
-Megavision Tv
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52927
-Multimedios HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2555
-Oromar TV 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2384
-Panamericana 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30722
-Red UNO
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76492
-Teleamazonas HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2385
-Televisa
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2559
-Trece - Paraguay
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/72828
-TV Cosmos
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-Unitel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/15596
-Venevision Plus
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2430
-
-═══════════ |★| SPORTS |★| ═══════════
-CLARO SPORTS
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2537
-
-═══════════ |★| MUSIC |★| ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",HTV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/14127
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Mi Musica - Regional
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76740
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Quiero Musica
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/74961
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Telehit
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/70174
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Retro TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",MTV Live HD
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/30877
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Cadena Elite
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52578
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",DeeJay TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/41238
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Lobo TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/57149
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Play TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29584
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",TMA
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29596
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Radio Red Fueguina
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29536
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Afrobeats
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29527
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",4FUN TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29524
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Baraza TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29531
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",California Music Channel
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29535
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Radio Onda TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/32
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Radio Piter Pan TV
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/29591
-#EXTINF:-1 tvg-id="" tvg-name="★MUSIC★" tvg-logo="https://n9.cl/pu8hx" group-title="★MUSIC★",Radio Recuerdos Retro
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/5963
-
-
-═══════════ |★| NOVELAS |★| ═══════════
-#EXTINF:-1 tvg-id="" tvg-name="★NOVELAS★" tvg-logo="https://n9.cl/sc0g0g" group-title="★NOVELAS★",Sony Canal Novelas
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/76559
-#EXTINF:-1 tvg-id="" tvg-name="★NOVELAS★" tvg-logo="https://n9.cl/sc0g0g" group-title="★NOVELAS★",Az Corazón
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2550
-#EXTINF:-1 tvg-id="" tvg-name="★NOVELAS★" tvg-logo="https://n9.cl/sc0g0g" group-title="★NOVELAS★",Telemundo Novelas 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/40031
-#EXTINF:-1 tvg-id="" tvg-name="★NOVELAS★" tvg-logo="https://n9.cl/sc0g0g" group-title="★NOVELAS★",Pasiones 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/4888
-#EXTINF:-1 tvg-id="" tvg-name="★NOVELAS★" tvg-logo="https://n9.cl/sc0g0g" group-title="★NOVELAS★",TLNovelas 
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/52041
-#EXTINF:-1 tvg-id="" tvg-name="★NOVELAS★" tvg-logo="https://n9.cl/sc0g0g" group-title="★NOVELAS★",TLNovelas OPC 2
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2549
-
-═══════════ |★| NOTICIAS |★| ═══════════
-CNN International
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/4889
-CNN en Español
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2435
-
-═══════════ |★| COCINA |★| ═══════════
-El Gourmet
-http://stklatino.dynns.com:2082/rest9437ky862hs73/hs57483feucn45234/2693
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q9pB0IoLjDGiSNt0A3Mf9riPeWw.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Adrenalina
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306261
+#EXTINF:-1 tvg-id="" tvg-name="Amame" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q4So9MyLTZMInq8L3Vj0epZa4xh.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amame
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306262
+#EXTINF:-1 tvg-id="" tvg-name="Amor A Domicilio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/47E2hQ18Z4VYCZQRykdDxD4j7l7.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amor A Domicilio
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306263
+#EXTINF:-1 tvg-id="" tvg-name="BKN" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/gUK8YxL0W25sdwB99vXw76Owf0m.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",BKN
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306264
+#EXTINF:-1 tvg-id="" tvg-name="Casa De Muñecos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ciQpnI4Hf9Dj5DdokYDWOzxAw47.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Casa De Muñecos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306265
+#EXTINF:-1 tvg-id="" tvg-name="Eres Mi Tesoro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ggZ2gayxB8Rl6qkWECrv4mdGUi6.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Eres Mi Tesoro
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306266
+#EXTINF:-1 tvg-id="" tvg-name="Fuera De Control" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tJ2JiKMTnfecAI8TmWZI5YwjpLA.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Fuera De Control
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306267
+#EXTINF:-1 tvg-id="" tvg-name="La Fiera" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3UQmw8rGl9BWks30i097ZZapEpU.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La Fiera
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306268
+#EXTINF:-1 tvg-id="" tvg-name="La Madrastra" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/kt8bb1jcMlcYObzPpoQYV8Adf9p.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La Madrastra
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306269
+#EXTINF:-1 tvg-id="" tvg-name="Laberinto De Alicia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oSCAR7t0XYcqHn4oczTjqFLhr0S.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Laberinto De Alicia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306270
+#EXTINF:-1 tvg-id="" tvg-name="Las Dos Carolinas" tvg-logo="https://chilenovelas.fandom.com/es/wiki/Las_2_Carolinas?file=Las_2_Carolinas_Chilevisi%C3%B3n_2014.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Las Dos Carolinas
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306271
+#EXTINF:-1 tvg-id="" tvg-name="Matilde Dedos Verdes" tvg-logo="https://pics.filmaffinity.com/Matilde_Dedos_Verdes_Serie_de_TV-914529206-large.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Matilde Dedos Verdes
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306272
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre Es Lara" tvg-logo="https://www.themoviedb.org/t/p/original/imJ5Me7i1SuE1kRRIYYeFFevO1t.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Mi Nombre Es Lara
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306273
+#EXTINF:-1 tvg-id="" tvg-name="Amor A Domicilio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/47E2hQ18Z4VYCZQRykdDxD4j7l7.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amor A Domicilio
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306274
+#EXTINF:-1 tvg-id="" tvg-name="BKN" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/gUK8YxL0W25sdwB99vXw76Owf0m.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",BKN
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306275
+#EXTINF:-1 tvg-id="" tvg-name="Casa De Muñecos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ciQpnI4Hf9Dj5DdokYDWOzxAw47.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Casa De Muñecos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306276
+#EXTINF:-1 tvg-id="" tvg-name="Eres Mi Tesoro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ggZ2gayxB8Rl6qkWECrv4mdGUi6.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Eres Mi Tesoro
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306277
+#EXTINF:-1 tvg-id="" tvg-name="Fuera De Control" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tJ2JiKMTnfecAI8TmWZI5YwjpLA.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Fuera De Control
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",24/7 El Capo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306281
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rebelde (O)" tvg-logo="https://image.tmdb.org/t/p/w500/wqijX0thOJo6LPKHx4unhHP2kcX.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",24/7 Rebelde (O)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306282
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rebelde (S)" tvg-logo="https://image.tmdb.org/t/p/w500/kQHXg2BOiODkF4yVI75NcodMmAJ.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",24/7 Rebelde (S)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306283
+#EXTINF:-1 tvg-id="" tvg-name="40 y 20" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/6a5tGXaGimIBWntQUKKWyZcyj68.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",40 y 20
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306284
+#EXTINF:-1 tvg-id="" tvg-name="Amar y vivir" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oTmIP28BCEtgWBdxRMgK33nS0EA.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amar y vivir
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306285
+#EXTINF:-1 tvg-id="" tvg-name="Amigas y rivales" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/l1ufpjYSfQ0yqf860oXmlIaFS1M.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amigas y rivales
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306286
+#EXTINF:-1 tvg-id="" tvg-name="Amor eterno" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/al6OCoVRgdHhkGLVSvx4NPb4TJY.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amor eterno
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306287
+#EXTINF:-1 tvg-id="" tvg-name="Aquí No Hay Quien Viva" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmYzNTY4YTctZWU2OC00ZTZiLTllNmItNDg1OGE0MjdhZTZkXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_FMjpg_UX1000_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Aquí No Hay Quien Viva
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306288
+#EXTINF:-1 tvg-id="" tvg-name="Cafe con aroma de mujer" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ztyJqTdS7RApGgl6ZXmFdGZX3g0.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Cafe con aroma de mujer
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306289
+#EXTINF:-1 tvg-id="" tvg-name="Chepe Fortuna" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sadcGjMeSHT8WFH4TlYWrgT2R29.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Chepe Fortuna
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306290
+#EXTINF:-1 tvg-id="" tvg-name="Cuna de lobos" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1xy8a7n6GpKEjqxkMFbe8TGC1x.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Cuna de lobos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306291
+#EXTINF:-1 tvg-id="" tvg-name="Diomedes Diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/dloUU6Qy5yDVIBd6EUhatBCiRsL.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Diomedes Diaz
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306292
+#EXTINF:-1 tvg-id="" tvg-name="El clon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/61KPceoQCcmgoiCGGWURFJn9ICA.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El clon
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306293
+#EXTINF:-1 tvg-id="" tvg-name="El ultimo rey" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3YVQ6gsDnMYQWQCavtWE5bSfyJ2.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El ultimo rey
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306294
+#EXTINF:-1 tvg-id="" tvg-name="Hugo chaves" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sEThDZHGrhD6UPDVnP7skTAa6mF.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Hugo chaves
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306295
+#EXTINF:-1 tvg-id="" tvg-name="La hija del mariachi" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/a9J1rl8X4klFNMLTFGIJIHIjXgf.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La hija del mariachi
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306296
+#EXTINF:-1 tvg-id="" tvg-name="La prepago" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s8f5VSb1ANC9rjLgcS3lJLuK12W.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La prepago
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306297
+#EXTINF:-1 tvg-id="" tvg-name="La que se avecina" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/-/la-que-se-avecina-poster-1018854_SPA-71_V.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La que se avecina
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306298
+#EXTINF:-1 tvg-id="" tvg-name="La reina Del Flow 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La reina Del Flow 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306299
+#EXTINF:-1 tvg-id="" tvg-name="La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La Reina Del Sur
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306300
+#EXTINF:-1 tvg-id="" tvg-name="La rosa de Guadalupe" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La rosa de Guadalupe
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306301
+#EXTINF:-1 tvg-id="" tvg-name="Leandro diaz" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/d6voDsM0it0GPnhfzXiHWLaX0ff.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Leandro diaz
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306302
+#EXTINF:-1 tvg-id="" tvg-name="Loquito Por Ti" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vh40gJ4JLNEbqOT6lILjS1cwzgr.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Loquito Por Ti
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306303
+#EXTINF:-1 tvg-id="" tvg-name="Luz de luna" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tXHXhsuAU8B2mJs4AkEpsYzk75.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Luz de luna
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306304
+#EXTINF:-1 tvg-id="" tvg-name="Maria la del barrio" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xGMquh71mh3w3QzUrl1AhCniHys.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Maria la del barrio
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306305
+#EXTINF:-1 tvg-id="" tvg-name="Maria mercedes" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3sMyQjtS7H9Vxxo6vCMPoHz6vHD.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Maria mercedes
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306306
+#EXTINF:-1 tvg-id="" tvg-name="Pedro El Escamoso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v0DhAsHHiFpMmbe6zWG6F15gh4f.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Pedro El Escamoso
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306307
+#EXTINF:-1 tvg-id="" tvg-name="Porque el amor manda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Porque el amor manda
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306308
+#EXTINF:-1 tvg-id="" tvg-name="Reina De Corazones" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xdC1a8pSCKdacd2ijVZzhP1a1E.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Reina De Corazones
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306309
+#EXTINF:-1 tvg-id="" tvg-name="Rosario Tijeras" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Rosario Tijeras
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306310
+#EXTINF:-1 tvg-id="" tvg-name="Si Nos Dejan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/WSVadXbkEc2K6c0WIiodzwrDsx.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Si Nos Dejan
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306311
+#EXTINF:-1 tvg-id="" tvg-name="Soñadoras" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uVgKsSeh3ZvPYuAbk2rU0SBlAmU.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Soñadoras
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306312
+#EXTINF:-1 tvg-id="" tvg-name="Todo Por Mi Familia" tvg-logo="https://www.themoviedb.org/t/p/original/v9HVM1LhLb6b0TZRW45YG646ibh.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Todo Por Mi Familia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306313
+#EXTINF:-1 tvg-id="" tvg-name="Vecinos 2005" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fjNITzBxWcxnVVYVyRAXya9Z9YU.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Vecinos 2005
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306314
+#EXTINF:-1 tvg-id="" tvg-name="Xica Da Silva" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nildSBtxkstaw0h4rSI7gVZTrMU.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Xica Da Silva
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306315
+#EXTINF:-1 tvg-id="" tvg-name="Yo Soy Betty La Fea" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Yo Soy Betty La Fea
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306316
+#EXTINF:-1 tvg-id="" tvg-name="El Chapo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2ClXk4PoOGmkk676y4q6T26GJOb.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Chapo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306318
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Capo 2" tvg-logo="https://image.tmdb.org/t/p/w500/ckLO8daJbAXwjlyDShYQvr7ZSjb.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",24/7 El Capo 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306319
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Capo 3" tvg-logo="https://image.tmdb.org/t/p/w500/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",24/7 El Capo 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306320
+#EXTINF:-1 tvg-id="" tvg-name="Alias El Mexicano" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pwn3dP5EbK1Grz8vBGUEVEqkVS5.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Alias El Mexicano
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306321
+#EXTINF:-1 tvg-id="" tvg-name="El Capo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Capo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306322
+#EXTINF:-1 tvg-id="" tvg-name="El Chema" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wuA7gcwhDMbZ4Y1lscXRrgmaJIi.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Chema
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306323
+#EXTINF:-1 tvg-id="" tvg-name="El General Naranjo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/90I52FvezOBC9IX4LeTmaY3SNtS.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El General Naranjo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306324
+#EXTINF:-1 tvg-id="" tvg-name="El Recluso" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/2Cs9p1kl6s2i1LfFmcquoFb56yl.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Recluso
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306325
+#EXTINF:-1 tvg-id="" tvg-name="Enemigo Intimo" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/81URAPXi0GP9Ul4MxcVSiDEnpPq.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Enemigo Intimo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306326
+#EXTINF:-1 tvg-id="" tvg-name="La Piloto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/upX2fGyD4tPjJJLIOuJlB3yp2OK.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La Piloto
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306327
+#EXTINF:-1 tvg-id="" tvg-name="La Reina Del Sur" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La Reina Del Sur
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306328
+#EXTINF:-1 tvg-id="" tvg-name="La Viuda Negra" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xkdGdQDXzL6uKDgSJRz3oJqOcrC.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",La Viuda Negra
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306329
+#EXTINF:-1 tvg-id="" tvg-name="Maria Felix" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/w4vFoA48nSU1ORKVmcTWOwtzPgw.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Maria Felix
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306330
+#EXTINF:-1 tvg-id="" tvg-name="Muñecas De La Mafia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pbfAC5bYLeO86MsjFm9XIMOI455.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Muñecas De La Mafia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306331
+#EXTINF:-1 tvg-id="" tvg-name="Narcos Mexico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yCid4sQkaVzfa2y4yQWs5E0TES9.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Narcos Mexico
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306332
+#EXTINF:-1 tvg-id="" tvg-name="Regreso A La Guaca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/eCeFKkSZVWgIVmGCDCBlpmcVv23.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Regreso A La Guaca
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306333
+#EXTINF:-1 tvg-id="" tvg-name="Señora Acero" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vXhBxsvpW2mGuXRbIK5Yazdp8Zg.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Señora Acero
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306334
+#EXTINF:-1 tvg-id="" tvg-name="Sobreviviendo A Escobar" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/97xpke32aNz0XSl6OHLilu9GK63.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Sobreviviendo A Escobar
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306335
+#EXTINF:-1 tvg-id="" tvg-name="A Corazon Abierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/82FlOKGpr1YSeEKwh2aDmxURs7v.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",A Corazon Abierto
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306337
+#EXTINF:-1 tvg-id="" tvg-name="Adrián Esta De Visita" tvg-logo="https://en-images.kinorium.com/movie/1080/235593.jpg?1527901817" group-title="24/7 NOVELAS CHILENAS/LATINAS",Adrián Esta De Visita
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306338
+#EXTINF:-1 tvg-id="" tvg-name="Amanda Amores Que Matan (r)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBiMDc2MGMtNTA5My00NWI0LTlhMjUtMTVjZDdiN2YwN2RkXkEyXkFqcGdeQXVyMTMzNTM1NDM@._V1_FMjpg_UX1000_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amanda Amores Que Matan (r)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306339
+#EXTINF:-1 tvg-id="" tvg-name="Amantes Del Desierto" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/b7UfZRpkdbn6rbGnljOXYRxHq2Y.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amantes Del Desierto
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306340
+#EXTINF:-1 tvg-id="" tvg-name="Amor A La Planca" tvg-logo="https://pics.filmaffinity.com/Amor_a_la_plancha_Serie_de_TV-637088605-large.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amor A La Planca
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306341
+#EXTINF:-1 tvg-id="" tvg-name="Amor En Custodia" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jJKjDGAbPMagzjlds4Y21SIOoPU.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amor En Custodia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306342
+#EXTINF:-1 tvg-id="" tvg-name="Angel De La Guardia" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/9/w1280/fKPXIK077SqNR3S8tqRsa9pYNHS.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Angel De La Guardia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306343
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Betty La Fea" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4YzM5ZTItNGFmZi00MDRhLTgyMjUtZDJjMTI2ZmU5ZjNlXkEyXkFqcGdeQXVyMTcxNTYyMjM@._V1_FMjpg_UX1000_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",24/7 Betty La Fea
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306344
+#EXTINF:-1 tvg-id="" tvg-name="Candela" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jvRxWYlVPtuoRmPqDhEvf6RF2pH.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Candela
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306345
+#EXTINF:-1 tvg-id="" tvg-name="Clase Ejecutiva (r)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmEyYjI2ZWQtZWU2MC00ODIyLTk1ZGUtNWUzZjA1ODRlMzViXkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Clase Ejecutiva (r)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306346
+#EXTINF:-1 tvg-id="" tvg-name="Ecomoda" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yMwHYtRmbE91pFjorzgfgS6JpKn.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Ecomoda
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306347
+#EXTINF:-1 tvg-id="" tvg-name="El Amor Es Mas Fuerte" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_918043-MCO53914662181_022023-O.webp" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Amor Es Mas Fuerte
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306348
+#EXTINF:-1 tvg-id="" tvg-name="El Autentico Rodrigo Leal" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/czwSK0M4XbnJHMdHA1ehJaww9Ph.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Autentico Rodrigo Leal
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306349
+#EXTINF:-1 tvg-id="" tvg-name="El Encantador" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vrSIfbePV6wVs2oGQJ6hgbV0jcy.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Encantador
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306350
+#EXTINF:-1 tvg-id="" tvg-name="El Fantasma Del Gran Hotel" tvg-logo="https://imagenes.estudiosrcn.com/imgrcnventasinternacionales/poster_76.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Fantasma Del Gran Hotel
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306351
+#EXTINF:-1 tvg-id="" tvg-name="El Inutil" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n1shKImitZJw14XfSllaHNc77CB.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Inutil
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306352
+#EXTINF:-1 tvg-id="" tvg-name="El Pasado No Perdona" tvg-logo="https://pics.filmaffinity.com/El_pasado_no_perdona_Serie_de_TV-877235071-large.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Pasado No Perdona
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306353
+#EXTINF:-1 tvg-id="" tvg-name="El Penultimo Beso" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I3MWEzNTUtMWU3My00ZGE4LWFmZjUtZWM3MTcxMzY0M2U3XkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Penultimo Beso
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306354
+#EXTINF:-1 tvg-id="" tvg-name="Eternamente Manuela" tvg-logo="https://artworks.thetvdb.com/banners/v4/series/415305/posters/61f34117ebe23.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Eternamente Manuela
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306355
+#EXTINF:-1 tvg-id="" tvg-name="Guajira" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/7REqccC6Q0MHr6j1rn2E3ah5ynT.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Guajira
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306356
+#EXTINF:-1 tvg-id="" tvg-name="Alma Mia" tvg-logo="https://canvas.tubitv.com/7939ec6e-2005-4703-87bd-d23ca1f70236/UMIAyt?w=256&h=368" group-title="24/7 NOVELAS CHILENAS/LATINAS",Alma Mia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306358
+#EXTINF:-1 tvg-id="" tvg-name="Amanda Sabater" tvg-logo="https://pics.filmaffinity.com/amanda_sabater-432087688-mmed.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amanda Sabater
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306359
+#EXTINF:-1 tvg-id="" tvg-name="Amantes" tvg-logo="https://www.themoviedb.org/t/p/w500/peie5zSVGdQ4cRdcQI8wBfQSqGP.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amantes
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306360
+#EXTINF:-1 tvg-id="" tvg-name="Amor A Palos (revisando)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZjM2YyYzctMjQ0Ny00MGFhLWJlMWItODE4ZjNmZjc1MjI4XkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amor A Palos (revisando)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306361
+#EXTINF:-1 tvg-id="" tvg-name="Amores De Fin De Siglo" tvg-logo="https://pics.filmaffinity.com/Amores_de_fin_de_siglo_Serie_de_TV-479971677-large.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amores De Fin De Siglo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306362
+#EXTINF:-1 tvg-id="" tvg-name="Cara Sucia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwOGFkOTItMWNmOC00YjkxLTgwMGMtZDZjOTRmNmZhZjZlXkEyXkFqcGdeQXVyODgzMDY4MDc@._V1_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Cara Sucia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306363
+#EXTINF:-1 tvg-id="" tvg-name="De Mujeres" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",De Mujeres
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306364
+#EXTINF:-1 tvg-id="" tvg-name="Dulce Ilusion" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hOHg94gqQG5mSTBf20ZMKFpqo2B.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Dulce Ilusion
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306365
+#EXTINF:-1 tvg-id="" tvg-name="El Arbol De Gabriel" tvg-logo="https://pics.filmaffinity.com/el_arbol_de_gabriel-595684958-mmed.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Arbol De Gabriel
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306366
+#EXTINF:-1 tvg-id="" tvg-name="El Desafio" tvg-logo="https://pics.filmaffinity.com/el_desafio-585015617-mmed.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",El Desafio
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306367
+#EXTINF:-1 tvg-id="" tvg-name="Estefania" tvg-logo="https://pics.filmaffinity.com/estefania_tv_series-979910645-large.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Estefania
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306368
+#EXTINF:-1 tvg-id="" tvg-name="Hoy Te Vi" tvg-logo="https://pics.filmaffinity.com/hoy_te_vi-321384010-large.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Hoy Te Vi
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306369
+#EXTINF:-1 tvg-id="" tvg-name="Amantes" tvg-logo="https://www.themoviedb.org/t/p/w500/peie5zSVGdQ4cRdcQI8wBfQSqGP.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amantes
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306370
+#EXTINF:-1 tvg-id="" tvg-name="Amor A Palos (revisando)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZjM2YyYzctMjQ0Ny00MGFhLWJlMWItODE4ZjNmZjc1MjI4XkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amor A Palos (revisando)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306371
+#EXTINF:-1 tvg-id="" tvg-name="Amores De Fin De Siglo" tvg-logo="https://pics.filmaffinity.com/Amores_de_fin_de_siglo_Serie_de_TV-479971677-large.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Amores De Fin De Siglo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306372
+#EXTINF:-1 tvg-id="" tvg-name="Cara Sucia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UwOGFkOTItMWNmOC00YjkxLTgwMGMtZDZjOTRmNmZhZjZlXkEyXkFqcGdeQXVyODgzMDY4MDc@._V1_.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",Cara Sucia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306373
+#EXTINF:-1 tvg-id="" tvg-name="De Mujeres" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg" group-title="24/7 NOVELAS CHILENAS/LATINAS",De Mujeres
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306374
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Animaniacs
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306126
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Animaniacs 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306127
+#EXTINF:-1 tvg-id="" tvg-name="Coraje" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4MGEyNTItNzg5ZS00ZGU0LTk4NmEtODM0Y2UxYTY2YTUyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 INFANTILES AYER Y HOY",Coraje
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306128
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4MGEyNTItNzg5ZS00ZGU0LTk4NmEtODM0Y2UxYTY2YTUyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Coraje 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306129
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Pitufos" tvg-logo="https://image.tmdb.org/t/p/w500/ufpzGicM1hZQMzRzTRHAcIQXjXi.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Los Pitufos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306130
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y cerebro" tvg-logo="https://image.tmdb.org/t/p/w500/8vOh5PAM3BUSXN0ZYbavhe6U3C2.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Pinky y cerebro
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306131
+#EXTINF:-1 tvg-id="" tvg-name="Puca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg" group-title="24/7 INFANTILES AYER Y HOY",Puca
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306132
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Puca 2" tvg-logo="https://image.tmdb.org/t/p/w500/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Puca 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306133
+#EXTINF:-1 tvg-id="" tvg-name="24/7 X-men Animado" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/jRGOY8KvL7hHrJcfKfXe99C4pc5.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 X-men Animado
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306134
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Time" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vpnV0g2VOounP0kHNi86oBPceMY.jpg" group-title="24/7 INFANTILES AYER Y HOY",Adventure Time
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306135
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5S6BbTIu18CLEHRDdNzCLzSKAMq.jpg" group-title="24/7 INFANTILES AYER Y HOY",Aquaman
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306136
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zQoJoxpXDqwNwKTt11wwjAVthDY.jpg" group-title="24/7 INFANTILES AYER Y HOY",Baby Looney Tunes 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306137
+#EXTINF:-1 tvg-id="" tvg-name="Bakugan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uW2xawK5brroGov2dyhuT0bUeva.jpg" group-title="24/7 INFANTILES AYER Y HOY",Bakugan
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306138
+#EXTINF:-1 tvg-id="" tvg-name="Bakugan 2008" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uW2xawK5brroGov2dyhuT0bUeva.jpg" group-title="24/7 INFANTILES AYER Y HOY",Bakugan 2008
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306139
+#EXTINF:-1 tvg-id="" tvg-name="Bebe vuelta al curro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/vx95Bpmq42mR5yyLDJKy2z0QZAx.jpg" group-title="24/7 INFANTILES AYER Y HOY",Bebe vuelta al curro
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306140
+#EXTINF:-1 tvg-id="" tvg-name="Beetjuice (r)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ozMDNRtyLp8pNsTZnz094BOwYvj.jpg" group-title="24/7 INFANTILES AYER Y HOY",Beetjuice (r)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306141
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg" group-title="24/7 INFANTILES AYER Y HOY",Ben 10
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306142
+#EXTINF:-1 tvg-id="" tvg-name="Ben10 (2)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg" group-title="24/7 INFANTILES AYER Y HOY",Ben10 (2)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306143
+#EXTINF:-1 tvg-id="" tvg-name="Bugs Bunny" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xBZf79KRD3cQjOkkwdS1IDmuyX.jpg" group-title="24/7 INFANTILES AYER Y HOY",Bugs Bunny
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306144
+#EXTINF:-1 tvg-id="" tvg-name="Capitan Futuro" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3ZOrowmnDUR6PB3C9Kast4z1fsV.jpg" group-title="24/7 INFANTILES AYER Y HOY",Capitan Futuro
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306145
+#EXTINF:-1 tvg-id="" tvg-name="Chapulin anime" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 INFANTILES AYER Y HOY",Chapulin anime
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306146
+#EXTINF:-1 tvg-id="" tvg-name="Chapulin Colorado" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/nO9Ik4eH7RTX9r11qPtUWfMsWJA.jpg" group-title="24/7 INFANTILES AYER Y HOY",Chapulin Colorado
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306147
+#EXTINF:-1 tvg-id="" tvg-name="Coyote" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/76rz994icSRNHBZuAHmsRwVROsy.jpg" group-title="24/7 INFANTILES AYER Y HOY",Coyote
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306148
+#EXTINF:-1 tvg-id="" tvg-name="Don Gato" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8h0c4eP9QWn2BvI1N9uYTQqW09a.jpg" group-title="24/7 INFANTILES AYER Y HOY",Don Gato
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306149
+#EXTINF:-1 tvg-id="" tvg-name="Dora La Exploradora (avi)" tvg-logo="https://image.tmdb.org/t/p/w500/wuZAi6JPdlX68s1p7iztmt0p13C.jpg" group-title="24/7 INFANTILES AYER Y HOY",Dora La Exploradora (avi)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306150
+#EXTINF:-1 tvg-id="" tvg-name="Dos perros tontos (r)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3Lyc5VqhTqq76vmKUn1an8rlnP7.jpg" group-title="24/7 INFANTILES AYER Y HOY",Dos perros tontos (r)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306151
+#EXTINF:-1 tvg-id="" tvg-name="El Galactico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v698D2DB3oPzau6W55tiA2QI4Eu.jpg" group-title="24/7 INFANTILES AYER Y HOY",El Galactico
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306152
+#EXTINF:-1 tvg-id="" tvg-name="El Gato Cosmico Doraemon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9ZN1P32SHviL3SV51qLivxycvcx.jpg" group-title="24/7 INFANTILES AYER Y HOY",El Gato Cosmico Doraemon
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306153
+#EXTINF:-1 tvg-id="" tvg-name="El inspector Ardilla" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/i8A7nZPI7qHUjMrhbzDPm1nGTrN.jpg" group-title="24/7 INFANTILES AYER Y HOY",El inspector Ardilla
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306154
+#EXTINF:-1 tvg-id="" tvg-name="El Inspector Gadget" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ayYkEcvuArO5mpI4Dxnqq3Z5WEQ.jpg" group-title="24/7 INFANTILES AYER Y HOY",El Inspector Gadget
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306155
+#EXTINF:-1 tvg-id="" tvg-name="El Vengador" tvg-logo="https://i.pinimg.com/1200x/ac/90/35/ac9035610508f61c3a394070f5c6e3eb.jpg" group-title="24/7 INFANTILES AYER Y HOY",El Vengador
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306156
+#EXTINF:-1 tvg-id="" tvg-name="Hanna Barbera" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sanSoQeO0TZMi4cg30EWVg2CnCV.jpg" group-title="24/7 INFANTILES AYER Y HOY",Hanna Barbera
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306157
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1aHnP8oed54UMLEvTlY7VBl069q.jpg" group-title="24/7 INFANTILES AYER Y HOY",Hey Arnold
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306158
+#EXTINF:-1 tvg-id="" tvg-name="Jefe En Pañales" tvg-logo="https://www.themoviedb.org/t/p/original/eaEnRulLVc6ziCXcHMsvnUShPAz.jpg" group-title="24/7 INFANTILES AYER Y HOY",Jefe En Pañales
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306159
+#EXTINF:-1 tvg-id="" tvg-name="Looney Toons Baby" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/mYAzqridtCAfda4HlbNQfwGsa99.jpg" group-title="24/7 INFANTILES AYER Y HOY",Looney Toons Baby
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306160
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg" group-title="24/7 INFANTILES AYER Y HOY",Mickey Mouse
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306161
+#EXTINF:-1 tvg-id="" tvg-name="Oliver" tvg-logo="http://Vod.matrivagoweb.com:80/images/Qe119QDjBFMoFQrdum5Is9RplPNcGdzB_7PXTasn2PTlOKMmLFslXgs9kyzQp_H19sRVlcX3rqybEsQ5vOd2YGsWIBwh-19yRthrI_cllKvLR7-c1FBiDN18i8_Ub8p0.jpg" group-title="24/7 INFANTILES AYER Y HOY",Oliver
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306162
+#EXTINF:-1 tvg-id="" tvg-name="Vampirina" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/18Mmri8vmBKbGbiymFPlSHlg71o.jpg" group-title="24/7 INFANTILES AYER Y HOY",Vampirina
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306163
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg" group-title="24/7 INFANTILES AYER Y HOY",Yu-Gi-Oh
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306164
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jhonny bravo" tvg-logo="https://m.media-amazon.com/images/M/MV5BODI4NzdkMDQtNWRiMC00NjYxLWFhNmEtYjNkMzlmYjk2MjI3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Jhonny bravo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306165
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon liga indigo" tvg-logo="https://media.themoviedb.org/t/p/w500/eGQ5eJMQR20TZsWMFxiXPKR1M2c.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Pokemon liga indigo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kung Fu panda" tvg-logo="https://image.tmdb.org/t/p/original/8wIb3Oy4fKkre9kAt7mCwWd4kaS.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Kung Fu panda
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Miraculous" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBmNmZmNDMtYTI3NC00OWExLWE2NDYtMDA5ZDRhNDhjMjdkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Miraculous
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306169
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Octonautas" tvg-logo="https://image.tmdb.org/t/p/original/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Octonautas
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306170
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Patrulla Canina" tvg-logo="https://image.tmdb.org/t/p/original/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Patrulla Canina
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306171
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Peppa Pig
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306172
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pistas de blue" tvg-logo="https://image.tmdb.org/t/p/original/hMTIXeRjyPG3nNd6wilTfwv69wN.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Pistas de blue
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306173
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Un show mas" tvg-logo="https://image.tmdb.org/t/p/w500/6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Un show mas
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306174
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gumball" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU1YTA4OGUtNjcxMC00ZTllLTgxYWUtY2U5NmViZTU0MmNjXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Gumball
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306175
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pj Mask" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYwYjY2YTItZWZiYi00NmVhLWIxNmEtYzY5MzkyYmM4Yjg2XkEyXkFqcGdeQXVyOTcyNTkzOTA@._V1_.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Pj Mask
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306176
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el oso" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBkNWQ3OWEtYjUyNy00ODBmLWE3ZTMtOWJhZWYyMmE2MGI1XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Masha y el oso
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306177
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de muñecas de Gabby" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s" group-title="24/7 INFANTILES AYER Y HOY",24/7 La casa de muñecas de Gabby
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306178
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chip y potato" tvg-logo="https://media.themoviedb.org/t/p/w500/df2OtvZdUgiNhxRoB9cvwTBttrm.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Chip y potato
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306179
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bluey" tvg-logo="http://127.0.0.1/" group-title="24/7 INFANTILES AYER Y HOY",24/7 Bluey
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306180
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Euphoria (S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Euphoria (S)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306095
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos (S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Juego de tronos (S)
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306096
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Succesion" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY5YjA3ZDgtM2EwYy00ZGVmLWFhNWItMTMxMWRkMWFiOTlkXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Succesion
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306097
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Almas de metal" tvg-logo="https://image.tmdb.org/t/p/original/vuHio29QKfc27jnsvxyXRtH12QF.jpg" group-title="24/7 SERIES APPS",24/7 Almas de metal
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306098
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sopranos" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZkMWVkNTEtYzMxMC00MzQzLTg5NjUtNTNmN2M2NzEwNzI0XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Sopranos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306099
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Barry" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY5NzNlMWItMmFiYy00NjU1LWFhYTAtOWNhYjI2NDViNTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Barry
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306100
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El imperio del contrabando" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjNhODE1M2YtMjFmMC00YTliLThhNDktMzI0MjljMzI3NDVjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 El imperio del contrabando
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306101
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Frena tu entusiasmo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY1ZGM4OGItMWMyNS00MDAyLWE2Y2MtZTFhMTU0MGI5ZDFlXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Frena tu entusiasmo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306102
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI1YjMzYmYtNjIyYy00ZGM2LTlmNzEtY2UxNjQ3OTU1NTM0XkEyXkFqcGdeQXVyMTcxMzgzMjkx._V1_.jpg" group-title="24/7 SERIES APPS",24/7 Stranger Things
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306105
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel" tvg-logo="https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 La casa de papel
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306106
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The witcher" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The witcher
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306107
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black mirror" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgyNTBkNzctN2I3NC00NTA1LWJiMDMtYzA2MmYyZjc1NWQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="24/7 SERIES APPS",24/7 Black mirror
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306108
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Narcos" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 Narcos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306109
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The witcher" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The witcher
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306110
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mindhunter" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 Mindhunter
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306111
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cobra kai" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTI3NjcxNjctNzZhZS00NjQwLTg4NDEtMmQzOGJiYTUwNWFjXkEyXkFqcGdeQXVyOTA5NzQ0MDQ@._V1_.jpg" group-title="24/7 SERIES APPS",24/7 Cobra kai
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306112
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ozark" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUxMWNlMTUtYTljZS00MTE0LTlkYjktOTU1ODZjYzBhMTk0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Ozark
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306113
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The umbrella" tvg-logo="https://image.tmdb.org/t/p/original/ahXjWmvjeYrxfTqdA6pF0n3TmDR.jpg" group-title="24/7 SERIES APPS",24/7 The umbrella
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306114
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ted lasso" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTdmZjBjZjQtY2JiNS00Y2ZlLTg2NzgtMjUzMGY2OTVmOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Ted lasso
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306117
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dickinson" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczZjc1NzctNmNlNy00ZWJkLThjOTUtNDkyMWMyNGYzYTgwXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Dickinson
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306118
+#EXTINF:-1 tvg-id="" tvg-name="24/7 For all mankind" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNhY2U5ZTMtYTRjNS00MWRlLThmOTUtNTBlNDUyYWUyMTZkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 For all mankind
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306119
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Foundation" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgxNTExNjktN2VmNS00MWM0LWI3ZjYtNjlhZGIyYTM0YjM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Foundation
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Servant" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNiOWE4Y2YtMDZiOS00OGFlLWIyN2QtYjA0MmFlOWY0NDRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Servant
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The morning show" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdmMTVhNGYtOGFhOC00NGVkLTkzYTQtNWYxNTE1ZjQxNmNjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The morning show
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Truth be told" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM2ZTYxZjUtYmY3Yi00NjhhLTgwNWMtYmYyODVkZTU0ZGJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Truth be told
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306123
+#EXTINF:-1 tvg-id="" tvg-name="Dbz 2" tvg-logo="https://depor.com/resizer/H6AzCzzkDYj_cNjXuilV5CrYLdA=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/H3Q6XLEKFBE2NKM5LHAR4QVMFU.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306182
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Freezer" tvg-logo="https://image.tmdb.org/t/p/original/3bcvSMybffh380rvycwO77YNetl.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Freezer
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306183
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Garlick" tvg-logo="https://image.tmdb.org/t/p/original/cOog73ANjkMb6Lhccxthl9zxUAQ.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Garlick
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306184
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Gt" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe" group-title="24/7 ZONA DRAGON BALL",Dbz Gt
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306185
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Heroes" tvg-logo="https://media.themoviedb.org/t/p/w500/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Heroes
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306186
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Kai" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWIxZGE4NjYtYjhjMi00NWM1LTkwOWYtZTZkOTVlYmY2MTRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Kai
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306187
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Cell" tvg-logo="https://image.tmdb.org/t/p/w500/aPkV23fI6qBeAJqyGeK0mTLSGY0.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Cell
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306188
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Majin Boo" tvg-logo="https://image.tmdb.org/t/p/w500/AksanoqLDDqpr615GU037m0zSKV.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Majin Boo
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306189
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Sayayin" tvg-logo="https://image.tmdb.org/t/p/w500/wBvWfCJyN9uXbkXKxJNTLzeGmme.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Sayayin
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306190
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Super" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I2MzI1ODYtMWRlOS00MzdhLWEyOWEtYWJhNmFiZTIxMGJhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Super
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306191
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n7FeFLG1DK8LpXYVYEMHNhzRyuu.jpg" group-title="24/7 ZONA DRAGON BALL",Dragon Ball
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306192
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson T0" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",Los Simpson T0
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306245
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T1" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306246
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306247
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T3" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306248
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T4" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T4
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306249
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T5" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T5
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306250
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T6" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T6
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306251
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T7" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T7
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306252
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T8" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T8
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306253
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306254
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T3" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306255
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T4" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T4
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306256
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T5" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T5
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306257
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T6" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T6
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306258
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras De Morir" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yKZYX4D30R7ywy6f5yQDuXagSCr.jpg" group-title="24/7 RETRO",1000 Maneras De Morir
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306195
+#EXTINF:-1 tvg-id="" tvg-name="Art Attack" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/o1QTIgwrkEqjrC4Q6sIWKZ61zcS.jpg" group-title="24/7 RETRO",Art Attack
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306196
+#EXTINF:-1 tvg-id="" tvg-name="Automan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/4dOlxvavpgpDyAFmLNIre1JmcCf.jpg" group-title="24/7 RETRO",Automan
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306197
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="24/7 RETRO",Chespirito
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306198
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="24/7 RETRO",Chespirito 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306199
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito 3" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="24/7 RETRO",Chespirito 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306200
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg" group-title="24/7 RETRO",Dinosaurios
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306201
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg" group-title="24/7 RETRO",Dinosaurios 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306202
+#EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 RETRO",El Chapulin Colorado
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306203
+#EXTINF:-1 tvg-id="" tvg-name="El Coche Fantastico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" group-title="24/7 RETRO",El Coche Fantastico
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306204
+#EXTINF:-1 tvg-id="" tvg-name="El Coche Fantastico 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" group-title="24/7 RETRO",El Coche Fantastico 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306205
+#EXTINF:-1 tvg-id="" tvg-name="El Coche Fantastico 3" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" group-title="24/7 RETRO",El Coche Fantastico 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306206
+#EXTINF:-1 tvg-id="" tvg-name="El Zorro 1" tvg-logo="https://image.tmdb.org/t/p/w500/iuo9I7AF6HSs4RdpwHb2QFOkZjk.jpg" group-title="24/7 RETRO",El Zorro 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306207
+#EXTINF:-1 tvg-id="" tvg-name="El Zorro 2" tvg-logo="https://image.tmdb.org/t/p/w500/iuo9I7AF6HSs4RdpwHb2QFOkZjk.jpg" group-title="24/7 RETRO",El Zorro 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306208
+#EXTINF:-1 tvg-id="" tvg-name="El Zorro 3" tvg-logo="https://image.tmdb.org/t/p/w500/iuo9I7AF6HSs4RdpwHb2QFOkZjk.jpg" group-title="24/7 RETRO",El Zorro 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306209
+#EXTINF:-1 tvg-id="" tvg-name="El Zorro 4" tvg-logo="https://image.tmdb.org/t/p/w500/iuo9I7AF6HSs4RdpwHb2QFOkZjk.jpg" group-title="24/7 RETRO",El Zorro 4
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306210
+#EXTINF:-1 tvg-id="" tvg-name="GooseBumps" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/dIgridP6LYaDZG6VusnTiiCJy88.jpg" group-title="24/7 RETRO",GooseBumps
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GooseBumps 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg" group-title="24/7 RETRO",24/7 GooseBumps 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306212
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Goosebumps 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_.jpg" group-title="24/7 RETRO",24/7 Goosebumps 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306213
+#EXTINF:-1 tvg-id="" tvg-name="Hechizada 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4YzI4MDAtOWRiZC00MDIzLTkyYzctMDMwYTZiOWZhOTg2XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="24/7 RETRO",Hechizada 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306214
+#EXTINF:-1 tvg-id="" tvg-name="Hechizada 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4YzI4MDAtOWRiZC00MDIzLTkyYzctMDMwYTZiOWZhOTg2XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="24/7 RETRO",Hechizada 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306215
+#EXTINF:-1 tvg-id="" tvg-name="Hechizada 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4YzI4MDAtOWRiZC00MDIzLTkyYzctMDMwYTZiOWZhOTg2XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="24/7 RETRO",Hechizada 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306216
+#EXTINF:-1 tvg-id="" tvg-name="Hechizada 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4YzI4MDAtOWRiZC00MDIzLTkyYzctMDMwYTZiOWZhOTg2XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" group-title="24/7 RETRO",Hechizada 4
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306217
+#EXTINF:-1 tvg-id="" tvg-name="KungFu" tvg-logo="https://image.tmdb.org/t/p/original/xdBWz8NZvNIJMXviealiJz1KMSo.jpg" group-title="24/7 RETRO",KungFu
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306218
+#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia" tvg-logo="https://media.themoviedb.org/t/p/w500/zCt2Pnz2w9bFj4H1Sq7ZzfdMo8o.jpg" group-title="24/7 RETRO",La bella y la bestia
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306219
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Addams 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJhZTlhNzUtNzAwZC00YjQ2LTkxOGEtNzBmOWVkMmUxNTBiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",La Familia Addams 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306220
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Addams 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJhZTlhNzUtNzAwZC00YjQ2LTkxOGEtNzBmOWVkMmUxNTBiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",La Familia Addams 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306221
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Addams 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJhZTlhNzUtNzAwZC00YjQ2LTkxOGEtNzBmOWVkMmUxNTBiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",La Familia Addams 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306222
+#EXTINF:-1 tvg-id="" tvg-name="La Isla De Gilligans 1" tvg-logo="https://pics.filmaffinity.com/La_isla_de_Gilligan_Serie_de_TV-495956950-large.jpg" group-title="24/7 RETRO",La Isla De Gilligans 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306223
+#EXTINF:-1 tvg-id="" tvg-name="La Isla De Gilligans 2" tvg-logo="https://pics.filmaffinity.com/La_isla_de_Gilligan_Serie_de_TV-495956950-large.jpg" group-title="24/7 RETRO",La Isla De Gilligans 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306224
+#EXTINF:-1 tvg-id="" tvg-name="La Isla De Gilligans 3" tvg-logo="https://pics.filmaffinity.com/La_isla_de_Gilligan_Serie_de_TV-495956950-large.jpg" group-title="24/7 RETRO",La Isla De Gilligans 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306225
+#EXTINF:-1 tvg-id="" tvg-name="LazyTown" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlODc1ZTQtYWMyNS00OWQ0LWE4ZDctYWY3M2ZiMjEyNzBjXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" group-title="24/7 RETRO",LazyTown
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306226
+#EXTINF:-1 tvg-id="" tvg-name="Los magníficos" tvg-logo="https://image.tmdb.org/t/p/w500/kZex1zkfMycwmYNJDoArq9ov6Dz.jpg" group-title="24/7 RETRO",Los magníficos
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306227
+#EXTINF:-1 tvg-id="" tvg-name="Magcyver 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI2YTlhMWMtNWY1Mi00NGQ3LWFkMjEtZjI3NmUzYjI1NWFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",Magcyver 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306228
+#EXTINF:-1 tvg-id="" tvg-name="Magcyver 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI2YTlhMWMtNWY1Mi00NGQ3LWFkMjEtZjI3NmUzYjI1NWFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",Magcyver 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306229
+#EXTINF:-1 tvg-id="" tvg-name="Magcyver 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI2YTlhMWMtNWY1Mi00NGQ3LWFkMjEtZjI3NmUzYjI1NWFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",Magcyver 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306230
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="https://image.tmdb.org/t/p/w500/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" group-title="24/7 RETRO",Mr Bean
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306231
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I2Y2I5N2MtMzJhMy00NzE2LThlMzEtNGE0ODA4M2JhOWNiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg" group-title="24/7 RETRO",Power Rangers 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306232
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers 2" tvg-logo="https://image.tmdb.org/t/p/w500/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" group-title="24/7 RETRO",Power Rangers 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306233
+#EXTINF:-1 tvg-id="" tvg-name="Renegado 1" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnvwB6VjLXljXQseRuhZVbt0bEkP.jpg" group-title="24/7 RETRO",Renegado 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306234
+#EXTINF:-1 tvg-id="" tvg-name="Renegado 2" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnvwB6VjLXljXQseRuhZVbt0bEkP.jpg" group-title="24/7 RETRO",Renegado 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306235
+#EXTINF:-1 tvg-id="" tvg-name="Renegado 3" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnvwB6VjLXljXQseRuhZVbt0bEkP.jpg" group-title="24/7 RETRO",Renegado 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306236
+#EXTINF:-1 tvg-id="" tvg-name="Super Agente 86" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="24/7 RETRO",Super Agente 86
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306237
+#EXTINF:-1 tvg-id="" tvg-name="Super Agente 86 2" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="24/7 RETRO",Super Agente 86 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306238
+#EXTINF:-1 tvg-id="" tvg-name="Super Agente 86 3" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="24/7 RETRO",Super Agente 86 3
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306239
+#EXTINF:-1 tvg-id="" tvg-name="Tres Chiflados 1" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6de436686e71fed182d09ac510d018807a939d7a565b8f7fa672e13938e712d4.jpg" group-title="24/7 RETRO",Tres Chiflados 1
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306240
+#EXTINF:-1 tvg-id="" tvg-name="Tres chiflados 2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6de436686e71fed182d09ac510d018807a939d7a565b8f7fa672e13938e712d4.jpg" group-title="24/7 RETRO",Tres chiflados 2
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306241
+#EXTINF:-1 tvg-id="" tvg-name="V Invasion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1Mzk1NjQyM15BMl5BanBnXkFtZTgwNjY2NDI1MDE@._V1_.jpg" group-title="24/7 RETRO",V Invasion
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/306242
 
