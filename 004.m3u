@@ -1,8 +1,42 @@
 #EXTM3U
+Cultura
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="Cultura",Caza y Pesca HD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38308
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="Cultura",Caza y Pesca FHD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38309
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://i.ibb.co/f8vddXR/280x75-carousel-cazavision.png" group-title="Cultura",CAZAVISION HD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38443
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://i.ibb.co/f8vddXR/280x75-carousel-cazavision.png" group-title="Cultura",CAZAVISION FHD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/35354
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" group-title="Cultura",CRIMEN & INVESTIGACION FHD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38310
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="Cultura",CANAL COCINA HD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38312
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="Cultura",CANAL COCINA FHD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38311
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/canal-decasa-logo-vector.png" group-title="Cultura",CANAL DECASA 4K
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/30268
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Cultura",DECASA TV FHD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38313
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="Cultura",ODISEA HD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38315
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="08 - ENTRETENIMIENTO & MUSICA",ODISEA FHD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38314
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="08 - ENTRETENIMIENTO & MUSICA",CANAL ODISEA 4K
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/34221
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/800px-Discovery_Channel_-_Logo_2019.png" group-title="08 - ENTRETENIMIENTO & MUSICA",DISCOVERY HD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/17656
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/800px-Discovery_Channel_-_Logo_2019.png" group-title="08 - ENTRETENIMIENTO & MUSICA",DISCOVERY FHD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38316
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="08 - ENTRETENIMIENTO & MUSICA",HISTORIA HD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/17657
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="08 - ENTRETENIMIENTO & MUSICA",HISTORIA FHD
+http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/38317
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX TV  01" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE156c8vJxQ8HoNHSVCQtyESRrRk655oF6uysUhe2BWqix.png" group-title="07 - TAQUILLAS & CINE",NETFLIX TV  01
 http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/1485182
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX TV 02" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE156c8vJxQ8HoNHSVCQtyESRrRk655oF6uysUhe2BWqix.png" group-title="07 - TAQUILLAS & CINE",NETFLIX TV 02
+#EXTINF:-1 tvg-id="" tvg-name="Cinema" tvg-logo="https://n9.cl/gn2lwn" group-title="Cinema",Cinema DC Comics
 http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/1485183
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX TV 03" tvg-logo="http://startv.solutions:80/images/QjSeU3keF4YpIALmJ3KE156c8vJxQ8HoNHSVCQtyESRrRk655oF6uysUhe2BWqix.png" group-title="07 - TAQUILLAS & CINE",NETFLIX TV 03
 http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/1485184
