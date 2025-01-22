@@ -715,6 +715,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55059
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24785
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://n9.cl/287jv" group-title="→ Azteca Network ←",Azteca Corazon HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55061
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://n9.cl/rbs37" group-title="→ Azteca Network ←",Azteca Click
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59508
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://n9.cl/rbs37" group-title="→ Azteca Network ←",Azteca Click SD >1<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55060
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://n9.cl/rbs37" group-title="→ Azteca Network ←",Azteca Click SD >2<
@@ -723,6 +725,56 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24784
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55063
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Network" tvg-logo="https://n9.cl/r7e5o" group-title="→ Azteca Network ←",Cinema SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/55057
+
+Mexico
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://i.imgur.com/k6Y2eM2.jpg" group-title="→ Mexico ←",Cadena H SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59405
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://img2.rtve.es/v/2493643?w=1600&preview=1396883758113.jpg" group-title="→ Mexico ←",TVE SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59418
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://pbs.twimg.com/profile_images/1237444962121396226/hkrvwCFW_400x400.jpg" group-title="→ Mexico ←",Mexiquense SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59430
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="→ Mexico ←",INGENIO TV SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59433
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://i.imgur.com/AA8LuGq.jpg" group-title="→ Mexico ←",Wobi SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59434
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://tinyurl.com/yxd84ywm" group-title="→ Mexico ←",TBS SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59453
+#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="Mexico" " tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2016/01/Star-HD.jpg" group-title="→ Mexico ←",Star Tve SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59464
+#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="Mexico" " tvg-logo="http://mylatinotv.com:8080/images/mexico/tv4.png" group-title="→ Mexico ←",Tv 4 (GTO)
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59465
+#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="Mexico" " tvg-logo="https://i.imgur.com/ACIVJBb.png" group-title="→ Mexico ←",A+ SD.
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59466
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://radionotas.com/wp-content/uploads/2017/04/Multimedios.jpg" group-title="→ Mexico ←",Multimedios
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59468
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://i.imgur.com/ACIVJBb.png" group-title="→ Mexico ←",A+ HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59469
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="http://mylatinotv.com:8080/images/mexico/tvcd.png" group-title="→ Mexico ←",TVCD SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59474
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png" group-title="→ Mexico ←",TVC SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59475
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" " tvg-logo="https://pbs.twimg.com/profile_images/804763122330275840/rjSNplz1_400x400.jpg" group-title="→ Mexico ←",Canal 26 Aguascalientes SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59478
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="http://tv.iptvboss.net/ch_logo/ANTENA3HD.png" group-title="→ Mexico ←",ANTENA3 SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59484
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="→ Mexico ←",AL JAZZERA SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59487
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="→ Mexico ←",NU9VE HD opc1
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59490
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/descarga%20(4)-310x163-474395033.png" group-title="→ Mexico ←",MULTIMEDIOS P. SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59492
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="→ Mexico ←",ADN40 SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59493
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg" group-title="→ Mexico ←",CANAL Once SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59497
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="→ Mexico ←",U9VE SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59498
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://i.imgur.com/5marY43.png" group-title="→ Mexico ←",Canal 5 SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59500
+#EXTINF:-1 tvg-id="" tvg-name="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Foro_TV_2016_NewLogo.jpg" group-title="→ Mexico ←",Foro Tv SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59501
+
+
 
 
 
@@ -748,28 +800,36 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23764
 Music
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/d35hin" group-title="→ Music ←",BANDAMAX SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59411
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/d35hin" group-title="→ Music ←",BANDAMAX SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59504
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/8e1iot" group-title="→ Music ←",MTV 00s SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59414
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/s7258" group-title="→ Music ←",MTV2
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35329
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/89qlv" group-title="→ Music ←",MTV SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59397
-#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/2qrj4" group-title="→ Music ←",MTV Hits SD
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24778
-#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/89qlv" group-title="→ Music ←",MTV USA
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35326
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/89qlv" group-title="→ Music ←",MTV HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59507
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/3569e" group-title="→ Music ←",MTV CLASSIC
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35327
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/2qrj4" group-title="→ Music ←",MTV Hits
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59506
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/2qrj4" group-title="→ Music ←",MTV Hits SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24778
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/4t7pq" group-title="→ Music ←",MTV LIVE >1<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35328
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/4t7pq" group-title="→ Music ←",MTV LIVE >2<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59410
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/4t7pq" group-title="→ Music ←",MTV LIVE SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59416
-#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/s7258" group-title="→ Music ←",MTV2
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35329
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/89qlv" group-title="→ Music ←",MTV USA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35326
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/f24m7" group-title="→ Music ←",MTVU
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35330
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/0g4jl" group-title="→ Music ←",Music Choice - Mexican
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23973
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/3l81mo" group-title="→ Music ←",Telehit
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59505
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/3l81mo" group-title="→ Music ←",Telehit SD >1<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59412
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/3l81mo" group-title="→ Music ←",Telehit SD >2<
@@ -778,6 +838,9 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59413
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59415
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/p08mpn" group-title="→ Music ←",TELERITMO SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59486
+
+
+
 
 
 
