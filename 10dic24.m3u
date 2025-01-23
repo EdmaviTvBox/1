@@ -294,6 +294,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24913
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59417
 #EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://n9.cl/zo6am" group-title="→ Cultural ←",DW HD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59512
+#EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://i.imgur.com/lscs3M6.jpg" group-title="→ Cultural ←",Garage TV SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59456
 #EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://n9.cl/0ay1aa" group-title="→ Cultural ←",HGTV
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59435
 #EXTINF:-1 tvg-id="" tvg-name="Cultural" tvg-logo="https://n9.cl/0ay1aa" group-title="→ Cultural ←",HGTV HD
@@ -331,6 +333,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24834
 
 
 Entretenimiento
+#EXTINF:-1 tvg-id="" tvg-name="Entretenimiento" tvg-logo="https://n9.cl/6bj8jb" group-title="→ Entretenimiento ←",DISTRITO COMEDIA SD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59454
 #EXTINF:-1 tvg-id="" tvg-name="Entretenimiento" tvg-logo="https://n9.cl/6bj8jb" group-title="→ Entretenimiento ←",E! SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59459
 #EXTINF:-1 tvg-id="" tvg-name="Entretenimiento" tvg-logo="https://n9.cl/wrpu0" group-title="→ Entretenimiento ←",El Gourmet SD
@@ -804,6 +808,10 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59411
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59504
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/8e1iot" group-title="→ Music ←",MTV 00s SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59414
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/8e1iot" group-title="→ Music ←",MTV 00s HD >1<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59509
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/8e1iot" group-title="→ Music ←",MTV 00s HD >2<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59503
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/s7258" group-title="→ Music ←",MTV2
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35329
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/89qlv" group-title="→ Music ←",MTV SD
@@ -822,6 +830,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35328
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59410
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/4t7pq" group-title="→ Music ←",MTV LIVE SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59416
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/4t7pq" group-title="→ Music ←",MTV LIVE HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59511
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/89qlv" group-title="→ Music ←",MTV USA
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35326
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/f24m7" group-title="→ Music ←",MTVU
@@ -836,6 +846,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59412
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59413
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/3l81mo" group-title="→ Music ←",Telehit SD >3<
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59415
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/3l81mo" group-title="→ Music ←",Telehit HD
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59510
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://n9.cl/p08mpn" group-title="→ Music ←",TELERITMO SD
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59486
 
