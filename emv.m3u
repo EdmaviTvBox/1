@@ -1,5 +1,74 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ KIDS ←",BABY FIRST (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/370
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ KIDS ←",BABY FIRST (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/371
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ KIDS ←",BABY TV (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/372
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ KIDS ←",CARTOON NETWORK (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/373
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ KIDS ←",CARTOON NETWORK (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/374
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ KIDS ←",CARTOON NETWORK (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/375
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ KIDS ←",CARTOONITO (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61600
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ KIDS ←",CARTOONITO (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61603
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ KIDS ←",CARTOONITO (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61599
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ KIDS ←",DISCOVERY KIDS (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/376
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ KIDS ←",DISCOVERY KIDS (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/377
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ KIDS ←",DISCOVERY KIDS (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/378
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ KIDS ←",DISNEY CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/382
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ KIDS ←",DISNEY CHANNEL (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/383
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ KIDS ←",DISNEY CHANNEL (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/384
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ KIDS ←",DISNEY JR (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/385
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ KIDS ←",DISNEY JR (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/386
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ KIDS ←",DREAMWORKS (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61598
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ KIDS ←",DREAMWORKS (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61597
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ KIDS ←",DREAMWORKS (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61596
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ KIDS ←",NICK JR. (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/393
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ KIDS ←",NICK JR. (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/394
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ KIDS ←",NICK JR. (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/392
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ KIDS ←",NICKELODEON (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/390
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ KIDS ←",NICKELODEON (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/391
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/jSNwFVbR/pngegg.png" group-title="→ KIDS ←",NICKELODEON CLÁSICO (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61590
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/bQtRpYM/Pakapaka.png" group-title="→ KIDS ←",PAKAPAKA (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61601
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/wMhZrT0h/Semillitas-logo.png" group-title="→ KIDS ←",SEMILLITAS (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61602
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ KIDS ←",TEEN NICK (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/396
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ KIDS ←",TEEN NICK (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/395
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ KIDS ←",TOONCAST (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/399
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ KIDS ←",TOONCAST (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/398
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ KIDS ←",TOONCAST (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/397
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/sDjhxH7c/Zoo-Moo-logo.png" group-title="→ KIDS ←",ZOOMOO (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/61604
+
 COLOMBIA
 ==================================
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="→ COLOMBIA ←",CARACOL (HD) »1«
@@ -104,12 +173,223 @@ http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/470
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="→ SPORTS COLOMBIA ←",CLARO SPORTS CO (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/463
 
+CULTURAL
+==================================
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ CULTURA ←",CANAL ODISEA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/12373
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="→ CULTURA ←",LOVE NATURE (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/451
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←",EL GOURMET (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/427
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←",EL GOURMET (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/428
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",TLC (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/447
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",TLC (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/448
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",TLC (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/449
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←",ANIMAL PLANET (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/402
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←",ANIMAL PLANET (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/403
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←",ANIMAL PLANET (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/404
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←",ANIMAL PLANET (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/405
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",HISTORY CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/431
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",HISTORY CHANNEL (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/432
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",HISTORY CHANNEL (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/433
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",HISTORY CHANNEL (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/434
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",HISTORY CHANNEL (HD) »5«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/435
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png" group-title="→ CULTURA ←",H2 (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/429
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png" group-title="→ CULTURA ←",H2 (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/430
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png" group-title="→ CULTURA ←",NAT GEO WILD (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/442
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png" group-title="→ CULTURA ←",NAT GEO WILD (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/443
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←",NAT GEO (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/440
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←",NAT GEO (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/441
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←",NAT GEO (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/444
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←",NAT GEO (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/445
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/m2DMS9HY/Discovery-Civilization-logo-svg.png" group-title="→ CULTURA ←",DISCOVERY CIVILIZATION (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/409
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="→ CULTURA ←",DISCOVERY THEATER (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/418
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="→ CULTURA ←",DISCOVERY THEATER (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/419
+#EXTINF:-1 tvg-id="" tvg-name="TV"  tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←",DISCOVERY CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/406
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←",DISCOVERY CHANNEL (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/407
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←",DISCOVERY CHANNEL (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/408
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←",DISCOVERY TURBO (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/420
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←",DISCOVERY TURBO (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/421
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←",DISCOVERY TURBO (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/422
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←",DISCOVERY WORLD (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/423
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←",DISCOVERY WORLD (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/424
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←",DISCOVERY WORLD (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/425
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="→ CULTURA ←",DISCOVERY INVESTIGATION (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/437
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="→ CULTURA ←",DISCOVERY INVESTIGATION (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/438
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="→ CULTURA ←",DISCOVERY INVESTIGATION (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/439
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",DISCOVERY H&H (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/410
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",DISCOVERY H&H (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/411
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",DISCOVERY H&H (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/412
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",DISCOVERY H&H (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/413
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",DISCOVERY SCIENCE (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/414
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",DISCOVERY SCIENCE (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/415
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",DISCOVERY SCIENCE (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/416
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",DISCOVERY SCIENCE (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/417
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="→ CULTURA ←",CAZAY PESCA HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/620
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="→ CULTURA ←",HGTV »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/621
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="→ CULTURA ←",HGTV »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/626
+
+ENTRETENIMIENTO
+==================================
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png" group-title="→ ENTRETENIMIENTO ←",Adult Swin (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/450
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←",Antena 3
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/617
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←",Antena 3 HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/618
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←",Antena 3 HD OP
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/619
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",Antena 3 Internacional
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/615
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",Antena 3 Internacional HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/616
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://www.digitaltveurope.com/files/2022/02/Canal-logo-logotype.png" group-title="→ ENTRETENIMIENTO ←",Canal+ FHD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/641
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←",Canal Cocina
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/613
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←",Cocina TV
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/614
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg" group-title="→ ENTRETENIMIENTO ←",Comedy Central (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/242
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg" group-title="→ ENTRETENIMIENTO ←",Comedy Central (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/243
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←",Distrito Comedia »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/634
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←",Distrito Comedia »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/635
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",E! Entertainment
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/627
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",E! Entertainment HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/628
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",E! Entertainment
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/629
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",El Gourmet
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/596
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",El Gourmet OP
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/597
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",El Gourmet HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/598
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←"Food Network
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/599
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",Food Network OP
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/600
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",Food Network HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/601
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←",Garage TV
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/602
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←",Garage TV HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/603
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←",Glitz
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/593
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←",Glitz´OP
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/594
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←",Glitz HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/595
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←",Hola TV
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/630
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←",Hola TV HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/631
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",Las Estrellas HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/632
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",Las Estrellas
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/633
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←",Lifetime
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/606
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←",Lifetime OP
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/607
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←",Lifetime HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/608
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←",Más Chic
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/622
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←",Más Chic
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/623
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←",Más Chic
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/625
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←",Más Chic HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/624
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",Pasiones TV
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/590
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",Pasiones TV HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/591
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",Pasiones TV OP
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/592
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←",Telemundo Internacional
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/604
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←",Telemundo Internacional HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/605
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TF1_logo.jpg" group-title="→ ENTRETENIMIENTO ←",TF1 HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/645
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png" group-title="→ ENTRETENIMIENTO ←",Tlnovelas
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/611
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png" group-title="→ ENTRETENIMIENTO ←",Tlnovelas HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/612
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="→ ENTRETENIMIENTO ←",Univision HD.
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/609
+#EXTINF:-1 tvg-id="" tvg-name="ENTRET" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/miami/univision-23-fl.png" group-title="→ ENTRETENIMIENTO ←",Univision Miami HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/610
+
+
+
+
+
+
+
+
+
+
 
 Cine y Series
 ==================================
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="→ CINE & SERIES ←",A3 CINE (HD) »1«
-http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/174
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="→ CINE & SERIES ←",A3 SERIES (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/174
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="→ CINE & SERIES ←",A3 SERIES (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/175
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",A&E (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/100
@@ -127,19 +407,19 @@ http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/105
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/106
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",AXN (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/107
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" " tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",AXN (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",AXN (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/108
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" " tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",AXN (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",AXN (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/109
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" " tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",CINE LATINO (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",CINE LATINO (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/110
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" " tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",CINE LATINO (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",CINE LATINO (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/111
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" " tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",CINE CANAL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",CINE CANAL (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/112
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" " tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",CINE CANAL (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",CINE CANAL (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/113
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" " tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",CINE CANAL (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",CINE CANAL (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/114
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",CINE CANAL (HD) »4«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/115
@@ -148,15 +428,35 @@ http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/116
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg" group-title="→ CINE & SERIES ←",CINE DINAMITA (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/117
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",CINEMAX (HD) »1«
-http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/118
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/173
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",CINEMAX (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/176
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",CINEMAX (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/118
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",CINEMAX (HD) »4«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/119
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",DHE (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/121
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" " tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",DHE (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",DHE (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/122
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",DHE (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/123
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",EURO CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/184
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",EURO CHANNEL (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/185
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",EURO CHANNEL (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/186
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="→ CINE & SERIES ←",EUROPA EUROPA (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/187
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="→ CINE & SERIES ←",EUROPA EUROPA (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/188
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",FILM & ARTS (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/244
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",FILM & ARTS (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/245
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",FILM & ARTS (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/246
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",FX (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/124
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",FX (HD) »2«
@@ -169,27 +469,247 @@ http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/127
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/128
 #EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",GOLDEN (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/129
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg" group-title="→ CINE & SERIES ←",INDIE PLEX (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/189
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="→ CINE & SERIES ←",I-SAT (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/240
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="→ CINE & SERIES ←",I-SAT (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/241
+#EXTINF:-1 tvg-id="" tvg-name="C/S• OUTERMAX (HD)" tvg-logo="https://i.ibb.co/FKTb7Lf/MOVIEMAX.jpg" group-title="→ CINE & SERIES ←",OUTERMAX (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/190
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",PARAMOUNT CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/191
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",PARAMOUNT CHANNEL (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/192
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",PARAMOUNT CHANNEL (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/193
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",PARAMOUNT NETWORK (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/194
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",PARAMOUNT NETWORK (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/195
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg" group-title="→ CINE & SERIES ←",RETROPLEX (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/239
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",SONY (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/199
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",SONY (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/200
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",SONY (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/201
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",SPACE (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/202
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",SPACE (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/203
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",SPACE (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/204
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",SPACE (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/205
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",STAR CHANNEL (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/160
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",STAR CHANNEL (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/161
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",STAR CHANNEL (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/162
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",STUDIO UNIVERSAL (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/218
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",STUDIO UNIVERSAL (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/219
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",STUDIO UNIVERSAL (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/220
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",STUDIO UNIVERSAL (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/221
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="" group-title="→ CINE & SERIES ←",SYFY (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/222
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="" group-title="→ CINE & SERIES ←",SYFY (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/223
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="" group-title="→ CINE & SERIES ←",SYFY (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/224
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="" group-title="→ CINE & SERIES ←",SYFY (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/225
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",TCM (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/229
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",TCM (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/230
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",TCM (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/231
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",TNT (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/166
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",TNT (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/167
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",TNT (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/168
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",TNT (HD) »4«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/169
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",TNT SERIES (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/170
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",TNT SERIES (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/171
-#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",TNT SERIES (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/172
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",TNT NOVELAS (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/226
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",TNT NOVELAS (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/227
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",TNT NOVELAS (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/228
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",UNIVERSAL CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/232
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",UNIVERSAL CHANNEL (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/233
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",UNIVERSAL CHANNEL (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/234
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",WARNER CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/235
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",WARNER CHANNEL (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/236
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",WARNER CHANNEL (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/237
+#EXTINF:-1 tvg-id="" tvg-name="Cine y Series" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",WARNER CHANNEL (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/238
+
+
+PREMIUM PACK
+==================================
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/3e/Cine%2B_Premier_%282011-.n.v.%29.png/revision/latest?cb=20170929061605" group-title="→ PREMIUM PACK ←",CINE+ PREMIERE
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/642
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png" group-title="→ PREMIUM PACK ←",CANAL+ DOCS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/643
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c8/Canal%2B_S%C3%A9ries_%282013-.n.v.%29.png/revision/latest?cb=20170928090251" group-title="→ PREMIUM PACK ←",CANAL + SERIES
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/644
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg" group-title="→ PREMIUM PACK ←",CINEMAX ACTION (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/177
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="→ PREMIUM PACK ←",CINEMAX EAST (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/178
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="→ PREMIUM PACK ←",CINEMAX (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/179
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ PREMIUM PACK ←",CINEMAX (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/180
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg" group-title="→ PREMIUM PACK ←",DE PELÍCULA (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/181
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="→ PREMIUM PACK ←",DE PELÍCULA CLASICO (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/182
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg" group-title="→ PREMIUM PACK ←",DE PELÍCULA PLUS (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/183
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ PREMIUM PACK ←",HBO (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/139
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ PREMIUM PACK ←",HBO (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/140
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ PREMIUM PACK ←",HBO (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/141
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ PREMIUM PACK ←",HBO SUBTITULADO (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/154
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ PREMIUM PACK ←",HBO SUBTITULADO (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/155
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ PREMIUM PACK ←",HBO 2 (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/131
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ PREMIUM PACK ←",HBO 2 (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/132
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ PREMIUM PACK ←",HBO 2 (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/133
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ PREMIUM PACK ←",HBO 2 (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/134
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ PREMIUM PACK ←",HBO FAMILY (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/135
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ PREMIUM PACK ←",HBO FAMILY (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/136
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ PREMIUM PACK ←",HBO FAMILY (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/137
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ PREMIUM PACK ←",HBO FAMILY (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/138
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg" group-title="→ PREMIUM PACK ←",HBO MUNDI (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/142
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ PREMIUM PACK ←",HBO PLUS (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/144
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ PREMIUM PACK ←",HBO PLUS (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/145
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ PREMIUM PACK ←",HBO PLUS (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/146
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ PREMIUM PACK ←",HBO POP (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/147
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ PREMIUM PACK ←",HBO POP (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/148
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ PREMIUM PACK ←",HBO POP (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/149
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ PREMIUM PACK ←",HBO SIGNATURE (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/150
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ PREMIUM PACK ←",HBO SIGNATURE (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/151
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ PREMIUM PACK ←",HBO SIGNATURE (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/152
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ PREMIUM PACK ←",HBO SIGNATURE (HD) »4«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/153
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ PREMIUM PACK ←",HBO XTREME (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/156
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ PREMIUM PACK ←",HBO XTREME (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/157
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ PREMIUM PACK ←",HBO XTREME (HD) »3«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/158
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg" group-title="→ PREMIUM PACK ←",SHOWTIME EAST (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/196
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg" group-title="→ PREMIUM PACK ←",SHOWTIME EAST (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/197
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg" group-title="→ PREMIUM PACK ←",SHOWTIME WESTᴴᴰ
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/198
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="" group-title="→ CINE PACK ←",STARZ (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/216
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="" group-title="→ CINE PACK ←",STARZ (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/674
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ PREMIUM PACK ←",STARZ CINEMA (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/206
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ PREMIUM PACK ←",STARZ CINEMA (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/664
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="→ PREMIUM PACK ←",STARZ COMEDY (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/207
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="→ PREMIUM PACK ←",STARZ COMEDY (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/665
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="→ PREMIUM PACK ←",STARZ EAST (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/208
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="→ PREMIUM PACK ←",STARZ EAST (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/666
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ PREMIUM PACK ←",STARZ EDGE (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/209
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ PREMIUM PACK ←",STARZ EDGE (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/667
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="" group-title="→ PREMIUM PACK ←",STARZ ENCORE (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/213
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="" group-title="→ PREMIUM PACK ←",STARZ ENCORE (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/671
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="" group-title="→ PREMIUM PACK ←",STARZ ENCORE BLACK (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/210
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="" group-title="→ PREMIUM PACK ←",STARZ ENCORE BLACK (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/668
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ PREMIUM PACK ←",STARZ ENCORE CLASSIC (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/211
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ PREMIUM PACK ←",STARZ ENCORE CLASSIC (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/669
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ PREMIUM PACK ←",STARZ ENCORE FAMILY (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/212
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ PREMIUM PACK ←",STARZ ENCORE FAMILY (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/670
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ PREMIUM PACK ←",STARZ ENCORE SUSPENSE (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/214
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ PREMIUM PACK ←",STARZ ENCORE SUSPENSE (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/672
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ PREMIUM PACK ←",STARZ ENCORE WESTERN (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/215
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ PREMIUM PACK ←",STARZ ENCORE WESTERN (HD 1080P)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/673
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM PACK" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ PREMIUM PACK ←",STARZ WEST (HD)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/217
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE| Starz West HD_1080P" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ STARZ CINEMA ←",CINE| Starz West HD_1080P
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/675
 
 
 
@@ -395,122 +915,525 @@ http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/489
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/488
 #EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEP LATINOS ←",GOL TV EC (HD) »4«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/487
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="→ DEP LATINOS ←",GOLF CHANNEL MX (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="→ DEP LATINOS ←",GOLF CHANNEL MX (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/549
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="→ DEP LATINOS ←",LA LIGA TV ES (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="→ DEP LATINOS ←",LA LIGA TV ES (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/490
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F572%2Flaliga-tv-bar-2.png" group-title="→ DEP LATINOS ←",LA LIGA TV BAR ES (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F572%2Flaliga-tv-bar-2.png" group-title="→ DEP LATINOS ←",LA LIGA TV BAR ES (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/491
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="→ DEP LATINOS ←",M. DEPORTES ES (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="→ DEP LATINOS ←",M. DEPORTES ES (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/550
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA ES (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA ES (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/497
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA ES (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA ES (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/496
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA ES (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA ES (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/495
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA ES (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA ES (HD) »4«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/492
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA 2 ES (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA 2 ES (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/493
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA 3 ES (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA 3 ES (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/494
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA DE CAMPEONES ES (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA DE CAMPEONES ES (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/500
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA DE CAMPEONES ES (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA DE CAMPEONES ES (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/499
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA DE CAMPEONES ES (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEP LATINOS ←",M. LA LIGA DE CAMPEONES ES (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/498
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE CLUBES BR (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/568
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE CLUBES BR (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/569
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 1 BR (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/561
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 2 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 2 BR (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/562
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 3 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 3 BR (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/563
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 4 BR (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/564
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 5 BR (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/565
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 6 BR (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/566
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEP LATINOS ←",PREMIERE 7 BR (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/567
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/3RCNhs2r/pngwing-com-3.png" group-title="→ DEP LATINOS ←",REAL MADRID TV ES (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/3RCNhs2r/pngwing-com-3.png" group-title="→ DEP LATINOS ←",REAL MADRID TV ES (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/587
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/BnB141sf/pngegg-1.png" group-title="→ DEP LATINOS ←",RED BULL TV (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/BnB141sf/pngegg-1.png" group-title="→ DEP LATINOS ←",RED BULL TV (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/584
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="→ DEP LATINOS ←",SPORT TV 1 PT (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="→ DEP LATINOS ←",SPORT TV 1 PT (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/573
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png" group-title="→ DEP LATINOS ←",SPORT TV 2 PT (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png" group-title="→ DEP LATINOS ←",SPORT TV 2 PT (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/574
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/nLnBDGTL/sport-tv3.png" group-title="→ DEP LATINOS ←",SPORT TV 3 PT (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/nLnBDGTL/sport-tv3.png" group-title="→ DEP LATINOS ←",SPORT TV 3 PT (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/575
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="→ DEP LATINOS ←",SPORT TV 4 PT (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="→ DEP LATINOS ←",SPORT TV 4 PT (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/576
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/1zWBRdPS/sport-tv-plus.png" group-title="→ DEP LATINOS ←",SPORT TV+ PT (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/1zWBRdPS/sport-tv-plus.png" group-title="→ DEP LATINOS ←",SPORT TV+ PT (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/572
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="→ DEP LATINOS ←",TENNIS CHANNEL (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="→ DEP LATINOS ←",TENNIS CHANNEL (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/551
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/98
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/99
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/56659
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS (HD) »4«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/56660
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS AR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS AR (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/459
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS AR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS AR (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/460
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS AR (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEP LATINOS ←",TNT SPORTS AR (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/461
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/248242
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/247844
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/92
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM (HD) »4«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/93
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM 2 (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM 2 (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/248243
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM 2 (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM 2 (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/96
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM 2 (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEP LATINOS ←",TNT SPORTS PREMIUM 2 (HD) »4«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/97
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEP LATINOS ←",TUDN MX (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEP LATINOS ←",TUDN MX (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/553
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEP LATINOS ←",TUDN MX (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEP LATINOS ←",TUDN MX (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/552
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEP LATINOS ←",TYC SPORTS AR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEP LATINOS ←",TYC SPORTS AR (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/554
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEP LATINOS ←",TYC SPORTS AR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEP LATINOS ←",TYC SPORTS AR (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/462
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEP LATINOS ←",TYC SPORTS AR (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEP LATINOS ←",TYC SPORTS AR (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/555
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEP LATINOS ←",UFC (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEP LATINOS ←",UFC (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/580
 #EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEP LATINOS ←",UFC (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/586
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="→ DEP LATINOS ←",UFC FIGHT PASS (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="→ DEP LATINOS ←",UFC FIGHT PASS (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/581
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEP LATINOS ←",VTV UR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEP LATINOS ←",VTV UR (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/558
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEP LATINOS ←",VTV UR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEP LATINOS ←",VTV UR (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/557
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEP LATINOS ←",VTV UR (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEP LATINOS ←",VTV UR (HD) »3«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/556
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEP LATINOS ←",VTV+ UR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEP LATINOS ←",VTV+ UR (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/560
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEP LATINOS ←",VTV+ UR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEP LATINOS ←",VTV+ UR (HD) »2«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/559
-#EXTINF:-1 tvg-id="" tvg-name="DEP LATINOS" tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" group-title="→ DEP LATINOS ←",WWE NETWORK (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" group-title="→ DEP LATINOS ←",WWE NETWORK (HD)
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/583
+
+USA LATINOS
+==================================
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Austin HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22916
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Cleveland HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22917
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Dallas HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22918
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision East HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22919
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Fresno HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22920
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Houston HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22921
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Los Angeles HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22922
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Las Vegas HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22923
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision RALEIGH HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22924
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision New York HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22925
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",,Galavision Philadelphia HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22926
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Phoenix HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22927
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Sacramento HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22928
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision SALT LAKE HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22929
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision San Antonio HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22930
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision San Francisco HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22931
+#EXTINF:-1 tvg-id="" tvg-name="Galavision West HD" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision West HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22932
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",GALAVISION ATLANTA HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22933
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision Alburquerque Santa Fe HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22934
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ USA LATINOS ←",Galavision MIAMI HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22935
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION MIAMI HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22936
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION NEW YORK HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22937
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION DALLAS TX HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22938
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION (KAKW-AUSTIN)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22939
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION (KDTV-SAN FRANCISCO-OAK-SAN JOSE)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22940
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION (KTVW-PHOENIX (PRESCOTT)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22941
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22942
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION (WQHS-CLEVELAND-AKRON CANTON)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22943
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION (WUVP-PHILADELPHIA PA)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22944
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION (WXTV-NEW YORK NY)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22945
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION ATLANTA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22946
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION CHICAGO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22947
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION DALLAS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22948
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION HOUSTON
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22949
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION LOS ANGELES
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22950
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION NETWORK
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22951
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION KWEX
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22952
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION BOSTON
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22953
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION KFTV
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22954
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION WASHINGTON
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22955
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION MCALLEN TEXAS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22956
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION LOS ANGELES
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22957
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION DENVER
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22958
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION CHICAGO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22959
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION HOUSTON
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22960
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION SAN ANTONIO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22961
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION EAST
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22962
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION ATLANTA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22963
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="→ USA LATINOS ←",UNIVISION TELENOVELAS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22964
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION AUSTIN
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22965
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION PHILADELPHIA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22966
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION PHOENIX
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22967
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION RALEIGH
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22968
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION  SALT LAKE
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22969
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION SAN FRANCISCO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22970
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION ALBUQUERQUE SANTA FE
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22971
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION WEST
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22972
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION: HANFORD | KFTV
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22973
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ USA LATINOS ←",UNIVISION: LOCAL | IL | Joliet | 35 WGBO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22974
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS (KFSF-SAN FRANCISCO-OAK-SAN JOSE
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22975
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS (WFPA-PHILADELPHIA PA)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22976
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS (WXFT-CHICAGO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22977
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS NEW YORK HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22978
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS (KFPH-PHOENIX (PRESCOTT) AZ)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22979
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS (KFTR-LOS ANGELES CA)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22980
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS (KSTR-DALLAS-FT WORTH TX)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22981
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS (KTFO-AUSTIN TX)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22982
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS (WAMI-MIAMI-FT. LAUDERDALE
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22983
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UniMas West
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22984
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",Unimas Cleveland HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22985
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS LOS ANGELES  HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22986
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS PHILADELPHIA HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22987
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS 31 (KTFO) Austin | HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22988
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",Unimas Colorado  HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22989
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS EAST HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22990
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",Unimas Houston  HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22991
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",Unimas Las Vegas HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22992
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22993
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS SACRAMENTO HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22994
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS San Antonio HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22995
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS TUCSON  HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22996
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS  Fresno  HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22997
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS  Miami  HD" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS  Miami  HD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22998
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS ARIZONA" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS ARIZONA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/22999
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS Boston MA WUTF" tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ USA LATINOS ←",UNIMAS Boston MA WUTF
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23000
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Tucson (KFTU) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Tucson (KFTU) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23021
+#EXTINF:-1 tvg-id="" tvg-name="Unimas San Antonio (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas San Antonio (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23022
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Philadelphia (WXFT) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Philadelphia (WXFT) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23023
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Dallas (KSTR) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Dallas (KSTR) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23024
+#EXTINF:-1 tvg-id="" tvg-name="Unimas New York (WFUT) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas New York (WFUT) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23025
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Miami (WAMI) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Miami (WAMI) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23026
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Los Angeles (KFTR) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Los Angeles (KFTR) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23027
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Austin (KTFO) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Austin (KTFO) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23028
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Sacramento (KATFK) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Sacramento (KATFK) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23029
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Atlanta (WUVG) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←",Unimas Atlanta (WUVG) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23030
+#EXTINF:-1 tvg-id="" tvg-name="Unimas (UNIHD) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas (UNIHD) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23031
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Phoenix (KFPH) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Phoenix (KFPH) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23032
+#EXTINF:-1 tvg-id="" tvg-name="Unimas Chicago (WXFT) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_unimas.png" group-title="→ USA LATINOS ←",Unimas Chicago (WXFT) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23033
+#EXTINF:-1 tvg-id="" tvg-name="Univision Boston (WUNI) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Boston (WUNI) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23034
+#EXTINF:-1 tvg-id="" tvg-name="Univision Colorado (KVSN) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Colorado (KVSN) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23035
+#EXTINF:-1 tvg-id="" tvg-name="Univision Denver (KCEC) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Denver (KCEC) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23036
+#EXTINF:-1 tvg-id="" tvg-name="Univision Green Valley (KUVE) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Green Valley (KUVE) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23037
+#EXTINF:-1 tvg-id="" tvg-name="Univision Tlenovelas (UNITLN) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Tlenovelas (UNITLN) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23038
+#EXTINF:-1 tvg-id="" tvg-name="Univision Los Angeles (KMEX) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Los Angeles (KMEX) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23039
+#EXTINF:-1 tvg-id="" tvg-name="Univision Houston (KXLN) (us_lat)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Houston (KXLN) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23040
+#EXTINF:-1 tvg-id="" tvg-name="Univision Austin (KAKW)" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←",Univision Austin (KAKW)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23041
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Network (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23042
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Dallas (KUVN) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23043
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Chicago (WGBO) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23044
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Atlanta (WUVG) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23045
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Miami (WLTV) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23046
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision New York (WXTV) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23047
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision San Francisco (KDTV) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23048
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision San Antonio (KWEX) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23049
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Philadelphia (WUPV) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23050
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Phoenix (WXTV) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23051
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png" group-title="→ USA LATINOS ←",Univision Nashville (WLLC) (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23052
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision New York (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23054
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision Los Angeles (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23055
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision Atlanta (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23056
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision Fresno (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23057
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23058
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision Las Vegas (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23059
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision Philadelphia (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23060
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision Phoenix (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23061
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision Raleight (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23062
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision Salt Lake (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23063
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision San Antonio
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23064
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png" group-title="→ USA LATINOS ←",Galavision San Francisco (us_lat)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/23065
+
+
+NOTICIAS
+==================================
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ NOTICIAS ←",CABLE NOTICIAS (HD) »1«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/326
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ NOTICIAS ←",CABLE NOTICIAS (HD) »2«
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/327
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←",NT: 24 HORASᴴᴰ ⁽ᵒᵖ¹⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/676
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←",NT: 24 HORASᴴᴰ ⁽ᵒᵖ²⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/677
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←",NT: 24 HORASᴴᴰ ⁽ᵒᵖ³⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/678
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←",NT: 24 HORASᴴᴰ ⁽ᵒᵖ⁴⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/679
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/680
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ²⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/681
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ³⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/682
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←",NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ⁴⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/683
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="→ NOTICIAS ←",NT: CNN CHILEᴴᴰ ⁽ᵒᵖ¹⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/684
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="→ NOTICIAS ←",NT: CNN CHILEᴴᴰ ⁽ᵒᵖ²⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/685
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="→ NOTICIAS ←",CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ¹⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/686
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="→ NOTICIAS ←",CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ²⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/687
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="→ NOTICIAS ←",CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ³⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/688
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="→ NOTICIAS ←",CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ⁴⁾
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/689
+
+24/7
+==================================
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",BOB ESPONJA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/690
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",CHESPIRITO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/691
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",CORAJE EL PERRO COBARDE
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/692
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",DINOSAURIOS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/693
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",HEY ARNOLD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/694
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",EL PAJARO LOCO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/695
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",DRAGON BALL GT
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/696
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",DRAGON BALL
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/697
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",GAMES OF THRONES
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/698
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",FAMILY GUY
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/699
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",RANMA ½
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/700
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",TWO AND A HALF
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/701
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",SAKURA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/702
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",MR BEAN
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/703
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",CHAPULIN COLORADO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/704
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",EL CHAVO DEL 8
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/705
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",ALF
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/706
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS SIMPSON
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/769
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",CANTINFLAS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/771
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",CABALLEROS DEL ZODIACO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/773
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",TOM & JERRY
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/774
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",SOUTH PARK
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/775
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",DORAEMON
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/776
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",SMALLVILLELA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/777
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS SUPERCAMPEONES
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/778
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",SCOOBY DOO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/779
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",SAMURAI
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/780
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",POKEMON
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/781
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",ONE PUNCH MAN
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/782
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",YU-GI-OH
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/783
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS PICAPIEDRAS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/784
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",NARUTO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/785
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOONEY TUNES
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/786
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",EL PRINCIPE DEL RAP
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/787
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS SIMPSON (1-5)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/789
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS SIMPSON (12-17)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/790
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS SIMPSON (18-21)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/791
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS SIMPSON (22-26)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/792
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS SIMPSON (27-30)
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/793
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",YU-GI-OH
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/794
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",ANIMANIACS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/795
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",BREAKING BAD
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/796
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",EL GALLO CLAUDIO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/798
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",LOS PICAPIEDRAS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/805
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",MALCOLM
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/806
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",ONE PUNCH MAN
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/807
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",PINKY & CEREBRO
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/808
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",TROLLHUNTERS
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/810
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",YU-GI-OH
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/811
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="→ 24/7 ←",COMEDIA
+http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/812
+
+
+
 
 
 
