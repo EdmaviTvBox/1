@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.ibb.co/LRrvx8c/descarga.png" group-title="→ KIDS ←",Anime ZoneTV
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/99873
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13f9c08deee4a72c7e190e4044032b38457178b204e8fc4ad04f187018ef77a7._RI_V_TTW_.jpg" group-title=→ KIDS ←",Reino Infantil
+http://playtvpremium.xyz:2095/56990054040playtv/040523play/99894
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ KIDS ←",BABY FIRST (HD) »1«
 http://ultrapremium.cloud:8080/mondaca54788/54788mondaca/370
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ KIDS ←",BABY FIRST (HD) »2«
