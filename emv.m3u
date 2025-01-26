@@ -143,20 +143,24 @@ http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/357
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/358
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ifteew" group-title="→ COLOMBIA ←",CANAL 1 (HD)
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/330
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/yhtiv" group-title="→ COLOMBIA ←",CANAL INSTITUCIONAL >>EMV<<
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/m0jta" group-title="→ COLOMBIA ←",CANAL TRO (HD)
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/329
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/e1wdz" group-title="→ COLOMBIA ←",CITY TV (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/e1wdz" group-title="→ COLOMBIA ←",CITY TV 
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/337
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/1qlck" group-title="→ COLOMBIA ←",EL TRECE (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/1qlck" group-title="→ COLOMBIA ←",EL TRECE 
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/338
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/1lkluh" group-title="→ COLOMBIA ←",TELECAFE (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/1lkluh" group-title="→ COLOMBIA ←",TELECAFE 
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/352
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/67m6w" group-title="→ COLOMBIA ←",TELEANTIOQUIA (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/67m6w" group-title="→ COLOMBIA ←",TELEANTIOQUIA 
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/351
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rzupf" group-title="→ COLOMBIA ←",CANAL CAPITAL (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rzupf" group-title="→ COLOMBIA ←",CANAL CAPITAL 
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/328
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i18zj" group-title="→ COLOMBIA ←",SENAL COLOMBIA (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i18zj" group-title="→ COLOMBIA ←",SENAL COLOMBIA
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/350
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i18zj" group-title="→ COLOMBIA ←",SENAL COLOMBIA >>EMV<<
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
 SPORTS COLOMBIA
 ==================================
@@ -307,10 +311,12 @@ http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/435
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/621
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/k63ea" group-title="→ CULTURA ←",HGTV »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/626
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/olmqe" group-title="→ CULTURA ←",Love The Planet (HD) >>1<<
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/olmqe" group-title="→ CULTURA ←",Love The Planet >>1<<
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/451
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/olmqe" group-title="→ CULTURA ←",Love The Planet (HD) >>2<<
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/olmqe" group-title="→ CULTURA ←",Love The Planet >>2<<
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/olmqe" group-title="→ CULTURA ←",Love
+https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/216jdw" group-title="→ CULTURA ←",NAT GEO »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/440
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/216jdw" group-title="→ CULTURA ←",NAT GEO »2«
