@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7mtiu" group-title="→ KIDS ←",BABY FIRST (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxaEfaLlTAOnutjTUy8_3j6X2DYViO-KpnBQ&s" group-title="→ KIDS ←",AZTV Anime Zone TV >>EMV<<
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w140916286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7mtiu" group-title="→ KIDS ←",BABY FIRST »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/370
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7mtiu" group-title="→ KIDS ←",BABY FIRST (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7mtiu" group-title="→ KIDS ←",BABY FIRST »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/371
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/9cq8x" group-title="→ KIDS ←",BABY TV (HD) »1«
 http://geniustar.pro:8080/56754577rtS/WXrehnpmZgV9/17516
