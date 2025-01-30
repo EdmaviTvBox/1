@@ -22,7 +22,7 @@ http://directo.ddns.me:2082/Laura/11qq/55394
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/12430
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/s36m4" group-title="→ KIDS ←",BOING >>2<<
 http://directo.ddns.me:2082/Laura/11qq/56044
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="→ KIDS ←",CANELA KIDS
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/lf7b3" group-title="→ KIDS ←",CANELA KIDS
 https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/cb543d167d6c648f93d43a64cef043a8f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7553db80148b61299bce8c37683f03409a5e5afba358b1ebe65d13dc69a8b04d55c17c41e69f43c8814aa689d30fcc5e8523a7409e9bf7d8db1882d7f3df986d915cb7c5a21ce3e25abc8b3595d59666349e782934663f8490b28e80b81b253931cbf0deab6dbf32c38c37886336c173f09471b1eb19c62ba6f35ca1a3aaca4b4d35a5862d099b5764c1f8981407911c9183fdd1d0bd97e21d7b488305b2447b60c0ad9b45d6877df7c7287fa395df5b86b13ced06190d4663bfead64bebcaf18a34414f2c260d8152b69b571648b77785c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37f0e0b1c3380a0364d0378c544f6da85b4245e4ebfa1bf8baa390f0e37135d1b98a2b620e9e9ee1d5d47911d761a377a71b10bd96ed30533700dc10cdca10c34c8461624e8a3304a492ef1ecb4928cc2c554bf1d819ce558cf5a9c9b06ef6337904a308e026f803bfbe69a628fd32a/23/854x480_1355200/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/p68vc6" group-title="→ KIDS ←",CARTOON NETWORK »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/373
@@ -30,74 +30,110 @@ http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/373
 http://directo.ddns.me:2082/Laura/11qq/48374
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/p68vc6" group-title="→ KIDS ←",CARTOON NETWORK »3«
 http://directo.ddns.me:2082/Laura/11qq/67304
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/v8gnq" group-title="→ KIDS ←",CARTOONITO (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/v8gnq" group-title="→ KIDS ←",CARTOONITO »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61600
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/v8gnq" group-title="→ KIDS ←",CARTOONITO (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/v8gnq" group-title="→ KIDS ←",CARTOONITO »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61603
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/v8gnq" group-title="→ KIDS ←",CARTOONITO (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/v8gnq" group-title="→ KIDS ←",CARTOONITO »3«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61599
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/v8gnq" group-title="→ KIDS ←",CARTOONITO (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/v8gnq" group-title="→ KIDS ←",CARTOONITO »4«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/54426
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wx1d1" group-title="→ KIDS ←",DISCOVERY KIDS (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/49sad" group-title="→ KIDS ←",Dios Teve Kids
+http://directo.ddns.me:2082/Laura/11qq/30916
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wx1d1" group-title="→ KIDS ←",DISCOVERY KIDS »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/376
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wx1d1" group-title="→ KIDS ←",DISCOVERY KIDS (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wx1d1" group-title="→ KIDS ←",DISCOVERY KIDS »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/377
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wx1d1" group-title="→ KIDS ←",DISCOVERY KIDS (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wx1d1" group-title="→ KIDS ←",DISCOVERY KIDS »3«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/378
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wx1d1" group-title="→ KIDS ←",DISCOVERY KIDS »4«
+http://directo.ddns.me:2082/Laura/11qq/47837
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/382
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/382
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL »3«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/383
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL »4«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/384
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/4tuybw" group-title="→ KIDS ←",DISNEY JR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n34iv" group-title="→ KIDS ←",DISNEY CHANNEL »5«
+http://directo.ddns.me:2082/Laura/11qq/30366
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/4tuybw" group-title="→ KIDS ←",DISNEY JR »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/385
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/4tuybw" group-title="→ KIDS ←",DISNEY JR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/4tuybw" group-title="→ KIDS ←",DISNEY JR »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/386
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1blk" group-title="→ KIDS ←",DREAMWORKS (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/4tuybw" group-title="→ KIDS ←",DISNEY JR »3«
+http://directo.ddns.me:2082/Laura/11qq/48375
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1blk" group-title="→ KIDS ←",DREAMWORKS »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61597
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1blk" group-title="→ KIDS ←",DREAMWORKS (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1blk" group-title="→ KIDS ←",DREAMWORKS »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61596
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1blk" group-title="→ KIDS ←",DREAMWORKS (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1blk" group-title="→ KIDS ←",DREAMWORKS »3«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61598
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vw0ul" group-title="→ KIDS ←",ETC TV (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1blk" group-title="→ KIDS ←",DREAMWORKS »4«
+http://directo.ddns.me:2082/Laura/11qq/2476
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vw0ul" group-title="→ KIDS ←",ETC »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/54434
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vw0ul" group-title="→ KIDS ←",ETC »2« 
+http://directo.ddns.me:2082/Laura/11qq/30467
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mvyb7" group-title="→ KIDS ←",Latino Kids
+http://directo.ddns.me:2082/Laura/11qq/51709
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ppbpw" group-title="→ KIDS ←",Locomotion
+http://directo.ddns.me:2082/Laura/11qq/20
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/n8arf4" group-title="→ KIDS ←",Magic Kids
+http://directo.ddns.me:2082/Laura/11qq/2469
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICK Classic
+http://directo.ddns.me:2082/Laura/11qq/32359
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/393
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/394
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. »3«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/392
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. »4«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/54428
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ypovte" group-title="→ KIDS ←",NICK JR. »5« 
+http://directo.ddns.me:2082/Laura/11qq/2478
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/390
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/391
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON »3«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/54420
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON CLÁSICO (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON »4«
+http://directo.ddns.me:2082/Laura/11qq/42923
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gjdkk" group-title="→ KIDS ←",NICKELODEON CLÁSICO
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61590
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fvfbm" group-title="→ KIDS ←",PAKAPAKA (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fvfbm" group-title="→ KIDS ←",PAKAPAKA »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61601
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/qtaakd" group-title="→ KIDS ←",SEMILLITAS (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fvfbm" group-title="→ KIDS ←",PAKAPAKA »2«
+http://directo.ddns.me:2082/Laura/11qq/2480
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gtnnrv" group-title="→ KIDS ←",Pequeradio TV
+http://directo.ddns.me:2082/Laura/11qq/51767
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hbsou" group-title="→ KIDS ←",Reino Infantil
+http://directo.ddns.me:2082/Laura/11qq/30604
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i5bxi" group-title="→ KIDS ←",Senpai TV
+http://directo.ddns.me:2082/Laura/11qq/80031
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/qtaakd" group-title="→ KIDS ←",SEMILLITAS
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61602
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7p7g1t" group-title="→ KIDS ←",TEEN NICK (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7p7g1t" group-title="→ KIDS ←",TEEN NICK »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/396
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7p7g1t" group-title="→ KIDS ←",TEEN NICK (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7p7g1t" group-title="→ KIDS ←",TEEN NICK »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/395
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="→ KIDS ←",Toonz Kids
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/08f93934-d48b-46e0-9b73-0cd3c8d93352/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/94c8m" group-title="→ KIDS ←",TOONCAST (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7p7g1t" group-title="→ KIDS ←",TEEN NICK »3«
+http://directo.ddns.me:2082/Laura/11qq/2474
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/94c8m" group-title="→ KIDS ←",TOONCAST »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/399
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/94c8m" group-title="→ KIDS ←",TOONCAST (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/94c8m" group-title="→ KIDS ←",TOONCAST »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/398
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/94c8m" group-title="→ KIDS ←",TOONCAST (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/94c8m" group-title="→ KIDS ←",TOONCAST »3«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/397
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wdnvx" group-title="→ KIDS ←",ZOOMOO (HD)
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/94c8m" group-title="→ KIDS ←",TOONCAST »4«
+http://directo.ddns.me:2082/Laura/11qq/30603
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wdnvx" group-title="→ KIDS ←",ZOOMOO »1«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/61604
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wdnvx" group-title="→ KIDS ←",ZOOMOO »2«
+http://directo.ddns.me:2082/Laura/11qq/76242
 
 COLOMBIA
 ==================================
