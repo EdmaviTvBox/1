@@ -1,86 +1,115 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="animal.planet.international.mx" tvg-name="CUL | ANIMAL PLANET HD" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | ANIMAL PLANET HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/9517.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET NORTE" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | ANIMAL PLANET NORTE
-http://home-playtv.com:80/MGARCIA589/SVNNH/439824.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET SUR" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | ANIMAL PLANET SUR
-http://home-playtv.com:80/MGARCIA589/SVNNH/276193.ts
-#EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="CUL | ANIMAL PLANET SUR HD" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | ANIMAL PLANET SUR HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/229242.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | CANAL COCINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmv0klIagT6caWzrecvYBZ4DkesqGTi6-RUa6JsoiZdElLScNi8NGcyUjr0vqnJD29WQ&usqp=CAU" group-title="CULTURA",CUL | CANAL COCINA
-http://home-playtv.com:80/MGARCIA589/SVNNH/453809.ts
-#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | DISCOVERY CHANNEL LAT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="CULTURA",CUL | DISCOVERY CHANNEL LAT
-http://home-playtv.com:80/MGARCIA589/SVNNH/186572.ts
-#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | DISCOVERY CHANNEL NORTE FHD" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="CULTURA",CUL | DISCOVERY CHANNEL NORTE FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/9520.ts
-#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | DISCOVERY CHANNEL SUR" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="CULTURA",CUL | DISCOVERY CHANNEL SUR
-http://home-playtv.com:80/MGARCIA589/SVNNH/93442.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY EN ESPAÑOL HD" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="CULTURA",CUL | DISCOVERY EN ESPAÑOL HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/452236.ts
-#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="CUL | DISCOVERY FAMILIA" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/discovery-familia_c.png" group-title="CULTURA",CUL | DISCOVERY FAMILIA
-http://home-playtv.com:80/MGARCIA589/SVNNH/10769.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY H&H LAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY H&H LAT
-http://home-playtv.com:80/MGARCIA589/SVNNH/273322.ts
-#EXTINF:-1 tvg-id="discovery.home.health.mx" tvg-name="CUL | DISCOVERY H&H NORTE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY H&H NORTE FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/242008.ts
-#EXTINF:-1 tvg-id="discovery.home.health.mx" tvg-name="CUL | DISCOVERY H&H SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY H&H SUR
-http://home-playtv.com:80/MGARCIA589/SVNNH/53078.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY H&H SUR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY H&H SUR FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/439759.ts
-#EXTINF:-1 tvg-id="~ Discovery Science" tvg-name="CUL | DISCOVERY SCIENCE FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/449px-Science_Channel_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY SCIENCE FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/36466.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY THEATER SUR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY THEATER SUR FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/439786.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY TLC" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC
-http://home-playtv.com:80/MGARCIA589/SVNNH/268886.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY TLC FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/242009.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY TLC HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/199201.ts
-#EXTINF:-1 tvg-id="~ HD TLC" tvg-name="CUL | DISCOVERY TLC MEX HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC MEX HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/19596.ts
-#EXTINF:-1 tvg-id="discovery.turbo.mx" tvg-name="CUL | DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY TURBO HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/54283.ts
-#EXTINF:-1 tvg-id="discovery.turbo.mx" tvg-name="CUL | Discovery Turbo SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",CUL | Discovery Turbo SUR
-http://home-playtv.com:80/MGARCIA589/SVNNH/19505.ts
-#EXTINF:-1 tvg-id="discovery.world.mx" tvg-name="CUL | DISCOVERY WORLD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY WORLD
-http://home-playtv.com:80/MGARCIA589/SVNNH/9516.ts
-#EXTINF:-1 tvg-id="discovery.world.mx" tvg-name="CUL | DISCOVERY WORLD FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY WORLD FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/53077.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DW AMÉRICA" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="CULTURA",CUL | DW AMÉRICA
-http://home-playtv.com:80/MGARCIA589/SVNNH/181177.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CULTURA",CUL | HGTV HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/452238.ts
-#EXTINF:-1 tvg-id="hgtv.latin.america.mx" tvg-name="CUL | HGTV MEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CULTURA",CUL | HGTV MEX
-http://home-playtv.com:80/MGARCIA589/SVNNH/178146.ts
-#EXTINF:-1 tvg-id="history.2.mexico.mx" tvg-name="CUL | HISTORY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURA",CUL | HISTORY 2 HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/19542.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY 2 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURA",CUL | HISTORY 2 SUR
-http://home-playtv.com:80/MGARCIA589/SVNNH/439767.ts
-#EXTINF:-1 tvg-id="history.2.mexico.mx" tvg-name="CUL | HISTORY 2 SUR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURA",CUL | HISTORY 2 SUR FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/105685.ts
-#EXTINF:-1 tvg-id="history.mx" tvg-name="CUL | HISTORY CHANNEL" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="CULTURA",CUL | HISTORY CHANNEL
-http://home-playtv.com:80/MGARCIA589/SVNNH/242013.ts
-#EXTINF:-1 tvg-id="history.mx" tvg-name="CUL | HISTORY CHANNEL NORTE FHD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="CULTURA",CUL | HISTORY CHANNEL NORTE FHD
-http://home-playtv.com:80/MGARCIA589/SVNNH/53074.ts
-#EXTINF:-1 tvg-id="history.mx" tvg-name="CUL | HISTORY CHANNEL SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" group-title="CULTURA",CUL | HISTORY CHANNEL SUR
-http://home-playtv.com:80/MGARCIA589/SVNNH/186570.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="CUL | INVESTIGATION DISCOVERY NORTE" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY NORTE
-http://home-playtv.com:80/MGARCIA589/SVNNH/439789.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="CUL | INVESTIGATION DISCOVERY SD" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY SD
-http://home-playtv.com:80/MGARCIA589/SVNNH/53051.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="CUL | INVESTIGATION DISCOVERY SUR" tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY SUR
-http://home-playtv.com:80/MGARCIA589/SVNNH/36458.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | LOVE NATURE" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="CULTURA",CUL | LOVE NATURE
-http://home-playtv.com:80/MGARCIA589/SVNNH/276310.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NAT GEO MUNDO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s72449_h15_aa.png" group-title="CULTURA",CUL | NAT GEO MUNDO
-http://home-playtv.com:80/MGARCIA589/SVNNH/54154.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NAT GEO NORTE" tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" group-title="CULTURA",CUL | NAT GEO NORTE
-http://home-playtv.com:80/MGARCIA589/SVNNH/439788.ts
-#EXTINF:-1 tvg-id="24.horas.es" tvg-name="CUL | NAT GEO SUR" tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" group-title="CULTURA",CUL | NAT GEO SUR
-http://home-playtv.com:80/MGARCIA589/SVNNH/242015.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="CULTURA",CUL | NAT GEO WILD
-http://home-playtv.com:80/MGARCIA589/SVNNH/452237.ts
-#EXTINF:-1 tvg-id="nat.geo.wild.mx" tvg-name="CUL | NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="CULTURA",CUL | NAT GEO WILD HD
-http://home-playtv.com:80/MGARCIA589/SVNNH/36470.ts
+
+RCN
+================================================================
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »1«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/343
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/344
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »3«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/345
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »4«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/346
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »5«
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/743427
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »6«
+http://home-playtv.com:80/MGARCIA589/SVNNH/214145.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »7«
+http://home-playtv.com:80/MGARCIA589/SVNNH/259372.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »8«
+http://home-playtv.com:80/MGARCIA589/SVNNH/12847.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN »9«
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84900
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN 1080P »1«
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84350
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN 1080P »2«
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8491
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/fyed3" group-title="COLOMBIA",RCN 1080P »3«
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8492
+
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/23ptlm" group-title="COLOMBIA",RCN INTERNACIONAL >>1<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/347
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/23ptlm" group-title="COLOMBIA",RCN INTERNACIONAL >>2<<
+http://home-playtv.com:80/MGARCIA589/SVNNH/215912.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/23ptlm" group-title="COLOMBIA",RCN INTERNACIONAL >>3<<
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84901
+
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/l4ixj" group-title="COLOMBIA",RCN Mas >>1<<
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536885
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/l4ixj" group-title="COLOMBIA",RCN Mas >>2<<
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/l4ixj" group-title="COLOMBIA",RCN Mas >>3<<
+http://home-playtv.com:80/MGARCIA589/SVNNH/552797.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/l4ixj" group-title="COLOMBIA",RCN Mas >>4<<
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/85624
+
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/mexsu4" group-title="COLOMBIA",RCN NOVELAS >>1<<
+http://home-playtv.com:80/MGARCIA589/SVNNH/9907.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/mexsu4" group-title="COLOMBIA",RCN NOVELAS >>2<<
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/348
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/mexsu4" group-title="COLOMBIA",RCN NOVELAS >>3<<
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84902
+
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/1ffyb" group-title="COLOMBIA",RCN NUESTRA TELE »1«
+http://home-playtv.com:80/MGARCIA589/SVNNH/55815.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/1ffyb" group-title="COLOMBIA",RCN NUESTRA TELE »2«
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8496
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/1ffyb" group-title="COLOMBIA",RCN NUESTRA TELE »3«
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84903
+
+CARACOL
+================================================================
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »1«
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/536880
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »2«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/332
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »3«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/333
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »4«
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/334
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »5«
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »6«
+http://home-playtv.com:80/MGARCIA589/SVNNH/46257.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »7«
+http://home-playtv.com:80/MGARCIA589/SVNNH/167983.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »8«
+http://home-playtv.com:80/MGARCIA589/SVNNH/190520.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL »9«
+http://home-playtv.com:80/MGARCIA589/SVNNH/55619.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL 1080P
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8483
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL 720P
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8480
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL 720P
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8484
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/db4zog" group-title="COLOMBIA",CARACOL SD
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8481
+
+
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/1fjqs" group-title="COLOMBIA",CARACOL HD2
+http://home-playtv.com:80/MGARCIA589/SVNNH/224163.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/dn1u4" group-title="COLOMBIA",CARACOL INTERNACIONAL »1«
+http://new-tv.cloud:25461/Oscaravalos30/Oa15352/580526
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/dn1u4" group-title="COLOMBIA",CARACOL INTERNACIONAL »2«
+http://home-playtv.com:80/MGARCIA589/SVNNH/211350.ts
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/dn1u4" group-title="COLOMBIA",CARACOL INTERNACIONAL »3«
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8485
+#EXTINF:-1 tvg-id="" tvg-name="INMA" tvg-logo="https://n9.cl/dn1u4" group-title="COLOMBIA",CARACOL INTERNACIONAL »4«
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8486
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
