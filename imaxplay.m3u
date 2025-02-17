@@ -1,87 +1,188 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 tvg-id="animal.planet.international.mx" tvg-name="CUL | ANIMAL PLANET HD" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",CUL | ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET HD
 http://imaxplay.net:80/AlejCord/BAGPX/9517.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET NORTE" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",CUL | ANIMAL PLANET NORTE
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET NORTE
 http://imaxplay.net:80/AlejCord/BAGPX/439824.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | ANIMAL PLANET SUR" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",CUL | ANIMAL PLANET SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET SUR
 http://imaxplay.net:80/AlejCord/BAGPX/276193.ts
-#EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="CUL | ANIMAL PLANET SUR HD" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",CUL | ANIMAL PLANET SUR HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET SUR HD
 http://imaxplay.net:80/AlejCord/BAGPX/229242.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | CANAL COCINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmv0klIagT6caWzrecvYBZ4DkesqGTi6-RUa6JsoiZdElLScNi8NGcyUjr0vqnJD29WQ&usqp=CAU" group-title="CULTURA",CUL | CANAL COCINA
-http://imaxplay.net:80/AlejCord/BAGPX/453809.ts
-#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | DISCOVERY CHANNEL LAT" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",CUL | DISCOVERY CHANNEL LAT
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL LAT
 http://imaxplay.net:80/AlejCord/BAGPX/186572.ts
-#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | DISCOVERY CHANNEL NORTE FHD" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",CUL | DISCOVERY CHANNEL NORTE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/9520.tshttps://n9.cl/pkd6s
-#EXTINF:-1 tvg-id="discovery.mx" tvg-name="CUL | DISCOVERY CHANNEL SUR" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",CUL | DISCOVERY CHANNEL SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL NORTE FHD
+http://imaxplay.net:80/AlejCord/BAGPX/9520.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL SUR
 http://imaxplay.net:80/AlejCord/BAGPX/93442.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY EN ESPAÑOL HD" tvg-logo="https://n9.cl/qkm03" group-title="CULTURA",CUL | DISCOVERY EN ESPAÑOL HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/qkm03" group-title="CULTURA",DISCOVERY EN ESPAÑOL HD
 http://imaxplay.net:80/AlejCord/BAGPX/452236.ts
-#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="CUL | DISCOVERY FAMILIA" tvg-logo="https://n9.cl/zbdmy" group-title="CULTURA",CUL | DISCOVERY FAMILIA
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zbdmy" group-title="CULTURA",DISCOVERY FAMILIA
 http://imaxplay.net:80/AlejCord/BAGPX/10769.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY H&H LAT" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",CUL | DISCOVERY H&H LAT
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",DISCOVERY H&H LAT
 http://imaxplay.net:80/AlejCord/BAGPX/273322.ts
-#EXTINF:-1 tvg-id="discovery.home.health.mx" tvg-name="CUL | DISCOVERY H&H NORTE FHD" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",CUL | DISCOVERY H&H NORTE FHD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",DISCOVERY H&H NORTE FHD
 http://imaxplay.net:80/AlejCord/BAGPX/242008.ts
-#EXTINF:-1 tvg-id="discovery.home.health.mx" tvg-name="CUL | DISCOVERY H&H SUR" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",CUL | DISCOVERY H&H SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",DISCOVERY H&H SUR
 http://imaxplay.net:80/AlejCord/BAGPX/53078.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY H&H SUR FHD" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",CUL | DISCOVERY H&H SUR FHD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",DISCOVERY H&H SUR FHD
 http://imaxplay.net:80/AlejCord/BAGPX/439759.ts
-#EXTINF:-1 tvg-id="~ Discovery Science" tvg-name="CUL | DISCOVERY SCIENCE FHD" tvg-logo="https://n9.cl/rbpr9w" group-title="CULTURA",CUL | DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/rbpr9w" group-title="CULTURA",DISCOVERY SCIENCE FHD
 http://imaxplay.net:80/AlejCord/BAGPX/36466.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY THEATER SUR FHD" tvg-logo="https://n9.cl/wgrf8s" group-title="CULTURA",CUL | DISCOVERY THEATER SUR FHD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/wgrf8s" group-title="CULTURA",DISCOVERY THEATER SUR FHD
 http://imaxplay.net:80/AlejCord/BAGPX/439786.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY TLC" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",CUL | DISCOVERY TLC
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC
 http://imaxplay.net:80/AlejCord/BAGPX/268886.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY TLC FHD" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",CUL | DISCOVERY TLC FHD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC FHD
 http://imaxplay.net:80/AlejCord/BAGPX/242009.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY TLC HD" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",CUL | DISCOVERY TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC HD
 http://imaxplay.net:80/AlejCord/BAGPX/199201.ts
-#EXTINF:-1 tvg-id="~ HD TLC" tvg-name="CUL | DISCOVERY TLC MEX HD" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",CUL | DISCOVERY TLC MEX HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC MEX HD
 http://imaxplay.net:80/AlejCord/BAGPX/19596.ts
-#EXTINF:-1 tvg-id="discovery.turbo.mx" tvg-name="CUL | DISCOVERY TURBO HD" tvg-logo="https://n9.cl/lrvw90" group-title="CULTURA",CUL | DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/lrvw90" group-title="CULTURA",DISCOVERY TURBO HD
 http://imaxplay.net:80/AlejCord/BAGPX/54283.ts
-#EXTINF:-1 tvg-id="discovery.turbo.mx" tvg-name="CUL | Discovery Turbo SUR" tvg-logo="https://n9.cl/lrvw90" group-title="CULTURA",CUL | Discovery Turbo SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/lrvw90" group-title="CULTURA",DISCOVERY TURBO SUR
 http://imaxplay.net:80/AlejCord/BAGPX/19505.ts
-#EXTINF:-1 tvg-id="discovery.world.mx" tvg-name="CUL | DISCOVERY WORLD" tvg-logo="https://n9.cl/afoq0" group-title="CULTURA",CUL | DISCOVERY WORLD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/afoq0" group-title="CULTURA",DISCOVERY WORLD
 http://imaxplay.net:80/AlejCord/BAGPX/9516.ts
-#EXTINF:-1 tvg-id="discovery.world.mx" tvg-name="CUL | DISCOVERY WORLD FHD" tvg-logo="https://n9.cl/afoq0" group-title="CULTURA",CUL | DISCOVERY WORLD FHD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/afoq0" group-title="CULTURA",DISCOVERY WORLD FHD
 http://imaxplay.net:80/AlejCord/BAGPX/53077.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | DW AMÉRICA" tvg-logo="https://n9.cl/g4scj8" group-title="CULTURA",CUL | DW AMÉRICA
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/g4scj8" group-title="CULTURA",DW AMÉRICA
 http://imaxplay.net:80/AlejCord/BAGPX/181177.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CULTURA",CUL | HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/k63ea" group-title="CULTURA",HGTV HD
 http://imaxplay.net:80/AlejCord/BAGPX/452238.ts
-#EXTINF:-1 tvg-id="hgtv.latin.america.mx" tvg-name="CUL | HGTV MEX" tvg-logo="https://n9.cl/k63ea" group-title="CULTURA",CUL | HGTV MEX
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/k63ea" group-title="CULTURA",HGTV MEX
 http://imaxplay.net:80/AlejCord/BAGPX/178146.ts
-#EXTINF:-1 tvg-id="history.2.mexico.mx" tvg-name="CUL | HISTORY 2 HD" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",CUL | HISTORY 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",HISTORY 2 HD
 http://imaxplay.net:80/AlejCord/BAGPX/19542.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | HISTORY 2 SUR" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",CUL | HISTORY 2 SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",HISTORY 2 SUR
 http://imaxplay.net:80/AlejCord/BAGPX/439767.ts
-#EXTINF:-1 tvg-id="history.2.mexico.mx" tvg-name="CUL | HISTORY 2 SUR FHD" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",CUL | HISTORY 2 SUR FHD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",HISTORY 2 SUR FHD
 http://imaxplay.net:80/AlejCord/BAGPX/105685.ts
-#EXTINF:-1 tvg-id="history.mx" tvg-name="CUL | HISTORY CHANNEL" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",CUL | HISTORY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",HISTORY CHANNEL
 http://imaxplay.net:80/AlejCord/BAGPX/242013.ts
-#EXTINF:-1 tvg-id="history.mx" tvg-name="CUL | HISTORY CHANNEL NORTE FHD" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",CUL | HISTORY CHANNEL NORTE FHD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",HISTORY CHANNEL NORTE FHD
 http://imaxplay.net:80/AlejCord/BAGPX/53074.ts
-#EXTINF:-1 tvg-id="history.mx" tvg-name="CUL | HISTORY CHANNEL SUR" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",CUL | HISTORY CHANNEL SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",HISTORY CHANNEL SUR
 http://imaxplay.net:80/AlejCord/BAGPX/186570.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="CUL | INVESTIGATION DISCOVERY NORTE" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY NORTE
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",INVESTIGATION DISCOVERY NORTE
 http://imaxplay.net:80/AlejCord/BAGPX/439789.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="CUL | INVESTIGATION DISCOVERY SD" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY SD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",INVESTIGATION DISCOVERY SD
 http://imaxplay.net:80/AlejCord/BAGPX/53051.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="CUL | INVESTIGATION DISCOVERY SUR" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",INVESTIGATION DISCOVERY SUR
 http://imaxplay.net:80/AlejCord/BAGPX/36458.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | LOVE NATURE" tvg-logo="https://n9.cl/kz743" group-title="CULTURA",CUL | LOVE NATURE
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/kz743" group-title="CULTURA",LOVE NATURE
 http://imaxplay.net:80/AlejCord/BAGPX/276310.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NAT GEO MUNDO" tvg-logo="https://n9.cl/u28jm" group-title="CULTURA",CUL | NAT GEO MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/u28jm" group-title="CULTURA",NAT GEO MUNDO
 http://imaxplay.net:80/AlejCord/BAGPX/54154.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NAT GEO NORTE" tvg-logo="https://n9.cl/216jdw" group-title="CULTURA",CUL | NAT GEO NORTE
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/216jdw" group-title="CULTURA",NAT GEO NORTE
 http://imaxplay.net:80/AlejCord/BAGPX/439788.ts
-#EXTINF:-1 tvg-id="24.horas.es" tvg-name="CUL | NAT GEO SUR" tvg-logo="https://n9.cl/216jdw" group-title="CULTURA",CUL | NAT GEO SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/216jdw" group-title="CULTURA",NAT GEO SUR
 http://imaxplay.net:80/AlejCord/BAGPX/242015.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUL | NAT GEO WILD" tvg-logo="https://n9.cl/pn6jy" group-title="CULTURA",CUL | NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pn6jy" group-title="CULTURA",NAT GEO WILD
 http://imaxplay.net:80/AlejCord/BAGPX/452237.ts
-#EXTINF:-1 tvg-id="nat.geo.wild.mx" tvg-name="CUL | NAT GEO WILD HD" tvg-logo="https://n9.cl/pn6jy" group-title="CULTURA",CUL | NAT GEO WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pn6jy" group-title="CULTURA",NAT GEO WILD HD
 http://imaxplay.net:80/AlejCord/BAGPX/36470.ts
+
+ENTRETENIMIENTO
+=================================
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png" group-title="ENTRETENIMIENTO",EN | A&E HD
+http://imaxplay.net:80/AlejCord/BAGPX/9547.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" group-title="ENTRETENIMIENTO",EN | A3SERIES
+http://imaxplay.net:80/AlejCord/BAGPX/211198.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" group-title="ENTRETENIMIENTO",EN | A3SERIES FHD
+http://imaxplay.net:80/AlejCord/BAGPX/171484.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" group-title="ENTRETENIMIENTO",EN | A3SERIES HD
+http://imaxplay.net:80/AlejCord/BAGPX/53059.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/itsjg" group-title="ENTRETENIMIENTO",ADULT SWIM
+http://imaxplay.net:80/AlejCord/BAGPX/19466.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/82lk2" group-title="ENTRETENIMIENTO",ANTENA 3 INTER
+http://imaxplay.net:80/AlejCord/BAGPX/211202.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://imaxplay.net:80/AlejCord/BAGPX/53049.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL FHD
+http://imaxplay.net:80/AlejCord/BAGPX/241997.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/6qd26" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://imaxplay.net:80/AlejCord/BAGPX/469064.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/6qd26" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA HD
+http://imaxplay.net:80/AlejCord/BAGPX/9412.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/6qd26" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
+http://imaxplay.net:80/AlejCord/BAGPX/9565.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT NORTE FHD
+http://imaxplay.net:80/AlejCord/BAGPX/241998.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT SD
+http://imaxplay.net:80/AlejCord/BAGPX/9405.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT SUR FHD
+http://imaxplay.net:80/AlejCord/BAGPX/242054.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/mfxzer" group-title="ENTRETENIMIENTO",EL GARAGE SD
+http://imaxplay.net:80/AlejCord/BAGPX/19529.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/4hi7b9" group-title="ENTRETENIMIENTO",EL GOURMET  FHD
+http://imaxplay.net:80/AlejCord/BAGPX/9408.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/tk0mb" group-title="ENTRETENIMIENTO",EN | ESTRELLA TV
+http://imaxplay.net:80/AlejCord/BAGPX/51169.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/33g4m" group-title="ENTRETENIMIENTO",EN | ETC TV
+http://imaxplay.net:80/AlejCord/BAGPX/394826.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zx72z" group-title="ENTRETENIMIENTO",FOOD NETWORK FHD
+http://imaxplay.net:80/AlejCord/BAGPX/19583.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zx72z" group-title="ENTRETENIMIENTO",FOOD NETWORK HD
+http://imaxplay.net:80/AlejCord/BAGPX/9554.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="ENTRETENIMIENTO",EN | FX FHD NORTE
+http://imaxplay.net:80/AlejCord/BAGPX/242001.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="ENTRETENIMIENTO",EN | FX HD
+http://imaxplay.net:80/AlejCord/BAGPX/167656.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="ENTRETENIMIENTO",EN | FX SD SUR
+http://imaxplay.net:80/AlejCord/BAGPX/9546.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2melp" group-title="ENTRETENIMIENTO",EN | GALA TV
+http://imaxplay.net:80/AlejCord/BAGPX/54962.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/29ta9x" group-title="ENTRETENIMIENTO",GLITZ
+http://imaxplay.net:80/AlejCord/BAGPX/54399.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/5bjxz" group-title="ENTRETENIMIENTO",HOLA TV FHD
+http://imaxplay.net:80/AlejCord/BAGPX/9397.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yssnx" group-title="ENTRETENIMIENTO",KANAL D DRAMA
+http://imaxplay.net:80/AlejCord/BAGPX/183185.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/1d11qz" group-title="ENTRETENIMIENTO",LIFETIME HD
+http://imaxplay.net:80/AlejCord/BAGPX/19536.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/1d11qz" group-title="ENTRETENIMIENTO",LIFETIME SD
+http://imaxplay.net:80/AlejCord/BAGPX/242002.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/jr53l" group-title="ENTRETENIMIENTO",MASCHIC SD
+http://imaxplay.net:80/AlejCord/BAGPX/439827.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/cl448" group-title="ENTRETENIMIENTO",NBC UNIVERSO
+http://imaxplay.net:80/AlejCord/BAGPX/185096.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/cl448" group-title="ENTRETENIMIENTO",NBC UNIVERSO HD
+http://imaxplay.net:80/AlejCord/BAGPX/199524.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gkyzsx" group-title="ENTRETENIMIENTO",PASIONES NORTE
+http://imaxplay.net:80/AlejCord/BAGPX/439781.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gkyzsx" group-title="ENTRETENIMIENTO",PASIONES SUR
+http://imaxplay.net:80/AlejCord/BAGPX/242017.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://i.pinimg.com/originals/15/88/96/1588966d7fb28da12825edaac1ddd736.png" group-title="ENTRETENIMIENTO",EN | QUIERO MÚSICA
+http://imaxplay.net:80/AlejCord/BAGPX/19557.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",EN | SONY CHANNEL FHD
+http://imaxplay.net:80/AlejCord/BAGPX/439783.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",EN | SONY CHANNEL HD
+http://imaxplay.net:80/AlejCord/BAGPX/53039.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",EN | SONY CHANNEL SD
+http://imaxplay.net:80/AlejCord/BAGPX/211310.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e9c044f2-3aa1-4fee-94ae-5445d49a988a/delgzci-8a48149c-b3d2-4384-92aa-e37c8f329316.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U5YzA0NGYyLTNhYTEtNGZlZS05NGFlLTU0NDVkNDlhOTg4YVwvZGVsZ3pjaS04YTQ4MTQ5Yy1iM2QyLTQzODQtOTJhYS1lMzdjOGYzMjkzMTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vj5XzqytHKAhgY9rs5faxh_pS49-xEy_Rlp3pbpmE60" group-title="ENTRETENIMIENTO",EN | SONY COMEDIAS
+http://imaxplay.net:80/AlejCord/BAGPX/276162.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png" group-title="ENTRETENIMIENTO",EN | SONY COMPETENCIAS
+http://imaxplay.net:80/AlejCord/BAGPX/218342.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest/scale-to-width-down/280?cb=20220403004504" group-title="ENTRETENIMIENTO",EN | SONY NOVELAS
+http://imaxplay.net:80/AlejCord/BAGPX/276161.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="ENTRETENIMIENTO",EN | TNT NOVELAS
+http://imaxplay.net:80/AlejCord/BAGPX/542720.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="ENTRETENIMIENTO",EN | TNT SERIES NORTE FHD
+http://imaxplay.net:80/AlejCord/BAGPX/439780.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="ENTRETENIMIENTO",EN | TNT SERIES SUR
+http://imaxplay.net:80/AlejCord/BAGPX/53054.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="ENTRETENIMIENTO",EN | TNT SERIES SUR  FHD
+http://imaxplay.net:80/AlejCord/BAGPX/9560.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es" group-title="ENTRETENIMIENTO",EN | UNICABLE FHD
+http://imaxplay.net:80/AlejCord/BAGPX/242004.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="ENTRETENIMIENTO",EN | WARNER TV NORTE FHD
+http://imaxplay.net:80/AlejCord/BAGPX/53040.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="ENTRETENIMIENTO",EN | WARNER TV SUR
+http://imaxplay.net:80/AlejCord/BAGPX/439740.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="ENTRETENIMIENTO",EN | WARNER TV SUR SD
+http://imaxplay.net:80/AlejCord/BAGPX/53044.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/iwqsrs" group-title="ENTRETENIMIENTO",CANAL COCINA
+http://imaxplay.net:80/AlejCord/BAGPX/453809.ts
 
