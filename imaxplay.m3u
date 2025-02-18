@@ -6,80 +6,95 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/402
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59554
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET US
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23646
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="CULTURA",CANAL COCINA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236356
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="CULTURA",CANAL DE CASA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236359
+
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL LAT
-http://imaxplay.net:80/AlejCord/BAGPX/186572.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL NORTE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/9520.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL SUR
-http://imaxplay.net:80/AlejCord/BAGPX/93442.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL ESPAÑA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236368
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/qkm03" group-title="CULTURA",DISCOVERY EN ESPAÑOL HD
-http://imaxplay.net:80/AlejCord/BAGPX/452236.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zbdmy" group-title="CULTURA",DISCOVERY FAMILIA
-http://imaxplay.net:80/AlejCord/BAGPX/10769.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",DISCOVERY H&H LAT
-http://imaxplay.net:80/AlejCord/BAGPX/273322.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",DISCOVERY H&H NORTE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/242008.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",DISCOVERY H&H SUR
-http://imaxplay.net:80/AlejCord/BAGPX/53078.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/20adr" group-title="CULTURA",DISCOVERY H&H SUR FHD
-http://imaxplay.net:80/AlejCord/BAGPX/439759.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/rbpr9w" group-title="CULTURA",DISCOVERY SCIENCE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/36466.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/wgrf8s" group-title="CULTURA",DISCOVERY THEATER SUR FHD
-http://imaxplay.net:80/AlejCord/BAGPX/439786.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC
-http://imaxplay.net:80/AlejCord/BAGPX/268886.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC FHD
-http://imaxplay.net:80/AlejCord/BAGPX/242009.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC HD
-http://imaxplay.net:80/AlejCord/BAGPX/199201.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC MEX HD
-http://imaxplay.net:80/AlejCord/BAGPX/19596.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC LATAM
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/447
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2x2xn" group-title="CULTURA",DISCOVERY TLC US
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23412
+
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/lrvw90" group-title="CULTURA",DISCOVERY TURBO HD
-http://imaxplay.net:80/AlejCord/BAGPX/54283.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/lrvw90" group-title="CULTURA",DISCOVERY TURBO SUR
-http://imaxplay.net:80/AlejCord/BAGPX/19505.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/afoq0" group-title="CULTURA",DISCOVERY WORLD
-http://imaxplay.net:80/AlejCord/BAGPX/9516.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/afoq0" group-title="CULTURA",DISCOVERY WORLD FHD
-http://imaxplay.net:80/AlejCord/BAGPX/53077.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/g4scj8" group-title="CULTURA",DW AMÉRICA
-http://imaxplay.net:80/AlejCord/BAGPX/181177.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/k63ea" group-title="CULTURA",HGTV HD
-http://imaxplay.net:80/AlejCord/BAGPX/452238.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/k63ea" group-title="CULTURA",HGTV MEX
-http://imaxplay.net:80/AlejCord/BAGPX/178146.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",HISTORIA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236341
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",HISTORY 2 HD
-http://imaxplay.net:80/AlejCord/BAGPX/19542.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",HISTORY 2 SUR
-http://imaxplay.net:80/AlejCord/BAGPX/439767.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yw3ww" group-title="CULTURA",HISTORY 2 SUR FHD
-http://imaxplay.net:80/AlejCord/BAGPX/105685.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",HISTORY CHANNEL
-http://imaxplay.net:80/AlejCord/BAGPX/242013.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",HISTORY CHANNEL NORTE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/53074.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/66pzy" group-title="CULTURA",HISTORY CHANNEL SUR
-http://imaxplay.net:80/AlejCord/BAGPX/186570.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",INVESTIGATION DISCOVERY NORTE
-http://imaxplay.net:80/AlejCord/BAGPX/439789.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",INVESTIGATION DISCOVERY SD
-http://imaxplay.net:80/AlejCord/BAGPX/53051.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/c85g6" group-title="CULTURA",INVESTIGATION DISCOVERY SUR
-http://imaxplay.net:80/AlejCord/BAGPX/36458.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/kz743" group-title="CULTURA",LOVE NATURE
-http://imaxplay.net:80/AlejCord/BAGPX/276310.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/olmqe" group-title="CULTURA",LOVE THE PLANET
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/451
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/u28jm" group-title="CULTURA",NAT GEO MUNDO
-http://imaxplay.net:80/AlejCord/BAGPX/54154.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/216jdw" group-title="CULTURA",NAT GEO NORTE
-http://imaxplay.net:80/AlejCord/BAGPX/439788.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/216jdw" group-title="CULTURA",NAT GEO ESPAÑA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236364
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/216jdw" group-title="CULTURA",NAT GEO SUR
-http://imaxplay.net:80/AlejCord/BAGPX/242015.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pn6jy" group-title="CULTURA",NAT GEO WILD
-http://imaxplay.net:80/AlejCord/BAGPX/452237.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pn6jy" group-title="CULTURA",NAT GEO WILD HD
-http://imaxplay.net:80/AlejCord/BAGPX/36470.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pn6jy" group-title="CULTURA",NAT GEO WILD ESPAÑA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12444
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/850xq7" group-title="CULTURA",ODISEA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236370
 
 ENTRETENIMIENTO
 =================================
