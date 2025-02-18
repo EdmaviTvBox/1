@@ -8,7 +8,7 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59554
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24124
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/ni02ig" group-title="CULTURA",CANAL COCINA
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236356
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="CULTURA",CANAL DE CASA
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/srz3g" group-title="CULTURA",CANAL DE CASA
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236359
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL LATAM
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/407
@@ -93,8 +93,10 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236370
 
 ENTRETENIMIENTO
 =================================
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/itsjg" group-title="ENTRETENIMIENTO",ADULT SWIM
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/itsjg" group-title="ENTRETENIMIENTO",ADULT SWIM NORTE
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59572
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/itsjg" group-title="ENTRETENIMIENTO",ADULT SWIM SUR
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/593
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL LATAM
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/242
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL ESPAÑA
@@ -103,26 +105,30 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12311
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24074
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/6qd26" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/634
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT 
-
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT LATAM 
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/628
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT US
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24053
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/mfxzer" group-title="ENTRETENIMIENTO",EL GARAGE 
-
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/4hi7b9" group-title="ENTRETENIMIENTO",EL GOURMET 
-
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/428
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/tk0mb" group-title="ENTRETENIMIENTO",ESTRELLA TV
-
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59612
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/33g4m" group-title="ENTRETENIMIENTO",ETC TV
-
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/65
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zx72z" group-title="ENTRETENIMIENTO",FOOD NETWORK 
-
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2melp" group-title="ENTRETENIMIENTO",GALA TV
-
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/601
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zx72z" group-title="ENTRETENIMIENTO",FOOD NETWORK US
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23738
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/29ta9x" group-title="ENTRETENIMIENTO",GLITZ
 
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/5bjxz" group-title="ENTRETENIMIENTO",HOLA TV 
-
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/630
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yssnx" group-title="ENTRETENIMIENTO",KANAL D DRAMA
 
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="ENTRETENIMIENTO",LAS ESTRELLAS
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/633
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/jr53l" group-title="ENTRETENIMIENTO",MASCHIC 
 
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/cl448" group-title="ENTRETENIMIENTO",NBC UNIVERSO
