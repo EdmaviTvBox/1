@@ -44,6 +44,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/424
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/g4scj8" group-title="CULTURA",DW US
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/off4x" group-title="CULTURA",EL GOURMET
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/596
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/k63ea" group-title="CULTURA",HGTV LATAM
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/409
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/k63ea" group-title="CULTURA",HGTV US
@@ -91,104 +93,78 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/236370
 
 ENTRETENIMIENTO
 =================================
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png" group-title="ENTRETENIMIENTO",EN | A&E HD
-http://imaxplay.net:80/AlejCord/BAGPX/9547.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" group-title="ENTRETENIMIENTO",EN | A3SERIES
-http://imaxplay.net:80/AlejCord/BAGPX/211198.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" group-title="ENTRETENIMIENTO",EN | A3SERIES FHD
-http://imaxplay.net:80/AlejCord/BAGPX/171484.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" group-title="ENTRETENIMIENTO",EN | A3SERIES HD
-http://imaxplay.net:80/AlejCord/BAGPX/53059.ts
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/itsjg" group-title="ENTRETENIMIENTO",ADULT SWIM
-http://imaxplay.net:80/AlejCord/BAGPX/19466.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/82lk2" group-title="ENTRETENIMIENTO",ANTENA 3 INTER
-http://imaxplay.net:80/AlejCord/BAGPX/211202.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://imaxplay.net:80/AlejCord/BAGPX/53049.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL FHD
-http://imaxplay.net:80/AlejCord/BAGPX/241997.ts
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59572
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL LATAM
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/242
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL ESPAÑA
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/12311
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/swnfp" group-title="ENTRETENIMIENTO",COMEDY CENTRAL US
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/24074
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/6qd26" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
-http://imaxplay.net:80/AlejCord/BAGPX/469064.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/6qd26" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA HD
-http://imaxplay.net:80/AlejCord/BAGPX/9412.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/6qd26" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
-http://imaxplay.net:80/AlejCord/BAGPX/9565.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT NORTE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/241998.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT SD
-http://imaxplay.net:80/AlejCord/BAGPX/9405.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT SUR FHD
-http://imaxplay.net:80/AlejCord/BAGPX/242054.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/mfxzer" group-title="ENTRETENIMIENTO",EL GARAGE SD
-http://imaxplay.net:80/AlejCord/BAGPX/19529.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/4hi7b9" group-title="ENTRETENIMIENTO",EL GOURMET  FHD
-http://imaxplay.net:80/AlejCord/BAGPX/9408.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/tk0mb" group-title="ENTRETENIMIENTO",EN | ESTRELLA TV
-http://imaxplay.net:80/AlejCord/BAGPX/51169.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/33g4m" group-title="ENTRETENIMIENTO",EN | ETC TV
-http://imaxplay.net:80/AlejCord/BAGPX/394826.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zx72z" group-title="ENTRETENIMIENTO",FOOD NETWORK FHD
-http://imaxplay.net:80/AlejCord/BAGPX/19583.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zx72z" group-title="ENTRETENIMIENTO",FOOD NETWORK HD
-http://imaxplay.net:80/AlejCord/BAGPX/9554.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="ENTRETENIMIENTO",EN | FX FHD NORTE
-http://imaxplay.net:80/AlejCord/BAGPX/242001.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="ENTRETENIMIENTO",EN | FX HD
-http://imaxplay.net:80/AlejCord/BAGPX/167656.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="ENTRETENIMIENTO",EN | FX SD SUR
-http://imaxplay.net:80/AlejCord/BAGPX/9546.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2melp" group-title="ENTRETENIMIENTO",EN | GALA TV
-http://imaxplay.net:80/AlejCord/BAGPX/54962.ts
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/634
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/uioszz" group-title="ENTRETENIMIENTO",E! ENTERTAIMENT 
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/mfxzer" group-title="ENTRETENIMIENTO",EL GARAGE 
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/4hi7b9" group-title="ENTRETENIMIENTO",EL GOURMET 
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/tk0mb" group-title="ENTRETENIMIENTO",ESTRELLA TV
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/33g4m" group-title="ENTRETENIMIENTO",ETC TV
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zx72z" group-title="ENTRETENIMIENTO",FOOD NETWORK 
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2melp" group-title="ENTRETENIMIENTO",GALA TV
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/29ta9x" group-title="ENTRETENIMIENTO",GLITZ
-http://imaxplay.net:80/AlejCord/BAGPX/54399.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/5bjxz" group-title="ENTRETENIMIENTO",HOLA TV FHD
-http://imaxplay.net:80/AlejCord/BAGPX/9397.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/5bjxz" group-title="ENTRETENIMIENTO",HOLA TV 
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yssnx" group-title="ENTRETENIMIENTO",KANAL D DRAMA
-http://imaxplay.net:80/AlejCord/BAGPX/183185.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/1d11qz" group-title="ENTRETENIMIENTO",LIFETIME HD
-http://imaxplay.net:80/AlejCord/BAGPX/19536.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/1d11qz" group-title="ENTRETENIMIENTO",LIFETIME SD
-http://imaxplay.net:80/AlejCord/BAGPX/242002.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/jr53l" group-title="ENTRETENIMIENTO",MASCHIC SD
-http://imaxplay.net:80/AlejCord/BAGPX/439827.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/jr53l" group-title="ENTRETENIMIENTO",MASCHIC 
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/cl448" group-title="ENTRETENIMIENTO",NBC UNIVERSO
-http://imaxplay.net:80/AlejCord/BAGPX/185096.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/cl448" group-title="ENTRETENIMIENTO",NBC UNIVERSO HD
-http://imaxplay.net:80/AlejCord/BAGPX/199524.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gkyzsx" group-title="ENTRETENIMIENTO",PASIONES NORTE
-http://imaxplay.net:80/AlejCord/BAGPX/439781.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gkyzsx" group-title="ENTRETENIMIENTO",PASIONES SUR
-http://imaxplay.net:80/AlejCord/BAGPX/242017.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://i.pinimg.com/originals/15/88/96/1588966d7fb28da12825edaac1ddd736.png" group-title="ENTRETENIMIENTO",EN | QUIERO MÚSICA
-http://imaxplay.net:80/AlejCord/BAGPX/19557.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",EN | SONY CHANNEL FHD
-http://imaxplay.net:80/AlejCord/BAGPX/439783.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",EN | SONY CHANNEL HD
-http://imaxplay.net:80/AlejCord/BAGPX/53039.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",EN | SONY CHANNEL SD
-http://imaxplay.net:80/AlejCord/BAGPX/211310.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e9c044f2-3aa1-4fee-94ae-5445d49a988a/delgzci-8a48149c-b3d2-4384-92aa-e37c8f329316.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U5YzA0NGYyLTNhYTEtNGZlZS05NGFlLTU0NDVkNDlhOTg4YVwvZGVsZ3pjaS04YTQ4MTQ5Yy1iM2QyLTQzODQtOTJhYS1lMzdjOGYzMjkzMTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vj5XzqytHKAhgY9rs5faxh_pS49-xEy_Rlp3pbpmE60" group-title="ENTRETENIMIENTO",EN | SONY COMEDIAS
-http://imaxplay.net:80/AlejCord/BAGPX/276162.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png" group-title="ENTRETENIMIENTO",EN | SONY COMPETENCIAS
-http://imaxplay.net:80/AlejCord/BAGPX/218342.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest/scale-to-width-down/280?cb=20220403004504" group-title="ENTRETENIMIENTO",EN | SONY NOVELAS
-http://imaxplay.net:80/AlejCord/BAGPX/276161.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="ENTRETENIMIENTO",EN | TNT NOVELAS
-http://imaxplay.net:80/AlejCord/BAGPX/542720.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="ENTRETENIMIENTO",EN | TNT SERIES NORTE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/439780.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="ENTRETENIMIENTO",EN | TNT SERIES SUR
-http://imaxplay.net:80/AlejCord/BAGPX/53054.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="ENTRETENIMIENTO",EN | TNT SERIES SUR  FHD
-http://imaxplay.net:80/AlejCord/BAGPX/9560.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es" group-title="ENTRETENIMIENTO",EN | UNICABLE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/242004.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="ENTRETENIMIENTO",EN | WARNER TV NORTE FHD
-http://imaxplay.net:80/AlejCord/BAGPX/53040.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="ENTRETENIMIENTO",EN | WARNER TV SUR
-http://imaxplay.net:80/AlejCord/BAGPX/439740.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" group-title="ENTRETENIMIENTO",EN | WARNER TV SUR SD
-http://imaxplay.net:80/AlejCord/BAGPX/53044.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/iwqsrs" group-title="ENTRETENIMIENTO",CANAL COCINA
-http://imaxplay.net:80/AlejCord/BAGPX/453809.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="ENTRETENIMIENTO",UNICABLE 
+
+
+CINE Y SERIES
+========================
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="CINE Y SERIES",A&E
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="CINE Y SERIES",A3SERIES
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="CINE Y SERIES",FX 
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/1d11qz" group-title="CINE Y SERIES",LIFETIME 
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="CINE Y SERIES",WARNER CHANNEL
+
+
+
+PACK TV
+===============================
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="PACK TV",SONY CHANNEL
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="PACK TV",SONY COMEDIAS
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="PACK TV",SONY COMPETENCIAS
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="PACK TV",SONY NOVELAS
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="PACK TV",TNT NOVELAS
+
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="PACK TV",TNT SERIES NORTE
+
+
+
+
+
+
+
+
 
