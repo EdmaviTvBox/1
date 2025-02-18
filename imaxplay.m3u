@@ -121,22 +121,20 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/65
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/601
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/zx72z" group-title="ENTRETENIMIENTO",FOOD NETWORK US
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23738
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/29ta9x" group-title="ENTRETENIMIENTO",GLITZ
-
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/5bjxz" group-title="ENTRETENIMIENTO",HOLA TV 
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/630
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/yssnx" group-title="ENTRETENIMIENTO",KANAL D DRAMA
-
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="ENTRETENIMIENTO",LAS ESTRELLAS
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/633
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/jr53l" group-title="ENTRETENIMIENTO",MASCHIC 
-
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/cl448" group-title="ENTRETENIMIENTO",NBC UNIVERSO
-
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/35368
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gkyzsx" group-title="ENTRETENIMIENTO",PASIONES NORTE
-
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/591
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gkyzsx" group-title="ENTRETENIMIENTO",PASIONES SUR
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/592
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="ENTRETENIMIENTO",UNICABLE 
-
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59567
 
 CINE Y SERIES
 ========================
