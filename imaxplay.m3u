@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET HD
-http://imaxplay.net:80/AlejCord/BAGPX/9517.ts
+https://live.sdfgnksbounce.com:8080/MTg2LjExOS42Mi40Mg==/94_4438.ts
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET NORTE
 http://imaxplay.net:80/AlejCord/BAGPX/439824.ts
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET SUR
