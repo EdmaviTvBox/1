@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET HD
-https://live.sdfgnksbounce.com:8080/MTg2LjExOS42Mi40Mg==/94_4438.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET NORTE
-http://imaxplay.net:80/AlejCord/BAGPX/439824.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET SUR
-http://imaxplay.net:80/AlejCord/BAGPX/276193.ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET SUR HD
-http://imaxplay.net:80/AlejCord/BAGPX/229242.ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET LATAM SUR
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/402
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET LATAM NORTE
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/59554
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8mxrna" group-title="CULTURA",ANIMAL PLANET US
+http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/23646
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL LAT
 http://imaxplay.net:80/AlejCord/BAGPX/186572.ts
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/pkd6s" group-title="CULTURA",DISCOVERY CHANNEL NORTE FHD
