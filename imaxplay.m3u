@@ -254,22 +254,54 @@ USA
 ========================
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",DOGTV
 http://xxip25.top:8080/46409007/19279954/53539
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",ABC SUBT
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",ABC (CC)
 http://xxip25.top:8080/46409007/19279954/22990
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",ACTIONMAX (East) DOB
 http://xxip25.top:8080/46409007/19279954/21013
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",BRAVO (East) SUBT  
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",BRAVO (East) (CC) 
 http://xxip25.top:8080/46409007/19279954/20859
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",CINEMAX (East) SUBT
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",CINEMAX (East) (CC)
 http://xxip25.top:8080/46409007/19279954/13380
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",E! Entertainment (East) SUBT
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",E! Entertainment (East) (CC)
 http://xxip25.top:8080/46409007/19279954/11651
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",FREEFORM (East) DOB
+http://xxip25.top:8080/46409007/19279954/13370
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",FXM DOB
+http://xxip25.top:8080/46409007/19279954/10260
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",GALAVISION
+http://xxip25.top:8080/46409007/19279954/58770
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",HBO DOB 
+http://xxip25.top:8080/46409007/19279954/9264
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",HBO2 DOB
+http://xxip25.top:8080/46409007/19279954/9816
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",HBO COMEDY (East) DOB
+http://xxip25.top:8080/46409007/19279954/17773
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",HBO SIGNATURE (East) DOB
+http://xxip25.top:8080/46409007/19279954/9266
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",HBO ZONE (East) DOB 
+http://xxip25.top:8080/46409007/19279954/9265
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",SHOWTIME EXTREME (East) DOB
+http://xxip25.top:8080/46409007/19279954/13220
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",SHOWTIME FAMILY (East) DOB
+http://xxip25.top:8080/46409007/19279954/13481
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",STARZ EDGE DOB 
 http://xxip25.top:8080/46409007/19279954/16143
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",STARZ ENCORE WESTERNS (East) DOB
+http://xxip25.top:8080/46409007/19279954/16263
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",SYFY (East) DOB  
+http://xxip25.top:8080/46409007/19279954/46685
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",TELEMUNDO 51 MIAMI
 http://xxip25.top:8080/46409007/19279954/56410
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",TUDN USA
+http://xxip25.top:8080/46409007/19279954/11885
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",UNIMAS  
 http://xxip25.top:8080/46409007/19279954/57969
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",UNIVISION (East)
+http://xxip25.top:8080/46409007/19279954/46692
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",WAPA AMERICA
+http://xxip25.top:8080/46409007/19279954/76481
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",WWE NETWORK
+http://xxip25.top:8080/46409007/19279954/11645
 
 CINE Y SERIES
 ========================
