@@ -13,9 +13,9 @@ http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84899
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/vino8" group-title="COLOMBIA",CARACOL CO 
 http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8483
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/n2dyv" group-title="COLOMBIA",CARACOL INTERNACIONAL CO
-http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84350
-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/990d3" group-title="COLOMBIA",CITY TV (HD)
-
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8486
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/990d3" group-title="COLOMBIA",CITY TV CO
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84904
  tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/iy3gm5" group-title="COLOMBIA",EL TRECE (HD)
 
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/9xbp7" group-title="COLOMBIA",NTN 24
@@ -24,8 +24,8 @@ http://xxip25.top:8080/46409007/19279954/78704
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/341
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gmzm0" group-title="COLOMBIA",PASIONES SUR
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/342
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/avpua" group-title="COLOMBIA",RCN (HD)
-https://zonamovie.live:8443/play/P14_AYNczdVHYf6crg9jL3rkTKpbCClnPeCiMC78KgU/ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/avpua" group-title="COLOMBIA",RCN CO
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84900
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/ueu2x" group-title="COLOMBIA",RCN INTERNACIONAL (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/347
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/f3spa7" group-title="COLOMBIA",RCN NOVELAS 
@@ -42,10 +42,10 @@ http://xxip25.top:8080/46409007/19279954/78726
 http://xxip25.top:8080/46409007/19279954/173301
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/hiemp" group-title="COLOMBIA",TELEMEDELLIN (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/355
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/7kllb" group-title="COLOMBIA",TELEPACIFICO 
-http://xxip25.top:8080/46409007/19279954/78729
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="COLOMBIA",TV AGRO
-https://zonamovie.live:8443/play/P14_AYNczdVHYf6crg9jL-K3Yn2cbScVtYX9xkb7nEg/ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/7kllb" group-title="COLOMBIA",TELEPACIFICO CO
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84912
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="COLOMBIA",TV AGRO CO
+http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8503
 
 
 SPORTS COLOMBIA
