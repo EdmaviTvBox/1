@@ -2,34 +2,24 @@
 
 COLOMBIA
 ==============================
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/mth65e" group-title="COLOMBIA",CABLE NOTICIAS (HD) »1«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/326
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/mth65e" group-title="COLOMBIA",CABLE NOTICIAS (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/mth65e" group-title="COLOMBIA",CABLE NOTICIAS
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/327
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/ohoon" group-title="COLOMBIA",CANAL CAPITAL (HD)
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/ohoon" group-title="COLOMBIA",CANAL CAPITAL
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/328
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/ta8hdj" group-title="COLOMBIA",CANAL TRO (HD)
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/ta8hdj" group-title="COLOMBIA",CANAL TRO
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/329
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/unon3" group-title="COLOMBIA",CANAL 1 (HD)
-https://stream.gia.tv/giatv/giatv-firstchannelfirstchannel/firstchannelfirstchannel/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/p78v50" group-title="COLOMBIA",CARACOL (HD) »1«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/331
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/p78v50" group-title="COLOMBIA",CARACOL (HD) »2«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/332
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/p78v50" group-title="COLOMBIA",CARACOL (HD) »3«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/333
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/p78v50" group-title="COLOMBIA",CARACOL (HD) »4«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/334
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/d3fhu3" group-title="COLOMBIA",CARACOL INTERNACIONAL (HD) »1«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/335
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/d3fhu3" group-title="COLOMBIA",CARACOL INTERNACIONAL (HD) »2«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/336
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/unon3" group-title="COLOMBIA",CANAL 1
+http://xxip25.top:8080/46409007/19279954/78698
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/p78v50" group-title="COLOMBIA",CARACOL 
+http://xxip25.top:8080/46409007/19279954/78700
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/d3fhu3" group-title="COLOMBIA",CARACOL INTERNACIONAL 
+http://xxip25.top:8080/46409007/19279954/78701
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/990d3" group-title="COLOMBIA",CITY TV (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/337
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/iy3gm5" group-title="COLOMBIA",EL TRECE (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/338
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/9xbp7" group-title="COLOMBIA",NTN 24 (HD) »1«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/339
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/9xbp7" group-title="COLOMBIA",NTN 24
+http://xxip25.top:8080/46409007/19279954/78704
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gmzm0" group-title="COLOMBIA",PASIONES (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/341
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gmzm0" group-title="COLOMBIA",PASIONES (HD) »2«
@@ -48,27 +38,28 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/347
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/348
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/bftw4" group-title="COLOMBIA",RCN NUESTRA TELE (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/349
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8k5800" group-title="COLOMBIA",SENAL COLOMBIA (HD)
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/350
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gu1ld" group-title="COLOMBIA",TELEANTIOQUIA (HD)
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/351
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2mf9kv" group-title="COLOMBIA",TELECAFE (HD)
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/352
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8k5800" group-title="COLOMBIA",SENAL COLOMBIA
+http://xxip25.top:8080/46409007/19279954/78711
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gu1ld" group-title="COLOMBIA",TELEANTIOQUIA 
+http://xxip25.top:8080/46409007/19279954/78706
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/2mf9kv" group-title="COLOMBIA",TELECAFE 
+http://xxip25.top:8080/46409007/19279954/78726
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/5kw8x" group-title="COLOMBIA",TELECARIBE (HD)
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/354
+http://xxip25.top:8080/46409007/19279954/173301
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/hiemp" group-title="COLOMBIA",TELEMEDELLIN (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/355
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/hiemp" group-title="COLOMBIA",TELEMEDELLIN (HD) »2«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/356
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/7kllb" group-title="COLOMBIA",TELEPACIFICO (HD) »1«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/357
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/7kllb" group-title="COLOMBIA",TELEPACIFICO (HD) »2«
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/358
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/7kllb" group-title="COLOMBIA",TELEPACIFICO 
+http://xxip25.top:8080/46409007/19279954/78729
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="COLOMBIA",TV AGRO
+https://zonamovie.live:8443/play/P14_AYNczdVHYf6crg9jL-K3Yn2cbScVtYX9xkb7nEg/ts
+
 
 SPORTS COLOMBIA
 ===============================
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="SPORTS COLOMBIA",ESPN COLOMBIA
 http://xxip25.top:8080/46409007/19279954/86765
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="SPORTS COLOMBIA",GOL CARACOL
+https://stream.gia.tv/giatv/giatv-Gary2CanalGary2Canal/Gary2CanalGary2Canal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="SPORTS COLOMBIA",WIN SPORTS+ (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/359
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="SPORTS COLOMBIA",WIN SPORTS+ (HD) »2«
