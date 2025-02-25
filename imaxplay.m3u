@@ -12,6 +12,8 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/329
 http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84899
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/vino8" group-title="COLOMBIA",CARACOL CO 
 http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8483
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="SPORTS COLOMBIA",CARACOL HD2
+https://stream.gia.tv/giatv/giatv-Gary2CanalGary2Canal/Gary2CanalGary2Canal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/n2dyv" group-title="COLOMBIA",CARACOL INTERNACIONAL CO
 http://imaxplay.net:80/AlbertArroyo24/MTKGD/215912
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/lc2rqb" group-title="COLOMBIA",CITY TV CO
@@ -54,8 +56,6 @@ SPORTS COLOMBIA
 ===============================
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="SPORTS COLOMBIA",ESPN COLOMBIA
 http://xxip25.top:8080/46409007/19279954/86765
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="SPORTS COLOMBIA",GOL CARACOL
-https://stream.gia.tv/giatv/giatv-Gary2CanalGary2Canal/Gary2CanalGary2Canal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="SPORTS COLOMBIA",WIN SPORTS+ (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/359
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="SPORTS COLOMBIA",WIN SPORTS+ (HD) »2«
@@ -275,6 +275,8 @@ http://xxip25.top:8080/46409007/19279954/13220
 http://xxip25.top:8080/46409007/19279954/13481
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",STARZ EDGE DOB 
 http://xxip25.top:8080/46409007/19279954/16143
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",STARZ ENCORE ESP
+http://imaxplay.net:80/AlbertArroyo24/MTKGD/166117
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",STARZ ENCORE WESTERNS (East) DOB
 http://xxip25.top:8080/46409007/19279954/16263
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="USA",SYFY (East) DOB  
