@@ -13,11 +13,11 @@ http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84899
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/vino8" group-title="COLOMBIA",CARACOL CO 
 http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8483
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/n2dyv" group-title="COLOMBIA",CARACOL INTERNACIONAL CO
-http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8486
+http://imaxplay.net:80/AlbertArroyo24/MTKGD/215912
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/990d3" group-title="COLOMBIA",CITY TV CO
 http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84904
- tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/iy3gm5" group-title="COLOMBIA",EL TRECE (HD)
-
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/iy3gm5" group-title="COLOMBIA",EL TRECE CO
+http://imaxplay.net:80/AlbertArroyo24/MTKGD/186613
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/9xbp7" group-title="COLOMBIA",NTN 24
 http://xxip25.top:8080/46409007/19279954/78704
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gmzm0" group-title="COLOMBIA",PASIONES NORTE
@@ -26,12 +26,14 @@ http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/341
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/342
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/avpua" group-title="COLOMBIA",RCN CO
 http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84900
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="COLOMBIA",RCN MAS CO
+http://imaxplay.net:80/AlbertArroyo24/MTKGD/552797
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/ueu2x" group-title="COLOMBIA",RCN INTERNACIONAL (HD)
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/347
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/f3spa7" group-title="COLOMBIA",RCN NOVELAS 
 https://zonamovie.live:8443/play/P14_AYNczdVHYf6crg9jLxx_U4HTGZHyVrDYSXwjAWg/ts
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/bftw4" group-title="COLOMBIA",RCN NUESTRA TELE 
-https://zonamovie.live:8443/play/P14_AYNczdVHYf6crg9jL3pAQScvIXrhBL4WaXL4-3A/ts
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/bftw4" group-title="COLOMBIA",RCN NUESTRA TELE CO
+http://imaxplay.net:80/AlbertArroyo24/MTKGD/55815
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/8k5800" group-title="COLOMBIA",SENAL COLOMBIA
 http://xxip25.top:8080/46409007/19279954/78711
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/gu1ld" group-title="COLOMBIA",TELEANTIOQUIA 
