@@ -2,9 +2,9 @@
 
 FAVORITOS
 ==============================
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="FAVORITOS",A&E NORTE
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/xwrbrc" group-title="FAVORITOS",A&E NORTE
 https://nxt.plus:8443/nelsonnunez/021959/43497
-#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="FAVORITOS",A&E SUR
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/xwrbrc" group-title="FAVORITOS",A&E SUR
 https://nxt.plus:8443/nelsonnunez/021959/58123
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="FAVORITOS",ANIMAL PLANET SUR ᴴᴰ
 https://nxt.plus:8443/nelsonnunez/021959/232692
