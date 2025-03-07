@@ -164,6 +164,8 @@ COLOMBIA
 http://fastream.xyz:8080/991631990tv/k346j3/326
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/nykol" group-title="COLOMBIA",CANAL CAPITAL
 http://fastream.xyz:8080/991631990tv/k346j3/328
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="COLOMBIA",CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/r9xf2" group-title="COLOMBIA",CANAL TRO
 http://fastream.xyz:8080/991631990tv/k346j3/329
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/q4q46" group-title="COLOMBIA",CANAL 1 
@@ -176,6 +178,10 @@ https://stream.gia.tv/giatv/giatv-Gary2CanalGary2Canal/Gary2CanalGary2Canal/chun
 http://fastream.xyz:8080/991631990tv/k346j3/335
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/lc2rqb" group-title="COLOMBIA",CITY TV CO
 http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/84904
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="COLOMBIA"COSMOVISION
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="" group-title="COLOMBIA"CTV 
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/deww3d" group-title="COLOMBIA",EL TRECE CO
 http://imaxplay.net:80/AlbertArroyo24/MTKGD/186613
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/llgi6a" group-title="COLOMBIA",NTN 24
@@ -205,7 +211,7 @@ http://fastream.xyz:8080/991631990tv/k346j3/353
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/vsi55" group-title="COLOMBIA",TELEMEDELLIN (HD) »1«
 http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/355
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/0oiv2" group-title="COLOMBIA",TELEPACIFICO CO
-http://fastream.xyz:8080/991631990tv/k346j3/357
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/fp10w" group-title="COLOMBIA",TV AGRO CO
 http://tv.proyectox.vip:8080/cesarpinon/pBN3H83AHd/8503
 #EXTINF:-1 tvg-id="" tvg-name="imax" tvg-logo="https://n9.cl/c2vhaz" group-title="COLOMBIA",WIN SPORTS+ 
