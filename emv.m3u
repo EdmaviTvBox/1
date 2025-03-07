@@ -1,5 +1,81 @@
 #EXTM3U
 
+=== CHILE ===
+
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",13C (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/57
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",13C (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/56
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",13 CULTURA (HD)
+http://canal-pro.xyz:8080/954177846tv/94oasy1/79
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",13 ENTRETENCIÓN (HD)
+http://canal-pro.xyz:8080/954177846tv/94oasy1/80
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",13 TELESERIES (HD)
+http://canal-pro.xyz:8080/954177846tv/94oasy1/82
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TVN (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/37
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TVN (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/35
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",MEGA (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/43
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",MEGA (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/42
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",CHV (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/47
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",CHV (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/46
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",CANAL 13 (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/51
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",CANAL 13 (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/50
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",T13 (HD)
+http://canal-pro.xyz:8080/954177846tv/94oasy1/83
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",T13 RADIO (HD)
+http://canal-pro.xyz:8080/954177846tv/94oasy1/85
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TV+ (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/62
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TV+ (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/57262
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",CNN CHILE (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/34
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",CNN CHILE (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/33
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",ZONA LATINA (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/57270
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",ZONA LATINA (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/57271
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",ETC (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/65
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",ETC (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/66
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",LA REC TV (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/60
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",LA REC TV (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/59
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TVN 3 (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/61187
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TVN 3 (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/61188
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",LA RED (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/55
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",LA RED (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/54
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",MEGA 2 (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/53
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",MEGA 2 (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/52
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TV MAS2 (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/56870
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TV MAS2 (HD) »2«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/56871
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",TELETRAK (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/57272
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mptga" group-title="CHILE",VIA-X (HD) »1«
+http://canal-pro.xyz:8080/954177846tv/94oasy1/64
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/kpszol" group-title="→ KIDS ←",Anime ZoneTV
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/7mtiu" group-title="→ KIDS ←",BABY FIRST »1«
