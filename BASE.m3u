@@ -1,10 +1,17 @@
 #EXTM3U
+⭐️KIDS⭐️
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️KIDS⭐️",PAKAPAKA  HD
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/be9ad81d-651d-4bc6-8c64-bc2744aab17c.m3u
 
 ⭐️COLOMBIA⭐️
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",EL TIEMPO
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/4ceaf6bf-7bdc-449b-bf51-c8a56e05f540.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",WIN SPORTS +  FHD
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",WIN SPORTS +  HD
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/36d0c169-0c98-4741-a454-38148ffeb3f7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",WIN SPORTS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/fef94d94-c446-4491-9065-76c5c864e159.m3u
 
 ⭐️LATAM INT⭐️
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO INT
@@ -13,6 +20,10 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/45e12d36-3b07-418f-9587-30a41e4
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/8cbe0b67-2065-4f21-822e-92a5ee6568c5.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO MIAMI 
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/a0ae2e8a-e193-4796-aa4f-f037cb68e197.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO PTO RICO
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/2f605c3d-938d-41aa-a2da-54e341146635.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNICABLE
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/ca24ba2d-b082-42ea-98df-ad918d864203.m3u
 
 ⭐️CINE Y SERIES⭐️
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/gg22n" group-title="⭐️CINE Y SERIES⭐️",A&E >>1<<
@@ -41,12 +52,8 @@ http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513116
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513117
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/e3xox8" group-title="⭐️CINE Y SERIES⭐️",CINE CANAL >>4<<
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513118
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/4qd3yq" group-title="⭐️CINE Y SERIES⭐️",CINE LATINO >>1<<
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513112
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/4qd3yq" group-title="⭐️CINE Y SERIES⭐️",CINE LATINO >>2<<
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513113
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/4qd3yq" group-title="⭐️CINE Y SERIES⭐️",CINE LATINO >>3<<
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513114
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/4qd3yq" group-title="⭐️CINE Y SERIES⭐️",CINE LATINO
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/51eef933-c856-4fe9-8a9b-c9e02c92b4eb.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/m6qesa" group-title="⭐️CINE Y SERIES⭐️",CINEMAX >>1<<
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513119
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/m6qesa" group-title="⭐️CINE Y SERIES⭐️",CINEMAX >>2<<
@@ -100,11 +107,13 @@ http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513197
 
 ⭐️CULTURAL⭐️
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",ANIMAL PLANET
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2800
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/6224856f-0628-40a6-9c2b-90c2db5b623f.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY CHANNEL
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/a9245612-2c2f-459d-bde4-751e3ff2706a.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY CIVILIZATION 
 http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2808
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY FAMILIA
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/0d3eb1e5-c4e9-4647-802a-8ae2ce07e8f3.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY H&H
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/749a80fd-b31d-4478-a088-dbc7e58ba050.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY ID
@@ -114,39 +123,39 @@ http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2811
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY SCIENCE
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/23c81864-ffba-40e9-9878-046cc22319b3.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY THEATER
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/3016
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/ff763c5c-654e-4cf3-921b-dedcc3b709cb.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY TURBO
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2813
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/69734230-1a67-41dd-8d15-8de7460fdc8d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",DISCOVERY WORLD
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2814
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/41c8d5ea-135b-4940-921d-2d2f2ced49af.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",H2 
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/3018
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/f78ce468-c9ff-462f-9e50-7f82d89c9479.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",HISTORY
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2825
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",NATGEO >>1<<
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/3659
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",NATGEO >>2<<
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2799
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/a5d69a30-8f69-44de-8e42-eb006d4174ca.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CULTURAL⭐️",NATGEO 
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/6458fd4c-89ac-4279-941e-2b3ae2903fa6.m3u
+
 
 ⭐️ENTRETENIMIENTO⭐️
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",ATRESERIES >>1<< 
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513108
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",ATRESERIES >>2<< 
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513109
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",COMEDY CENTRAL >>1<<
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2696
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",COMEDY CENTRAL >>2<<
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2805
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",PASIONES
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2827
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",COMEDY CENTRAL
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/90444c28-06f5-4574-a46b-1c425bcce22b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",DISTRITO COMEDIA
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/e233f2f1-4348-4028-b989-d77629cc6204.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",EL GOURMET
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/5f61b889-8ac7-42b1-91e6-4b6066368fe8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",HOLA TV
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/386cf9b6-460e-41bd-a8e6-e360933c4869.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️ENTRETENIMIENTO⭐️",MAS CHIC
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/8f08813f-522c-4f2e-a50a-e073931d378c.m3u
+
 
 ⭐️PREMIUM PACK⭐️
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",DE PELICULA 
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513124
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/3d2d80eb-55d3-4494-9a4d-ba798b4db1ce.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",DE PELICULA CLASICO
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513125
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/f2a8c487-4272-4732-9dbd-7b3b998eb1ae.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",DE PELICULA PLUS 
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513122
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/409eee46-94da-4157-bd97-0a6f2ea64a58.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN >>1<<
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513137
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",GOLDEN >>2<<
@@ -233,34 +242,49 @@ http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2697
 http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2694
 
 ⭐️SPORTS⭐️
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",MEX-D SP0RTS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/56c25748-c3cc-4ad6-a7b9-8d047366f771.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",PER-D SP0RTS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/8d078a0d-d5a1-4830-b667-94a4c32932b2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ESPN 
 http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2823
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ESPN 2
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2821
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ESPN 2 LATAM
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/69bb2902-2627-4e79-a544-efed31f472dd.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ESPN 3
 http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2822
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ESPN PLUS
 http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/3014
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",FOX SPORTS UHD
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2787
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",FOX SPORTS 2 UHD
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2788
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",FOX SPORTS 3 UHD
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2789
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",FOX SPORTS 3 SUR
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/3041
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/ea3acb4e-ebaa-4386-99e1-a22f87e12121.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 2
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/9a5dfb17-cd9c-4477-b1e1-a2052ffe6e56.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 3
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/dd2b0233-443e-4f2c-bfdd-368381df1ab5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/10ac7e63-1191-420f-918b-78c1586457d2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS PREMIUN
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/55f4e418-34dd-4df4-b723-85fb640d7880.m3u
 
-⭐️KIDS⭐️
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️KIDS⭐️",DISNEY CHANNEL HD
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2815
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️KIDS⭐️",DISNEY JR
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2819
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️KIDS⭐️",DISNEY XD 
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2820
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️KIDS⭐️",CARTOONITO UHD
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2802
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️KIDS⭐️",CARTOON NETWORK UHD
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2803
+
+⭐️24/7⭐️
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️24/7⭐️",Cinema Happy Madison
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/60bb05eb-9ac6-4497-85c6-9ba12197b0fa.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️24/7⭐️",Cinema DC Universe
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/a3fdb368-e383-4ce9-b4bc-900ee971d9ed.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️24/7⭐️",Cinema Marvel Studios
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/4a31a8ef-9bf7-4f4b-8627-a873e189e8fc.m3u
+
+⭐️CINEMA⭐️
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINEMA⭐️",ALQUILER 1
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/7470d474-3402-4b5d-918f-83a12ef1d3d6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINEMA⭐️",ALQUILER 2
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/d7d7e234-b1ee-4b7d-805c-6ed258ee0b09.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINEMA⭐️",ALQUILER 3
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/5c68d753-8ca0-4b30-8639-616aa4d99bc6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINEMA⭐️",ALQUILER 4
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/a21fe5e2-a9d7-402f-812d-79abd4ad744b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINEMA⭐️",ALQUILER 5
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/9ec7863a-7b85-410e-b4a0-92d993bbfb65.m3u
 
 
 
