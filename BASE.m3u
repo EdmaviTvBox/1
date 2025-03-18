@@ -36,6 +36,22 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/a0ae2e8a-e193-4796-aa4f-f037cb6
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/439a4717-0b8b-40c8-bea7-6bb9cf44ecc1.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO PTO RICO
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/2f605c3d-938d-41aa-a2da-54e341146635.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNIMAS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/20fc4271-0f41-40a7-bd44-e0981d0bb024.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNIMAS SAN ANTONIO
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/7b5b82f6-eab6-49e6-87f7-9a3f8228ce6d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNIMAS NETWORK
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/2f16047d-11d8-41db-af7c-aeac79b6359b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION SAN FRANCISC
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/b71347ee-0e73-40dd-8a3d-9ec536b80529.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION CHICAGO
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/880076b4-f808-40f7-a993-7b7291553774.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION EAST 
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/5ad29a5c-cd76-4338-a316-ccc3e8559da0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION NETWORK
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/a0de4df7-7ac2-4c95-838b-69872af0eb64.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION SACRAMENTO
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/61025cc6-c752-427b-8411-177a4e57fc9b.m3u
 
 
 ⭐️CINE Y SERIES⭐️
@@ -293,15 +309,34 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/a56c1218-1c59-43bd-a60e-b838654
 http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/3014
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/ea3acb4e-ebaa-4386-99e1-a22f87e12121.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 2 >>1<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/9a5dfb17-cd9c-4477-b1e1-a2052ffe6e56.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 2 >>2<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/e57b1245-e57b-4529-92ee-e8bab6de8c13.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 3 >>1<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/dd2b0233-443e-4f2c-bfdd-368381df1ab5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 3 >>2<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/a23e492d-5d65-482d-8cc1-95b201f4ede4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",ARG-FOX SPORTS 3 >>3<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/126c1194-0665-4092-9807-3e3ceb2d44ca.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/10ac7e63-1191-420f-918b-78c1586457d2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS PREMIUN
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS PREMIUN >>1<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/55f4e418-34dd-4df4-b723-85fb640d7880.m3u
-
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",MEX-FOX SPORTS PREMIUN >>2<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/da1c6598-8b6d-438c-98ee-808c9a7d0634.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",TUDN USA >>1<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/bb445bad-a0b6-4530-8697-8e2a150e680b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",TUDN USA >>2<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/b57bdd1f-46a8-48b4-bda8-3453555b8eed.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",TUDN VIX
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/1b0ac92c-8a97-466a-bc74-c27eab8f77a9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",TUDN MX
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/82323df3-97be-4094-9715-bb9a5244965f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",UFC CHANNEL >>1<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/fc7a5dcd-0cf7-4c31-b044-a3ac51069750.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",UFC CHANNEL >>2<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/b44cab10-e232-4185-9626-ef84e4a46bd4.m3u
 
 ⭐️24/7⭐️
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️24/7⭐️",Cinema Happy Madison
@@ -323,7 +358,13 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/a21fe5e2-a9d7-402f-812d-79abd4a
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINEMA⭐️",ALQUILER 5
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/9ec7863a-7b85-410e-b4a0-92d993bbfb65.m3u
 
-
+⭐️+21⭐️
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️+21⭐️",BRAZZERS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/6ab78695-d457-45a9-b071-94d5d900afa2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️+21⭐️",PLAYBOY
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/7d603edd-7ba3-4540-92d9-07cff17282ab.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️+21⭐️",VENUS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/1b3c9df6-88fe-4cfe-8e8b-564df6646edf.m3u
 
 
 
