@@ -40,9 +40,9 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/4ceaf6bf-7bdc-449b-bf51-c8a56e0
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/81c4da50-0803-4098-b5f8-416c0d1be389.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jlns3" group-title="⭐️COLOMBIA⭐️",NTN24
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/f95e89b4-581e-4e62-be42-1336ed0d97b0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",Pasiones HD
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",PASIONES >>1<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/2865044d-be1b-4e63-bafc-3cc860fbdb3c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",Pasiones SD
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",PASIONES >>2<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/67c5f9ac-1340-4310-b85e-76a324bd9ab8.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",RCN HD
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/c48297ef-4ee1-4077-aeb1-24c6e03897fe.m3u
@@ -96,6 +96,10 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/fef94d94-c446-4491-9065-76c5c86
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/e9f97e9e-9e1f-43d0-a578-a6cb0cb3341b.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",NUEVE
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/094fbfda-ba97-46ce-91c6-7207d18e0149.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELENOVELAS
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/8f4c1ea4-efc0-46e9-979c-b52468d811de.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELENOVELAS UNIVISION
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/2df21654-4dca-48db-b889-0292a1740548.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO INT
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/45e12d36-3b07-418f-9587-30a41e46af36.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO CHICAGO
@@ -346,6 +350,8 @@ http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513177
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513178
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>3<<
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513179
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>4<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/3c2f6760-72b3-409d-9c77-480b5b08258f.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT SERIES >>1<< 
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/8aee835e-8916-4eb0-b3ca-5847a6949278.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT SERIES >>2<< 
