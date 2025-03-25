@@ -19,13 +19,13 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/ae0a0ea8-171e-4954-be8f-e764446
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/tsqv8" group-title="⭐️COLOMBIA⭐️",Canal Uno >>2<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/5083f7bc-71da-40a5-8c0d-e4e76c8b4fc2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/3qrtx" group-title="⭐️COLOMBIA⭐️",CARACOL >>1<<
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/88de25f2-c063-4fcb-bbdc-735bde8fa89d.m3u
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/71671e7c-6b46-4ac3-8beb-be80fc273e56.m3u  
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/3qrtx" group-title="⭐️COLOMBIA⭐️",CARACOL >>2<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/f4b56c03-75ac-417f-a2cb-71c6f6c3a3d0.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/3qrtx" group-title="⭐️COLOMBIA⭐️",CARACOL >>3<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/d43e9fab-711f-4f6f-8704-4476eb880ecd.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/nl2u1r" group-title="⭐️COLOMBIA⭐️",CARACOL HD2
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/71671e7c-6b46-4ac3-8beb-be80fc273e56.m3u
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/88de25f2-c063-4fcb-bbdc-735bde8fa89d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/y1j8i" group-title="⭐️COLOMBIA⭐️",CARACOL INT >>1<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/283197ee-f929-48af-83b5-aa933a95a67c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/y1j8i" group-title="⭐️COLOMBIA⭐️",CARACOL INT >>2<<
@@ -92,40 +92,25 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/8666ab3d-8886-4d5a-bb36-1906cab
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/fef94d94-c446-4491-9065-76c5c864e159.m3u
 
 ⭐️LATAM INT⭐️
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bgwk6" group-title="⭐️LATAM INT⭐️",ESPN DEPORTES
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/e9f97e9e-9e1f-43d0-a578-a6cb0cb3341b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",NUEVE
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/b16jl" group-title="⭐️LATAM INT⭐️",GALAVISION
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/701809d3-064a-412d-ba2f-2efc511ae46c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/c04gjw" group-title="⭐️LATAM INT⭐️",NUEVE
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/094fbfda-ba97-46ce-91c6-7207d18e0149.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELENOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TL NOVELAS UNV
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/8f4c1ea4-efc0-46e9-979c-b52468d811de.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELENOVELAS UNIVISION
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/2df21654-4dca-48db-b889-0292a1740548.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO INT
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/45e12d36-3b07-418f-9587-30a41e46af36.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO CHICAGO
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/b29wp" group-title="⭐️LATAM INT⭐️",TELEMUNDO
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/8cbe0b67-2065-4f21-822e-92a5ee6568c5.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO MIAMI 
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/a0ae2e8a-e193-4796-aa4f-f037cb68e197.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO NEW YORK
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/439a4717-0b8b-40c8-bea7-6bb9cf44ecc1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",TELEMUNDO PTO RICO
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/b6zoi" group-title="⭐️LATAM INT⭐️",TELEMUNDO INT
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/45e12d36-3b07-418f-9587-30a41e46af36.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/vqwir" group-title="⭐️LATAM INT⭐️",TELEMUNDO PTO RICO
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/2f605c3d-938d-41aa-a2da-54e341146635.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNIMAS
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/20fc4271-0f41-40a7-bd44-e0981d0bb024.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNIMAS SAN ANTONIO
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/rm577" group-title="⭐️LATAM INT⭐️",UNIMAS
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/7b5b82f6-eab6-49e6-87f7-9a3f8228ce6d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNIMAS NETWORK
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/2f16047d-11d8-41db-af7c-aeac79b6359b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION SAN FRANCISC
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/inmxq" group-title="⭐️LATAM INT⭐️",UNVISION
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/b71347ee-0e73-40dd-8a3d-9ec536b80529.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION CHICAGO
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/880076b4-f808-40f7-a993-7b7291553774.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION EAST 
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/5ad29a5c-cd76-4338-a316-ccc3e8559da0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION NETWORK
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/a0de4df7-7ac2-4c95-838b-69872af0eb64.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️LATAM INT⭐️",UNVISION SACRAMENTO
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/61025cc6-c752-427b-8411-177a4e57fc9b.m3u
+
 
 
 ⭐️CINE Y SERIES⭐️
