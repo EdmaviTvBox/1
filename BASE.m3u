@@ -56,8 +56,6 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/e28340d9-a6b8-4183-aaa2-d41b699
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/639c791a-a3c2-4267-a09e-67f8d4806013.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/he2er" group-title="⭐️COLOMBIA⭐️",EL TIEMPO
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/4ceaf6bf-7bdc-449b-bf51-c8a56e05f540.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/8su7p" group-title="⭐️COLOMBIA⭐️",ESPN COL
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/81c4da50-0803-4098-b5f8-416c0d1be389.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jlns3" group-title="⭐️COLOMBIA⭐️",NTN24
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/f95e89b4-581e-4e62-be42-1336ed0d97b0.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/zrpxb" group-title="⭐️COLOMBIA⭐️",PASIONES >>1<<
@@ -100,6 +98,20 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/94113de9-481b-4186-9c6f-c1e166f
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/878c31e1-d1b4-4488-9186-bc6af3826346.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/u91j6" group-title="⭐️COLOMBIA⭐️",Telepacifico
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/de16bfa6-8a2e-4a19-9030-702946928fb2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/8su7p" group-title="⭐️COLOMBIA⭐️",DIRECTV SPORT+ CO
+http://playtv44.com:8080/scuevas757/123123/218962
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/8su7p" group-title="⭐️COLOMBIA⭐️",DIRECTV SPORTS 2 CO
+http://playtv44.com:8080/scuevas757/123123/218963
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/8su7p" group-title="⭐️COLOMBIA⭐️",ESPN CO
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/81c4da50-0803-4098-b5f8-416c0d1be389.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",ESPN 2 CO
+http://playtv44.com:8080/scuevas757/123123/218970
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",ESPN 3 CO
+http://playtv44.com:8080/scuevas757/123123/218971
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",FOX SPORTS 2 CO
+http://playtv44.com:8080/scuevas757/123123/218973
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",FOX SPORTS 3 CO
+http://playtv44.com:8080/scuevas757/123123/218974
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",WIN SPORTS+ >>1<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/58cd8d4d-1881-45c1-9c7a-f65ffa2b7469.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/d8698" group-title="⭐️COLOMBIA⭐️",WIN SPORTS+ >>2<<
@@ -110,6 +122,8 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/36d0c169-0c98-4741-a454-38148ff
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/8666ab3d-8886-4d5a-bb36-1906cab98e5b.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/dmmuk" group-title="⭐️COLOMBIA⭐️",WIN SPORTS >>2<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/fef94d94-c446-4491-9065-76c5c864e159.m3u
+
+
 
 ⭐️LATAM INT⭐️
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/bgwk6" group-title="⭐️LATAM INT⭐️",ESPN DEPORTES
@@ -385,12 +399,8 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/d3e92a6e-208d-461f-b7b6-e70e9f3
 http://playtv44.com:8080/scuevas757/123123/52754
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",CLARO SPORTS MEX
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/b5af28fb-1df5-46fe-b8e5-ba85a9aff850.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",CLARO SPORTS GT >>1<<
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/abcaa446-3b26-4414-b159-0c3febea0573.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",CLARO SPORTS GT >>2<<
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",CLARO SPORTS GT 
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/2b2ecc90-366a-4856-a4d2-d630cd41e217.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",CLARO SPORTS  2
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/c42c0083-30c6-4f8c-af6a-745b2a96dd43.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",LAT-D SPORTS >>1<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/e0e151cb-86c8-4b8b-a47c-6848d0dfab4d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️SPORTS⭐️",LAT-D SPORTS >>2<<
