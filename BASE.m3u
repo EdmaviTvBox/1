@@ -131,6 +131,8 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/e9f97e9e-9e1f-43d0-a578-a6cb0cb
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/701809d3-064a-412d-ba2f-2efc511ae46c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/c04gjw" group-title="⭐️LATAM INT⭐️",NUEVE
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/094fbfda-ba97-46ce-91c6-7207d18e0149.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/c04gjw" group-title="⭐️LATAM INT⭐️",STAR TVE
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/bb6f327c-86cb-44cc-a82a-4cc3e586c22a.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/1g9fk" group-title="⭐️LATAM INT⭐️",TL NOVELAS UNV
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/8f4c1ea4-efc0-46e9-979c-b52468d811de.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/b29wp" group-title="⭐️LATAM INT⭐️",TELEMUNDO
@@ -159,10 +161,12 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/7150992d-360a-48d1-a06a-0c2b703
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/ad227b23-ca59-4582-a9f3-b2f6c40d19d9.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/a56c8d" group-title="⭐️CINE Y SERIES⭐️",AXN ESPAÑA
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/533d88f0-ac2c-4d50-ba8f-a542522b045d.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/e3xox8" group-title="⭐️CINE Y SERIES⭐️",CINE CANAL >>1<<
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/e3xox8" group-title="⭐️CINE Y SERIES⭐️",CINE CANAL
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/0fe88a29-dcd2-4128-ac7f-1ad34d5beed6.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/e3xox8" group-title="⭐️CINE Y SERIES⭐️",CINE CANAL >>2<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/70b1b9e5-b03b-43ec-880b-8be08f732245.m3u
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/e3xox8" group-title="⭐️CINE Y SERIES⭐️",CINE CANAL >>2<<
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/2c4ca91d-d6d2-4379-a6a6-973a4cfbbb92.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/4qd3yq" group-title="⭐️CINE Y SERIES⭐️",CINE LATINO
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/51eef933-c856-4fe9-8a9b-c9e02c92b4eb.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/m6qesa" group-title="⭐️CINE Y SERIES⭐️",CINEMAX 
@@ -352,9 +356,9 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/24452204-be7b-4f9a-83b3-846e14c
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO PLUS >>2<< 
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/ca5dcb90-0296-4659-be12-d0dcdbf5e5cd.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO POP 
-http://2.magmas5.com:8000/RestreamByDx04/0003xxx92Lqmm/2795
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/e543eb4f-05f0-466c-9ac1-899431d3829d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO SIGNATURE >>1<<  
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513154
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/4fc23356-9bcf-4002-bfaa-bc1cd54ebfee.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO XTREME >>1<<  
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/e543eb4f-05f0-466c-9ac1-899431d3829d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",HBO XTREME >>1<<  
@@ -362,11 +366,7 @@ http://playtv44.com:8080/scuevas757/123123/39371
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",SONY MOVIES
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/1294434b-7c26-4f50-b684-acd9523e7aaf.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT >>1<<
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/0ec8b54c-3cfa-418d-91c4-da0051bfa67c.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT >>2<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/cbfc2164-b472-4dd1-8ee0-4f6b21df3cc6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT >>3<<
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/8fe101be-d9a7-472f-841f-4fb69545f049.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>1<<
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513177
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>2<< 
@@ -375,14 +375,8 @@ http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513178
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513179
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT NOVELAS >>4<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/3c2f6760-72b3-409d-9c77-480b5b08258f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT SERIES >>1<< 
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/8aee835e-8916-4eb0-b3ca-5847a6949278.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT SERIES >>2<< 
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT SERIES  
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/a200f1bc-c4d0-48ab-85b0-1b852e9dd51f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",TNT SERIES >>3<<
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/55fa32ed-5e06-4bfb-8a55-e77c3005ae7f.m3u
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",UNIVERSAL CINEMA
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/8729b215-68a2-4707-b97a-5fed85beac8d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",UNIVERSAL COMEDY
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/a44e5c68-a49f-4c46-86d8-6003bbe9028c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️PREMIUM PACK⭐️",UNIVERSAL CRIME 
