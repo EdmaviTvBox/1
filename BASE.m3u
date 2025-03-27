@@ -21,16 +21,30 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/693da763-cf2c-4cc8-80f4-ac80759
 
 
 ⭐️COLOMBIA⭐️
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",CANAL TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/live-1500/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",MULTICANAL
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CALI TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w401104847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CANAL CAPITAL
+https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CANAL TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/live-900/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",LIFE FIT
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/4833666e-e766-43d4-a401-26ace1400150/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",MULTICANAL
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/multicanal/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/u91j6" group-title="⭐️COLOMBIA⭐️",TELEPACIFICO
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",OASIS TV
+https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w2127137545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TDI COLOMBIA
+https://streaming.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/u91j6" group-title="⭐️COLOMBIA TV⭐️",TELEPACIFICO
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",TU UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TU UNIVERSO
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w1588350642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA⭐️",TV FAMILIA
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TV FAMILIA
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1483290274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TV GRACIA
+https://streamyes.alsolnet.com/tvgracia/live/chunklist_w177717373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",ZOOM
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/z3ioyz" group-title="⭐️COLOMBIA⭐️",Cable Noticias >>1<<
 http://mundo2.pro:80/live/NNE5379khh/playec356nm/cbd098e1-6c73-4d5e-8ad8-9c498d9c98b2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/z3ioyz" group-title="⭐️COLOMBIA⭐️",Cable Noticias >>2<<
