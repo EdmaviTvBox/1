@@ -25,6 +25,8 @@ http://mundo2.pro:80/live/NNE5379khh/playec356nm/693da763-cf2c-4cc8-80f4-ac80759
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w401104847.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CANAL CAPITAL
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",CANAL TRO
 https://liveingesta118.cdnmedia.tv/canaltro2live/live-900/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",LIFE FIT
@@ -33,6 +35,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/multicanal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",OASIS TV
 https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w2127137545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/sc02k" group-title="⭐️COLOMBIA⭐️",RCTV INFORMATIVO
+https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/sc02k" group-title="⭐️COLOMBIA⭐️",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TDI COLOMBIA
