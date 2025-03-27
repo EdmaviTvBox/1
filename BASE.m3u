@@ -33,6 +33,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/multicanal/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",OASIS TV
 https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w2127137545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/sc02k" group-title="⭐️COLOMBIA⭐️",SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️COLOMBIA TV⭐️",TDI COLOMBIA
 https://streaming.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/u91j6" group-title="⭐️COLOMBIA TV⭐️",TELEPACIFICO
