@@ -1,35 +1,16 @@
 #EXTM3U
 === COLOMBIA ===
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CARACOL »1«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/332
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CARACOL »2«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/335
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN »1«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/343
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN »2«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/346
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN NUESTRA TELE 
-http://canal-pro.xyz:8080/954177846tv/94oasy1/349
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN INTERNACIONAL 
-http://canal-pro.xyz:8080/954177846tv/94oasy1/347
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN NOVELAS 
-http://canal-pro.xyz:8080/954177846tv/94oasy1/348
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELECARIBE »1«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/353
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELECARIBE »2«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/354
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CABLE NOTICIAS »1«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/326
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CABLE NOTICIAS »2«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/327
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",NTN 24 »1«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/339
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",NTN 24 »2«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/340
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",PASIONES »1«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/341
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",PASIONES »2«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/342
+
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN SD
+http://190.2.212.209:8050/play/a0lt
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN NOVELAS
+http://190.2.212.209:8050/play/a0ox
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN MAS
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELECARIBE SD
+http://190.2.212.209:8050/play/a0nc
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEPACIFICO »1«
 http://canal-pro.xyz:8080/954177846tv/94oasy1/357
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEPACIFICO »2«
@@ -205,7 +186,7 @@ http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/54430
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/9cq8x" group-title="→ KIDS ←",BABY TV »3«
 http://directo.ddns.me:2082/Laura/11qq/2467
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/bx540v" group-title="→ KIDS ←",BITME >>1<<
-http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/24141
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/bx540v" group-title="→ KIDS ←",BITME >>2<<
 http://directo.ddns.me:2082/Laura/11qq/55394
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/s36m4" group-title="→ KIDS ←",BOING >>1<<
