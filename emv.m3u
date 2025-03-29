@@ -1,5 +1,7 @@
 #EXTM3U
 === SPORTS ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="SPORTS",ESPN CO
+https://b2zmawnpyww.fubohd.com/espn/mono.m3u8?token=fd0181b8994919f5b0a4e89b272ff13fc6907ade-44-1743300519-1743264519
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="SPORTS",ESPN ARG
 https://cbado.pricesaskeloadsc.com/espn/tracks-v1a1/mono.m3u8?token=5ab475f0cf262bade0bca05476936ecc130d2036-a2-1743285268-1743252868
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/x06vr" group-title="SPORTS",ESPN 2
@@ -8,6 +10,8 @@ https://bcja.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=2ce8e9a7b080
 https://florcd.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=ecfd0b9f62e2c71858a445a4ecb8c5bd389d869e-c5-1743285658-1743253258
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fnjni" group-title="SPORTS",ESPN 4
 https://florcd.pricesaskeloadsc.com/espn4/tracks-v1a1/mono.m3u8?token=a479d7cc39ddf5a8d5afe75049c23919086e2080-07-1743287144-1743254744
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fnjni" group-title="SPORTS",ESPN 4 MX
+https://98ca.pricesaskeloadsc.com/espn4mx/tracks-v1a1/mono.m3u8?token=478e0e99982cab5616444ca3af79dccc4420344e-77-1743288726-1743256326
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/dlnlo2" group-title="SPORTS",ESPN 5
 https://u4c5a.pricesaskeloadsc.com/espn5/tracks-v1a1/mono.m3u8?token=6c99558860890e3b18f3fa9021f6cdfef862e2f0-88-1743287803-1743255403
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/l1yyt" group-title="SPORTS",ESPN DEPORTES
@@ -22,37 +26,48 @@ https://am91cm5leq.fubohd.com/winsports2/mono.m3u8?token=90c58ca884184cd4de02a77
 https://57b.pricesaskeloadsc.com/fox1ar/tracks-v1a1/mono.m3u8?token=1614e7a72c90dc173227779c3876357fecf67eef-31-1743285131-1743252731
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a0y00" group-title="SPORTS",FOX DEPORTES
 https://bmv3.fubohd.com/foxdeportes/mono.m3u8?token=44db6fd19ef5cfef59177d076d206ff33b4bc439-3d-1743297926-1743261926
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="EMV",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",FOX SPORTS PREMIUM MX
+https://lae.pricesaskeloadsc.com/foxsportspremium/tracks-v1a1/mono.m3u8?token=7319578c4a3350806bb7d92bf5dcb93fff65ab59-62-1743288587-1743256187
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/avb54" group-title="SPORTS",D SPORTS
 https://bwfrzq.pelotahd.com/dsports/mono.m3u8?token=ee44db3cd48359e8869b7e07f51f7890838d24b6-72-1743298183-1743262183
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/xa7uax" group-title="SPORTS",D SPORTS 2
+https://vadp.pricesaskeloadsc.com/dsports2/tracks-v1a1/mono.m3u8?token=46758a6ee3a8c6c2b4032871f327a1a83ba7c44b-e7-1743289514-1743257114
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/bqsauz" group-title="SPORTS",D SPORTS +
+https://am91cm5leq.fubohd.com/dsportsplus/mono.m3u8?token=03a25b32acef1e44ef9ecb9149ca31975492fd47-e0-1743302120-1743266120
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/9i1keh" group-title="SPORTS",TUDN
 https://8c5.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=33dee863acf810eabed939047a964816c1a5240c-f4-1743287960-1743255560
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hyqgd" group-title="SPORTS",CALIENTE TV
 https://lae.pricesaskeloadsc.com/calientetvmx/tracks-v1a1/mono.m3u8?token=0b144ed76334575543403e5042a9438864c7bc02-26-1743286949-1743254549
+
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
-
-
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
 
 === VARIEDADES ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/nx541" group-title="VARIEDADES",CANAL 5 MEX
 https://14c5.pricesaskeloadsc.com/canal5mx/tracks-v1a1/mono.m3u8?token=8584f8d242650515ade5ff56a6256848af2e62bc-16-1743288360-1743255960
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/xaosbq" group-title="VARIEDADES",GEN
+https://57b.pricesaskeloadsc.com/eventos5/tracks-v1a1/mono.m3u8?token=7ddc892631a96bbf43fc7cd5ec0bc08b5ddc4f92-42-1743289238-1743256838
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/k6tco" group-title="VARIEDADES",UNIVERSO
+https://bgvnzw5k.fubohd.com/universo/mono.m3u8?token=6da1500495bdf0699da457312100dae202ff24b4-6a-1743300709-1743264709
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/b6ua7q" group-title="VARIEDADES",UNIVISION
 https://57b.pricesaskeloadsc.com/univision_usa/tracks-v1a1/mono.m3u8?token=678650d0109fbb953a71bc2a244cccbceeb11b4c-96-1743288087-1743255687
+
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
-
-
 
 === COLOMBIA ===
 
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CARACOL NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i7a4f" group-title="COLOMBIA",CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN SD
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/59aa0" group-title="COLOMBIA",RCN SD
 http://190.2.212.209:8050/play/a0lt
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gv2av" group-title="COLOMBIA",RCN NOVELAS
 http://190.2.212.209:8050/play/a0ox
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",RCN MAS
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/77xx94" group-title="COLOMBIA",RCN MAS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELECARIBE SD
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/41wht0" group-title="COLOMBIA",TELECARIBE SD
 http://190.2.212.209:8050/play/a0nc
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEPACIFICO »1«
 http://canal-pro.xyz:8080/954177846tv/94oasy1/357
