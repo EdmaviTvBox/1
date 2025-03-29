@@ -1,4 +1,26 @@
 #EXTM3U
+=== EMV ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="EMV",ESPN ARG
+https://cbado.pricesaskeloadsc.com/espn/tracks-v1a1/mono.m3u8?token=5ab475f0cf262bade0bca05476936ecc130d2036-a2-1743285268-1743252868
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/x06vr" group-title="EMV",ESPN 2
+https://bcja.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=2ce8e9a7b0808929c0b6ff6da901988bcc20faea-be-1743286109-1743253709
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/2rlbx" group-title="EMV",ESPN 3
+https://florcd.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=ecfd0b9f62e2c71858a445a4ecb8c5bd389d869e-c5-1743285658-1743253258
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/l1yyt" group-title="EMV",ESPN DEPORTES
+https://51a.pricesaskeloadsc.com/espndeportes/tracks-v1a1/mono.m3u8?token=b21a8a7c185ed4f004060c51ce74fa693304196d-e3-1743285828-1743253428
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vers8" group-title="EMV",ESPN PREMIUN
+https://cale.pricesaskeloadsc.com/espnpremium/tracks-v1a1/mono.m3u8?token=d98f58f045c15f3a5c274075ab56ddcef6aa3a7a-0e-1743284650-1743252250
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="EMV",WIN+ SPORTS
+https://c2f2zq.fubohd.com/winsports2/mono.m3u8?token=06104da23988dc8d6fc56b0d7c290675548437d9-bc-1743296722-1743260722
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/coiag" group-title="EMV",FOX SPORT ARG
+https://57b.pricesaskeloadsc.com/fox1ar/tracks-v1a1/mono.m3u8?token=1614e7a72c90dc173227779c3876357fecf67eef-31-1743285131-1743252731
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a0y00" group-title="EMV",FOX DEPORTES
+https://bmv3.fubohd.com/foxdeportes/mono.m3u8?token=44db6fd19ef5cfef59177d076d206ff33b4bc439-3d-1743297926-1743261926
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="EMV",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/avb54" group-title="EMV",D SPORTS
+https://bwfrzq.pelotahd.com/dsports/mono.m3u8?token=ee44db3cd48359e8869b7e07f51f7890838d24b6-72-1743298183-1743262183
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="EMV",
+
 === COLOMBIA ===
 
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CARACOL NOTICIAS
