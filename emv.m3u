@@ -1,5 +1,13 @@
 #EXTM3U
 === SPORTS ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a7hce" group-title="SPORTS",WIN SPORTS
+https://bgvnzw5k.fubohd.com/winsports/mono.m3u8?token=73449665301a4b575bc4f02fa785fa94c4a5057c-64-1743303581-1743267581
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a7hce" group-title="SPORTS",WIN SPORTS OP2
+https://24a.pricesaskeloadsc.com/winsports/tracks-v1a1/mono.m3u8?token=5c48c09d1055ef7c63bc5a64ba2d0cca70a27c2f-c5-1743291942-1743259542
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS
+https://c2f2zq.fubohd.com/winsports2/mono.m3u8?token=06104da23988dc8d6fc56b0d7c290675548437d9-bc-1743296722-1743260722
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS OP2
+https://am91cm5leq.fubohd.com/winsports2/mono.m3u8?token=90c58ca884184cd4de02a7721a394b89b72da30d-b2-1743299344-1743263344
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="SPORTS",ESPN CO
 https://b2zmawnpyww.fubohd.com/espn/mono.m3u8?token=fd0181b8994919f5b0a4e89b272ff13fc6907ade-44-1743300519-1743264519
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="SPORTS",ESPN ARG
@@ -20,10 +28,6 @@ https://a2vlca.fubohd.com/espn7/mono.m3u8?token=2dfe7c5eb4a54ec0a7e35ef9b7f9e074
 https://51a.pricesaskeloadsc.com/espndeportes/tracks-v1a1/mono.m3u8?token=b21a8a7c185ed4f004060c51ce74fa693304196d-e3-1743285828-1743253428
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vers8" group-title="SPORTS",ESPN PREMIUN
 https://cale.pricesaskeloadsc.com/espnpremium/tracks-v1a1/mono.m3u8?token=d98f58f045c15f3a5c274075ab56ddcef6aa3a7a-0e-1743284650-1743252250
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS
-https://c2f2zq.fubohd.com/winsports2/mono.m3u8?token=06104da23988dc8d6fc56b0d7c290675548437d9-bc-1743296722-1743260722
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS OP2
-https://am91cm5leq.fubohd.com/winsports2/mono.m3u8?token=90c58ca884184cd4de02a7721a394b89b72da30d-b2-1743299344-1743263344
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/coiag" group-title="SPORTS",FOX SPORT ARG
 https://57b.pricesaskeloadsc.com/fox1ar/tracks-v1a1/mono.m3u8?token=1614e7a72c90dc173227779c3876357fecf67eef-31-1743285131-1743252731
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vn5giw" group-title="SPORTS",FOX SPORTS 2 ARG
@@ -51,11 +55,19 @@ https://8c5.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=33dee863ac
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hyqgd" group-title="SPORTS",CALIENTE TV
 https://lae.pricesaskeloadsc.com/calientetvmx/tracks-v1a1/mono.m3u8?token=0b144ed76334575543403e5042a9438864c7bc02-26-1743286949-1743254549
 
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
+
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
 
+=== CULTURA ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
+https://live.sdfgnksbounce.com:8080/MTgxLjIzNi4xNTYuMTI=/95_.m3u8?token=4jevToSUy5QD94EjqoAmiA&expires=1743283095
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
 
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
 === VARIEDADES ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/nx541" group-title="VARIEDADES",CANAL 5 MEX
 https://14c5.pricesaskeloadsc.com/canal5mx/tracks-v1a1/mono.m3u8?token=8584f8d242650515ade5ff56a6256848af2e62bc-16-1743288360-1743255960
@@ -509,8 +521,7 @@ http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/404
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/405
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/pkd6s" group-title="→ CULTURA ←",DISCOVERY (HD) ESP
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/12376
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/pkd6s" group-title="→ CULTURA ←",DISCOVERY CHANNEL (HD) »1«
-http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/406
+
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/pkd6s" group-title="→ CULTURA ←",DISCOVERY CHANNEL (HD) »2«
 http://fastream.xyz:8080/53hawu39qa54te87/95wame27puce82/407
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/pkd6s" group-title="→ CULTURA ←",DISCOVERY CHANNEL (HD) »3«
