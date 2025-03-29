@@ -68,7 +68,14 @@ https://live.sdfgnksbounce.com:8080/MTgxLjIzNi4xNTYuMTI=/95_.m3u8?token=4jevToSU
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
+
 === VARIEDADES ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/see7i3" group-title="VARIEDADES",AZTECA CLIC
+https://stream.ads.ottera.tv/cl/250329cvk2tuseve57vsfa1l00/854x480_1284800_2_f.m3u8?i=728_4827
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/znb30" group-title="VARIEDADES",AZTECA CORAZON
+https://stream.ads.ottera.tv/cl/250329cvk2soaj63qn5noalp2g/854x480_1284536_2_f.m3u8?i=475_4830
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hszyu" group-title="VARIEDADES",AZTECA UNO
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/nx541" group-title="VARIEDADES",CANAL 5 MEX
 https://14c5.pricesaskeloadsc.com/canal5mx/tracks-v1a1/mono.m3u8?token=8584f8d242650515ade5ff56a6256848af2e62bc-16-1743288360-1743255960
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/xaosbq" group-title="VARIEDADES",GEN
@@ -78,8 +85,13 @@ https://bgvnzw5k.fubohd.com/universo/mono.m3u8?token=6da1500495bdf0699da45731210
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/b6ua7q" group-title="VARIEDADES",UNIVISION
 https://57b.pricesaskeloadsc.com/univision_usa/tracks-v1a1/mono.m3u8?token=678650d0109fbb953a71bc2a244cccbceeb11b4c-96-1743288087-1743255687
 
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
 === COLOMBIA ===
 
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i7a4f" group-title="COLOMBIA",CARACOL NOTICIAS
