@@ -1,25 +1,46 @@
 #EXTM3U
-=== EMV ===
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="EMV",ESPN ARG
+=== SPORTS ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="SPORTS",ESPN ARG
 https://cbado.pricesaskeloadsc.com/espn/tracks-v1a1/mono.m3u8?token=5ab475f0cf262bade0bca05476936ecc130d2036-a2-1743285268-1743252868
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/x06vr" group-title="EMV",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/x06vr" group-title="SPORTS",ESPN 2
 https://bcja.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=2ce8e9a7b0808929c0b6ff6da901988bcc20faea-be-1743286109-1743253709
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/2rlbx" group-title="EMV",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/2rlbx" group-title="SPORTS",ESPN 3
 https://florcd.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=ecfd0b9f62e2c71858a445a4ecb8c5bd389d869e-c5-1743285658-1743253258
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/l1yyt" group-title="EMV",ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fnjni" group-title="SPORTS",ESPN 4
+https://florcd.pricesaskeloadsc.com/espn4/tracks-v1a1/mono.m3u8?token=a479d7cc39ddf5a8d5afe75049c23919086e2080-07-1743287144-1743254744
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/dlnlo2" group-title="SPORTS",ESPN 5
+https://u4c5a.pricesaskeloadsc.com/espn5/tracks-v1a1/mono.m3u8?token=6c99558860890e3b18f3fa9021f6cdfef862e2f0-88-1743287803-1743255403
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/l1yyt" group-title="SPORTS",ESPN DEPORTES
 https://51a.pricesaskeloadsc.com/espndeportes/tracks-v1a1/mono.m3u8?token=b21a8a7c185ed4f004060c51ce74fa693304196d-e3-1743285828-1743253428
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vers8" group-title="EMV",ESPN PREMIUN
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vers8" group-title="SPORTS",ESPN PREMIUN
 https://cale.pricesaskeloadsc.com/espnpremium/tracks-v1a1/mono.m3u8?token=d98f58f045c15f3a5c274075ab56ddcef6aa3a7a-0e-1743284650-1743252250
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="EMV",WIN+ SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS
 https://c2f2zq.fubohd.com/winsports2/mono.m3u8?token=06104da23988dc8d6fc56b0d7c290675548437d9-bc-1743296722-1743260722
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/coiag" group-title="EMV",FOX SPORT ARG
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS OP2
+https://am91cm5leq.fubohd.com/winsports2/mono.m3u8?token=90c58ca884184cd4de02a7721a394b89b72da30d-b2-1743299344-1743263344
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/coiag" group-title="SPORTS",FOX SPORT ARG
 https://57b.pricesaskeloadsc.com/fox1ar/tracks-v1a1/mono.m3u8?token=1614e7a72c90dc173227779c3876357fecf67eef-31-1743285131-1743252731
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a0y00" group-title="EMV",FOX DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a0y00" group-title="SPORTS",FOX DEPORTES
 https://bmv3.fubohd.com/foxdeportes/mono.m3u8?token=44db6fd19ef5cfef59177d076d206ff33b4bc439-3d-1743297926-1743261926
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="EMV",
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/avb54" group-title="EMV",D SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/avb54" group-title="SPORTS",D SPORTS
 https://bwfrzq.pelotahd.com/dsports/mono.m3u8?token=ee44db3cd48359e8869b7e07f51f7890838d24b6-72-1743298183-1743262183
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="EMV",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/9i1keh" group-title="SPORTS",TUDN
+https://8c5.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=33dee863acf810eabed939047a964816c1a5240c-f4-1743287960-1743255560
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hyqgd" group-title="SPORTS",CALIENTE TV
+https://lae.pricesaskeloadsc.com/calientetvmx/tracks-v1a1/mono.m3u8?token=0b144ed76334575543403e5042a9438864c7bc02-26-1743286949-1743254549
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
+
+
+
+=== VARIEDADES ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/nx541" group-title="VARIEDADES",CANAL 5 MEX
+https://14c5.pricesaskeloadsc.com/canal5mx/tracks-v1a1/mono.m3u8?token=8584f8d242650515ade5ff56a6256848af2e62bc-16-1743288360-1743255960
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/b6ua7q" group-title="VARIEDADES",UNIVISION
+https://57b.pricesaskeloadsc.com/univision_usa/tracks-v1a1/mono.m3u8?token=678650d0109fbb953a71bc2a244cccbceeb11b4c-96-1743288087-1743255687
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
+
+
 
 === COLOMBIA ===
 
