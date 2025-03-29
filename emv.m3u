@@ -14,6 +14,8 @@ https://florcd.pricesaskeloadsc.com/espn4/tracks-v1a1/mono.m3u8?token=a479d7cc39
 https://98ca.pricesaskeloadsc.com/espn4mx/tracks-v1a1/mono.m3u8?token=478e0e99982cab5616444ca3af79dccc4420344e-77-1743288726-1743256326
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/dlnlo2" group-title="SPORTS",ESPN 5
 https://u4c5a.pricesaskeloadsc.com/espn5/tracks-v1a1/mono.m3u8?token=6c99558860890e3b18f3fa9021f6cdfef862e2f0-88-1743287803-1743255403
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/paso0" group-title="SPORTS",ESPN 7
+https://a2vlca.fubohd.com/espn7/mono.m3u8?token=2dfe7c5eb4a54ec0a7e35ef9b7f9e074805802e7-b7-1743302430-1743266430
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/l1yyt" group-title="SPORTS",ESPN DEPORTES
 https://51a.pricesaskeloadsc.com/espndeportes/tracks-v1a1/mono.m3u8?token=b21a8a7c185ed4f004060c51ce74fa693304196d-e3-1743285828-1743253428
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vers8" group-title="SPORTS",ESPN PREMIUN
@@ -22,12 +24,22 @@ https://cale.pricesaskeloadsc.com/espnpremium/tracks-v1a1/mono.m3u8?token=d98f58
 https://c2f2zq.fubohd.com/winsports2/mono.m3u8?token=06104da23988dc8d6fc56b0d7c290675548437d9-bc-1743296722-1743260722
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS OP2
 https://am91cm5leq.fubohd.com/winsports2/mono.m3u8?token=90c58ca884184cd4de02a7721a394b89b72da30d-b2-1743299344-1743263344
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/coiag" group-title="SPORTS",FOX SPORT ARG
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/17jang" group-title="SPORTS",FOX SPORT ARG
 https://57b.pricesaskeloadsc.com/fox1ar/tracks-v1a1/mono.m3u8?token=1614e7a72c90dc173227779c3876357fecf67eef-31-1743285131-1743252731
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/sy6kte" group-title="SPORTS",FOX SPORTS 2 ARG
+https://coeld.pricesaskeloadsc.com/fox2ar/tracks-v1a1/mono.m3u8?token=b9e6e15ae7d4f2e780bac01fac9f4d87630ad824-a0-1743290836-1743258436
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/1h9b7" group-title="SPORTS",FOX SPORTS 3 ARG
+https://coeld.pricesaskeloadsc.com/fox3ar/tracks-v1a1/mono.m3u8?token=6f0456541cdceb0d72cdbed8f1ca778e1df9170e-b4-1743290996-1743258596
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a0y00" group-title="SPORTS",FOX DEPORTES
 https://bmv3.fubohd.com/foxdeportes/mono.m3u8?token=44db6fd19ef5cfef59177d076d206ff33b4bc439-3d-1743297926-1743261926
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",FOX SPORTS PREMIUM MX
-https://lae.pricesaskeloadsc.com/foxsportspremium/tracks-v1a1/mono.m3u8?token=7319578c4a3350806bb7d92bf5dcb93fff65ab59-62-1743288587-1743256187
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/s1rsz" group-title="SPORTS",FOX SPORTS MX
+https://cbado.pricesaskeloadsc.com/foxsportsmx/tracks-v1a1/mono.m3u8?token=cc0657c9459aaf23efc805afa154232a4b13badd-59-1743291111-1743258711
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ook1h" group-title="SPORTS",FOX SPORTS 2 MX
+https://cgxheq.fubohd.com/foxsports2mx/mono.m3u8?token=19ce45342073b2a008370f42c5ecbe18441507b9-40-1743302898-1743266898
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ttnzqh" group-title="SPORTS",FOX SPORTS 3 MX
+https://coeld.pricesaskeloadsc.com/foxsports3mx/tracks-v1a1/mono.m3u8?token=ea050d7cf301e02b8907251fe559e39c2e80d1e1-95-1743291362-1743258962
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hbtz6" group-title="SPORTS",FS PREMIUM MX
+https://z29vzc.pelotahd.com/foxsportspremium/mono.m3u8?token=62d1deb8f50bd16d22054b2f5eafca78a2a5414c-f9-1743303284-1743267284
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/avb54" group-title="SPORTS",D SPORTS
 https://bwfrzq.pelotahd.com/dsports/mono.m3u8?token=ee44db3cd48359e8869b7e07f51f7890838d24b6-72-1743298183-1743262183
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/xa7uax" group-title="SPORTS",D SPORTS 2
@@ -42,8 +54,7 @@ https://lae.pricesaskeloadsc.com/calientetvmx/tracks-v1a1/mono.m3u8?token=0b144e
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
+
 
 === VARIEDADES ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/nx541" group-title="VARIEDADES",CANAL 5 MEX
