@@ -41,12 +41,18 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9690
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9695
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO XTREME
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9698
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",TNT
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9742
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",TNT NOVELAS
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9747
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",TNT SERIES
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9748
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",TNT SPORT
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9742
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",TNT SPORT CHI
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9926
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",TNT SPORT PREMIUM ARG
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/7950
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",TNT SPORT PREMIUM CHI
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9923
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",UNIVERSAL CHANNEL
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9753
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",UNIVERSAL CINEMA
