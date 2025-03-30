@@ -1,21 +1,21 @@
 #EXTM3U
 
 === PREMIUM PACK ===
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA 7
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/s845m" group-title="PREMIUM PACK",AZTECA 7
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87572
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA CLIC
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ywgh48" group-title="PREMIUM PACK",AZTECA CLIC
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87566
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA CORAZON
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hbs2gm" group-title="PREMIUM PACK",AZTECA CORAZON
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87568
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/09g0g" group-title="PREMIUM PACK",AZTECA DEPORTES
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87573
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",,AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mmd4f" group-title="PREMIUM PACK",AZTECA INTERNACIONAL
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87589
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA UNO
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/09nsmg" group-title="PREMIUM PACK",AZTECA UNO
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87576
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA UNO 1H
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/09nsmg" group-title="PREMIUM PACK",AZTECA UNO 1H
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA UNO 2H
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/09nsmg" group-title="PREMIUM PACK",AZTECA UNO 2H
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87575
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO OP1
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9666
