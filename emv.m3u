@@ -5,6 +5,10 @@
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9666
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO OP2
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9667
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO OP3
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9668
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO OP4
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9696
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO 2 OP1
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9673
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO 2 OP2
@@ -15,6 +19,10 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9676
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9682
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO PLUS
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9688
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO POP
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9690
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO SIGNATURE
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9695
 
 
 === CINE Y SERIES ====
