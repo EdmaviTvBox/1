@@ -23,7 +23,8 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9688
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9690
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO SIGNATURE
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9695
-
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO XTREME
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9698
 
 === CINE Y SERIES ====
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",A&E 
