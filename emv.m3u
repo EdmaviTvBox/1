@@ -1,6 +1,22 @@
 #EXTM3U
 
 === PREMIUM PACK ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA 7
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87572
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA CLIC
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87566
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA CORAZON
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87568
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA DEPORTES
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87573
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",,AZTECA INTERNACIONAL
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87589
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA UNO
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87576
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA UNO 1H
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",AZTECA UNO 2H
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87575
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO OP1
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9666
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO OP2
@@ -86,9 +102,11 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9776
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",WARNER CHANNEL OP3
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9777
 === KIDS ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="KIDS",BITME
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87592
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/eydvvb" group-title="KIDS",LOCOMOTION
 http://85.239.54.197:81/live/loco_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/eydvvb" group-title="KIDS",
+
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/eydvvb" group-title="KIDS",
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/eydvvb" group-title="KIDS",
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/eydvvb" group-title="KIDS",
@@ -147,7 +165,7 @@ https://am91cm5leq.fubohd.com/dsportsplus/mono.m3u8?token=03a25b32acef1e44ef9ecb
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",TNT SPORT
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9743
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/9i1keh" group-title="SPORTS",TUDN
-https://8c5.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=33dee863acf810eabed939047a964816c1a5240c-f4-1743287960-1743255560
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87590
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hyqgd" group-title="SPORTS",CALIENTE TV
 https://lae.pricesaskeloadsc.com/calientetvmx/tracks-v1a1/mono.m3u8?token=0b144ed76334575543403e5042a9438864c7bc02-26-1743286949-1743254549
 
@@ -166,30 +184,23 @@ https://live.sdfgnksbounce.com:8080/MTgxLjIzNi4xNTYuMTI=/95_.m3u8?token=4jevToSU
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
 
 === VARIEDADES ===
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",AZTECA 7
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87572
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/see7i3" group-title="VARIEDADES",AZTECA CLIC
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87566
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/znb30" group-title="VARIEDADES",AZTECA CORAZON
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87568
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",AZTECA DEPORTES
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87573
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",AZTECA INTERNACIONAL
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87589
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hszyu" group-title="VARIEDADES",AZTECA UNO
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87576
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hszyu" group-title="VARIEDADES",AZTECA UNO 1H
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/hszyu" group-title="VARIEDADES",AZTECA UNO 2H
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87575
+
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/nx541" group-title="VARIEDADES",CANAL 5 MEX
-https://14c5.pricesaskeloadsc.com/canal5mx/tracks-v1a1/mono.m3u8?token=8584f8d242650515ade5ff56a6256848af2e62bc-16-1743288360-1743255960
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/ESTRELLA-TV-V-black2.png" group-title="VARIEDADES",ESTRELLA TV
-https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/cb543d167a6c678d9cd43e63d6ef41a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7556db80148b61299bce8c37683f03409a5e5afba358b1ebb00f44dc69a2b34e55957c16ef9f43c8821ca6d28152975e8174f9459cc6f98c8011d08ef30993748a8a94d84307fba356d1a17eb9d695643b95705a3e7437d582e330caa1e43d2e6ff7eadfb725de1ecb9b2c82614ddb4af81dc158220adb24340f7db4a9c9ff3bf2e527b026841500afceabf63021b465faedcbd274738df72eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a56388264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5b368fa6ea19490d61e353ef44509f363ca7eea81afdc62a56cf0/74/1920x1080_5253600/index.m3u8
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87598
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",COMEDY CENTRAL
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9637
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/ESTRELLA-TV-V-black2.png" group-title="VARIEDADES",ESTRELLA TV
+https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/cb543d167a6c678d9cd43e63d6ef41a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7556db80148b61299bce8c37683f03409a5e5afba358b1ebb00f44dc69a2b34e55957c16ef9f43c8821ca6d28152975e8174f9459cc6f98c8011d08ef30993748a8a94d84307fba356d1a17eb9d695643b95705a3e7437d582e330caa1e43d2e6ff7eadfb725de1ecb9b2c82614ddb4af81dc158220adb24340f7db4a9c9ff3bf2e527b026841500afceabf63021b465faedcbd274738df72eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a56388264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5b368fa6ea19490d61e353ef44509f363ca7eea81afdc62a56cf0/74/1920x1080_5253600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/xaosbq" group-title="VARIEDADES",GEN
 https://57b.pricesaskeloadsc.com/eventos5/tracks-v1a1/mono.m3u8?token=7ddc892631a96bbf43fc7cd5ec0bc08b5ddc4f92-42-1743289238-1743256838
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",IMAGEN TV
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87616
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",LAS ESTRELLAS OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87594
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",LAS ESTRELLAS OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87579
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",LAS ESTRELLAS 2H
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87583
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/k6tco" group-title="VARIEDADES",UNIVERSO
 https://bgvnzw5k.fubohd.com/universo/mono.m3u8?token=6da1500495bdf0699da457312100dae202ff24b4-6a-1743300709-1743264709
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/b6ua7q" group-title="VARIEDADES",UNIVISION
