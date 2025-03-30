@@ -1,4 +1,37 @@
 #EXTM3U
+
+=== PREMIUM PACK ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9666
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9667
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO 2 OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9673
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO 2 OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9671
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO FAMILY
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9676
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO MUNDI
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9682
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",HBO PLUS
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9688
+
+
+=== CINE Y SERIES ====
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",A&E 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9614
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",A3 SERIES
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9618
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",AMC OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9620
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",AMC OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9621
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",AXN OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9623
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",AXN OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9625
+
+
 === KIDS ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/eydvvb" group-title="KIDS",LOCOMOTION
 http://85.239.54.197:81/live/loco_hi/index.m3u8
