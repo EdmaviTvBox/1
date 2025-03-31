@@ -1,5 +1,41 @@
 #EXTM3U
 
+=== CINE Y SERIES ====
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/bn89h" group-title="CINE Y SERIES",A&E 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9614
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/337by" group-title="CINE Y SERIES",A3 SERIES
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9618
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/buyfjf" group-title="CINE Y SERIES",AMC OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9620
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/buyfjf" group-title="CINE Y SERIES",AMC OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9621
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fmpfv" group-title="CINE Y SERIES",AXN OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9623
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fmpfv" group-title="CINE Y SERIES",AXN OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9625
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/keyni" group-title="CINE Y SERIES",CINE LATINO
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9626
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/6oz5f2" group-title="CINE Y SERIES",CINECANAL OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9628
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/6oz5f2" group-title="CINE Y SERIES",CINECANAL OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9629
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wdroh" group-title="CINE Y SERIES",CINEMA DINAMITA
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9632
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/bowz5" group-title="CINE Y SERIES",CINEMAX OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9633
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/bowz5" group-title="CINE Y SERIES",CINEMAX OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9634
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/bowz5" group-title="CINE Y SERIES",CINEMAX OP3
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9635
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/y80jt" group-title="CINE Y SERIES",PARAMOUNT CHANNEL
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9708
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/5cpuv" group-title="CINE Y SERIES",WARNER CHANNEL OP1
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9774
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/5cpuv" group-title="CINE Y SERIES",WARNER CHANNEL OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9776
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/5cpuv" group-title="CINE Y SERIES",WARNER CHANNEL OP3
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9777
+
 === PREMIUM PACK ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/s845m" group-title="PREMIUM PACK",AZTECA 7
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87572
@@ -34,14 +70,14 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9676
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/yoo7d" group-title="PREMIUM PACK",HBO MUNDI
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9682
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/do2hss" group-title="PREMIUM PACK",HBO PLUS
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9688
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9685
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/c3hm4o" group-title="PREMIUM PACK",HBO POP
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9690
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/1lrau" group-title="PREMIUM PACK",HBO SIGNATURE
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9695
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/8ed2s" group-title="PREMIUM PACK",HBO XTREME
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9698
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",TNT
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fg0wd" group-title="PREMIUM PACK",TNT
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9742
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/tmar6" group-title="PREMIUM PACK",TNT NOVELAS
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9747
@@ -68,45 +104,7 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9770
 
 
 
-=== CINE Y SERIES ====
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",A&E 
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9614
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",A3 SERIES
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9618
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",AMC OP1
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9620
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",AMC OP2
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9621
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",AXN OP1
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9623
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",AXN OP2
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9625
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",CINE LATINO
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9626
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",CINECANAL OP1
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9628
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",CINECANAL OP2
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9629
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",CINEMA DINAMITA
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9632
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",CINEMAX OP1
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9633
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",CINEMAX OP2
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9634
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",CINEMAX OP3
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9635
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT CHANNEL
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9708
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",TNT OP1
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9744
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",TNT OP2
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9745
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",WARNER CHANNEL OP1
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9774
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",WARNER CHANNEL OP2
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9776
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",WARNER CHANNEL OP3
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9777
+
 === KIDS ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="KIDS",BITME
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87592
