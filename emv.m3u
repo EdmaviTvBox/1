@@ -15,9 +15,11 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9616
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/337by" group-title="CINE Y SERIES",A3 SERIES
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9618
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/buyfjf" group-title="CINE Y SERIES",AMC OP1
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9620
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9619
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/buyfjf" group-title="CINE Y SERIES",AMC OP2
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9621
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/buyfjf" group-title="CINE Y SERIES",AMC OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9620
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fmpfv" group-title="CINE Y SERIES",AXN OP1
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9623
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fmpfv" group-title="CINE Y SERIES",AXN OP2
@@ -25,7 +27,7 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9625
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/keyni" group-title="CINE Y SERIES",CINE LATINO
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9626
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/6oz5f2" group-title="CINE Y SERIES",CINECANAL OP1
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9628
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9631
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/6oz5f2" group-title="CINE Y SERIES",CINECANAL OP2
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9629
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/wdroh" group-title="CINE Y SERIES",CINEMA DINAMITA
@@ -36,8 +38,28 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9633
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9634
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/bowz5" group-title="CINE Y SERIES",CINEMAX OP3
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9635
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",DHE
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9643
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",Europa Europa 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9648
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",Film & Arts 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9649
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",FX 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9655
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",FX OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9652
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",Lifetime
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9703
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/y80jt" group-title="CINE Y SERIES",PARAMOUNT CHANNEL
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9708
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",Space
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9718
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",Star Channel Sur 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9725
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",TCM
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9740
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINE Y SERIES",USA
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9735
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/5cpuv" group-title="CINE Y SERIES",WARNER CHANNEL OP1
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9774
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/5cpuv" group-title="CINE Y SERIES",WARNER CHANNEL OP2
@@ -62,6 +84,18 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87576
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/09nsmg" group-title="PREMIUM PACK",AZTECA UNO 2H
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87575
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",D PELICULA
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9617
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",D PELICULA PLUS 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9638
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Golden
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9663
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Golden Edge 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9657
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Golden Plus 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9658
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Golden Premiere 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9664
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rz11e" group-title="PREMIUM PACK",HBO OP1
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9666
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/rz11e" group-title="PREMIUM PACK",HBO OP2
@@ -86,12 +120,32 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9690
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9695
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/8ed2s" group-title="PREMIUM PACK",HBO XTREME
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9698
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Sony Channel 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9711
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Sony Channel OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9712
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Sony Channel OP3
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9713
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Sony Movies 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9715
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Sony Novelas
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9714
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Starz (M)(1080)
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9727
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Starz Encore Suspense (Z)
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9730
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",Starz Family (M)(1080)
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9731
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fg0wd" group-title="PREMIUM PACK",TNT
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9742
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fg0wd" group-title="PREMIUM PACK",TNT OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9745
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/tmar6" group-title="PREMIUM PACK",TNT NOVELAS
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9747
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/u6tlw" group-title="PREMIUM PACK",TNT SERIES
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9748
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/u6tlw" group-title="PREMIUM PACK",TNT SERIES OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9750
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1bhs" group-title="PREMIUM PACK",TNT SPORT CHI
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9926
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/o1bhs" group-title="PREMIUM PACK",TNT SPORT PREMIUM ARG
@@ -106,10 +160,18 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9756
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9759
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/f33hn" group-title="PREMIUM PACK",UNIVERSAL CRIME
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9761
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/f33hn" group-title="PREMIUM PACK",UNIVERSAL CRIME OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9761
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/f33hn" group-title="PREMIUM PACK",UNIVERSAL CRIME OP3
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9764
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/6jekf" group-title="PREMIUM PACK",UNIVERSAL PREMIERE
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9765
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/6jekf" group-title="PREMIUM PACK",UNIVERSAL PREMIERE OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9766
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cjdjg" group-title="PREMIUM PACK",UNIVERSAL REALITY
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9770
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cjdjg" group-title="PREMIUM PACK",UNIVERSAL REALITY OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9771
 
 === SPORTS ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a7hce" group-title="SPORTS",WIN SPORTS
@@ -182,7 +244,10 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9552
 === CULTURA ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
 https://live.sdfgnksbounce.com:8080/MTgxLjIzNi4xNTYuMTI=/95_.m3u8?token=4jevToSUy5QD94EjqoAmiA&expires=1743283095
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",HISTORY
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/10617
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",NAT GEO
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/10627
 
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",
@@ -195,8 +260,16 @@ https://live.sdfgnksbounce.com:8080/MTgxLjIzNi4xNTYuMTI=/95_.m3u8?token=4jevToSU
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87598
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",COMEDY CENTRAL
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9637
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",Distrito Comedia (M)(SD)
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9645
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",E! (M)(1080)
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9646
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",El Gourmet (M)(1080)
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9647
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/ESTRELLA-TV-V-black2.png" group-title="VARIEDADES",ESTRELLA TV
 https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/cb543d167a6c678d9cd43e63d6ef41a2f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7556db80148b61299bce8c37683f03409a5e5afba358b1ebb00f44dc69a2b34e55957c16ef9f43c8821ca6d28152975e8174f9459cc6f98c8011d08ef30993748a8a94d84307fba356d1a17eb9d695643b95705a3e7437d582e330caa1e43d2e6ff7eadfb725de1ecb9b2c82614ddb4af81dc158220adb24340f7db4a9c9ff3bf2e527b026841500afceabf63021b465faedcbd274738df72eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a56388264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5b368fa6ea19490d61e353ef44509f363ca7eea81afdc62a56cf0/74/1920x1080_5253600/index.m3u8
+#EXTINF:-1,Food Network (M)(1080)
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9651
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/xaosbq" group-title="VARIEDADES",GEN
 https://57b.pricesaskeloadsc.com/eventos5/tracks-v1a1/mono.m3u8?token=7ddc892631a96bbf43fc7cd5ec0bc08b5ddc4f92-42-1743289238-1743256838
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",IMAGEN TV
@@ -207,6 +280,8 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87594
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87579
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",LAS ESTRELLAS 2H
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87583
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",Star TVE 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9726
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/k6tco" group-title="VARIEDADES",UNIVERSO
 https://bgvnzw5k.fubohd.com/universo/mono.m3u8?token=6da1500495bdf0699da457312100dae202ff24b4-6a-1743300709-1743264709
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/b6ua7q" group-title="VARIEDADES",UNIVISION
