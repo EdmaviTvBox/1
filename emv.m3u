@@ -242,8 +242,37 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9552
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="SPORTS",
 
 === CULTURA ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",ANIMAL PLANET
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9811
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",ANIMAL PLANET OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9812
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",ANIMAL PLANET OP3
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9813
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
-https://live.sdfgnksbounce.com:8080/MTgxLjIzNi4xNTYuMTI=/95_.m3u8?token=4jevToSUy5QD94EjqoAmiA&expires=1743283095
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9814
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9815
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY H&H 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9821
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY H&H OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9820
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY HGTV 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9819
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY ID 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9785
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY SCIENCE
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9823
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY THEATER
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9787
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY TLC 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9825
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY TLC OP2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9826
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY TURBO 
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9829
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY WORLD
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9831
+
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",HISTORY
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/10617
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",NAT GEO
