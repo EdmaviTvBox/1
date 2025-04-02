@@ -189,6 +189,14 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9770
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cjdjg" group-title="PREMIUM PACK",UNIVERSAL REALITY OP2
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9771
 
+=== CINEMA ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINEMA",Cine Accion
+http://fastream.xyz:8080/juan18/83e45w87w/54682
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINEMA",Cine Comedia 1
+http://fastream.xyz:8080/juan18/83e45w87w/54686
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINEMA",Cine Comedia 2
+http://fastream.xyz:8080/juan18/83e45w87w/54687
+
 === SPORTS ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a7hce" group-title="SPORTS",WIN SPORTS
 https://bgvnzw5k.fubohd.com/winsports/mono.m3u8?token=73449665301a4b575bc4f02fa785fa94c4a5057c-64-1743303581-1743267581
