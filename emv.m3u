@@ -323,11 +323,8 @@ https://57b.pricesaskeloadsc.com/univision_usa/tracks-v1a1/mono.m3u8?token=67865
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
+
 === COLOMBIA ===
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL CAPITAL
-http://canal-pro.xyz:8080/954177846tv/94oasy1/328
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL TRO
-http://canal-pro.xyz:8080/954177846tv/94oasy1/329
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL UNO
 http://xxip25.top:8080/mpn0zU/378258/78698
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i7a4f" group-title="COLOMBIA",CARACOL HD2
@@ -338,37 +335,39 @@ http://xxip25.top:8080/mpn0zU/378258/78701
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",NTN24 
 http://xxip25.top:8080/mpn0zU/378258/78704
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="COLOMBIA",NUESTRA TELE INT
+http://xxip25.top:8080/mpn0zU/378258/78716
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/59aa0" group-title="COLOMBIA",RCN FHD
 http://xxip25.top:8080/mpn0zU/378258/78694
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/59aa0" group-title="COLOMBIA",RCN SD
-http://190.2.212.209:8050/play/a0lt
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gv2av" group-title="COLOMBIA",RCN NOVELAS
-http://190.2.212.209:8050/play/a0ox
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gv2av" group-title="COLOMBIA",RCN NOVELAS OP2
-http://xxip25.top:8080/mpn0zU/378258/78716
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/77xx94" group-title="COLOMBIA",RCN MAS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",SENAL COLOMBIA
-http://canal-pro.xyz:8080/954177846tv/94oasy1/350
+http://xxip25.top:8080/mpn0zU/378258/78711
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEANTIOQUIA
-http://canal-pro.xyz:8080/954177846tv/94oasy1/351
+http://xxip25.top:8080/mpn0zU/378258/78706
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELECAFE
-http://canal-pro.xyz:8080/954177846tv/94oasy1/352
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/41wht0" group-title="COLOMBIA",TELECARIBE SD
-http://190.2.212.209:8050/play/a0nc
+http://xxip25.top:8080/mpn0zU/378258/78726
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEMEDELLIN
 http://xxip25.top:8080/mpn0zU/378258/78722
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEPACIFICO »1«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/357
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEPACIFICO »2«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/358
+http://xxip25.top:8080/mpn0zU/378258/78729
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS+ »1«
 http://xxip25.top:8080/mpn0zU/378258/78697
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS+ »2«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/360
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS »1«
+http://xxip25.top:8080/mpn0zU/378258/78717
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL CAPITAL OFF
+http://canal-pro.xyz:8080/954177846tv/94oasy1/328
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL TRO OFF
+http://canal-pro.xyz:8080/954177846tv/94oasy1/329
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gv2av" group-title="COLOMBIA",RCN NOVELAS OFF
+http://190.2.212.209:8050/play/a0nc
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/41wht0" group-title="COLOMBIA",TELECARIBE SD OFF
+http://190.2.212.209:8050/play/a0nc
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS »1« OFF
 http://canal-pro.xyz:8080/954177846tv/94oasy1/362
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS »2«
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS »2« OFF
 http://canal-pro.xyz:8080/954177846tv/94oasy1/363
 
 === CHILE ===
