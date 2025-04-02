@@ -179,9 +179,9 @@ https://bgvnzw5k.fubohd.com/winsports/mono.m3u8?token=73449665301a4b575bc4f02fa7
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a7hce" group-title="SPORTS",WIN SPORTS OP2
 https://24a.pricesaskeloadsc.com/winsports/tracks-v1a1/mono.m3u8?token=5c48c09d1055ef7c63bc5a64ba2d0cca70a27c2f-c5-1743291942-1743259542
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS
-https://c2f2zq.fubohd.com/winsports2/mono.m3u8?token=06104da23988dc8d6fc56b0d7c290675548437d9-bc-1743296722-1743260722
+http://xxip25.top:8080/mpn0zU/378258/78697
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS OP2
-https://am91cm5leq.fubohd.com/winsports2/mono.m3u8?token=90c58ca884184cd4de02a7721a394b89b72da30d-b2-1743299344-1743263344
+http://xxip25.top:8080/mpn0zU/378258/78717
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="SPORTS",ESPN CO
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9516
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="SPORTS",ESPN ARG
@@ -324,33 +324,46 @@ https://57b.pricesaskeloadsc.com/univision_usa/tracks-v1a1/mono.m3u8?token=67865
 
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="VARIEDADES",
 === COLOMBIA ===
-
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL CAPITAL
+http://canal-pro.xyz:8080/954177846tv/94oasy1/328
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL TRO
+http://canal-pro.xyz:8080/954177846tv/94oasy1/329
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL UNO
+http://xxip25.top:8080/mpn0zU/378258/78698
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i7a4f" group-title="COLOMBIA",CARACOL HD2
+http://xxip25.top:8080/mpn0zU/378258/78700
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i7a4f" group-title="COLOMBIA",CARACOL INTERNACIONAL
+http://xxip25.top:8080/mpn0zU/378258/78701
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/i7a4f" group-title="COLOMBIA",CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",NTN24 
+http://xxip25.top:8080/mpn0zU/378258/78704
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/59aa0" group-title="COLOMBIA",RCN FHD
+http://xxip25.top:8080/mpn0zU/378258/78694
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/59aa0" group-title="COLOMBIA",RCN SD
 http://190.2.212.209:8050/play/a0lt
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gv2av" group-title="COLOMBIA",RCN NOVELAS
 http://190.2.212.209:8050/play/a0ox
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/gv2av" group-title="COLOMBIA",RCN NOVELAS OP2
+http://xxip25.top:8080/mpn0zU/378258/78716
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/77xx94" group-title="COLOMBIA",RCN MAS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",SENAL COLOMBIA
+http://canal-pro.xyz:8080/954177846tv/94oasy1/350
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEANTIOQUIA
+http://canal-pro.xyz:8080/954177846tv/94oasy1/351
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELECAFE
+http://canal-pro.xyz:8080/954177846tv/94oasy1/352
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/41wht0" group-title="COLOMBIA",TELECARIBE SD
 http://190.2.212.209:8050/play/a0nc
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEMEDELLIN
+http://xxip25.top:8080/mpn0zU/378258/78722
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEPACIFICO »1«
 http://canal-pro.xyz:8080/954177846tv/94oasy1/357
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEPACIFICO »2«
 http://canal-pro.xyz:8080/954177846tv/94oasy1/358
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL TRO
-http://canal-pro.xyz:8080/954177846tv/94oasy1/329
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELECAFE
-http://canal-pro.xyz:8080/954177846tv/94oasy1/352
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",TELEANTIOQUIA
-http://canal-pro.xyz:8080/954177846tv/94oasy1/351
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",CANAL CAPITAL
-http://canal-pro.xyz:8080/954177846tv/94oasy1/328
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",SENAL COLOMBIA
-http://canal-pro.xyz:8080/954177846tv/94oasy1/350
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS+ »1«
-http://canal-pro.xyz:8080/954177846tv/94oasy1/359
+http://xxip25.top:8080/mpn0zU/378258/78697
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS+ »2«
 http://canal-pro.xyz:8080/954177846tv/94oasy1/360
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cwayu" group-title="COLOMBIA",WIN SPORTS »1«
