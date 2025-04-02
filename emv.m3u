@@ -130,10 +130,26 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9713
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9715
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/5a72v1" group-title="PREMIUM PACK",SONY TELENOVELAS
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9714
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",STARZ 
+http://fastream.xyz:8080/juan18/83e45w87w/674
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",STARZ EAST
+http://fastream.xyz:8080/juan18/83e45w87w/666
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",STARZ EDGE
+http://fastream.xyz:8080/juan18/83e45w87w/667
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vc1zd5" group-title="PREMIUM PACK",STARZ ENCORE
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9727
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/qns6t" group-title="PREMIUM PACK",STARZ ENCORE SUSPENSE
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vc1zd5" group-title="PREMIUM PACK",STARZ ENCORE OP2
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9730
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/vc1zd5" group-title="PREMIUM PACK",STARZ ENCORE DUAL
+http://fastream.xyz:8080/juan18/83e45w87w/671
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",STARZ ENCORE BLACK
+http://fastream.xyz:8080/juan18/83e45w87w/668
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",STARZ ENCORE CLASSIC
+http://fastream.xyz:8080/juan18/83e45w87w/669
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="PREMIUM PACK",STARZ ENCORE FAMILY
+http://fastream.xyz:8080/juan18/83e45w87w/670
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/qns6t" group-title="PREMIUM PACK",STARZ ENCORE SUSPENSE
+http://fastream.xyz:8080/juan18/83e45w87w/672
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/pr5e2" group-title="PREMIUM PACK",STARZ ENCORE FAMILY
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9731
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fg0wd" group-title="PREMIUM PACK",TNT
