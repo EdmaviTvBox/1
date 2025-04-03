@@ -2,6 +2,8 @@
 === KIDS ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ufbh08" group-title="KIDS",BITME
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87592
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ufbh08" group-title="KIDS",BITME OP2
+http://fastream.xyz:8080/juan18/83e45w87w/24943
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ip6od" group-title="KIDS",LOCOMOTION
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/eydvvb" group-title="KIDS",
@@ -188,6 +190,47 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9766
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9770
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cjdjg" group-title="PREMIUM PACK",UNIVERSAL REALITY OP2
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9771
+
+=== DUAL ===
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",Baby First HD
+http://xxip25.top:8080/mpn0zU/378258/58765
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",DOGTV
+http://xxip25.top:8080/mpn0zU/378258/53539
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",NickToons 
+http://xxip25.top:8080/mpn0zU/378258/36
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",TeenNick
+http://xxip25.top:8080/mpn0zU/378258/140004
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",FXM 
+http://xxip25.top:8080/mpn0zU/378258/10260
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",BBC America
+http://xxip25.top:8080/mpn0zU/378258/20194
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",STARZ ENCORE Black
+http://xxip25.top:8080/mpn0zU/378258/16141
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",ActionMAX (East) 
+http://xxip25.top:8080/mpn0zU/378258/21013
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",HBO 
+http://xxip25.top:8080/mpn0zU/378258/9264
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",HBO 2 
+http://xxip25.top:8080/mpn0zU/378258/9816
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",HBO Comedy (East) 
+http://xxip25.top:8080/mpn0zU/378258/17773
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",HBO SIGNATURE (East) 
+http://xxip25.top:8080/mpn0zU/378258/9266
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",HBO Zone (East) 
+http://xxip25.top:8080/mpn0zU/378258/9265
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",Showtime Extreme (East) 
+http://xxip25.top:8080/mpn0zU/378258/13220
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",Showtime Family Zone (East) 
+http://xxip25.top:8080/mpn0zU/378258/13481
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",Starz Encore Westerns (East) 
+http://xxip25.top:8080/mpn0zU/378258/16263
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",NBC Sports Bay Area 
+http://xxip25.top:8080/mpn0zU/378258/9900
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",Spectrum SportsNet Lakers 
+http://xxip25.top:8080/mpn0zU/378258/21842
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="DUAL",YES Network
+http://xxip25.top:8080/mpn0zU/378258/57972
+
 
 === CINEMA ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINEMA",Cine Accion
