@@ -331,9 +331,10 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9826
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9829
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",DISCOVERY WORLD
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9831
-
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",HISTORY
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/10617
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9838
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",HISTORY 2
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9839
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CULTURA",NAT GEO
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/10627
 
