@@ -1,8 +1,6 @@
 #EXTM3U
 === KIDS ===
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ufbh08" group-title="KIDS",BITME
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/87592
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ufbh08" group-title="KIDS",BITME OP2
 http://fastream.xyz:8080/juan18/83e45w87w/24943
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ip6od" group-title="KIDS",LOCOMOTION
 http://85.239.54.197:81/live/loco_hi/index.m3u8
@@ -94,7 +92,7 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9638
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9663
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/3g9ku" group-title="PREMIUM PACK",GOLDEN EDGE
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9657
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mmu0z" group-title="PREMIUM PACK",Golden Plus 
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/mmu0z" group-title="PREMIUM PACK",GOLDEN PLUS
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9658
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ig36i" group-title="PREMIUM PACK",GOLDEN PREMIER 
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9664
@@ -123,11 +121,9 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9695
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/8ed2s" group-title="PREMIUM PACK",HBO XTREME
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9698
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fdqhj" group-title="PREMIUM PACK",SONY CHANNEL 
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9711
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9713
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fdqhj" group-title="PREMIUM PACK",SONY CHANNEL OP2
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9712
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fdqhj" group-title="PREMIUM PACK",SONY CHANNEL OP3
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9713
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/ihk7f" group-title="PREMIUM PACK",SONY MOVIES 
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9715
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/5a72v1" group-title="PREMIUM PACK",SONY TELENOVELAS
@@ -233,21 +229,17 @@ http://xxip25.top:8080/mpn0zU/378258/57972
 
 
 === CINEMA ===
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINEMA",Cine Accion
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/w04ym6" group-title="CINEMA",Cine Accion
 http://fastream.xyz:8080/juan18/83e45w87w/54682
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINEMA",Cine Comedia 1
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/w04ym6" group-title="CINEMA",Cine Comedia 1
 http://fastream.xyz:8080/juan18/83e45w87w/54686
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="" group-title="CINEMA",Cine Comedia 2
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/w04ym6" group-title="CINEMA",Cine Comedia 2
 http://fastream.xyz:8080/juan18/83e45w87w/54687
 
 === SPORTS ===
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a7hce" group-title="SPORTS",WIN SPORTS
-https://bgvnzw5k.fubohd.com/winsports/mono.m3u8?token=73449665301a4b575bc4f02fa785fa94c4a5057c-64-1743303581-1743267581
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a7hce" group-title="SPORTS",WIN SPORTS OP2
-https://24a.pricesaskeloadsc.com/winsports/tracks-v1a1/mono.m3u8?token=5c48c09d1055ef7c63bc5a64ba2d0cca70a27c2f-c5-1743291942-1743259542
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS
 http://xxip25.top:8080/mpn0zU/378258/78697
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/cfjz3" group-title="SPORTS",WIN+ SPORTS OP2
+#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/a7hce" group-title="SPORTS",WIN+ SPORTS
 http://xxip25.top:8080/mpn0zU/378258/78717
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="https://n9.cl/fw9q0" group-title="SPORTS",ESPN CO
 http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9516
