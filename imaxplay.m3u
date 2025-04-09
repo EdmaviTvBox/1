@@ -1,63 +1,73 @@
 #EXTM3U
 
 === DOCUMENTALES ===
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Animal Planet" tvg-logo="https://n9.cl/gibh6" group-title="DOCUMENTALES",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://n9.cl/gibh6" group-title="DOCUMENTALES",Animal Planet
 https://primevip.day:443/pimpon123/pimpon123/13561
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Animal Planet OP2" tvg-logo="https://n9.cl/gibh6" group-title="DOCUMENTALES",Animal Planet OP2
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet OP2" tvg-logo="https://n9.cl/gibh6" group-title="DOCUMENTALES",Animal Planet OP2
 https://primevip.day:443/pimpon123/pimpon123/26957
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Español " tvg-logo="https://n9.cl/idd3q" group-title="DOCUMENTALES",Discovery Español 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://n9.cl/idd3q" group-title="DOCUMENTALES",Discovery Channel
+http://tv.nousiptv.com:8080/622915/2915/4069
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel OP2" tvg-logo="https://n9.cl/idd3q" group-title="DOCUMENTALES",Discovery Channel OP2
+http://tv.nousiptv.com:8080/622915/2915/56304
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Español " tvg-logo="https://n9.cl/idd3q" group-title="DOCUMENTALES",Discovery Español 
 https://primevip.day:443/pimpon123/pimpon123/13514
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Español OP2" tvg-logo="https://n9.cl/idd3q" group-title="DOCUMENTALES",Discovery Español OP2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Español OP2" tvg-logo="https://n9.cl/idd3q" group-title="DOCUMENTALES",Discovery Español OP2
 https://primevip.day:443/pimpon123/pimpon123/298629
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Familia" tvg-logo="https://n9.cl/3aa18" group-title="DOCUMENTALES",Discovery Familia
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="https://n9.cl/3aa18" group-title="DOCUMENTALES",Discovery Familia
 https://primevip.day:443/pimpon123/pimpon123/406559
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Familia OP2" tvg-logo="https://n9.cl/3aa18" group-title="DOCUMENTALES",Discovery Familia OP2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia OP2" tvg-logo="https://n9.cl/3aa18" group-title="DOCUMENTALES",Discovery Familia OP2
 https://primevip.day:443/pimpon123/pimpon123/13598
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery H&H" tvg-logo="https://n9.cl/6aik2" group-title="DOCUMENTALES",Discovery H&H
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="https://n9.cl/6aik2" group-title="DOCUMENTALES",Discovery H&H
 https://primevip.day:443/pimpon123/pimpon123/13526
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H OP2" tvg-logo="https://n9.cl/6aik2" group-title="DOCUMENTALES",Discovery H&H OP2
+http://tv.nousiptv.com:8080/622915/2915/4070
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H OP3" tvg-logo="https://n9.cl/6aik2" group-title="DOCUMENTALES",Discovery H&H OP3
+http://tv.nousiptv.com:8080/622915/2915/1155816
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery 
 https://primevip.day:443/pimpon123/pimpon123/13506
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Investigation Discovery OP2" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery OP2
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery OP2" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery OP2
 https://primevip.day:443/pimpon123/pimpon123/13507
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Science" tvg-logo="https://n9.cl/isewq" group-title="DOCUMENTALES",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery OP3" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery OP3
+http://tv.nousiptv.com:8080/622915/2915/1156012
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://n9.cl/isewq" group-title="DOCUMENTALES",Discovery Science
 https://primevip.day:443/pimpon123/pimpon123/13566
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://n9.cl/9abbs7" group-title="DOCUMENTALES",Discovery Theater
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://n9.cl/9abbs7" group-title="DOCUMENTALES",Discovery Theater
 https://primevip.day:443/pimpon123/pimpon123/13570
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Theater OP2" tvg-logo="https://n9.cl/9abbs7" group-title="DOCUMENTALES",Discovery Theater OP2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater OP2" tvg-logo="https://n9.cl/9abbs7" group-title="DOCUMENTALES",Discovery Theater OP2
 https://primevip.day:443/pimpon123/pimpon123/13572
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery TLC" tvg-logo="https://n9.cl/5yqcv" group-title="DOCUMENTALES",Discovery TLC
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="https://n9.cl/5yqcv" group-title="DOCUMENTALES",Discovery TLC
 https://primevip.day:443/pimpon123/pimpon123/13573
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery TLC OP2" tvg-logo="https://n9.cl/5yqcv" group-title="DOCUMENTALES",Discovery TLC OP2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC OP2" tvg-logo="https://n9.cl/5yqcv" group-title="DOCUMENTALES",Discovery TLC OP2
 https://primevip.day:443/pimpon123/pimpon123/13574
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo
 https://primevip.day:443/pimpon123/pimpon123/13520
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Turbo OP2" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo OP2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo OP2" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo OP2
 https://primevip.day:443/pimpon123/pimpon123/13512
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery Turbo OP3" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo OP3
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo OP3" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo OP3
 https://primevip.day:443/pimpon123/pimpon123/13577
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery World" tvg-logo="https://n9.cl/mferl" group-title="DOCUMENTALES",Discovery World
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://n9.cl/mferl" group-title="DOCUMENTALES",Discovery World
 https://primevip.day:443/pimpon123/pimpon123/13583
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Discovery World OP2" tvg-logo="https://n9.cl/mferl" group-title="DOCUMENTALES",Discovery World OP2
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World OP2" tvg-logo="https://n9.cl/mferl" group-title="DOCUMENTALES",Discovery World OP2
 https://primevip.day:443/pimpon123/pimpon123/298630
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Historia" tvg-logo="https://n9.cl/bxxwc" group-title="DOCUMENTALES",Historia
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="https://n9.cl/bxxwc" group-title="DOCUMENTALES",Historia
 http://tv.nousiptv.com:8080/622915/2915/1156022
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="History HD" tvg-logo="https://n9.cl/2otu1" group-title="DOCUMENTALES",History
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://n9.cl/2otu1" group-title="DOCUMENTALES",History
 http://tv.nousiptv.com:8080/622915/2915/4093
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="History Español" tvg-logo="https://n9.cl/78ub0" group-title="DOCUMENTALES",History Español
+#EXTINF:-1 tvg-id="" tvg-name="History Español" tvg-logo="https://n9.cl/78ub0" group-title="DOCUMENTALES",History Español
 https://primevip.day:443/pimpon123/pimpon123/13535
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="History 2" tvg-logo="https://n9.cl/zvsgc" group-title="DOCUMENTALES",History 2
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://n9.cl/zvsgc" group-title="DOCUMENTALES",History 2
 https://primevip.day:443/pimpon123/pimpon123/13541
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="History 2 OP2" tvg-logo="https://n9.cl/zvsgc" group-title="DOCUMENTALES",History 2 OP2
+#EXTINF:-1 tvg-id="" tvg-name="History 2 OP2" tvg-logo="https://n9.cl/zvsgc" group-title="DOCUMENTALES",History 2 OP2
 https://primevip.day:443/pimpon123/pimpon123/26974
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Love Nature" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature
 https://primevip.day:443/pimpon123/pimpon123/13615
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo
 https://primevip.day:443/pimpon123/pimpon123/13544
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Nat Geo OP2" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo OP2
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo OP2" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo OP2
 https://primevip.day:443/pimpon123/pimpon123/13546
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Nat Geo WILD" tvg-logo="https://n9.cl/j2n30y" group-title="DOCUMENTALES",Nat Geo WILD 
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo WILD" tvg-logo="https://n9.cl/j2n30y" group-title="DOCUMENTALES",Nat Geo WILD 
 https://primevip.day:443/pimpon123/pimpon123/13542
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Nat Geo Mundo HD" tvg-logo="https://n9.cl/gevylb" group-title="DOCUMENTALES",Nat Geo Mundo
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Mundo HD" tvg-logo="https://n9.cl/gevylb" group-title="DOCUMENTALES",Nat Geo Mundo
 https://primevip.day:443/pimpon123/pimpon123/26515
 
 === LAT INFANTIL ===
