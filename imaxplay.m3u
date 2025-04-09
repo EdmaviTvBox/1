@@ -1,8 +1,8 @@
 #EXTM3U
+
+=== LAT DOCUMENTALES ===
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DiscoveryFamiliaEnEspanol.us" tvg-name="LAT |  Discovery Familia HD" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/12/Discovery-Familia.png" group-title="LAT DOCUMENTALES",LAT |  Discovery Familia HD
 https://primevip.day:443/pimpon123/pimpon123/406559
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Piece by Piece - (2024)(Dᵘᵃˡ-Sᵘᵇ) (Dual)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg" group-title="Animation (L)",Piece by Piece - (2024)(Dᵘᵃˡ-Sᵘᵇ) (Dual)
-https://primevip.day:443/movie/pimpon123/pimpon123/368732.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Animal Planet HD℠" tvg-logo="https://i.ibb.co/7VNVyTs/animal-planet.png" group-title="LAT DOCUMENTALES",LAT |  Animal Planet HD℠
 https://primevip.day:443/pimpon123/pimpon123/13561
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Animal Planet UHD (MX)" tvg-logo="https://i.ibb.co/7VNVyTs/animal-planet.png" group-title="LAT DOCUMENTALES",LAT | Animal Planet UHD (MX)
@@ -49,3 +49,142 @@ https://primevip.day:443/pimpon123/pimpon123/13546
 https://primevip.day:443/pimpon123/pimpon123/13542
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Nat Geo Mundo HD" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/CULTURALES/NATGEOMUNDO.png" group-title="LAT DOCUMENTALES",LAT | Nat Geo Mundo HD
 https://primevip.day:443/pimpon123/pimpon123/26515
+
+=== LAT INFANTIL ===
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Asiri TV" tvg-logo="https://tv.mifibra.pe/logo/1690579290.124927.jpg" group-title="LAT INFANTIL",LAT | Asiri TV
+https://primevip.day:443/pimpon123/pimpon123/248722
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BabyFirst.us" tvg-name="LAT | Baby First HD" tvg-logo="http://primexclusive.day/images/xjA4r_ifQ_TL_cma2S69X7RX-J_wbpuh1vjb73o7CPc0rLPrF9_FnKtyD52XhFr6.png" group-title="LAT INFANTIL",LAT | Baby First HD
+https://primevip.day:443/pimpon123/pimpon123/13469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Baby Tv Español" tvg-logo="https://lh3.googleusercontent.com/FYbo7mmdc-oGj-QaW-NdRmuBdODoLWqxHKW2-_gtJyNFXk_EYVi8vgoC6CNu7-ZgU5Y677nrb8RW" group-title="LAT INFANTIL",LAT | Baby Tv Español
+https://primevip.day:443/pimpon123/pimpon123/15684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BBTVFR" tvg-name="LAT | Baby TV Español HD" tvg-logo="https://lh3.googleusercontent.com/FYbo7mmdc-oGj-QaW-NdRmuBdODoLWqxHKW2-_gtJyNFXk_EYVi8vgoC6CNu7-ZgU5Y677nrb8RW" group-title="LAT INFANTIL",LAT | Baby TV Español HD
+https://primevip.day:443/pimpon123/pimpon123/15683
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Boomerang UHD" tvg-logo="https://archive.org/download/KidsUs1/235-Boomerang.png" group-title="LAT INFANTIL",LAT | Boomerang UHD
+https://primevip.day:443/pimpon123/pimpon123/15685
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Boomerang UHD (MX)" tvg-logo="https://archive.org/download/KidsUs1/235-Boomerang.png" group-title="LAT INFANTIL",LAT | Boomerang UHD (MX)
+https://primevip.day:443/pimpon123/pimpon123/15686
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Canal Infantil" tvg-logo="https://tv.mifibra.pe/logo/1691017136.4408696.png" group-title="LAT INFANTIL",LAT | Canal Infantil
+https://primevip.day:443/pimpon123/pimpon123/248723
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Cartoon Network HD" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/INFANTILES/CARTOONNETWORK.png" group-title="LAT INFANTIL",LAT | Cartoon Network HD
+https://primevip.day:443/pimpon123/pimpon123/26959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Cartoon Network HD" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/INFANTILES/CARTOONNETWORK.png" group-title="LAT INFANTIL",LAT | Cartoon Network HD
+https://primevip.day:443/pimpon123/pimpon123/15691
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Cartoonito HD" tvg-logo="https://i.ibb.co/dBgWxGB/cartoonito-uk.png" group-title="LAT INFANTIL",LAT | Cartoonito HD
+https://primevip.day:443/pimpon123/pimpon123/13490
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DKNCHL" tvg-name="LAT | Discovery Kids HD" tvg-logo="https://i.ibb.co/YNGQM4F/discovery-kids-lam.png" group-title="LAT INFANTIL",LAT | Discovery Kids HD
+https://primevip.day:443/pimpon123/pimpon123/15694
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DKNCHL" tvg-name="LAT | Discovery Kids HD" tvg-logo="https://i.ibb.co/YNGQM4F/discovery-kids-lam.png" group-title="LAT INFANTIL",LAT | Discovery Kids HD
+https://primevip.day:443/pimpon123/pimpon123/15693
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Disney Channel HD" tvg-logo="https://img.hulu.com/user/v3/artwork/2b03315a-d191-402a-a834-3b8d33e5df63?base_image_bucket_name=image_manager&base_image=7937c7dd-2224-4972-a5f6-33c282b81969&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D" group-title="LAT INFANTIL",LAT | Disney Channel HD
+https://primevip.day:443/pimpon123/pimpon123/15701
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Disney Channel UHD" tvg-logo="https://img.hulu.com/user/v3/artwork/2b03315a-d191-402a-a834-3b8d33e5df63?base_image_bucket_name=image_manager&base_image=7937c7dd-2224-4972-a5f6-33c282b81969&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D" group-title="LAT INFANTIL",LAT | Disney Channel UHD
+https://primevip.day:443/pimpon123/pimpon123/15703
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Disney Junior (MX)" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/INFANTILES/DISNEYJUNIOR.png" group-title="LAT INFANTIL",LAT | Disney Junior (MX)
+https://primevip.day:443/pimpon123/pimpon123/15704
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Disney Junior UHD" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/INFANTILES/DISNEYJUNIOR.png" group-title="LAT INFANTIL",LAT | Disney Junior UHD
+https://primevip.day:443/pimpon123/pimpon123/15705
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Disney XD HD" tvg-logo="https://imgx.fubo.tv/station_logos/disney_xd_c.png" group-title="LAT INFANTIL",LAT | Disney XD HD
+https://primevip.day:443/pimpon123/pimpon123/15696
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Disney XD HD (MX)" tvg-logo="https://imgx.fubo.tv/station_logos/disney_xd_c.png" group-title="LAT INFANTIL",LAT | Disney XD HD (MX)
+https://primevip.day:443/pimpon123/pimpon123/15697
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Fun Box" tvg-logo="https://tv.mifibra.pe/logo/1690984240.4362295.png" group-title="LAT INFANTIL",LAT | Fun Box
+https://primevip.day:443/pimpon123/pimpon123/248724
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Nat Geo Kids (MX)" tvg-logo="https://static.epg.best/br/NatGeoKids.br.png" group-title="LAT INFANTIL",LAT | Nat Geo Kids (MX)
+https://primevip.day:443/pimpon123/pimpon123/15708
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NICKJLA" tvg-name="LAT | Nick Jr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="LAT INFANTIL",LAT | Nick Jr HD
+https://primevip.day:443/pimpon123/pimpon123/15721
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NICKJLA" tvg-name="LAT | Nick Jr SD (ARG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="LAT INFANTIL",LAT | Nick Jr SD (ARG)
+https://primevip.day:443/pimpon123/pimpon123/15719
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Nickelodeon (MX)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1846.png" group-title="LAT INFANTIL",LAT | Nickelodeon (MX)
+https://primevip.day:443/pimpon123/pimpon123/15712
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Nickelodeon UHD (CO)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1846.png" group-title="LAT INFANTIL",LAT | Nickelodeon UHD (CO)
+https://primevip.day:443/pimpon123/pimpon123/15713
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Tooncast.mx" tvg-name="LAT | ToonCast HD" tvg-logo="https://image.mypanel.cc/?img=http://swedtv.vip/logos/brasil/tooncast.png" group-title="LAT INFANTIL",LAT | ToonCast HD
+https://primevip.day:443/pimpon123/pimpon123/248750
+
+=== LAT ENTRETENIMIENTO ===
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="A&E.mx" tvg-name="LAT |  A&E UHD℠" tvg-logo="https://i.ibb.co/0YWZpbp/a-and-e-us.png" group-title="LAT ENTRETENIMIENTO",LAT |  A&E UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13812
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="A&E.mx" tvg-name="LAT |  Adult Swim HD℠" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="LAT ENTRETENIMIENTO",LAT |  Adult Swim HD℠
+https://primevip.day:443/pimpon123/pimpon123/13563
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  AMC UHD℠" tvg-logo="https://i.ibb.co/pPSSGMS/amc-us.png" group-title="LAT ENTRETENIMIENTO",LAT |  AMC UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13820
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  AXN UHD℠" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmZmM1MzdkLTE3YjEtNDY1ZC1hYjM0LWQ0NzcyMjNhYzE0MlwvZGNucmZqbi00NzYzY2I1NS02ODMwLTRlYzQtYjZkZS04MTQ5MWMwYjE2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7GSBz7ADt-M1We0EvbvdZE7ieGH1PGxtTWGwcWTMFL8" group-title="LAT ENTRETENIMIENTO",LAT |  AXN UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13825
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ATRESA" tvg-name="LAT | A3Series HD℠" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZyCGG2RJ6-tp51Jb-nCSWmzXRBsjp7PJ6WS5czOzKvLgyUHmaecPSCV2xmgtq-hMJVwo4t186DxIqdI5n9Nzslc.png" group-title="LAT ENTRETENIMIENTO",LAT | A3Series HD℠
+https://primevip.day:443/pimpon123/pimpon123/18926
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Comedy Central UHD℠" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/united-kingdom/comedy-central-uk.png" group-title="LAT ENTRETENIMIENTO",LAT |  Comedy Central UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13585
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Comedy Central UHD℠ (MX)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/united-kingdom/comedy-central-uk.png" group-title="LAT ENTRETENIMIENTO",LAT |  Comedy Central UHD℠ (MX)
+https://primevip.day:443/pimpon123/pimpon123/13587
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Love Nature" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="LAT ENTRETENIMIENTO",LAT | Love Nature
+https://primevip.day:443/pimpon123/pimpon123/13615
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CentroamericaTV.us" tvg-name="LAT | Centroamerica TV SD℠" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWnqWD5mkiLJKYC-98hhr3msurm-7rWVsTgAd_qo2BK0NQxy5IiGClB-K1_FrYaCpjZqREgAL_DB7AudFjCa_E-.png" group-title="LAT ENTRETENIMIENTO",LAT | Centroamerica TV SD℠
+https://primevip.day:443/pimpon123/pimpon123/26395
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Discovery TLC HD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/500px-TLC_Logo_Germany.svg.png" group-title="LAT ENTRETENIMIENTO",LAT |  Discovery TLC HD℠
+https://primevip.day:443/pimpon123/pimpon123/13573
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Discovery TLC UHD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/500px-TLC_Logo_Germany.svg.png" group-title="LAT ENTRETENIMIENTO",LAT |  Discovery TLC UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13574
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Discovery Turbo HD℠" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="LAT ENTRETENIMIENTO",LAT |  Discovery Turbo HD℠
+https://primevip.day:443/pimpon123/pimpon123/13577
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="E!.mx" tvg-name="LAT |  E! Entertaiment UHD℠" tvg-logo="https://i.ibb.co/wgBYsrz/e-entertainment.png" group-title="LAT ENTRETENIMIENTO",LAT |  E! Entertaiment UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13591
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  E! Entertainment HD℠ (MX)" tvg-logo="https://i.ibb.co/wgBYsrz/e-entertainment.png" group-title="LAT ENTRETENIMIENTO",LAT |  E! Entertainment HD℠ (MX)
+https://primevip.day:443/pimpon123/pimpon123/13590
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="EstrellaTV.us" tvg-name="LAT |  Estrella TV UHD℠" tvg-logo="https://i.ibb.co/K9F7CGM/Estrella-TV.jpg" group-title="LAT ENTRETENIMIENTO",LAT |  Estrella TV UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13602
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Food Network UHD℠" tvg-logo="https://i.ibb.co/jzVWtwP/food-network.png" group-title="LAT ENTRETENIMIENTO",LAT |  Food Network UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13595
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  FuelTV UHD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fuel_TV.svg/250px-Fuel_TV.svg.png" group-title="LAT ENTRETENIMIENTO",LAT |  FuelTV UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13815
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Garage TV UHD℠" tvg-logo="https://i.ibb.co/jzVWtwP/food-network.png" group-title="LAT ENTRETENIMIENTO",LAT |  Garage TV UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13596
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  HGTV en Español HD℠" tvg-logo="https://i.ibb.co/yNsx1d7/hgtv.png" group-title="LAT ENTRETENIMIENTO",LAT |  HGTV en Español HD℠
+https://primevip.day:443/pimpon123/pimpon123/13530
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HolaTV.mx" tvg-name="LAT |  Hola TV UHD℠" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/HOLATV.png" group-title="LAT ENTRETENIMIENTO",LAT |  Hola TV UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Las Estrellas HD" tvg-logo="https://i.ibb.co/ypgp6Rs/Las-Estrellas.jpg" group-title="LAT ENTRETENIMIENTO",LAT |  Las Estrellas HD
+https://primevip.day:443/pimpon123/pimpon123/13610
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Las Estrellas HD℠ (MX)" tvg-logo="https://i.ibb.co/ypgp6Rs/Las-Estrellas.jpg" group-title="LAT ENTRETENIMIENTO",LAT |  Las Estrellas HD℠ (MX)
+https://primevip.day:443/pimpon123/pimpon123/13605
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  Lifetime HD℠ (MX)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es" group-title="LAT ENTRETENIMIENTO",LAT |  Lifetime HD℠ (MX)
+https://primevip.day:443/pimpon123/pimpon123/13613
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MásChic.mx" tvg-name="LAT |  Mas Chic℠ UHD" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=110347" group-title="LAT ENTRETENIMIENTO",LAT |  Mas Chic℠ UHD
+https://primevip.day:443/pimpon123/pimpon123/13617
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Pasiones.ar" tvg-name="LAT |  Pasiones℠ HD" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/PASIONES.png" group-title="LAT ENTRETENIMIENTO",LAT |  Pasiones℠ HD
+https://primevip.day:443/pimpon123/pimpon123/14784
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  TNT Novelas  HD℠" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/USAMOVIECHANNELS/TBS.png" group-title="LAT ENTRETENIMIENTO",LAT |  TNT Novelas  HD℠
+https://primevip.day:443/pimpon123/pimpon123/13618
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  TNT Series HD℠" tvg-logo="https://seeklogo.com/images/T/tnt-serie-logo-D8C611F146-seeklogo.com.png" group-title="LAT ENTRETENIMIENTO",LAT |  TNT Series HD℠
+https://primevip.day:443/pimpon123/pimpon123/13953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT |  TNT Series℠ UHD" tvg-logo="https://seeklogo.com/images/T/tnt-serie-logo-D8C611F146-seeklogo.com.png" group-title="LAT ENTRETENIMIENTO",LAT |  TNT Series℠ UHD
+https://primevip.day:443/pimpon123/pimpon123/13951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTLVHD" tvg-name="LAT |  TNT UHD℠" tvg-logo="https://i.ibb.co/4ssqxDN/tnt.png" group-title="LAT ENTRETENIMIENTO",LAT |  TNT UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Distrito Comedia UHD℠" tvg-logo="https://i.ibb.co/pPSSGMS/amc-us.png" group-title="LAT ENTRETENIMIENTO",LAT | Distrito Comedia UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13821
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | El Gourmet UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="LAT ENTRETENIMIENTO",LAT | El Gourmet UHD
+https://primevip.day:443/pimpon123/pimpon123/13593
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | GLITZ HD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/500px-Logo_Glitz.svg.png" group-title="LAT ENTRETENIMIENTO",LAT | GLITZ HD℠
+https://primevip.day:443/pimpon123/pimpon123/13521
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Gourmet HD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="LAT ENTRETENIMIENTO",LAT | Gourmet HD℠
+https://primevip.day:443/pimpon123/pimpon123/13594
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | HGTV en Español HD℠" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="LAT ENTRETENIMIENTO",LAT | HGTV en Español HD℠
+https://primevip.day:443/pimpon123/pimpon123/366684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HolaTV.us" tvg-name="LAT | Hola TV UHD℠" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/HOLATV.png" group-title="LAT ENTRETENIMIENTO",LAT | Hola TV UHD℠
+https://primevip.day:443/pimpon123/pimpon123/13597
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | KANAL D DRAMA" tvg-logo="https://kanalddrama.com/fav.png" group-title="LAT ENTRETENIMIENTO",LAT | KANAL D DRAMA
+https://primevip.day:443/pimpon123/pimpon123/308457
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Novelisima" tvg-logo="https://tv.mifibra.pe/logo/1690818918.8150501.png" group-title="LAT ENTRETENIMIENTO",LAT | Novelisima
+https://primevip.day:443/pimpon123/pimpon123/248734
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | TCM HD℠" tvg-logo="https://hbomax-images.warnermediacdn.com/2021-11/TCM%20Pill%5B57%5D.png?host=wme-hbomax-drupal-prod.s3.amazonaws.com" group-title="LAT ENTRETENIMIENTO",LAT | TCM HD℠
+https://primevip.day:443/pimpon123/pimpon123/13944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNT.us" tvg-name="LAT | TNT HD℠" tvg-logo="https://i.ibb.co/4ssqxDN/tnt.png" group-title="LAT ENTRETENIMIENTO",LAT | TNT HD℠
+https://primevip.day:443/pimpon123/pimpon123/13946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UNIVERSO.us" tvg-name="LAT | Universo HD℠" tvg-logo="https://i.ibb.co/7gBMXx9/nbc-universo-us.png" group-title="LAT ENTRETENIMIENTO",LAT | Universo HD℠
+https://primevip.day:443/pimpon123/pimpon123/14633
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Piece by Piece - (2024)(Dᵘᵃˡ-Sᵘᵇ) (Dual)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xSjP8B0iZHRzvrtKcYDkaalomS.jpg" group-title="Animation (L)",Piece by Piece - (2024)(Dᵘᵃˡ-Sᵘᵇ) (Dual)
+https://primevip.day:443/movie/pimpon123/pimpon123/368732.mkv
+
