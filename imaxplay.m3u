@@ -31,6 +31,8 @@ https://primevip.day:443/pimpon123/pimpon123/13507
 http://tv.nousiptv.com:8080/622915/2915/1156012
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://n9.cl/isewq" group-title="DOCUMENTALES",Discovery Science
 https://primevip.day:443/pimpon123/pimpon123/13566
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science OP2" tvg-logo="https://n9.cl/isewq" group-title="DOCUMENTALES",Discovery Science OP2
+http://tv.nousiptv.com:8080/622915/2915/1155818
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://n9.cl/9abbs7" group-title="DOCUMENTALES",Discovery Theater
 https://primevip.day:443/pimpon123/pimpon123/13570
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater OP2" tvg-logo="https://n9.cl/9abbs7" group-title="DOCUMENTALES",Discovery Theater OP2
@@ -61,14 +63,19 @@ https://primevip.day:443/pimpon123/pimpon123/13541
 https://primevip.day:443/pimpon123/pimpon123/26974
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature
 https://primevip.day:443/pimpon123/pimpon123/13615
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature OP2" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature OP2
+http://tv.nousiptv.com:8080/622915/2915/1207483
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo
 https://primevip.day:443/pimpon123/pimpon123/13544
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo OP2" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo OP2
 https://primevip.day:443/pimpon123/pimpon123/13546
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo WILD" tvg-logo="https://n9.cl/j2n30y" group-title="DOCUMENTALES",Nat Geo WILD 
 https://primevip.day:443/pimpon123/pimpon123/13542
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo WILD OP2" tvg-logo="https://n9.cl/j2n30y" group-title="DOCUMENTALES",Nat Geo WILD OP2
+http://tv.nousiptv.com:8080/622915/2915/1239171
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Mundo HD" tvg-logo="https://n9.cl/gevylb" group-title="DOCUMENTALES",Nat Geo Mundo
 https://primevip.day:443/pimpon123/pimpon123/26515
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature
 
 === LAT INFANTIL ===
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT | Asiri TV" tvg-logo="https://tv.mifibra.pe/logo/1690579290.124927.jpg" group-title="LAT INFANTIL",LAT | Asiri TV
