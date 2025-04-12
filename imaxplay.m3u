@@ -26,8 +26,6 @@ http://tv.nousiptv.com:8080/622915/2915/4063
 http://tv.nousiptv.com:8080/622915/2915/1155850
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network OP3" tvg-logo="https://n9.cl/ozhhd" group-title="KIDS",Cartoon Network OP3
 http://tv.nousiptv.com:8080/622915/2915/1155850
-#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="" group-title="KIDS",CLAN TVE
-http://tv.nousiptv.com:8080/622915/2915/1156032
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids
 http://tv.nousiptv.com:8080/622915/2915/1155851
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids OP2" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids OP2
@@ -99,8 +97,6 @@ http://tv.nousiptv.com:8080/622915/2915/4093
 #EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://n9.cl/zvsgc" group-title="DOCUMENTALES",History 2
 http://tv.nousiptv.com:8080/622915/2915/4005
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature
-http://tv.nousiptv.com:8080/622915/2915/1207483
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature OP2" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature OP2
 http://tv.nousiptv.com:8080/622915/2915/1207483
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo
 http://tv.nousiptv.com:8080/622915/2915/4097
