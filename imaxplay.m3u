@@ -2,33 +2,51 @@
 
 === KIDS ===
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://n9.cl/zxk5z" group-title="KIDS",Baby First HD
-https://primevip.day:443/pimpon123/pimpon123/13469
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://n9.cl/zxk5z" group-title="KIDS",Baby First
+http://tv.nousiptv.com:8080/622915/2915/4088
+#EXTINF:-1 tvg-id="" tvg-name="Baby First OP2" tvg-logo="https://n9.cl/zxk5z" group-title="KIDS",Baby First OP2
+http://tv.nousiptv.com:8080/622915/2915/1155858
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://n9.cl/579aqh" group-title="KIDS",Baby TV 
 http://tv.nousiptv.com:8080/622915/2915/4116
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV OP2" tvg-logo="https://n9.cl/579aqh" group-title="KIDS",Baby TV OP2
+http://tv.nousiptv.com:8080/622915/2915/3798
+#EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="https://n9.cl/579aqh" group-title="KIDS",BITME
+http://tv.nousiptv.com:8080/622915/2915/47698
+#EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="https://n9.cl/579aqh" group-title="KIDS",BOING
+http://tv.nousiptv.com:8080/622915/2915/1156035
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://n9.cl/din6xm" group-title="KIDS",Cartoonito
-https://primevip.day:443/pimpon123/pimpon123/15685
+http://tv.nousiptv.com:8080/622915/2915/4061
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito OP2" tvg-logo="https://n9.cl/din6xm" group-title="KIDS",Cartoonito OP2
+http://tv.nousiptv.com:8080/622915/2915/1155854
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://n9.cl/ozhhd" group-title="KIDS",Cartoon Network
-https://primevip.day:443/pimpon123/pimpon123/26959
+http://tv.nousiptv.com:8080/622915/2915/4063
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network OP2" tvg-logo="https://n9.cl/ozhhd" group-title="KIDS",Cartoon Network OP2
 http://tv.nousiptv.com:8080/622915/2915/1155850
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network OP3" tvg-logo="https://n9.cl/ozhhd" group-title="KIDS",Cartoon Network OP3
+http://tv.nousiptv.com:8080/622915/2915/1155850
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids
-https://primevip.day:443/pimpon123/pimpon123/15694
+http://tv.nousiptv.com:8080/622915/2915/1155851
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids OP2" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids OP2
-https://primevip.day:443/pimpon123/pimpon123/15693
+http://tv.nousiptv.com:8080/622915/2915/4072
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",Disney Channel
-https://primevip.day:443/pimpon123/pimpon123/15701
+http://tv.nousiptv.com:8080/622915/2915/4004
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Junior
-https://primevip.day:443/pimpon123/pimpon123/15705
+http://tv.nousiptv.com:8080/622915/2915/4111
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior OP2" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Junior OP2
+http://tv.nousiptv.com:8080/622915/2915/1144260
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://n9.cl/s87l9" group-title="KIDS",Nick Jr
-https://primevip.day:443/pimpon123/pimpon123/15721
+http://tv.nousiptv.com:8080/622915/2915/4194
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr OP2" tvg-logo="https://n9.cl/s87l9" group-title="KIDS",Nick Jr OP2
 https://primevip.day:443/pimpon123/pimpon123/15719
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",Nickelodeon
+http://tv.nousiptv.com:8080/622915/2915/4058
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon OP2" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",Nickelodeon OP2
 http://tv.nousiptv.com:8080/622915/2915/1155856
 #EXTINF:-1 tvg-id="" tvg-name="Teennick" tvg-logo="https://n9.cl/ov39fy" group-title="KIDS",Teennick
 http://tv.nousiptv.com:8080/622915/2915/4140
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://n9.cl/ez8jaj" group-title="KIDS",Tooncast
+http://tv.nousiptv.com:8080/622915/2915/4051
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST OP2" tvg-logo="https://n9.cl/ez8jaj" group-title="KIDS",Tooncast OP2
 http://tv.nousiptv.com:8080/622915/2915/1155861
 
 === DOCUMENTALES ===
