@@ -120,6 +120,8 @@ https://primevip.day:443/pimpon123/pimpon123/18926
 https://primevip.day:443/pimpon123/pimpon123/13820
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/fmpfv" group-title="CINE Y SERIES",AXN
 https://primevip.day:443/pimpon123/pimpon123/13825
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://n9.cl/ok2jch" group-title="CINE Y SERIES",Lifetime
+http://tv.nousiptv.com:8080/622915/2915/1155873
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://n9.cl/o629q6" group-title="CINE Y SERIES",TCM
 https://primevip.day:443/pimpon123/pimpon123/13944
 
@@ -136,53 +138,65 @@ https://primevip.day:443/pimpon123/pimpon123/13953
 https://primevip.day:443/pimpon123/pimpon123/13951
 
 === VARIEDADES ===
-#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="" group-title="VARIEDADES",Adult Swim
-https://primevip.day:443/pimpon123/pimpon123/13563
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="VARIEDADES",Comedy Central
-https://primevip.day:443/pimpon123/pimpon123/13585
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central OP2" tvg-logo="" group-title="VARIEDADES",Comedy Central OP2
-https://primevip.day:443/pimpon123/pimpon123/13587
-#EXTINF:-1 tvg-id="" tvg-name="Centroamerica TV" tvg-logo="" group-title="VARIEDADES",Centroamerica TV
-https://primevip.day:443/pimpon123/pimpon123/26395
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="VARIEDADES",Distrito Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="https://n9.cl/1mhur" group-title="VARIEDADES",Adult Swim 
+http://tv.nousiptv.com:8080/622915/2915/1155879
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="https://n9.cl/jz8c7b" group-title="VARIEDADES",America TEVE
+http://tv.nousiptv.com:8080/622915/2915/48119
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://n9.cl/gbjo1r" group-title="VARIEDADES",Comedy Central
+http://tv.nousiptv.com:8080/622915/2915/4039
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central OP2" tvg-logo="https://n9.cl/gbjo1r" group-title="VARIEDADES",Comedy Central OP2
+http://tv.nousiptv.com:8080/622915/2915/1155872
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://n9.cl/khr247" group-title="VARIEDADES",Distrito Comedia
 https://primevip.day:443/pimpon123/pimpon123/13821
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiment" tvg-logo="" group-title="VARIEDADES",E! Entertaiment
-https://primevip.day:443/pimpon123/pimpon123/13591
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="VARIEDADES",El Gourmet
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia OP2" tvg-logo="https://n9.cl/khr247" group-title="VARIEDADES",Distrito Comedia OP2
+http://tv.nousiptv.com:8080/622915/2915/4040
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiment" tvg-logo="https://n9.cl/a43gx" group-title="VARIEDADES",E! Entertaiment
+http://tv.nousiptv.com:8080/622915/2915/4041
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiment OP2" tvg-logo="https://n9.cl/a43gx" group-title="VARIEDADES",E! Entertaiment OP2
+http://tv.nousiptv.com:8080/622915/2915/1155867
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://n9.cl/kuyq7" group-title="VARIEDADES",El Gourmet
 https://primevip.day:443/pimpon123/pimpon123/13593
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment OP2" tvg-logo="" group-title="VARIEDADES",E! Entertainment OP2
-https://primevip.day:443/pimpon123/pimpon123/13590
-#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="" group-title="VARIEDADES",Estrella TV
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet OP2" tvg-logo="https://n9.cl/kuyq7" group-title="VARIEDADES",El Gourmet OP2
+http://tv.nousiptv.com:8080/622915/2915/1155868
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="https://n9.cl/6442v" group-title="VARIEDADES",Estrella TV
 https://primevip.day:443/pimpon123/pimpon123/13602
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="VARIEDADES",Food Network
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV OP2" tvg-logo="https://n9.cl/6442v" group-title="VARIEDADES",Estrella TV OP2
+http://tv.nousiptv.com:8080/622915/2915/41188
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://n9.cl/i4d5x" group-title="VARIEDADES",Food Network
 https://primevip.day:443/pimpon123/pimpon123/13595
-#EXTINF:-1 tvg-id="" tvg-name="FuelTV" tvg-logo="" group-title="VARIEDADES",FuelTV
+#EXTINF:-1 tvg-id="" tvg-name="Food Network OP2" tvg-logo="https://n9.cl/i4d5x" group-title="VARIEDADES",Food Network OP2
+http://tv.nousiptv.com:8080/622915/2915/4057
+#EXTINF:-1 tvg-id="" tvg-name="FuelTV" tvg-logo="https://n9.cl/owe3m" group-title="VARIEDADES",FuelTV
 https://primevip.day:443/pimpon123/pimpon123/13815
-#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="" group-title="VARIEDADES",Garage TV
-https://primevip.day:443/pimpon123/pimpon123/13596
-#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="" group-title="VARIEDADES",GLITZ
-https://primevip.day:443/pimpon123/pimpon123/13521
-#EXTINF:-1 tvg-id="" tvg-name="Gourmet" tvg-logo="" group-title="VARIEDADES",Gourmet
-https://primevip.day:443/pimpon123/pimpon123/13594
-#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="" group-title="VARIEDADES",Hola TV
-https://primevip.day:443/pimpon123/pimpon123/13475
-#EXTINF:-1 tvg-id="" tvg-name="Hola TV OP2" tvg-logo="" group-title="VARIEDADES",Hola TV OP2
-https://primevip.day:443/pimpon123/pimpon123/13597
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA" tvg-logo="" group-title="VARIEDADES",KANAL D DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://n9.cl/izb0oc" group-title="VARIEDADES",Garage TV
+http://tv.nousiptv.com:8080/622915/2915/1155864
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV OP2" tvg-logo="https://n9.cl/izb0oc" group-title="VARIEDADES",Garage TV OP2
+http://tv.nousiptv.com:8080/622915/2915/4016
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ " tvg-logo="https://n9.cl/2vdp88" group-title="VARIEDADES",GLITZ
+http://tv.nousiptv.com:8080/622915/2915/4045
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ OP2" tvg-logo="https://n9.cl/2vdp88" group-title="VARIEDADES",GLITZ OP2
+http://tv.nousiptv.com:8080/622915/2915/1155875
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="https://n9.cl/mr4fd" group-title="VARIEDADES",Hola TV
+http://tv.nousiptv.com:8080/622915/2915/4046
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV OP2" tvg-logo="https://n9.cl/mr4fd" group-title="VARIEDADES",Hola TV OP2
+http://tv.nousiptv.com:8080/622915/2915/1155874
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA" tvg-logo="https://n9.cl/1ksur" group-title="VARIEDADES",KANAL D DRAMA
 https://primevip.day:443/pimpon123/pimpon123/308457
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="VARIEDADES",Las Estrellas
-https://primevip.day:443/pimpon123/pimpon123/13610
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas OP2" tvg-logo="" group-title="VARIEDADES",Las Estrellas OP2
-https://primevip.day:443/pimpon123/pimpon123/13605
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime OP2" tvg-logo="" group-title="VARIEDADES",Lifetime OP2
-https://primevip.day:443/pimpon123/pimpon123/13613
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="VARIEDADES",Mas Chic
-https://primevip.day:443/pimpon123/pimpon123/13617
-#EXTINF:-1 tvg-id="" tvg-name="Novelisima" tvg-logo="" group-title="VARIEDADES",Novelisima
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA OP2" tvg-logo="https://n9.cl/1ksur" group-title="VARIEDADES",KANAL D DRAMA OP2
+http://tv.nousiptv.com:8080/622915/2915/1167673
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="https://n9.cl/9eg44" group-title="VARIEDADES",Las Estrellas
+http://tv.nousiptv.com:8080/622915/2915/1239363
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas OP2" tvg-logo="https://n9.cl/9eg44" group-title="VARIEDADES",Las Estrellas OP2
+http://tv.nousiptv.com:8080/622915/2915/4030
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="https://n9.cl/2mvix" group-title="VARIEDADES",Mas Chic
+http://tv.nousiptv.com:8080/622915/2915/4047
+#EXTINF:-1 tvg-id="" tvg-name="Novelisima" tvg-logo="https://n9.cl/gochs" group-title="VARIEDADES",Novelisima
 https://primevip.day:443/pimpon123/pimpon123/248734
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="" group-title="VARIEDADES",Pasiones
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://n9.cl/sfkjw9" group-title="VARIEDADES",Pasiones
 https://primevip.day:443/pimpon123/pimpon123/14784
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VARIEDADES",Universo
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones OP2" tvg-logo="https://n9.cl/sfkjw9" group-title="VARIEDADES",Pasiones OP2
+http://tv.nousiptv.com:8080/622915/2915/49168
+#EXTINF:-1 tvg-id="" tvg-name="Universo" tvg-logo="https://n9.cl/feqvy" group-title="VARIEDADES",Universo
 https://primevip.day:443/pimpon123/pimpon123/14633
 
 
