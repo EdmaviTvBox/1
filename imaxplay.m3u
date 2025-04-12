@@ -14,7 +14,7 @@ http://tv.nousiptv.com:8080/622915/2915/3798
 http://tv.nousiptv.com:8080/622915/2915/1156043
 #EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="https://n9.cl/ufbh08" group-title="KIDS",BITME
 http://tv.nousiptv.com:8080/622915/2915/47698
-#EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="https://n9.cl/579aqh" group-title="KIDS",BOING
+#EXTINF:-1 tvg-id="" tvg-name="BOING TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/800px-Boing_2020.svg.png" group-title="KIDS",BOING
 http://tv.nousiptv.com:8080/622915/2915/1156035
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://n9.cl/din6xm" group-title="KIDS",Cartoonito
 http://tv.nousiptv.com:8080/622915/2915/4061
@@ -26,6 +26,8 @@ http://tv.nousiptv.com:8080/622915/2915/4063
 http://tv.nousiptv.com:8080/622915/2915/1155850
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network OP3" tvg-logo="https://n9.cl/ozhhd" group-title="KIDS",Cartoon Network OP3
 http://tv.nousiptv.com:8080/622915/2915/1155850
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="" group-title="KIDS",CLAN TVE
+http://tv.nousiptv.com:8080/622915/2915/1156032
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids
 http://tv.nousiptv.com:8080/622915/2915/1155851
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids OP2" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids OP2
@@ -38,8 +40,6 @@ http://tv.nousiptv.com:8080/622915/2915/4111
 http://tv.nousiptv.com:8080/622915/2915/1144260
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://n9.cl/s87l9" group-title="KIDS",Nick Jr
 http://tv.nousiptv.com:8080/622915/2915/4194
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr OP2" tvg-logo="https://n9.cl/s87l9" group-title="KIDS",Nick Jr OP2
-https://primevip.day:443/pimpon123/pimpon123/15719
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",Nickelodeon
 http://tv.nousiptv.com:8080/622915/2915/4058
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon OP2" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",Nickelodeon OP2
@@ -53,83 +53,62 @@ http://tv.nousiptv.com:8080/622915/2915/1155861
 
 === DOCUMENTALES ===
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://n9.cl/gibh6" group-title="DOCUMENTALES",Animal Planet
-https://primevip.day:443/pimpon123/pimpon123/13561
+http://tv.nousiptv.com:8080/622915/2915/4067
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet OP2" tvg-logo="https://n9.cl/gibh6" group-title="DOCUMENTALES",Animal Planet OP2
-https://primevip.day:443/pimpon123/pimpon123/26957
+http://tv.nousiptv.com:8080/622915/2915/1155797
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://n9.cl/s5jtt" group-title="DOCUMENTALES",Discovery Channel
 http://tv.nousiptv.com:8080/622915/2915/4069
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel OP2" tvg-logo="https://n9.cl/s5jtt" group-title="DOCUMENTALES",Discovery Channel OP2
 http://tv.nousiptv.com:8080/622915/2915/56304
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Español " tvg-logo="https://n9.cl/idd3q" group-title="DOCUMENTALES",Discovery Español 
-https://primevip.day:443/pimpon123/pimpon123/13514
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Español OP2" tvg-logo="https://n9.cl/idd3q" group-title="DOCUMENTALES",Discovery Español OP2
-https://primevip.day:443/pimpon123/pimpon123/298629
+http://tv.nousiptv.com:8080/622915/2915/56304
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="https://n9.cl/3aa18" group-title="DOCUMENTALES",Discovery Familia
 https://primevip.day:443/pimpon123/pimpon123/406559
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia OP2" tvg-logo="https://n9.cl/3aa18" group-title="DOCUMENTALES",Discovery Familia OP2
-https://primevip.day:443/pimpon123/pimpon123/13598
 #EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="https://n9.cl/6aik2" group-title="DOCUMENTALES",Discovery H&H
-https://primevip.day:443/pimpon123/pimpon123/13526
+http://tv.nousiptv.com:8080/622915/2915/1155816
 #EXTINF:-1 tvg-id="" tvg-name="Discovery H&H OP2" tvg-logo="https://n9.cl/6aik2" group-title="DOCUMENTALES",Discovery H&H OP2
 http://tv.nousiptv.com:8080/622915/2915/4070
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H OP3" tvg-logo="https://n9.cl/6aik2" group-title="DOCUMENTALES",Discovery H&H OP3
-http://tv.nousiptv.com:8080/622915/2915/1155816
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery 
-https://primevip.day:443/pimpon123/pimpon123/13506
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery OP2" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery OP2
-https://primevip.day:443/pimpon123/pimpon123/13507
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery OP3" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery OP3
 http://tv.nousiptv.com:8080/622915/2915/1156012
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery OP2" tvg-logo="https://n9.cl/xznry" group-title="DOCUMENTALES",Investigation Discovery OP2
+http://tv.nousiptv.com:8080/622915/2915/4123
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://n9.cl/isewq" group-title="DOCUMENTALES",Discovery Science
-https://primevip.day:443/pimpon123/pimpon123/13566
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science OP2" tvg-logo="https://n9.cl/isewq" group-title="DOCUMENTALES",Discovery Science OP2
 http://tv.nousiptv.com:8080/622915/2915/1155818
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://n9.cl/9abbs7" group-title="DOCUMENTALES",Discovery Theater
-https://primevip.day:443/pimpon123/pimpon123/13570
+http://tv.nousiptv.com:8080/622915/2915/4073
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater OP2" tvg-logo="https://n9.cl/9abbs7" group-title="DOCUMENTALES",Discovery Theater OP2
-https://primevip.day:443/pimpon123/pimpon123/13572
+http://tv.nousiptv.com:8080/622915/2915/4119
 #EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="https://n9.cl/5yqcv" group-title="DOCUMENTALES",Discovery TLC
-https://primevip.day:443/pimpon123/pimpon123/13573
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC OP2" tvg-logo="https://n9.cl/5yqcv" group-title="DOCUMENTALES",Discovery TLC OP2
-https://primevip.day:443/pimpon123/pimpon123/13574
+http://tv.nousiptv.com:8080/622915/2915/1155820
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo
-https://primevip.day:443/pimpon123/pimpon123/13520
+http://tv.nousiptv.com:8080/622915/2915/4075
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo OP2" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo OP2
-https://primevip.day:443/pimpon123/pimpon123/13512
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo OP3" tvg-logo="https://n9.cl/myxrr" group-title="DOCUMENTALES",Discovery Turbo OP3
-https://primevip.day:443/pimpon123/pimpon123/13577
+http://tv.nousiptv.com:8080/622915/2915/1155871
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://n9.cl/mferl" group-title="DOCUMENTALES",Discovery World
-https://primevip.day:443/pimpon123/pimpon123/13583
+http://tv.nousiptv.com:8080/622915/2915/4076
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World OP2" tvg-logo="https://n9.cl/mferl" group-title="DOCUMENTALES",Discovery World OP2
-https://primevip.day:443/pimpon123/pimpon123/298630
+http://tv.nousiptv.com:8080/622915/2915/1155812
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/6foey" group-title="DOCUMENTALES",HGTV
-https://primevip.day:443/pimpon123/pimpon123/13530
+http://tv.nousiptv.com:8080/622915/2915/1155823
 #EXTINF:-1 tvg-id="" tvg-name="HGTV OP2" tvg-logo="https://n9.cl/6foey" group-title="DOCUMENTALES",HGTV OP2
 https://primevip.day:443/pimpon123/pimpon123/366684
 #EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="https://n9.cl/bxxwc" group-title="DOCUMENTALES",Historia
 http://tv.nousiptv.com:8080/622915/2915/1156022
 #EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://n9.cl/2otu1" group-title="DOCUMENTALES",History
 http://tv.nousiptv.com:8080/622915/2915/4093
-#EXTINF:-1 tvg-id="" tvg-name="History Español" tvg-logo="https://n9.cl/78ub0" group-title="DOCUMENTALES",History Español
-https://primevip.day:443/pimpon123/pimpon123/13535
 #EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://n9.cl/zvsgc" group-title="DOCUMENTALES",History 2
-https://primevip.day:443/pimpon123/pimpon123/13541
-#EXTINF:-1 tvg-id="" tvg-name="History 2 OP2" tvg-logo="https://n9.cl/zvsgc" group-title="DOCUMENTALES",History 2 OP2
-https://primevip.day:443/pimpon123/pimpon123/26974
+http://tv.nousiptv.com:8080/622915/2915/4005
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature
-https://primevip.day:443/pimpon123/pimpon123/13615
+http://tv.nousiptv.com:8080/622915/2915/1207483
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature OP2" tvg-logo="https://n9.cl/wqwbd" group-title="DOCUMENTALES",Love Nature OP2
 http://tv.nousiptv.com:8080/622915/2915/1207483
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo
-https://primevip.day:443/pimpon123/pimpon123/13544
+http://tv.nousiptv.com:8080/622915/2915/4097
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo OP2" tvg-logo="https://n9.cl/ynzbd" group-title="DOCUMENTALES",Nat Geo OP2
-https://primevip.day:443/pimpon123/pimpon123/13546
+http://tv.nousiptv.com:8080/622915/2915/4126
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo WILD" tvg-logo="https://n9.cl/j2n30y" group-title="DOCUMENTALES",Nat Geo WILD 
-https://primevip.day:443/pimpon123/pimpon123/13542
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo WILD OP2" tvg-logo="https://n9.cl/j2n30y" group-title="DOCUMENTALES",Nat Geo WILD OP2
 http://tv.nousiptv.com:8080/622915/2915/1239171
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Mundo HD" tvg-logo="https://n9.cl/gevylb" group-title="DOCUMENTALES",Nat Geo Mundo
-https://primevip.day:443/pimpon123/pimpon123/26515
+
 
 === CINE Y SERIES ===
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://n9.cl/yr595q" group-title="CINE Y SERIES",A&E
