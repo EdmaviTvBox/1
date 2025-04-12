@@ -112,17 +112,31 @@ http://tv.nousiptv.com:8080/622915/2915/1239171
 https://primevip.day:443/pimpon123/pimpon123/26515
 
 === CINE Y SERIES ===
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://n9.cl/bn89h" group-title="CINE Y SERIES",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://n9.cl/yr595q" group-title="CINE Y SERIES",A&E
 https://primevip.day:443/pimpon123/pimpon123/13812
-#EXTINF:-1 tvg-id="" tvg-name="A3Series" tvg-logo="https://n9.cl/337by" group-title="CINE Y SERIES",A3Series
+#EXTINF:-1 tvg-id="" tvg-name="A3Series" tvg-logo="https://n9.cl/tp6hh" group-title="CINE Y SERIES",A3Series
 https://primevip.day:443/pimpon123/pimpon123/18926
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/buyfjf" group-title="CINE Y SERIES",AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/kv5us" group-title="CINE Y SERIES",AMC
 https://primevip.day:443/pimpon123/pimpon123/13820
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/fmpfv" group-title="CINE Y SERIES",AXN
 https://primevip.day:443/pimpon123/pimpon123/13825
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://n9.cl/ok2jch" group-title="CINE Y SERIES",Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://n9.cl/gdafy" group-title="CINE Y SERIES",Cine Latino
+https://primevip.day:443/pimpon123/pimpon123/18876
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-logo="https://n9.cl/ofoupz" group-title="CINE Y SERIES",Cinecanal 
+https://primevip.day:443/pimpon123/pimpon123/18870
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal OP2" tvg-logo="https://n9.cl/ofoupz" group-title="CINE Y SERIES",Cinecanal OP2
+https://primevip.day:443/pimpon123/pimpon123/18872
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/e6iu4" group-title="CINE Y SERIES",DHE
+http://tv.nousiptv.com:8080/622915/2915/24180
+#EXTINF:-1 tvg-id="" tvg-name="Filmex Accion" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/fmxac-2.png" group-title="CINE Y SERIES",Filmex Accion
+https://primevip.day:443/pimpon123/pimpon123/13942
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://n9.cl/fqn74" group-title="CINE Y SERIES",Lifetime
 http://tv.nousiptv.com:8080/622915/2915/1155873
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://n9.cl/o629q6" group-title="CINE Y SERIES",TCM
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://morbido.tv/wp-content/uploads/2024/02/MTV-Color-Favicon.png" group-title="CINE Y SERIES",MORBID TV
+http://tv.nousiptv.com:8080/622915/2915/33364
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE Y SERIES",Studio Universal
+https://primevip.day:443/pimpon123/pimpon123/18988
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://n9.cl/pyore" group-title="CINE Y SERIES",TCM
 https://primevip.day:443/pimpon123/pimpon123/13944
 
 === PACK PREMIUM ===
