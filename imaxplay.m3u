@@ -188,6 +188,8 @@ http://tv.nousiptv.com:8080/622915/2915/1155875
 http://tv.nousiptv.com:8080/622915/2915/4046
 #EXTINF:-1 tvg-id="" tvg-name="Hola TV OP2" tvg-logo="https://n9.cl/mr4fd" group-title="VARIEDADES",Hola TV OP2
 http://tv.nousiptv.com:8080/622915/2915/1155874
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV OP3" tvg-logo="https://n9.cl/mr4fd" group-title="VARIEDADES",Hola TV OP3
+http://xxip25.top:8080/16329480/52276613/139757
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA" tvg-logo="https://n9.cl/1ksur" group-title="VARIEDADES",KANAL D DRAMA
 https://primevip.day:443/pimpon123/pimpon123/308457
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA OP2" tvg-logo="https://n9.cl/1ksur" group-title="VARIEDADES",KANAL D DRAMA OP2
@@ -214,8 +216,12 @@ http://lunar.pm:8080/cSYa2SpUBy/wX47QXTxjN/18210
 http://lunar.pm:8080/cSYa2SpUBy/wX47QXTxjN/18211
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="DUAL AUDIO",HBO 
 http://xxip25.top:8080/16329480/52276613/9264
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="DUAL AUDIO",HBO Zone (East) 
+http://xxip25.top:8080/16329480/52276613/9265
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax ActionMax (East)" tvg-logo="" group-title="DUAL AUDIO",MGM+
 http://lunar.pm:8080/cSYa2SpUBy/wX47QXTxjN/18206
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax ActionMax (East)" tvg-logo="" group-title="DUAL AUDIO",TeenNick
+http://xxip25.top:8080/16329480/52276613/140004
 
 
 ======LAT USA:===
