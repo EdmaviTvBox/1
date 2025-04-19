@@ -1,21 +1,21 @@
 #EXTM3U
 
 ===KIDS===
-#EXTINF:-1,KIDS: BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://n9.cl/579aqh" group-title="KIDS",BABY TV
 http://lunar.pm:8080/2052404365/41437862tow/115053
-#EXTINF:-1,KIDS: CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://n9.cl/din6xm" group-title="KIDS",CARTOONITO
 http://lunar.pm:8080/2052404365/41437862tow/115056
-#EXTINF:-1,KIDS: CARTOONITO OP2
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://n9.cl/din6xm" group-title="KIDS",CARTOONITO OP2
 http://lunar.pm:8080/2052404365/41437862tow/115061
-#EXTINF:-1,KIDS: DISCOVERY KIDS
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",DISCOVERY KIDS
 http://lunar.pm:8080/2052404365/41437862tow/115084
-#EXTINF:-1,KIDS: DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",DISNEY CHANNEL
 http://lunar.pm:8080/2052404365/41437862tow/115088
-#EXTINF:-1,KIDS: DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://n9.cl/acmww" group-title="KIDS",DISNEY JR
 http://lunar.pm:8080/2052404365/41437862tow/115089
-#EXTINF:-1,KIDS: NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",NICKELODEON
 http://lunar.pm:8080/2052404365/41437862tow/115128
-#EXTINF:-1,KIDS: NICKELODEON OP2
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",NICKELODEON OP2
 http://lunar.pm:8080/2052404365/41437862tow/115130
 
 
