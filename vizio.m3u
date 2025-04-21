@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1,Modern Marvels Presented by History
+https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
+#EXTINF:-1,Xtreme Outdoor Presented By History
+https://787fc879.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2tpbGxzQW5kVGhyaWxsc19ITFM/playlist.m3u8
+#EXTINF:-1,Ax Men
+https://8d46229f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQXhNZW5fSExT/playlist.m3u8
+#EXTINF:-1,Ice Road Truckers
+https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
+#EXTINF:-1,Waypoint TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8
+#EXTINF:-1,Monster Jam
+https://8644ef8e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/playlist.m3u8
+#EXTINF:-1,Torque
+https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
+#EXTINF:-1,MavTV Select
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-vizious/playlist.m3u8
+#EXTINF:-1,BBC Top Gear
+https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
+#EXTINF:-1,MotorTrend FAST TV
+https://295298a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW90b3JUcmVuZEZhc3RUVl9ITFM/playlist.m3u8
+#EXTINF:-1,Speedvision
+https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
+
+#EXTINF:-1,Billiard TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991627/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99991627
+#EXTINF:-1,Swerve Combat
+https://linear-253.frequency.stream/dist/vizio/253/hls/master/playlist.m3u8
+#EXTINF:-1,Professional Fighters League
+https://c27dfe8a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1,Impact Wrestling
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991341
+#EXTINF:-1,Fight Network
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951132
+#EXTINF:-1,Boxing TV
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154
+
+#EXTINF:-1 tvg-id="DistroTVUS_29218" tvg-logo="https://a.jsrdn.com/hls/22817/hard-knocks-fighting/logo_20231219_202542_70.png" group-title="DistroTV🇺🇸: Sports",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?
+#EXTINF:-1 tvg-id="DistroTVUS_25102" tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/logo_20231219_214316_68.png" group-title="DistroTV🇺🇸: Travel",Island Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8?
+#EXTINF:-1 tvg-id="DistroTVUS_25089" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/logo_20231219_221332_68.png" group-title="DistroTV🇺🇸: Travel",Relaxing Rain
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8?
+#EXTINF:-1 tvg-id="DistroTVUS_25045" tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/logo_20231219_201641_68.png" group-title="DistroTV🇺🇸: Travel",Fireplace Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8?
+#EXTINF:-1,Nature Moments by Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturemomentsuhd-vizious/playlist.m3u8
+#EXTINF:-1,Loupe Art + Music
+https://linear-144.frequency.stream/dist/vizio/144/hls/hd/playlist.m3u8
+
+
+
+#EXTINF:-1,AMC en Español
+https://4972c88f2f4c48bf9a9a5f4fd3623cbd.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_AMCenEspanol/playlist.m3u8
+#EXTINF:-1,AMC en Español Alt
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,AFV en Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1,RCN Más recheck
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Xtra recheck
+https://latv-rcn-xtra-1-us.roku.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Sony One Competencias
+https://3f185555257d4a66a0595a492891136a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SonyCanalCompetencias-1/playlist.m3u8
+#EXTINF:-1,Sony One Competencias Alt
+https://spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony One Novelas
+https://6ce58fe936574843b9de0313cc023517.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SonyCanalNovelas-1/playlist.m3u8
+#EXTINF:-1,Sony One Novelas Alt
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,FreeTV Drama (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
+#EXTINF:-1,FreeTV Sureno (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-vizio/playlist.m3u8
+
+
+
