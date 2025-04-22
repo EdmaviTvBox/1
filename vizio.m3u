@@ -1,5 +1,150 @@
 #EXTM3U
+=== LATAM Y ESP ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",AMC en Español
+https://4972c88f2f4c48bf9a9a5f4fd3623cbd.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_AMCenEspanol/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",AMC en Español Alt
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",AMC Espanol (US)
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",AFV en Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",RCN Más recheck
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",RCN Xtra recheck
+https://latv-rcn-xtra-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DistroTVUS_39397" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-the-vault/logo_20231219_202231_70.png" group-title="DistroTV🇺🇸: Entertainment",GlewedTV The Vault
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-the-vault/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Nosey other (EU)
+https://nosey-3-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Travel XP (EU) alt
+https://travelxp-travelxp-5-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Mytime (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Homeful
+https://amg00090-amg00090c15-xiaomi-international-4616.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",123 Go Spanish (CO)
+https://amg02051-soulpublishing-amg02051c3-lg-co-585.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgco/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",123 Go! Spanish 
+https://amg02051-soulpublishing-amg02051c18-xiaomi-international-372.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Ideas En 5 Minutos Spanish
+https://amg02051-soulpublishing-amg02051c3-xiaomi-international-370.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Tastemade (ES)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes16intl-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Frecuencia Novelas (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-frecuencianovelas-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Infast alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylehd-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Nature Time C14
+https://amg01515-amg01515c14-xiaomi-international-4619.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Love Wine
+https://amg01821-amg01821c17-xiaomi-international-4602.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Historia Y Vida
+https://amg01821-amg01821c22-xiaomi-international-4608.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Love Crime and History Spain
+https://amg01821-amg01821c23-xiaomi-international-4612.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryspain-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Pelimex (EU)
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",5 Minute Crafts Spanish (CO)
+https://amg02051-soulpublishing-amg02051c3-lg-co-585.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgco/playlist.m3u8
 
+=== PACK CANAL ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Sony One Competencias
+https://3f185555257d4a66a0595a492891136a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SonyCanalCompetencias-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Sony One Competencias Alt
+https://spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Sony One Novelas
+https://6ce58fe936574843b9de0313cc023517.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SonyCanalNovelas-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Sony One Novelas Alt
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Sonyone Sharktank (MX)
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Sony Comedias (MX)
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",FreeTV Drama (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",FreeTV Sureno (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-vizio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Freetv Terror Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Freetv Accion Latm Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0uhwv" group-title="PACK CANAL",Freetv Estella latm Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
+
+=== MUSIC ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Ditty TV (EU)
+https://memphisstudios-dittytv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Ditty TV (US)
+https://memphisstudios-dittytv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Now 70s 
+https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Now 80s 
+https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Now 90s 
+https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Trace Brazuca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Trace Urban
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m98s5" group-title="MUSIC",Flash Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
+
+=== USA SPORTS ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Billiard TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991627/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99991627
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Billiards TV (EU)
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Swerve Combat
+https://linear-253.frequency.stream/dist/vizio/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Professional Fighters League
+https://c27dfe8a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Impact Wrestling
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991341
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Fight Network
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951132
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Boxing TV
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mwv1a" group-title="USA SPORTS",Ax Men
+https://8d46229f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQXhNZW5fSExT/playlist.m3u8
+
+=== USA MOTORS === 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/887ibc" group-title="USA MOTORS",Ice Road Truckers
+https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/887ibc" group-title="USA MOTORS",Waypoint TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/887ibc" group-title="USA MOTORS",Monster Jam
+https://8644ef8e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/887ibc" group-title="USA MOTORS",Torque
+https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/887ibc" group-title="USA MOTORS",MavTV Select
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/887ibc" group-title="USA MOTORS",BBC Top Gear
+https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/887ibc" group-title="USA MOTORS",MotorTrend FAST TV
+https://295298a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW90b3JUcmVuZEZhc3RUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/887ibc" group-title="USA MOTORS",Speedvision
+https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
+
+
+=== USA CULT ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",tvg-id= Island Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Relaxing Rain
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Fireplace Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Nature Moments by Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturemomentsuhd-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Loupe Art + Music
+https://linear-144.frequency.stream/dist/vizio/144/hls/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Modern Marvels Presented by History
+https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Xtreme Outdoor Presented By History
+https://787fc879.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2tpbGxzQW5kVGhyaWxsc19ITFM/playlist.m3u8
 #EXTINF:-1,Modern Marvels Presented by History
 https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
 #EXTINF:-1,Xtreme Outdoor Presented By History
