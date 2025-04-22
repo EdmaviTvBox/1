@@ -8,6 +8,10 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",AFV en Espanol
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Estrella News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",RCN Más recheck
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",RCN Xtra recheck
@@ -129,12 +133,15 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_c
 
 
 === USA CULT ===
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",tvg-id= Island Escape
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Island Escape
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Relaxing Rain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Fireplace Lounge
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Nature Moments by Love Nature
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturemomentsuhd-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efmaao" group-title="USA CULT",Loupe Art + Music
