@@ -12,8 +12,6 @@ https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",RCN Xtra recheck
 https://latv-rcn-xtra-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DistroTVUS_39397" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-the-vault/logo_20231219_202231_70.png" group-title="DistroTV🇺🇸: Entertainment",GlewedTV The Vault
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-the-vault/master.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Nosey other (EU)
 https://nosey-3-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s8zze" group-title="LATAM Y ESP",Travel XP (EU) alt
