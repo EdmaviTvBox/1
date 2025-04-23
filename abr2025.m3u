@@ -1,19 +1,66 @@
 #EXTM3U
 
 ===KIDS===
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://n9.cl/579aqh" group-title="KIDS",BABY TV
+=== KIDS ===
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/579aqh" group-title="KIDS",BABY TVBaby TV
+http://170.39.192.130:2095/56995457920play/300524play/99874
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Baby First
+http://170.39.192.130:2095/56995457920play/300524play/99875
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/din6xm" group-title="KIDS",Cartoonito
+http://170.39.192.130:2095/56995457920play/300524play/99878
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Cartoon Network
+http://170.39.192.130:2095/56995457920play/300524play/99880
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Cartoon Network HD
+http://170.39.192.130:2095/56995457920play/300524play/99881
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids
+http://170.39.192.130:2095/56995457920play/300524play/99882
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids HD
+http://170.39.192.130:2095/56995457920play/300524play/99883
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",Disney Channel
+http://170.39.192.130:2095/56995457920play/300524play/99884
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",Disney Channel HD
+http://170.39.192.130:2095/56995457920play/300524play/99885
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Junior
+http://170.39.192.130:2095/56995457920play/300524play/99886
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Junior HD
+http://170.39.192.130:2095/56995457920play/300524play/99887
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Dreamworks HD
+http://170.39.192.130:2095/56995457920play/300524play/99888
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",ETC TV
+http://170.39.192.130:2095/56995457920play/300524play/99890
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",El Chavo Del 8 TV
+http://170.39.192.130:2095/56995457920play/300524play/99891
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",Nickelodeon
+http://170.39.192.130:2095/56995457920play/300524play/99895
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Nick 2
+http://170.39.192.130:2095/56995457920play/300524play/99897
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Nick Jr (op.1)
+http://170.39.192.130:2095/56995457920play/300524play/99898
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Nick Jr (op.2)
+http://170.39.192.130:2095/56995457920play/300524play/99899
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Nicktoons
+http://170.39.192.130:2095/56995457920play/300524play/99900
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Paka-Paka
+http://170.39.192.130:2095/56995457920play/300524play/99901
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Teen Nick
+http://170.39.192.130:2095/56995457920play/300524play/99904
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Tooncast
+http://170.39.192.130:2095/56995457920play/300524play/99905
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Tooncast HD
+http://170.39.192.130:2095/56995457920play/300524play/99906
+
 http://lunar.pm:8080/2052404365/41437862tow/115053
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://n9.cl/din6xm" group-title="KIDS",CARTOONITO
+
 http://lunar.pm:8080/2052404365/41437862tow/115056
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://n9.cl/din6xm" group-title="KIDS",CARTOONITO OP2
 http://lunar.pm:8080/2052404365/41437862tow/115061
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",DISCOVERY KIDS
+DISCOVERY KIDS
 http://lunar.pm:8080/2052404365/41437862tow/115084
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",DISNEY CHANNEL
 http://lunar.pm:8080/2052404365/41437862tow/115088
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://n9.cl/acmww" group-title="KIDS",DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",DISNEY JR
 http://lunar.pm:8080/2052404365/41437862tow/115089
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",NICKELODEON
+NICKELODEON
 http://lunar.pm:8080/2052404365/41437862tow/115128
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",NICKELODEON OP2
 http://lunar.pm:8080/2052404365/41437862tow/115130
