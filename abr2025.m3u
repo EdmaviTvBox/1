@@ -56,21 +56,31 @@ http://170.39.192.130:2095/56995457920play/300524play/99897
 http://170.39.192.130:2095/56995457920play/300524play/316876
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/idd3q" group-title="CULTURA",Discovery en Español
 http://170.39.192.130:2095/56995457920play/300524play/316888
-#EXTINF:-1,Discovery Civilization - Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6aik2" group-title="CULTURA",Discovery Home & Healt 
 http://170.39.192.130:2095/56995457920play/300524play/316889
-#EXTINF:-1,Discovery Kids - Latino
-http://170.39.192.130:2095/56995457920play/300524play/316890
-#EXTINF:-1,Discovery Science - Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/isewq" group-title="CULTURA",Discovery Science
 http://170.39.192.130:2095/56995457920play/300524play/316891
-#EXTINF:-1,Discovery Theater - Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9abbs7" group-title="CULTURA",Discovery Theater
 http://170.39.192.130:2095/56995457920play/300524play/316892
-#EXTINF:-1,Discovery Turbo - Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/myxrr" group-title="CULTURA",Discovery Turbo 
 http://170.39.192.130:2095/56995457920play/300524play/316893
-#EXTINF:-1,Discovery World - Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mferl" group-title="CULTURA",Discovery World 
 http://170.39.192.130:2095/56995457920play/300524play/316894
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",H2 FHD
+http://170.39.192.130:2095/56995457920play/300524play/99933
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",History FHD
+http://170.39.192.130:2095/56995457920play/300524play/99936
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",HGTV
+http://170.39.192.130:2095/56995457920play/300524play/99937
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",Love Nature HD
+http://170.39.192.130:2095/56995457920play/300524play/99938
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",1
+http://170.39.192.130:2095/56995457920play/300524play/100569
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",
 
+#EXTINF:-1,Discovery Kids - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316890
 #EXTINF:-1,Disney Channel - Latino
 http://170.39.192.130:2095/56995457920play/300524play/316895
 
