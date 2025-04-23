@@ -44,40 +44,35 @@ http://170.39.192.130:2095/56995457920play/300524play/99905
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ez8jaj" group-title="KIDS",Tooncast HD
 http://170.39.192.130:2095/56995457920play/300524play/99906
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Dreamworks HD (OFF)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",(OFF) Dreamworks HD 
 http://170.39.192.130:2095/56995457920play/300524play/99888
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",Nick 2 (OFF)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",(OFF) Nick 2 
 http://170.39.192.130:2095/56995457920play/300524play/99897
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",
 
 ===CULTURA===
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://n9.cl/gibh6" group-title="CULTURA",ANIMAL PLANET SD
-http://lunar.pm:8080/2052404365/41437862tow/115048
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://n9.cl/s5jtt" group-title="CULTURA",DISCOVERY CHANNEL
-http://lunar.pm:8080/2052404365/41437862tow/115080
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel OP2" tvg-logo="https://n9.cl/s5jtt" group-title="CULTURA",DISCOVERY CHANNEL OP2
-http://lunar.pm:8080/2052404365/41437862tow/115081
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="https://n9.cl/6aik2" group-title="CULTURA",DISCOVERY HOME & HEALTH
-http://lunar.pm:8080/2052404365/41437862tow/115082
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://n9.cl/xznry" group-title="CULTURA",DISCOVERY INVESTIGATION
-http://lunar.pm:8080/2052404365/41437862tow/115083
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery OP2" tvg-logo="https://n9.cl/xznry" group-title="CULTURA",DISCOVERY INVESTIGATION OP2
-http://lunar.pm:8080/2052404365/41437862tow/115116
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://n9.cl/isewq" group-title="CULTURA",DISCOVERY SCIENCE
-http://lunar.pm:8080/2052404365/41437862tow/115085
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://n9.cl/9abbs7" group-title="CULTURA",DISCOVERY THEATER
-http://lunar.pm:8080/2052404365/41437862tow/115086
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="https://n9.cl/5yqcv" group-title="CULTURA",DISCOVERY TLC
-http://lunar.pm:8080/2052404365/41437862tow/115181
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://n9.cl/myxrr" group-title="CULTURA",DISCOVERY TURBO
-http://lunar.pm:8080/2052404365/41437862tow/115087
-#EXTINF:-1 tvg-id="" tvg-name="El Garage TV" tvg-logo="https://n9.cl/izb0oc" group-title="CULTURA",EL GARAGE TV
-http://lunar.pm:8080/2052404365/41437862tow/115093
-#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://n9.cl/zvsgc" group-title="CULTURA",HISTORY 2 SD
-http://lunar.pm:8080/2052404365/41437862tow/115106
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/ynzbd" group-title="CULTURA",NAT GEO
-http://lunar.pm:8080/2052404365/41437862tow/115126
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gibh6" group-title="CULTURA",Animal Planet
+http://170.39.192.130:2095/56995457920play/300524play/316876
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/idd3q" group-title="CULTURA",Discovery en Español
+http://170.39.192.130:2095/56995457920play/300524play/316888
+#EXTINF:-1,Discovery Civilization - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316889
+#EXTINF:-1,Discovery Kids - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316890
+#EXTINF:-1,Discovery Science - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316891
+#EXTINF:-1,Discovery Theater - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316892
+#EXTINF:-1,Discovery Turbo - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316893
+#EXTINF:-1,Discovery World - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316894
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",
+
+#EXTINF:-1,Disney Channel - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316895
 
 ===CINE Y SERIES===
 #EXTINF:-1,CINE Y SERIES: 5 STARMAX
