@@ -13,8 +13,10 @@ http://170.39.192.130:2095/56995457920play/300524play/99880
 http://170.39.192.130:2095/56995457920play/300524play/99881
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids
 http://170.39.192.130:2095/56995457920play/300524play/99882
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids OP2
 http://170.39.192.130:2095/56995457920play/300524play/99883
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8rbk7" group-title="KIDS",Discovery Kids OP3
+http://170.39.192.130:2095/56995457920play/300524play/316890
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",Disney Channel
 http://170.39.192.130:2095/56995457920play/300524play/99884
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",Disney Channel HD
@@ -58,6 +60,8 @@ http://170.39.192.130:2095/56995457920play/300524play/316876
 http://170.39.192.130:2095/56995457920play/300524play/316888
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6aik2" group-title="CULTURA",Discovery Home & Healt 
 http://170.39.192.130:2095/56995457920play/300524play/316889
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6aik2" group-title="CULTURA",Discovery Home & Healt OP2
+http://170.39.192.130:2095/56995457920play/300524play/99937
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/isewq" group-title="CULTURA",Discovery Science
 http://170.39.192.130:2095/56995457920play/300524play/316891
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9abbs7" group-title="CULTURA",Discovery Theater
@@ -67,22 +71,71 @@ http://170.39.192.130:2095/56995457920play/300524play/316893
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mferl" group-title="CULTURA",Discovery World 
 http://170.39.192.130:2095/56995457920play/300524play/316894
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",H2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zvsgc" group-title="CULTURA",H2
 http://170.39.192.130:2095/56995457920play/300524play/99933
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",History FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2otu1" group-title="CULTURA",History 
 http://170.39.192.130:2095/56995457920play/300524play/99936
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",HGTV
-http://170.39.192.130:2095/56995457920play/300524play/99937
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",Love Nature HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqwbd" group-title="CULTURA",Love Nature 
 http://170.39.192.130:2095/56995457920play/300524play/99938
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",1
-http://170.39.192.130:2095/56995457920play/300524play/100569
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",
 
-#EXTINF:-1,Discovery Kids - Latino
-http://170.39.192.130:2095/56995457920play/300524play/316890
-#EXTINF:-1,Disney Channel - Latino
-http://170.39.192.130:2095/56995457920play/300524play/316895
+#EXTINF:-1,History - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316868
+#EXTINF:-1,TLC - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316835
+#EXTINF:-1,TOONCAST - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316838
+#EXTINF:-1,NatGeo Wild - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316844
+#EXTINF:-1,National Geographic - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316845
+#EXTINF:-1,NICK Jr - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316846
+#EXTINF:-1,NICK TOONS - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316847
+#EXTINF:-1,Disney XD - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316870
+#EXTINF:-1,BOOMERANG - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316880
+#EXTINF:-1,Cartoon Network - Latino
+http://170.39.192.130:2095/56995457920play/300524play/316882
+#EXTINF:-1,24/7 Caballeros del zodiaco
+http://170.39.192.130:2095/56995457920play/300524play/318623
+#EXTINF:-1,ESP | DISNEY +
+http://170.39.192.130:2095/56995457920play/300524play/319536
+#EXTINF:-1,ESP | NICKELODEON  HD
+http://170.39.192.130:2095/56995457920play/300524play/319537
+#EXTINF:-1,ESP | NAT GEO WILD
+http://170.39.192.130:2095/56995457920play/300524play/319543
+#EXTINF:-1,ESP | HISTORIA FHD
+http://170.39.192.130:2095/56995457920play/300524play/319544
+#EXTINF:-1,ESP | DISCOVERY CHANNEL
+http://170.39.192.130:2095/56995457920play/300524play/319545
+#EXTINF:-1,ESP | DISNEY CHANNEL
+http://170.39.192.130:2095/56995457920play/300524play/319551
+#EXTINF:-1,ESP | BOING
+http://170.39.192.130:2095/56995457920play/300524play/319554
+#EXTINF:-1,ESP | NICK JR
+http://170.39.192.130:2095/56995457920play/300524play/319556
+#EXTINF:-1,ESP | CLAN TVE HD
+http://170.39.192.130:2095/56995457920play/300524play/319557
+#EXTINF:-1,ESP | CANAL ODISEA HD
+http://170.39.192.130:2095/56995457920play/300524play/319561
+#EXTINF:-1,ESP | CAZA Y PESCA HD
+http://170.39.192.130:2095/56995457920play/300524play/319562
+#EXTINF:-1,ESP | DECASA
+http://170.39.192.130:2095/56995457920play/300524play/319563
+#EXTINF:-1,ESP | NATIONAL GEOGRAPHIC
+http://170.39.192.130:2095/56995457920play/300524play/319571
+#EXTINF:-1,DISNEY +
+http://170.39.192.130:2095/56995457920play/300524play/319629
+#EXTINF:-1,NICKELODEON  HD
+http://170.39.192.130:2095/56995457920play/300524play/319630
+#EXTINF:-1, HISTORIA FHD
+http://170.39.192.130:2095/56995457920play/300524play/319636
+#EXTINF:-1,DISCOVERY CHANNEL ES
+http://170.39.192.130:2095/56995457920play/300524play/319637
 
 ===CINE Y SERIES===
 #EXTINF:-1,CINE Y SERIES: 5 STARMAX
