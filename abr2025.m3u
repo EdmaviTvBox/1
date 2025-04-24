@@ -23,12 +23,14 @@ http://170.39.192.130:2095/56995457920play/300524play/316890
 http://170.39.192.130:2095/56995457920play/300524play/99884
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0e5ge" group-title="KIDS",Disney Channel HD
 http://170.39.192.130:2095/56995457920play/300524play/99885
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Jr
 http://170.39.192.130:2095/56995457920play/300524play/99886
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Junior HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Jr Op2
 http://170.39.192.130:2095/56995457920play/300524play/99887
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Junior (ESP)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Jr (ESP)
 http://170.39.192.130:2095/56995457920play/300524play/319536
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/acmww" group-title="KIDS",Disney Jr (ESP) Op2
+http://170.39.192.130:2095/56995457920play/300524play/319629
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q97e4k" group-title="KIDS",ETC TV
 http://170.39.192.130:2095/56995457920play/300524play/99890
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xbaweb" group-title="KIDS",El Chavo Del 8 TV
@@ -39,9 +41,10 @@ http://170.39.192.130:2095/56995457920play/300524play/99895
 http://170.39.192.130:2095/56995457920play/300524play/99900
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",Nickelodeon OP3
 http://170.39.192.130:2095/56995457920play/300524play/319537
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wi9kz" group-title="KIDS",Nickelodeon OP4
+http://170.39.192.130:2095/56995457920play/300524play/319630
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s87l9" group-title="KIDS",Nick Jr 
 http://170.39.192.130:2095/56995457920play/300524play/316846
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bvn15" group-title="KIDS",Paka-Paka
 http://170.39.192.130:2095/56995457920play/300524play/99901
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ov39fy" group-title="KIDS",Teen Nick
@@ -54,7 +57,6 @@ http://170.39.192.130:2095/56995457920play/300524play/99905
 http://170.39.192.130:2095/56995457920play/300524play/99906
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ez8jaj" group-title="KIDS",Tooncast OP3
 http://170.39.192.130:2095/56995457920play/300524play/316838
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",(OFF) Dreamworks HD 
 http://170.39.192.130:2095/56995457920play/300524play/99888
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",(OFF) Nick 2 
@@ -62,20 +64,23 @@ http://170.39.192.130:2095/56995457920play/300524play/99897
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS",
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS INT",Boomerang (USA)
-http://170.39.192.130:2095/56995457920play/300524play/316880
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS INT",Caballeros del zodiaco (USA)
-http://170.39.192.130:2095/56995457920play/300524play/318623
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS INT",Disney XD (USA)
-http://170.39.192.130:2095/56995457920play/300524play/316870
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdufa" group-title="KIDS INT",Nickstoons (USA)
-http://170.39.192.130:2095/56995457920play/300524play/316847
-
 ===CULTURA===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gibh6" group-title="CULTURA",Animal Planet
 http://170.39.192.130:2095/56995457920play/300524play/316876
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gibh6" group-title="CULTURA",Animal Planet SD
+http://170.39.192.130:2095/56995457920play/300524play/99908
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",Canal Odisea
+http://170.39.192.130:2095/56995457920play/300524play/319561
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",Canal Odisea Op2
+http://170.39.192.130:2095/56995457920play/300524play/319561
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s5jtt" group-title="CULTURA",Discovery (ESP)
+http://170.39.192.130:2095/56995457920play/300524play/319545
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s5jtt" group-title="CULTURA",Discovery (ESP) Op2
+http://170.39.192.130:2095/56995457920play/300524play/319637
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/idd3q" group-title="CULTURA",Discovery en Español
 http://170.39.192.130:2095/56995457920play/300524play/316888
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/idd3q" group-title="CULTURA",Discovery en Español Op2
+http://170.39.192.130:2095/56995457920play/300524play/99913
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6aik2" group-title="CULTURA",Discovery Home & Healt 
 http://170.39.192.130:2095/56995457920play/300524play/316889
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6aik2" group-title="CULTURA",Discovery Home & Healt OP2
@@ -83,35 +88,55 @@ http://170.39.192.130:2095/56995457920play/300524play/99937
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/isewq" group-title="CULTURA",Discovery Science
 http://170.39.192.130:2095/56995457920play/300524play/316891
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9abbs7" group-title="CULTURA",Discovery Theater
+http://170.39.192.130:2095/56995457920play/300524play/99924
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9abbs7" group-title="CULTURA",Discovery Theater Op2
 http://170.39.192.130:2095/56995457920play/300524play/316892
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5yqcv" group-title="CULTURA",TLC 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5yqcv" group-title="CULTURA",Discovery TLC 
 http://170.39.192.130:2095/56995457920play/300524play/316835
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/myxrr" group-title="CULTURA",Discovery Turbo 
 http://170.39.192.130:2095/56995457920play/300524play/316893
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mferl" group-title="CULTURA",Discovery World 
 http://170.39.192.130:2095/56995457920play/300524play/316894
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zvsgc" group-title="CULTURA",H2
-http://170.39.192.130:2095/56995457920play/300524play/319544
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zvsgc" group-title="CULTURA",H2 OP2
+http://170.39.192.130:2095/56995457920play/300524play/99931
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zvsgc" group-title="CULTURA",H2 Op2
+http://170.39.192.130:2095/56995457920play/300524play/99932
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zvsgc" group-title="CULTURA",H2 Op3
 http://170.39.192.130:2095/56995457920play/300524play/99933
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zvsgc" group-title="CULTURA",H2 Op4
+http://170.39.192.130:2095/56995457920play/300524play/319544
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zvsgc" group-title="CULTURA",H2 Op5
+http://170.39.192.130:2095/56995457920play/300524play/319636
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2otu1" group-title="CULTURA",History 
+http://170.39.192.130:2095/56995457920play/300524play/99934
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2otu1" group-title="CULTURA",History Op2
 http://170.39.192.130:2095/56995457920play/300524play/99936
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/78ub0" group-title="CULTURA",History en Español
 http://170.39.192.130:2095/56995457920play/300524play/316868
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqwbd" group-title="CULTURA",Love Nature 
 http://170.39.192.130:2095/56995457920play/300524play/99938
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ynzbd" group-title="CULTURA",National Geographic
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ynzbd" group-title="CULTURA",Nat Geo
+http://170.39.192.130:2095/56995457920play/300524play/99939
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ynzbd" group-title="CULTURA",Nat Geo Op2
 http://170.39.192.130:2095/56995457920play/300524play/316845
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ynzbd" group-title="CULTURA",National Geographic (ESP)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ynzbd" group-title="CULTURA",Nat Geo (ESP)
 http://170.39.192.130:2095/56995457920play/300524play/319543
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ynzbd" group-title="CULTURA",Nat Geo (ESP) Op2
+http://170.39.192.130:2095/56995457920play/300524play/319553
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ynzbd" group-title="CULTURA",Nat Geo (ESP) Op3
+http://170.39.192.130:2095/56995457920play/300524play/319571
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/j2n30y" group-title="CULTURA",Nat Geo WILD (ESP) 
+http://170.39.192.130:2095/56995457920play/300524play/99942
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jxyun" group-title="CULTURA",
 
+=== USA LATAM ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/niq9k" group-title="USA LATAM",CBN Español
+http://170.39.192.130:2095/56995457920play/300524play/100634
 
 
-
-#EXTINF:-1,NatGeo Wild - Latino
-http://170.39.192.130:2095/56995457920play/300524play/316844
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/niq9k" group-title="USA LATAM",
 
 
 
@@ -133,22 +158,8 @@ http://170.39.192.130:2095/56995457920play/300524play/319554
 http://170.39.192.130:2095/56995457920play/300524play/319556
 #EXTINF:-1,ESP | CLAN TVE HD
 http://170.39.192.130:2095/56995457920play/300524play/319557
-#EXTINF:-1,ESP | CANAL ODISEA HD
-http://170.39.192.130:2095/56995457920play/300524play/319561
-#EXTINF:-1,ESP | CAZA Y PESCA HD
-http://170.39.192.130:2095/56995457920play/300524play/319562
-#EXTINF:-1,ESP | DECASA
-http://170.39.192.130:2095/56995457920play/300524play/319563
-#EXTINF:-1,ESP | NATIONAL GEOGRAPHIC
-http://170.39.192.130:2095/56995457920play/300524play/319571
-#EXTINF:-1,DISNEY +
-http://170.39.192.130:2095/56995457920play/300524play/319629
-#EXTINF:-1,NICKELODEON  HD
-http://170.39.192.130:2095/56995457920play/300524play/319630
-#EXTINF:-1, HISTORIA FHD
-http://170.39.192.130:2095/56995457920play/300524play/319636
-#EXTINF:-1,DISCOVERY CHANNEL ES
-http://170.39.192.130:2095/56995457920play/300524play/319637
+
+
 
 ===CINE Y SERIES===
 #EXTINF:-1,CINE Y SERIES: 5 STARMAX
