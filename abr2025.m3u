@@ -1,7 +1,7 @@
 #EXTM3U
 
 === KIDS ===
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/579aqh" group-title="KIDS",BABY TVBaby TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/579aqh" group-title="KIDS",Baby TV
 http://170.39.192.130:2095/56995457920play/300524play/99874
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zxk5z" group-title="KIDS",Baby First
 http://170.39.192.130:2095/56995457920play/300524play/99875
