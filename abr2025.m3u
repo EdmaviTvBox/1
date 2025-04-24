@@ -1,84 +1,90 @@
 #EXTM3U
 
 === COLOMBIA ===
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Cable Noticias 
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/0oacv" group-title="COLOMBIA",Cable Noticias 
 http://170.39.192.130:2095/56995457920play/300524play/316515
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Canal 1 
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/iq5jn" group-title="COLOMBIA",CALI TV
+http://170.39.192.130:2095/56995457920play/300524play/316531
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/osj8s" group-title="COLOMBIA",Canal 1 
 http://170.39.192.130:2095/56995457920play/300524play/316516
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Canal Capital
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/wubhov" group-title="COLOMBIA",Canal Capital
 http://170.39.192.130:2095/56995457920play/300524play/316517
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Canal TRO
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/cu0np" group-title="COLOMBIA",Canal TRO
 http://170.39.192.130:2095/56995457920play/300524play/316535
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Caracol  FHD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/lnr9r" group-title="COLOMBIA",Caracol  FHD
 http://170.39.192.130:2095/56995457920play/300524play/316507
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Caracol HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/lnr9r" group-title="COLOMBIA",Caracol HD
 http://170.39.192.130:2095/56995457920play/300524play/316508
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Caracol SD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/lnr9r" group-title="COLOMBIA",Caracol SD
 http://170.39.192.130:2095/56995457920play/300524play/316509
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Caracol Internacional ᴴᴰ
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/4d0bp" group-title="COLOMBIA",Caracol Internacional ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316510
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",RCN FHD
-http://170.39.192.130:2095/56995457920play/300524play/316511
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",RCN HD
-http://170.39.192.130:2095/56995457920play/300524play/316512
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",RCN SD
-http://170.39.192.130:2095/56995457920play/300524play/316513
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",RCN INTERNACIONAL
-http://170.39.192.130:2095/56995457920play/300524play/316534
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",RCN Nuestra Tele ᴴᴰ
-http://170.39.192.130:2095/56995457920play/300524play/316514
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",City TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/2phaa" group-title="COLOMBIA",City TV
 http://170.39.192.130:2095/56995457920play/300524play/316518
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",City TV SD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/2phaa" group-title="COLOMBIA",City TV SD
 http://170.39.192.130:2095/56995457920play/300524play/316519
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",La Kalle ᴴᴰ
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/nx0mr" group-title="COLOMBIA",La Kalle ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316520
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",NTN24
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/nmvkt" group-title="COLOMBIA",NTN24
 http://170.39.192.130:2095/56995457920play/300524play/316521
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",RCN+ ᴴᴰ
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/6r1qp" group-title="COLOMBIA",RCN FHD
+http://170.39.192.130:2095/56995457920play/300524play/316511
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/6r1qp" group-title="COLOMBIA",RCN HD
+http://170.39.192.130:2095/56995457920play/300524play/316512
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/6r1qp" group-title="COLOMBIA",RCN SD
+http://170.39.192.130:2095/56995457920play/300524play/316513
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/6r1qp" group-title="COLOMBIA",RCN ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316522
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Señal Colombia
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/6wvr1" group-title="COLOMBIA",RCN INTERNACIONAL
+http://170.39.192.130:2095/56995457920play/300524play/316534
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/6r1qp" group-title="COLOMBIA",RCN Nuestra Tele ᴴᴰ
+http://170.39.192.130:2095/56995457920play/300524play/316514
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/31lf9l" group-title="COLOMBIA",Señal Colombia
 http://170.39.192.130:2095/56995457920play/300524play/316523
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Telantioquia HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/1k801pV" group-title="COLOMBIA",Telantioquia HD
 http://170.39.192.130:2095/56995457920play/300524play/316524
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Telecafe
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/a1uts" group-title="COLOMBIA",Telecafe
 http://170.39.192.130:2095/56995457920play/300524play/316525
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",TeleCafe ᴴᴰ
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/a1uts" group-title="COLOMBIA",TeleCafe ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316526
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Telecaribe HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/zker1y" group-title="COLOMBIA",Telecaribe HD
 http://170.39.192.130:2095/56995457920play/300524play/316527
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Telecaribe HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/zker1y" group-title="COLOMBIA",Telecaribe HD
 http://170.39.192.130:2095/56995457920play/300524play/316528
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",TelePacifico HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/5870z" group-title="COLOMBIA",TELEISLAS
+http://170.39.192.130:2095/56995457920play/300524play/316533
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/fq76g" group-title="COLOMBIA",TELEMEDELLIN
+http://170.39.192.130:2095/56995457920play/300524play/316532
+
+
+
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/u7o5f" group-title="COLOMBIA",TelePacifico HD
 http://170.39.192.130:2095/56995457920play/300524play/316529
 #EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",TV AGRO
 http://170.39.192.130:2095/56995457920play/300524play/316530
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",CALI TV
-http://170.39.192.130:2095/56995457920play/300524play/316531
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",TELEMEDELLIN
-http://170.39.192.130:2095/56995457920play/300524play/316532
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",TELEISLAS
-http://170.39.192.130:2095/56995457920play/300524play/316533
 
 
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
+
+
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316536
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316537
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316538
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316539
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
 http://170.39.192.130:2095/56995457920play/300524play/316540
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",Win Sports SD
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/pqqow" group-title="COLOMBIA",Win Sports SD
 http://170.39.192.130:2095/56995457920play/300524play/316541
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",ESPN CO 2 
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/chcsqz" group-title="COLOMBIA",ESPN CO 2 
 http://170.39.192.130:2095/56995457920play/300524play/316542
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",ESPN CO 2 OP2
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/chcsqz" group-title="COLOMBIA",ESPN CO 2 OP2
 http://170.39.192.130:2095/56995457920play/300524play/316543
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",DIRECTV SPORTS 2 
+#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/h2yfd5" group-title="COLOMBIA",DIRECTV SPORTS 2 
 http://170.39.192.130:2095/56995457920play/300524play/316544
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",
