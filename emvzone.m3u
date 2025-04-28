@@ -135,7 +135,6 @@ http://fastream.xyz:8080/juan18/83e45w87w/440
 http://fastream.xyz:8080/juan18/83e45w87w/444
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://n9.cl/1ib8ve" group-title="⭐️HIST Y CULT",NAT GEO WILD
 http://fastream.xyz:8080/juan18/83e45w87w/445
-
 ===2===
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/lspgk" group-title="⭐️HIST Y CULT",ANIMAL PLANET »2«
 http://fastream.xyz:8080/juan18/83e45w87w/402
@@ -153,7 +152,7 @@ http://fastream.xyz:8080/juan18/83e45w87w/448
 http://fastream.xyz:8080/juan18/83e45w87w/421
 #EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/2lece4" group-title="⭐️HIST Y CULT",DISC WORLD »2«
 http://fastream.xyz:8080/juan18/83e45w87w/424
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/6kigov" group-title="⭐️HIST Y CULT",HGTV »2«
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/cal8b" group-title="⭐️HIST Y CULT",HGTV »2«
 http://fastream.xyz:8080/juan18/83e45w87w/626
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/durah" group-title="⭐️HIST Y CULT",HISTORY »2«
 http://fastream.xyz:8080/juan18/83e45w87w/432
@@ -195,7 +194,6 @@ http://fastream.xyz:8080/juan18/83e45w87w/413
 http://fastream.xyz:8080/juan18/83e45w87w/417
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/durah" group-title="⭐️HIST Y CULT",HISTORY »4«
 http://fastream.xyz:8080/juan18/83e45w87w/431
-
 ===5===
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/lspgk" group-title="⭐️HIST Y CULT",ANIMAL PLANET »5«
 http://fastream.xyz:8080/juan18/83e45w87w/403
@@ -207,54 +205,74 @@ http://fastream.xyz:8080/juan18/83e45w87w/59554
 ⭐️VARIEDADES
 #EXTINF:-1 tvg-id="" tvg-name="[ADULT SWIN]" tvg-logo="https://n9.cl/1mhur" group-title="⭐️VARIEDADES",[ADULT SWIN]
 http://fastream.xyz:8080/juan18/83e45w87w/593
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️VARIEDADES",CANAL COCINA »1«
-
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/knlcn" group-title="⭐️VARIEDADES",ANTENA 3 INT
+http://fastream.xyz:8080/juan18/83e45w87w/615
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/gbjo1r" group-title="⭐️VARIEDADES",COMEDY CENTRAL
 http://fastream.xyz:8080/juan18/83e45w87w/242
 #EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/khr247" group-title="⭐️VARIEDADES",DISTRITO COMEDIA
 http://fastream.xyz:8080/juan18/83e45w87w/634
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/a43gx" group-title="⭐️VARIEDADES",E! ENTERTAINMENT
+http://fastream.xyz:8080/juan18/83e45w87w/628
 #EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET
 http://fastream.xyz:8080/juan18/83e45w87w/596
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="⭐️VARIEDADES",FOOD NETWORK
 http://fastream.xyz:8080/juan18/83e45w87w/599
 #EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="https://n9.cl/izb0oc" group-title="⭐️VARIEDADES",GARAGE TV
 http://fastream.xyz:8080/juan18/83e45w87w/603
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️VARIEDADES",GLITZ
-
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://n9.cl/mr4fd" group-title="⭐️VARIEDADES",HOLA TV
+http://fastream.xyz:8080/juan18/83e45w87w/630
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://n9.cl/9eg44" group-title="⭐️VARIEDADES",LAS ESTRELLAS
+http://fastream.xyz:8080/juan18/83e45w87w/633
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/fqn74" group-title="⭐️VARIEDADES",LIFETIME
 http://fastream.xyz:8080/juan18/83e45w87w/608 
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/fqn74" group-title="⭐️VARIEDADES",LIFETIME OP2
 http://fastream.xyz:8080/juan18/83e45w87w/607
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC
+http://fastream.xyz:8080/juan18/83e45w87w/623
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC ESP" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC (ESP)
+http://fastream.xyz:8080/juan18/83e45w87w/624
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/kdd98" group-title="⭐️VARIEDADES",TELEMUNDO INT
 http://fastream.xyz:8080/juan18/83e45w87w/604
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION 23" tvg-logo="https://n9.cl/c0yg30" group-title="⭐️VARIEDADES",UNIVISION 23
 http://fastream.xyz:8080/juan18/83e45w87w/610
-
+===2===
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/knlcn" group-title="⭐️VARIEDADES",ANTENA 3 INT »2«
+http://fastream.xyz:8080/juan18/83e45w87w/616
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/gbjo1r" group-title="⭐️VARIEDADES",COMEDY CENTRAL »2«
 http://fastream.xyz:8080/juan18/83e45w87w/243
 #EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/khr247" group-title="⭐️VARIEDADES",DISTRITO COMEDIA »2«
 http://fastream.xyz:8080/juan18/83e45w87w/635
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/a43gx" group-title="⭐️VARIEDADES",E! ENTERTAINMENT »2«
+http://fastream.xyz:8080/juan18/83e45w87w/627
 #EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »2«
 http://fastream.xyz:8080/juan18/83e45w87w/597
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="⭐️VARIEDADES",FOOD NETWORK »2«
 http://fastream.xyz:8080/juan18/83e45w87w/600
 #EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="https://n9.cl/izb0oc" group-title="⭐️VARIEDADES",GARAGE TV »2«
 http://fastream.xyz:8080/juan18/83e45w87w/602
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://n9.cl/mr4fd" group-title="⭐️VARIEDADES",HOLA TV »2«
+http://fastream.xyz:8080/juan18/83e45w87w/631
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/fqn74" group-title="⭐️VARIEDADES",LIFETIME »2«
 http://fastream.xyz:8080/juan18/83e45w87w/606
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC »2«
+http://fastream.xyz:8080/juan18/83e45w87w/622
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/kdd98" group-title="⭐️VARIEDADES",TELEMUNDO INT »2«
 http://fastream.xyz:8080/juan18/83e45w87w/605
-
+===3===
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/a43gx" group-title="⭐️VARIEDADES",E! ENTERTAINMENT »3«
+http://fastream.xyz:8080/juan18/83e45w87w/629
 #EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »3«
 http://fastream.xyz:8080/juan18/83e45w87w/598
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="⭐️VARIEDADES",FOOD NETWORK »3«
 http://fastream.xyz:8080/juan18/83e45w87w/601
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC »3«
+http://fastream.xyz:8080/juan18/83e45w87w/625
+===4===
 #EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »4«
 http://fastream.xyz:8080/juan18/83e45w87w/427
 #EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »5«
 http://fastream.xyz:8080/juan18/83e45w87w/428
+
 
 === DUAL ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",MLB NETWORK
