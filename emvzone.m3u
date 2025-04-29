@@ -1,94 +1,130 @@
 #EXTM3U
 
+===PPV===
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 1" tvg-logo="" group-title="⭐️PPV",EVENTOS 1 (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/20203
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2" tvg-logo="" group-title="⭐️PPV",EVENTOS 2 (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/20220
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 3" tvg-logo="" group-title="⭐️PPV",EVENTOS 3 (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/20233
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 4" tvg-logo="" group-title="⭐️PPV",EVENTOS 4 (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/20286
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="" group-title="⭐️PPV",UFC TV (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/20374
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="⭐️PPV",UFC FIGHT PASS (HD) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/20382
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="⭐️PPV",UFC FIGHT PASS (HD) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/20430
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/20509
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/20533
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/20558
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/20623
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »5«
+http://fastream.xyz:8080/juan18/83e45w87w/20669
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="" group-title="⭐️PPV",COMBATE (HD) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/20693
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="" group-title="⭐️PPV",COMBATE (HD) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/20694
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE WORLD" tvg-logo="" group-title="⭐️PPV",COMBATE WORLD (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/21007
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FIGHT" tvg-logo="" group-title="⭐️PPV",DIRECTV SPORTS FIGHT (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/20350
+#EXTINF:-1 tvg-id="" tvg-name="THE FIGHT NETWORK" tvg-logo="" group-title="⭐️PPV",THE FIGHT NETWORK (HD) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/21185
+#EXTINF:-1 tvg-id="" tvg-name="THE FIGHT NETWORK" tvg-logo="" group-title="⭐️PPV",THE FIGHT NETWORK (HD) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/21186
+
 ⭐️COLOMBIA
 #EXTINF:-1 tvg-id="" tvg-name="CABLENOTICIAS" tvg-logo="https://n9.cl/0oacv" group-title="⭐️COLOMBIA",CABLENOTICIAS »1«
 http://fastream.xyz:8080/juan18/83e45w87w/326
+#EXTINF:-1 tvg-id="" tvg-name="CABLENOTICIAS" tvg-logo="https://n9.cl/0oacv" group-title="⭐️COLOMBIA",CABLENOTICIAS »2«
+http://fastream.xyz:8080/juan18/83e45w87w/327
 #EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="https://n9.cl/osj8s" group-title="⭐️COLOMBIA",CANAL UNO
 http://cord-cutter.net:8080/Rme2Fg/183926/78698
 #EXTINF:-1 tvg-id="" tvg-name="CANAL TRO" tvg-logo="https://n9.cl/cu0np" group-title="⭐️COLOMBIA",CANAL TRO
 http://fastream.xyz:8080/juan18/83e45w87w/329
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/lnr9r" group-title="⭐️COLOMBIA",CARACOL
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/lnr9r" group-title="⭐️COLOMBIA",CARACOL »1«
 http://fastream.xyz:8080/juan18/83e45w87w/333
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/lnr9r" group-title="⭐️COLOMBIA",CARACOL »2«
+http://fastream.xyz:8080/juan18/83e45w87w/332
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/tkeb7" group-title="⭐️COLOMBIA",CARACOL HD2
 http://cord-cutter.net:8080/Rme2Fg/183926/78700
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/4d0bp" group-title="⭐️COLOMBIA",CARACOL INT
 http://cord-cutter.net:8080/Rme2Fg/183926/78701
-#EXTINF:-1 tvg-id="" tvg-name="NTN 24" tvg-logo="https://n9.cl/nmvkt" group-title="⭐️COLOMBIA",NTN 24
+#EXTINF:-1 tvg-id="" tvg-name="NTN 24" tvg-logo="https://n9.cl/nmvkt" group-title="⭐️COLOMBIA",NTN 24 »1«
 http://fastream.xyz:8080/juan18/83e45w87w/339
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/6r1qp" group-title="⭐️COLOMBIA",RCN
-http://fastream.xyz:8080/juan18/83e45w87w/343
-#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/6wvr1" group-title="⭐️COLOMBIA",RCN INT
-http://cord-cutter.net:8080/Rme2Fg/183926/78716
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/31lf9l" group-title="⭐️COLOMBIA",SENAL COLOMBIA (EMV)
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/1k801p" group-title="⭐️COLOMBIA",TELEANTIOQUIA
-http://fastream.xyz:8080/juan18/83e45w87w/351
-#EXTINF:-1 tvg-id="" tvg-name="TELECAFE" tvg-logo="https://n9.cl/a1uts" group-title="⭐️COLOMBIA",TELECAFE
-http://cord-cutter.net:8080/Rme2Fg/183926/78726
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/zker1y" group-title="⭐️COLOMBIA",TELECARIBE
-http://cord-cutter.net:8080/100974831/100974831/173301
-#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/fq76g" group-title="⭐️COLOMBIA",TELEMEDELLIN 
-http://fastream.xyz:8080/juan18/83e45w87w/355
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/u7o5f" group-title="⭐️COLOMBIA",TELEPACIFICO (EMV)
-https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+
-http://cord-cutter.net:8080/Rme2Fg/183926/78717
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS 
-http://fastream.xyz:8080/juan18/83e45w87w/362
-#EXTINF:-1 tvg-id="" tvg-name="ESPN CO" tvg-logo="https://n9.cl/j7up7" group-title="⭐️COLOMBIA",ESPN COLOMBIA
-http://cord-cutter.net:8080/100974831/100974831/86765
-#EXTINF:-1 tvg-id="" tvg-name="CABLENOTICIAS" tvg-logo="https://n9.cl/0oacv" group-title="⭐️COLOMBIA",CABLENOTICIAS »2«
-http://fastream.xyz:8080/juan18/83e45w87w/327
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/lnr9r" group-title="⭐️COLOMBIA",CARACOL »2«
-http://fastream.xyz:8080/juan18/83e45w87w/332
 #EXTINF:-1 tvg-id="" tvg-name="NTN 24" tvg-logo="https://n9.cl/nmvkt" group-title="⭐️COLOMBIA",NTN 24 »2«
 http://cord-cutter.net:8080/Rme2Fg/183926/78704
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/6r1qp" group-title="⭐️COLOMBIA",RCN »1«
+http://fastream.xyz:8080/juan18/83e45w87w/343
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/6r1qp" group-title="⭐️COLOMBIA",RCN »2«
 http://fastream.xyz:8080/juan18/83e45w87w/344
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/31lf9l" group-title="⭐️COLOMBIA",SENAL COLOMBIA »2«
-http://fastream.xyz:8080/juan18/83e45w87w/350
-#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/1k801p" group-title="⭐️COLOMBIA",TELEANTIOQUIA »2«
-http://cord-cutter.net:8080/Rme2Fg/183926/78706
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/zker1y" group-title="⭐️COLOMBIA",TELECARIBE »1« 
-http://fastream.xyz:8080/juan18/83e45w87w/354
-#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/fq76g" group-title="⭐️COLOMBIA",TELEMEDELLIN »2«
-http://fastream.xyz:8080/juan18/83e45w87w/356
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/u7o5f" group-title="⭐️COLOMBIA",TELEPACIFICO »2«
-http://fastream.xyz:8080/juan18/83e45w87w/358
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+ »2«
-http://fastream.xyz:8080/juan18/83e45w87w/360
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »2«
-http://fastream.xyz:8080/juan18/83e45w87w/363
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/6r1qp" group-title="⭐️COLOMBIA",RCN »3«
 http://fastream.xyz:8080/juan18/83e45w87w/345
-#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/fq76g" group-title="⭐️COLOMBIA",TELEMEDELLIN »3«
-http://cord-cutter.net:8080/Rme2Fg/183926/78722
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/u7o5f" group-title="⭐️COLOMBIA",TELEPACIFICO »3«
-http://fastream.xyz:8080/juan18/83e45w87w/357
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+ »3«
-http://fastream.xyz:8080/juan18/83e45w87w/361
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »3«
-http://fastream.xyz:8080/juan18/83e45w87w/364
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/6r1qp" group-title="⭐️COLOMBIA",RCN »4«
 http://fastream.xyz:8080/juan18/83e45w87w/346
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+ »4«
-http://cord-cutter.net:8080/Rme2Fg/183926/78697
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »4«
-http://fastream.xyz:8080/juan18/83e45w87w/365
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/6r1qp" group-title="⭐️COLOMBIA",RCN »5«
 http://cord-cutter.net:8080/Rme2Fg/183926/78694
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »5«
-http://fastream.xyz:8080/juan18/83e45w87w/366
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/6r1qp" group-title="⭐️COLOMBIA",RCN »6«
 http://fastream.xyz:8080/juan18/83e45w87w/347
+#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/6wvr1" group-title="⭐️COLOMBIA",RCN INT
+http://cord-cutter.net:8080/Rme2Fg/183926/78716
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/31lf9l" group-title="⭐️COLOMBIA",SENAL COLOMBIA »1«
+http://fastream.xyz:8080/juan18/83e45w87w/350
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/31lf9l" group-title="⭐️COLOMBIA",SENAL COLOMBIA (EMV)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/1k801p" group-title="⭐️COLOMBIA",TELEANTIOQUIA »1«
+http://fastream.xyz:8080/juan18/83e45w87w/351
+#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/1k801p" group-title="⭐️COLOMBIA",TELEANTIOQUIA »2«
+http://cord-cutter.net:8080/Rme2Fg/183926/78706
+#EXTINF:-1 tvg-id="" tvg-name="TELECAFE" tvg-logo="https://n9.cl/a1uts" group-title="⭐️COLOMBIA",TELECAFE
+http://cord-cutter.net:8080/Rme2Fg/183926/78726
+#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/zker1y" group-title="⭐️COLOMBIA",TELECARIBE »1« 
+http://fastream.xyz:8080/juan18/83e45w87w/354
+#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/zker1y" group-title="⭐️COLOMBIA",TELECARIBE »1« 
+http://cord-cutter.net:8080/100974831/100974831/173301
+#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/fq76g" group-title="⭐️COLOMBIA",TELEMEDELLIN »1«
+http://fastream.xyz:8080/juan18/83e45w87w/355
+#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/fq76g" group-title="⭐️COLOMBIA",TELEMEDELLIN »2«
+http://fastream.xyz:8080/juan18/83e45w87w/356
+#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/fq76g" group-title="⭐️COLOMBIA",TELEMEDELLIN »3«
+http://cord-cutter.net:8080/Rme2Fg/183926/78722
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="" group-title="⭐️COLOMBIA",TELEPACIFICO »1«
+http://fastream.xyz:8080/juan18/83e45w87w/357
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="" group-title="⭐️COLOMBIA",TELEPACIFICO »2«
+http://fastream.xyz:8080/juan18/83e45w87w/358
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="" group-title="⭐️COLOMBIA",TELEPACIFICO (EMV)
+https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+ »1«
+http://cord-cutter.net:8080/Rme2Fg/183926/78717
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+ »2«
+http://fastream.xyz:8080/juan18/83e45w87w/360
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+ »3«
+http://fastream.xyz:8080/juan18/83e45w87w/361
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+ »4«
+http://cord-cutter.net:8080/Rme2Fg/183926/78697
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »1«
+http://fastream.xyz:8080/juan18/83e45w87w/362
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »2«
+http://fastream.xyz:8080/juan18/83e45w87w/363
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »3«
+http://fastream.xyz:8080/juan18/83e45w87w/364
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »4«
+http://fastream.xyz:8080/juan18/83e45w87w/365
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »5«
+http://fastream.xyz:8080/juan18/83e45w87w/366
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »6«
 http://fastream.xyz:8080/juan18/83e45w87w/367
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »7«
 http://fastream.xyz:8080/juan18/83e45w87w/368
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/iub6g" group-title="⭐️COLOMBIA",WIN SPORTS »8«
 http://fastream.xyz:8080/juan18/83e45w87w/369
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://n9.cl/j7up7" group-title="COLOMBIA",
+#EXTINF:-1 tvg-id="" tvg-name="ESPN CO" tvg-logo="https://n9.cl/j7up7" group-title="⭐️COLOMBIA",ESPN COLOMBIA
+http://cord-cutter.net:8080/100974831/100974831/86765
 
 ⭐️HIST Y CULT
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/lspgk" group-title="⭐️HIST Y CULT",ANIMAL PLANET 
@@ -119,10 +155,10 @@ http://fastream.xyz:8080/juan18/83e45w87w/420
 http://fastream.xyz:8080/juan18/83e45w87w/423
 #EXTINF:-1 tvg-id="" tvg-name="DOGTV" tvg-logo="https://n9.cl/zkvys" group-title="⭐️HIST Y CULT",DOGTV
 http://cord-cutter.net:8080/100974831/100974831/53539
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/cal8b" group-title="⭐️HIST Y CULT",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/6kigov" group-title="⭐️HIST Y CULT",HGTV
 http://fastream.xyz:8080/juan18/83e45w87w/621
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/durah" group-title="⭐️HIST Y CULT",HISTORY 
-http://fastream.xyz:8080/juan18/83e45w87w/435
+http://fastream.xyz:8080/juan18/83e45w87w/431
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/durah" group-title="⭐️HIST Y CULT",HISTORY OP2
 http://fastream.xyz:8080/juan18/83e45w87w/434
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/dsloh" group-title="⭐️HIST Y CULT",HISTORY 2
@@ -152,7 +188,7 @@ http://fastream.xyz:8080/juan18/83e45w87w/448
 http://fastream.xyz:8080/juan18/83e45w87w/421
 #EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/2lece4" group-title="⭐️HIST Y CULT",DISC WORLD »2«
 http://fastream.xyz:8080/juan18/83e45w87w/424
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/cal8b" group-title="⭐️HIST Y CULT",HGTV »2«
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/6kigov" group-title="⭐️HIST Y CULT",HGTV »2«
 http://fastream.xyz:8080/juan18/83e45w87w/626
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/durah" group-title="⭐️HIST Y CULT",HISTORY »2«
 http://fastream.xyz:8080/juan18/83e45w87w/432
@@ -193,20 +229,48 @@ http://fastream.xyz:8080/juan18/83e45w87w/413
 #EXTINF:-1 tvg-id="" tvg-name="DISC SCIENCE" tvg-logo="https://n9.cl/alnrs" group-title="⭐️HIST Y CULT",DISC SCIENCE »4«
 http://fastream.xyz:8080/juan18/83e45w87w/417
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/durah" group-title="⭐️HIST Y CULT",HISTORY »4«
-http://fastream.xyz:8080/juan18/83e45w87w/431
+http://fastream.xyz:8080/juan18/83e45w87w/435
 ===5===
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/lspgk" group-title="⭐️HIST Y CULT",ANIMAL PLANET »5«
 http://fastream.xyz:8080/juan18/83e45w87w/403
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/lspgk" group-title="⭐️HIST Y CULT",ANIMAL PLANET »6«
 http://fastream.xyz:8080/juan18/83e45w87w/59554
 
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/jxyun" group-title="⭐️HIST Y CULT",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ⭐️VARIEDADES
 #EXTINF:-1 tvg-id="" tvg-name="[ADULT SWIN]" tvg-logo="https://n9.cl/1mhur" group-title="⭐️VARIEDADES",[ADULT SWIN]
 http://fastream.xyz:8080/juan18/83e45w87w/593
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://n9.cl/nmhcr" group-title="⭐️VARIEDADES",AMERICA TV
+http://cord-cutter.net:8080/100974831/100974831/110637
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/knlcn" group-title="⭐️VARIEDADES",ANTENA 3 INT
 http://fastream.xyz:8080/juan18/83e45w87w/615
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://n9.cl/i4u0o1" group-title="⭐️VARIEDADES",ATV
+http://cord-cutter.net:8080/100974831/100974831/110638
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/gbjo1r" group-title="⭐️VARIEDADES",COMEDY CENTRAL
 http://fastream.xyz:8080/juan18/83e45w87w/242
 #EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/khr247" group-title="⭐️VARIEDADES",DISTRITO COMEDIA
@@ -217,6 +281,8 @@ http://fastream.xyz:8080/juan18/83e45w87w/628
 http://fastream.xyz:8080/juan18/83e45w87w/596
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="⭐️VARIEDADES",FOOD NETWORK
 http://fastream.xyz:8080/juan18/83e45w87w/599
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="https://n9.cl/wujzla" group-title="⭐️VARIEDADES",GALAVISION
+http://cord-cutter.net:8080/100974831/100974831/58770
 #EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="https://n9.cl/izb0oc" group-title="⭐️VARIEDADES",GARAGE TV
 http://fastream.xyz:8080/juan18/83e45w87w/603
 #EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://n9.cl/mr4fd" group-title="⭐️VARIEDADES",HOLA TV
@@ -231,9 +297,19 @@ http://fastream.xyz:8080/juan18/83e45w87w/607
 http://fastream.xyz:8080/juan18/83e45w87w/623
 #EXTINF:-1 tvg-id="" tvg-name="MAS CHIC ESP" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC (ESP)
 http://fastream.xyz:8080/juan18/83e45w87w/624
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="" group-title="⭐️VARIEDADES",MULTIMEDIOS
+http://cord-cutter.net:8080/100974831/100974831/57646
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://n9.cl/77ic08" group-title="⭐️VARIEDADES",PANAMERICANA 
+http://cord-cutter.net:8080/100974831/100974831/110633
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE INT" tvg-logo="https://n9.cl/xp4zxv" group-title="⭐️VARIEDADES",TELEFE INT
+http://cord-cutter.net:8080/100974831/100974831/164870
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/9br5kv" group-title="⭐️VARIEDADES",TELEMUNDO 
+http://cord-cutter.net:8080/100974831/100974831/56410
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/kdd98" group-title="⭐️VARIEDADES",TELEMUNDO INT
 http://fastream.xyz:8080/juan18/83e45w87w/604
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 23" tvg-logo="https://n9.cl/c0yg30" group-title="⭐️VARIEDADES",UNIVISION 23
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/bj2se" group-title="⭐️VARIEDADES",UNIMAS 
+http://cord-cutter.net:8080/100974831/100974831/57969
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 23" tvg-logo="https://n9.cl/c0yg30" group-title="⭐️VARIEDADES",UNIVISION
 http://fastream.xyz:8080/juan18/83e45w87w/610
 ===2===
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/knlcn" group-title="⭐️VARIEDADES",ANTENA 3 INT »2«
@@ -258,6 +334,8 @@ http://fastream.xyz:8080/juan18/83e45w87w/606
 http://fastream.xyz:8080/juan18/83e45w87w/622
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/kdd98" group-title="⭐️VARIEDADES",TELEMUNDO INT »2«
 http://fastream.xyz:8080/juan18/83e45w87w/605
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/c0yg30" group-title="⭐️VARIEDADES",UNIVISION »2«
+http://cord-cutter.net:8080/100974831/100974831/15336
 ===3===
 #EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/a43gx" group-title="⭐️VARIEDADES",E! ENTERTAINMENT »3«
 http://fastream.xyz:8080/juan18/83e45w87w/629
@@ -265,6 +343,8 @@ http://fastream.xyz:8080/juan18/83e45w87w/629
 http://fastream.xyz:8080/juan18/83e45w87w/598
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="⭐️VARIEDADES",FOOD NETWORK »3«
 http://fastream.xyz:8080/juan18/83e45w87w/601
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://n9.cl/0dq37" group-title="⭐️VARIEDADES",HOLA TV »3«
+http://cord-cutter.net:8080/100974831/100974831/139757
 #EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC »3«
 http://fastream.xyz:8080/juan18/83e45w87w/625
 ===4===
@@ -272,6 +352,7 @@ http://fastream.xyz:8080/juan18/83e45w87w/625
 http://fastream.xyz:8080/juan18/83e45w87w/427
 #EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »5«
 http://fastream.xyz:8080/juan18/83e45w87w/428
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/bz8vz" group-title="⭐️VARIEDADES",
 
 ⭐️PACK PREMIUM
 #EXTINF:-1 tvg-id="" tvg-name="DE PELÍCULA" tvg-logo="https://n9.cl/ssomg" group-title="⭐️PACK PREMIUM",DE PELÍCULA
@@ -398,6 +479,7 @@ http://fastream.xyz:8080/juan18/83e45w87w/145
 http://fastream.xyz:8080/juan18/83e45w87w/217
 #EXTINF:-1 tvg-id="" tvg-name="STARZ" tvg-logo="https://n9.cl/5uu4u" group-title="⭐️PACK PREMIUM",STARZ WEST »5«
 http://fastream.xyz:8080/juan18/83e45w87w/675
+
 ⭐️CINE Y SERIES
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",A&E »1«
 http://fastream.xyz:8080/juan18/83e45w87w/100
@@ -560,185 +642,888 @@ http://fastream.xyz:8080/juan18/83e45w87w/178
 http://fastream.xyz:8080/juan18/83e45w87w/179
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX »7«
 http://fastream.xyz:8080/juan18/83e45w87w/180
-=== DUAL ===
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",MLB NETWORK
-http://cord-cutter.net:8080/100974831/100974831/21360
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",Bally Sports Southeast 
-http://cord-cutter.net:8080/100974831/100974831/2213
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",NESN (F)
-http://cord-cutter.net:8080/100974831/100974831/31637
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",NESN 
-http://cord-cutter.net:8080/100974831/100974831/46726
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/f7hog" group-title="DUAL",Baby First
-http://cord-cutter.net:8080/100974831/100974831/58765
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",Disney XD
-http://cord-cutter.net:8080/100974831/100974831/75621
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",NickToons 
-http://cord-cutter.net:8080/100974831/100974831/36
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xooke" group-title="DUAL",TeenNick
-http://cord-cutter.net:8080/100974831/100974831/140004
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rz11e" group-title="DUAL",HBO 
-http://cord-cutter.net:8080/100974831/100974831/9264
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="DUAL",HBO 2
-http://cord-cutter.net:8080/100974831/100974831/9816
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/twgfo" group-title="DUAL",HBO COMEDY
-http://cord-cutter.net:8080/100974831/100974831/17773
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/utl05" group-title="DUAL",HBO SIGNATURE
-http://cord-cutter.net:8080/100974831/100974831/9266
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/k1gm7" group-title="DUAL",HBO ZONE
-http://cord-cutter.net:8080/100974831/100974831/9265
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",SHOWTIME FAMILIY ZONE 
-http://cord-cutter.net:8080/100974831/100974831/13481
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",STARZ EDGE 
-http://cord-cutter.net:8080/100974831/100974831/16143
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",STARZ ENCORE BLACK
-http://cord-cutter.net:8080/100974831/100974831/16141
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",STARZ ENCORE WESTERNS 
-http://cord-cutter.net:8080/100974831/100974831/16263
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",US ActionMAX (East) 
-http://cord-cutter.net:8080/100974831/100974831/21013
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2oy5p" group-title="DUAL",
 
-⭐️VARIEDADES
-#EXTINF:-1 tvg-id="" tvg-name="[ADULT SWIN]" tvg-logo="https://n9.cl/1mhur" group-title="⭐️VARIEDADES",[ADULT SWIN]
-http://fastream.xyz:8080/juan18/83e45w87w/593
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://n9.cl/nmhcr" group-title="⭐️VARIEDADES",AMERICA TV
-http://cord-cutter.net:8080/100974831/100974831/110637
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/knlcn" group-title="⭐️VARIEDADES",ANTENA 3 INT
-http://fastream.xyz:8080/juan18/83e45w87w/615
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://n9.cl/i4u0o1" group-title="⭐️VARIEDADES",ATV
-http://cord-cutter.net:8080/100974831/100974831/110638
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/gbjo1r" group-title="⭐️VARIEDADES",COMEDY CENTRAL
-http://fastream.xyz:8080/juan18/83e45w87w/242
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/khr247" group-title="⭐️VARIEDADES",DISTRITO COMEDIA
-http://fastream.xyz:8080/juan18/83e45w87w/634
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/a43gx" group-title="⭐️VARIEDADES",E! ENTERTAINMENT
-http://fastream.xyz:8080/juan18/83e45w87w/628
-#EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET
-http://fastream.xyz:8080/juan18/83e45w87w/596
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="⭐️VARIEDADES",FOOD NETWORK
-http://fastream.xyz:8080/juan18/83e45w87w/599
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="https://n9.cl/wujzla" group-title="⭐️VARIEDADES",GALAVISION
-http://cord-cutter.net:8080/100974831/100974831/58770
-#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="https://n9.cl/izb0oc" group-title="⭐️VARIEDADES",GARAGE TV
-http://fastream.xyz:8080/juan18/83e45w87w/603
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://n9.cl/mr4fd" group-title="⭐️VARIEDADES",HOLA TV
-http://fastream.xyz:8080/juan18/83e45w87w/630
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://n9.cl/9eg44" group-title="⭐️VARIEDADES",LAS ESTRELLAS
-http://fastream.xyz:8080/juan18/83e45w87w/633
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="https://n9.cl/fqn74" group-title="⭐️VARIEDADES",LIFETIME
-http://fastream.xyz:8080/juan18/83e45w87w/608 
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/fqn74" group-title="⭐️VARIEDADES",LIFETIME OP2
-http://fastream.xyz:8080/juan18/83e45w87w/607
-#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC
-http://fastream.xyz:8080/juan18/83e45w87w/623
-#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC ESP" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC (ESP)
-http://fastream.xyz:8080/juan18/83e45w87w/624
-#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="" group-title="⭐️VARIEDADES",MULTIMEDIOS
-http://cord-cutter.net:8080/100974831/100974831/57646
-#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://n9.cl/77ic08" group-title="⭐️VARIEDADES",PANAMERICANA 
-http://cord-cutter.net:8080/100974831/100974831/110633
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE INT" tvg-logo="https://n9.cl/xp4zxv" group-title="⭐️VARIEDADES",TELEFE INT
-http://cord-cutter.net:8080/100974831/100974831/164870
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://n9.cl/9br5kv" group-title="⭐️VARIEDADES",TELEMUNDO 
-http://cord-cutter.net:8080/100974831/100974831/56410
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/kdd98" group-title="⭐️VARIEDADES",TELEMUNDO INT
-http://fastream.xyz:8080/juan18/83e45w87w/604
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/bj2se" group-title="⭐️VARIEDADES",UNIMAS 
-http://cord-cutter.net:8080/100974831/100974831/57969
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 23" tvg-logo="https://n9.cl/c0yg30" group-title="⭐️VARIEDADES",UNIVISION
-http://fastream.xyz:8080/juan18/83e45w87w/610
-===2===
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/knlcn" group-title="⭐️VARIEDADES",ANTENA 3 INT »2«
-http://fastream.xyz:8080/juan18/83e45w87w/616
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/gbjo1r" group-title="⭐️VARIEDADES",COMEDY CENTRAL »2«
-http://fastream.xyz:8080/juan18/83e45w87w/243
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/khr247" group-title="⭐️VARIEDADES",DISTRITO COMEDIA »2«
-http://fastream.xyz:8080/juan18/83e45w87w/635
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/a43gx" group-title="⭐️VARIEDADES",E! ENTERTAINMENT »2«
-http://fastream.xyz:8080/juan18/83e45w87w/627
-#EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »2«
-http://fastream.xyz:8080/juan18/83e45w87w/597
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="⭐️VARIEDADES",FOOD NETWORK »2«
-http://fastream.xyz:8080/juan18/83e45w87w/600
-#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="https://n9.cl/izb0oc" group-title="⭐️VARIEDADES",GARAGE TV »2«
-http://fastream.xyz:8080/juan18/83e45w87w/602
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://n9.cl/mr4fd" group-title="⭐️VARIEDADES",HOLA TV »2«
-http://fastream.xyz:8080/juan18/83e45w87w/631
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/fqn74" group-title="⭐️VARIEDADES",LIFETIME »2«
-http://fastream.xyz:8080/juan18/83e45w87w/606
-#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC »2«
-http://fastream.xyz:8080/juan18/83e45w87w/622
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="https://n9.cl/kdd98" group-title="⭐️VARIEDADES",TELEMUNDO INT »2«
-http://fastream.xyz:8080/juan18/83e45w87w/605
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://n9.cl/c0yg30" group-title="⭐️VARIEDADES",UNIVISION »2«
-http://cord-cutter.net:8080/100974831/100974831/15336
-===3===
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/a43gx" group-title="⭐️VARIEDADES",E! ENTERTAINMENT »3«
-http://fastream.xyz:8080/juan18/83e45w87w/629
-#EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »3«
-http://fastream.xyz:8080/juan18/83e45w87w/598
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/i4d5x" group-title="⭐️VARIEDADES",FOOD NETWORK »3«
-http://fastream.xyz:8080/juan18/83e45w87w/601
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://n9.cl/0dq37" group-title="⭐️VARIEDADES",HOLA TV »3«
-http://cord-cutter.net:8080/100974831/100974831/139757
-#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC »3«
-http://fastream.xyz:8080/juan18/83e45w87w/625
-===4===
-#EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »4«
-http://fastream.xyz:8080/juan18/83e45w87w/427
-#EXTINF:-1 tvg-id="" tvg-name="El GOURMET" tvg-logo="https://n9.cl/kuyq7" group-title="⭐️VARIEDADES",El GOURMET »5«
-http://fastream.xyz:8080/juan18/83e45w87w/428
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/bz8vz" group-title="⭐️VARIEDADES",
 
-=== DEPORTES ===
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z7h5j" group-title="DEPORTES",TUDN (US)  
-http://cord-cutter.net:8080/100974831/100974831/11885
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z7h5j" group-title="DEPORTES",TUDN (US) OP2
-http://cord-cutter.net:8080/100974831/100974831/82241
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z7h5j" group-title="DEPORTES",
 
-=== USA LATAM ===
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9br5kv" group-title="USA LATAM",TELEMUNDO CHICAGO 
-http://cord-cutter.net:8080/100974831/100974831/120691
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9br5kv" group-title="USA LATAM",TELEMUNDO HAMMOND
-http://cord-cutter.net:8080/100974831/100974831/120701
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9br5kv" group-title="USA LATAM",TELEMUNDO HAMMOND ORLANDO
-http://cord-cutter.net:8080/100974831/100974831/139149
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9br5kv" group-title="USA LATAM",TELEMUNDO TULSA 
-http://cord-cutter.net:8080/100974831/100974831/120768
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9br5kv" group-title="USA LATAM",TELEMUNDO LEESBURG
-http://cord-cutter.net:8080/100974831/100974831/120833
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c0yg30" group-title="USA LATAM",UNIVISION (East)
-http://cord-cutter.net:8080/100974831/100974831/46692
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c0yg30" group-title="USA LATAM",UNIVISION
-http://cord-cutter.net:8080/100974831/100974831/108248
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0y0qm" group-title="USA LATAM",WAPA AMERICA 
-http://cord-cutter.net:8080/100974831/100974831/76481
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0y0qm" group-title="USA LATAM",
 
-=== EVENT USA ===
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x9o0m7" group-title="EVENT USA",MSG Plus 
-http://cord-cutter.net:8080/100974831/100974831/9276
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x9o0m7" group-title="EVENT USA",MSG 
-http://cord-cutter.net:8080/100974831/100974831/21090
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x9o0m7" group-title="EVENT USA",WWE NETWORK
-http://cord-cutter.net:8080/100974831/100974831/11645
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x9o0m7" group-title="EVENT USA",
 
-=== MUSIC ===
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2svjz" group-title="MUSIC",BET
-http://cord-cutter.net:8080/100974831/100974831/46703
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2svjz" group-title="MUSIC",BET GOSPEL
-http://cord-cutter.net:8080/100974831/100974831/66080
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2svjz" group-title="MUSIC",BET SOUL
-http://cord-cutter.net:8080/100974831/100974831/21844
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2svjz" group-title="MUSIC",US MTV CLASSIC
-http://cord-cutter.net:8080/100974831/100974831/53734
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2svjz" group-title="MUSIC",
+⭐️DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS (ARG) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/459
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS (ARG) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/461
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TYC SPORTS (ARG) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/554
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TYC SPORTS (ARG) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/462
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TYC SPORTS (ARG) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/555
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",CDO BASICO (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/74106
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",CDO PREMIUM (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/25999
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/501
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/502
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN (ARG) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/518
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN (ARG) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/520
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN LAT »1«
+http://fastream.xyz:8080/juan18/83e45w87w/522
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN LAT »2«
+http://fastream.xyz:8080/juan18/83e45w87w/524
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN (MEX) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/519
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN (MEX) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/521
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN (MEX) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/523
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 2 (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/452
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 2 (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/503
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 2 (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/504
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 2 (ARG) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/507
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 2 LAT »1«
+http://fastream.xyz:8080/juan18/83e45w87w/508
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 2 LAT »2«
+http://fastream.xyz:8080/juan18/83e45w87w/510
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 2 (MEX) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/505
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 2 (MEX) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/509
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 3 (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/512
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 3 (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/513
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 3 LAT
+http://fastream.xyz:8080/juan18/83e45w87w/514
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 3 (MEX)
+http://fastream.xyz:8080/juan18/83e45w87w/511
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 4 LAT
+http://fastream.xyz:8080/juan18/83e45w87w/517
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 4 (MEX) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/515
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 4 (MEX) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/516
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 1 (ARG) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/456
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 1 (ARG) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/457
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 1 (ARG) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/458
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 1 (ARG) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/525
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 5 »1«
+http://fastream.xyz:8080/juan18/83e45w87w/526
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 5 »2«
+http://fastream.xyz:8080/juan18/83e45w87w/527
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 5 »3«
+http://fastream.xyz:8080/juan18/83e45w87w/528
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN PREMIUM »1«
+http://fastream.xyz:8080/juan18/83e45w87w/542
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN PREMIUM »2«
+http://fastream.xyz:8080/juan18/83e45w87w/543
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN PREMIUM »3«
+http://fastream.xyz:8080/juan18/83e45w87w/544
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN PREMIUM »4«
+http://fastream.xyz:8080/juan18/83e45w87w/545
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 1 (MEX) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/540
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 1 (MEX) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/534
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 7 »1«
+http://fastream.xyz:8080/juan18/83e45w87w/453
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 7 »2«
+http://fastream.xyz:8080/juan18/83e45w87w/454
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 7 »3«
+http://fastream.xyz:8080/juan18/83e45w87w/530
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 7 »4«
+http://fastream.xyz:8080/juan18/83e45w87w/532
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 7 »5«
+http://fastream.xyz:8080/juan18/83e45w87w/533
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 2 (MEX) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/529
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 2 (MEX) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/531
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 2 (MEX) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/535
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 3 (ARG) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/455
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 3 (ARG) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/537
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 3 (ARG) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/538
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 6 »1«
+http://fastream.xyz:8080/juan18/83e45w87w/539
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 6 »2«
+http://fastream.xyz:8080/juan18/83e45w87w/536
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/481
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/465
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/484
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (ARG) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/480
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/479
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/464
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/478
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/475
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 (ARG) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/473
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 CO
+http://fastream.xyz:8080/juan18/83e45w87w/476
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/477
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS+ (ARG) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/467
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS+ (ARG) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/466
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS+ (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/471
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",PREMIERE CLUBES (BR) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/568
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",PREMIERE CLUBES (BR) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/569
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",PREMIERE 1 (BR)
+http://fastream.xyz:8080/juan18/83e45w87w/561
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",PREMIERE 3 (BR)
+http://fastream.xyz:8080/juan18/83e45w87w/563
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",PREMIERE 4 (BR)
+http://fastream.xyz:8080/juan18/83e45w87w/564
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",PREMIERE 6 (BR)
+http://fastream.xyz:8080/juan18/83e45w87w/566
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",PREMIERE 7 (BR)
+http://fastream.xyz:8080/juan18/83e45w87w/567
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ECDF EC
+http://fastream.xyz:8080/juan18/83e45w87w/585
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL TV EC »1«
+http://fastream.xyz:8080/juan18/83e45w87w/486
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL TV EC »2«
+http://fastream.xyz:8080/juan18/83e45w87w/489
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL TV EC »3«
+http://fastream.xyz:8080/juan18/83e45w87w/488
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL TV EC »4«
+http://fastream.xyz:8080/juan18/83e45w87w/487
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",VTV UR »1«
+http://fastream.xyz:8080/juan18/83e45w87w/558
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",VTV UR »2«
+http://fastream.xyz:8080/juan18/83e45w87w/557
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",VTV UR »3«
+http://fastream.xyz:8080/juan18/83e45w87w/556
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",VTV+ UR »1«
+http://fastream.xyz:8080/juan18/83e45w87w/560
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",VTV+ UR »2«
+http://fastream.xyz:8080/juan18/83e45w87w/559
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",M. DEPORTES ES (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/550
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",LA LIGA TV ES (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/490
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",REAL MADRID TV ES (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/587
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",M. LA LIGA ES »3«
+http://fastream.xyz:8080/juan18/83e45w87w/495
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",M. LA LIGA ES »4«
+http://fastream.xyz:8080/juan18/83e45w87w/492
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",M. LA LIGA 2 ES (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/493
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",EUROSPORT 1 (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/577
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",EUROSPORT 2 (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/578
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOLF CHANNEL (MEX)
+http://fastream.xyz:8080/juan18/83e45w87w/549
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",CLARO SPORTS CO (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/463
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",UFC »1«
+http://fastream.xyz:8080/juan18/83e45w87w/580
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",WWE NETWORK (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/583
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",COMBATE (BR) (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/582
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",RED BULL TV (HD)
+http://fastream.xyz:8080/juan18/83e45w87w/584
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",Tigo Sports
+http://fastream.xyz:8080/juan18/83e45w87w/267922
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FUTBÓL CHILENO I (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/86
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FUTBÓL CHILENO I (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/87
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FUTBÓL CHILENO I (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/88
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FUTBÓL CHILENO I (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/89
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FUTBÓL CHILENO II (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/61274
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FUTBÓL CHILENO II (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/61275
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FUTBÓL CHILENO II (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/61276
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS PREMIUM (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/92
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS PREMIUM (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/93
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS PREMIUM 2 (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/96
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS PREMIUM 2 (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/97
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/98
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/99
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/56659
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/56660
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/67191
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",D13 (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/60957
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",D13 (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/60958
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",D13 (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/60959
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",D13 (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/60960
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/247836
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/58289
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/248240
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/247839
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS PREMIUM (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/248242
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS PREMIUM (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/247844
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS PREMIUM 2 (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/248243
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",BEST CABLE SPORTS (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/256
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",LIGA 1 (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/14826
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",LIGA 1 MAX (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/63060
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",LIGA 1 MAX (PER) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/63061
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",LIGA 1 MAX (PER) »5«
+http://fastream.xyz:8080/juan18/83e45w87w/63062
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",LIGA 1 MAX (PER) »6«
+http://fastream.xyz:8080/juan18/83e45w87w/63059
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",M. DEPORTES (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/304
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",M. DEPORTES (PER) »5«
+http://fastream.xyz:8080/juan18/83e45w87w/305
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",M. PLUS (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/306
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",M. PLUS (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/319
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL PERU (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/307
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL PERU (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/308
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL PERU (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/309
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL PERU (PER) »7«
+http://fastream.xyz:8080/juan18/83e45w87w/313
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL PERU (PER) »8«
+http://fastream.xyz:8080/juan18/83e45w87w/322
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL PERU (PER) »9«
+http://fastream.xyz:8080/juan18/83e45w87w/323
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",GOL PERU (PER) »10«
+http://fastream.xyz:8080/juan18/83e45w87w/324
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/317
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS+ (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/315
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/316
+
+⭐️NOVELAS
+
+
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",PASIONES »1«
+http://fastream.xyz:8080/juan18/83e45w87w/590
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",PASIONES »2«
+http://fastream.xyz:8080/juan18/83e45w87w/591
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",PASIONES »3«
+http://fastream.xyz:8080/juan18/83e45w87w/592
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",PASIONES »4«
+http://fastream.xyz:8080/juan18/83e45w87w/341
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",PASIONES »5«
+http://fastream.xyz:8080/juan18/83e45w87w/342
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",TNT NOVELAS »1«
+http://fastream.xyz:8080/juan18/83e45w87w/226
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",TLNOVELAS »1«
+http://fastream.xyz:8080/juan18/83e45w87w/611
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",TLNOVELAS »2« 
+http://fastream.xyz:8080/juan18/83e45w87w/612
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",TLNOVELAS »3«
+http://fastream.xyz:8080/juan18/83e45w87w/269133
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",TLNOVELAS »4« 
+http://fastream.xyz:8080/juan18/83e45w87w/269134
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",TLNOVELAS »5«
+http://fastream.xyz:8080/juan18/83e45w87w/269137
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",TLNOVELAS »6«
+http://fastream.xyz:8080/juan18/83e45w87w/269138
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",TNT NOVELAS »2«
+http://fastream.xyz:8080/juan18/83e45w87w/227
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",UNIVISION TLNOVELAS »1«
+http://fastream.xyz:8080/juan18/83e45w87w/269135
+
+⭐️LATINOS
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia TV" tvg-logo="" group-title="⭐️LATINOS",Bolivia TV (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269126
+#EXTINF:-1 tvg-id="" tvg-name="Gigavision" tvg-logo="" group-title="⭐️LATINOS",Gigavision (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269127
+#EXTINF:-1 tvg-id="" tvg-name="Bolivision" tvg-logo="" group-title="⭐️LATINOS",Bolivision (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269128
+#EXTINF:-1 tvg-id="" tvg-name="Unitel La Paz" tvg-logo="" group-title="⭐️LATINOS",Unitel La Paz (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269129
+#EXTINF:-1 tvg-id="" tvg-name="Red Uno La Paz" tvg-logo="" group-title="⭐️LATINOS",Red Uno La Paz (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269130
+#EXTINF:-1 tvg-id="" tvg-name="RTP" tvg-logo="" group-title="⭐️LATINOS",RTP (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269131
+#EXTINF:-1 tvg-id="" tvg-name="Unitel" tvg-logo="" group-title="⭐️LATINOS",Unitel (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269132
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="" group-title="⭐️LATINOS",TVN (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/38
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="" group-title="⭐️LATINOS",TVN (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/37
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="" group-title="⭐️LATINOS",TVN (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/35
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="⭐️LATINOS",MEGA (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/43
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="⭐️LATINOS",MEGA (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/42
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="⭐️LATINOS",MEGA (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/41
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="⭐️LATINOS",MEGA (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/40
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="" group-title="⭐️LATINOS",CHV (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/47
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="" group-title="⭐️LATINOS",CHV (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/46
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="" group-title="⭐️LATINOS",CHV (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/45
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="" group-title="⭐️LATINOS",CHV (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/44
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="⭐️LATINOS",CANAL 13 (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/51
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="⭐️LATINOS",CANAL 13 (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/50
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="⭐️LATINOS",CANAL 13 (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/49
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="⭐️LATINOS",CANAL 13 (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/48
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="⭐️LATINOS",24 HORAS (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/78
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="⭐️LATINOS",24 HORAS (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/77
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="⭐️LATINOS",24 HORAS (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/32
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="" group-title="⭐️LATINOS",CNN CHILE (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/34
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="" group-title="⭐️LATINOS",CNN CHILE (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/33
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="" group-title="⭐️LATINOS",CNN CHILE (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/57268
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="" group-title="⭐️LATINOS",CNN CHILE (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/57269
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="" group-title="⭐️LATINOS",ETC (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/66
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="" group-title="⭐️LATINOS",LA RED (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/53
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="" group-title="⭐️LATINOS",LA RED (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/52
+#EXTINF:-1 tvg-id="" tvg-name="TELETRAK" tvg-logo="" group-title="⭐️LATINOS",TELETRAK (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/57272
+#EXTINF:-1 tvg-id="" tvg-name="VIA-X" tvg-logo="" group-title="⭐️LATINOS",VIA-X (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/64
+#EXTINF:-1 tvg-id="" tvg-name="VIA-X" tvg-logo="" group-title="⭐️LATINOS",VIA-X (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/63
+#EXTINF:-1 tvg-id="" tvg-name="13 CULTURA" tvg-logo="" group-title="⭐️LATINOS",13 CULTURA (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/79
+#EXTINF:-1 tvg-id="" tvg-name="13 TELESERIES " tvg-logo="" group-title="⭐️LATINOS",13 TELESERIES (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/82
+#EXTINF:-1 tvg-id="" tvg-name="T13 RADIO" tvg-logo="" group-title="⭐️LATINOS",T13 RADIO (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/85
+#EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="" group-title="⭐️LATINOS",TVN 3 (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/61187
+#EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="" group-title="⭐️LATINOS",TVN 3 (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/61188
+#EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="" group-title="⭐️LATINOS",TVN 3 (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/61267
+#EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="" group-title="⭐️LATINOS",TVN 3 (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/61268
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="" group-title="⭐️LATINOS",AMERICA TV (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/247
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="" group-title="⭐️LATINOS",AMERICA TV (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/248
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="" group-title="⭐️LATINOS",AMERICA TV (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/249
+#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="" group-title="⭐️LATINOS",CANAL N (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/288
+#EXTINF:-1 tvg-id="" tvg-name="PERU MAGICO" tvg-logo="" group-title="⭐️LATINOS",PERU MAGICO (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/275
+#EXTINF:-1 tvg-id="" tvg-name="PERU MAGICO" tvg-logo="" group-title="⭐️LATINOS",PERU MAGICO (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/294
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="" group-title="⭐️LATINOS",PANAMERICANA (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/273
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="" group-title="⭐️LATINOS",PANAMERICANA (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/291
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="" group-title="⭐️LATINOS",LATINA TV (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/268
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="" group-title="⭐️LATINOS",LATINA TV (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/269
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="" group-title="⭐️LATINOS",LATINA TV (PER) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/270
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="" group-title="⭐️LATINOS",LATINA TV (PER) »5«
+http://fastream.xyz:8080/juan18/83e45w87w/271
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="" group-title="⭐️LATINOS",RPP (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/295
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="" group-title="⭐️LATINOS",RPP (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/296
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="" group-title="⭐️LATINOS",RPP (PER) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/297
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU" tvg-logo="" group-title="⭐️LATINOS",TV PERU (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/298
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU" tvg-logo="" group-title="⭐️LATINOS",TV PERU (PER) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/299
+#EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="" group-title="⭐️LATINOS",WILLAX (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/285
+#EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="" group-title="⭐️LATINOS",WILLAX (PER) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/286
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="" group-title="⭐️LATINOS",EXITOSA (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/260
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="" group-title="⭐️LATINOS",EXITOSA (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/261
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="" group-title="⭐️LATINOS",EXITOSA (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/289
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="⭐️LATINOS",ATV (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/253
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="⭐️LATINOS",ATV (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/301
+#EXTINF:-1 tvg-id="" tvg-name="ATV+" tvg-logo="" group-title="⭐️LATINOS",ATV+ (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/254
+#EXTINF:-1 tvg-id="" tvg-name="ATV+" tvg-logo="" group-title="⭐️LATINOS",ATV+ (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/255
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV" tvg-logo="" group-title="⭐️LATINOS",CAPITAL TV (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/251
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV" tvg-logo="" group-title="⭐️LATINOS",CAPITAL TV (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/302
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU NOTICIAS" tvg-logo="" group-title="⭐️LATINOS",TV PERU NOTICIAS (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/300
+#EXTINF:-1 tvg-id="" tvg-name="FRECUENCIA LATINA" tvg-logo="" group-title="⭐️LATINOS",FRECUENCIA LATINA (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/290
+#EXTINF:-1 tvg-id="" tvg-name="ANTARES TV" tvg-logo="" group-title="⭐️LATINOS",ANTARES TV (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/250
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA 24 TV" tvg-logo="" group-title="⭐️LATINOS",CULTURA 24 TV (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/259
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",AMERICA TEVE MIAMI
+http://fastream.xyz:8080/juan18/83e45w87w/265608
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Austin HD
+http://fastream.xyz:8080/juan18/83e45w87w/22916
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Cleveland HD
+http://fastream.xyz:8080/juan18/83e45w87w/22917
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Dallas HD
+http://fastream.xyz:8080/juan18/83e45w87w/22918
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision East HD
+http://fastream.xyz:8080/juan18/83e45w87w/22919
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Houston HD
+http://fastream.xyz:8080/juan18/83e45w87w/22921
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Los Angeles HD
+http://fastream.xyz:8080/juan18/83e45w87w/22922
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Las Vegas HD
+http://fastream.xyz:8080/juan18/83e45w87w/22923
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision RALEIGH HD
+http://fastream.xyz:8080/juan18/83e45w87w/22924
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision New York HD
+http://fastream.xyz:8080/juan18/83e45w87w/22925
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Philadelphia HD
+http://fastream.xyz:8080/juan18/83e45w87w/22926
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Phoenix HD
+http://fastream.xyz:8080/juan18/83e45w87w/22927
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Sacramento HD
+http://fastream.xyz:8080/juan18/83e45w87w/22928
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision SALT LAKE HD
+http://fastream.xyz:8080/juan18/83e45w87w/22929
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision San Antonio HD
+http://fastream.xyz:8080/juan18/83e45w87w/22930
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision West HD
+http://fastream.xyz:8080/juan18/83e45w87w/22932
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",GALAVISION ATLANTA HD
+http://fastream.xyz:8080/juan18/83e45w87w/22933
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Galavision Alburquerque Santa Fe HD
+http://fastream.xyz:8080/juan18/83e45w87w/22934
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION MIAMI HD
+http://fastream.xyz:8080/juan18/83e45w87w/22936
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION NEW YORK HD
+http://fastream.xyz:8080/juan18/83e45w87w/22937
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION DALLAS TX HD
+http://fastream.xyz:8080/juan18/83e45w87w/22938
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION (KAKW-AUSTIN)
+http://fastream.xyz:8080/juan18/83e45w87w/22939
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION (KDTV-SAN FRANCISCO-OAK-SAN JOSE)
+http://fastream.xyz:8080/juan18/83e45w87w/22940
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION (KTVW-PHOENIX (PRESCOTT)
+http://fastream.xyz:8080/juan18/83e45w87w/22941
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)
+http://fastream.xyz:8080/juan18/83e45w87w/22942
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION (WUVP-PHILADELPHIA PA)
+http://fastream.xyz:8080/juan18/83e45w87w/22944
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION (WXTV-NEW YORK NY)
+http://fastream.xyz:8080/juan18/83e45w87w/22945
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION DALLAS
+http://fastream.xyz:8080/juan18/83e45w87w/22948
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION HOUSTON
+http://fastream.xyz:8080/juan18/83e45w87w/22949
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",TX | SAN ANTONIO | UNIVISION KWEX
+http://fastream.xyz:8080/juan18/83e45w87w/22952
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",CA | HANFORD | UNIVISION KFTV
+http://fastream.xyz:8080/juan18/83e45w87w/22954
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION DENVER
+http://fastream.xyz:8080/juan18/83e45w87w/22958
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION CHICAGO
+http://fastream.xyz:8080/juan18/83e45w87w/22959
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION HOUSTON
+http://fastream.xyz:8080/juan18/83e45w87w/22960
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION SAN ANTONIO
+http://fastream.xyz:8080/juan18/83e45w87w/22961
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION EAST
+http://fastream.xyz:8080/juan18/83e45w87w/22962
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION ATLANTA
+http://fastream.xyz:8080/juan18/83e45w87w/22963
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION TELENOVELAS
+http://fastream.xyz:8080/juan18/83e45w87w/22964
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION AUSTIN
+http://fastream.xyz:8080/juan18/83e45w87w/22965
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION PHILADELPHIA
+http://fastream.xyz:8080/juan18/83e45w87w/22966
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION  SALT LAKE
+http://fastream.xyz:8080/juan18/83e45w87w/22969
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION SAN FRANCISCO
+http://fastream.xyz:8080/juan18/83e45w87w/22970
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION ALBUQUERQUE SANTA FE
+http://fastream.xyz:8080/juan18/83e45w87w/22971
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION WEST
+http://fastream.xyz:8080/juan18/83e45w87w/22972
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION: HANFORD | KFTV
+http://fastream.xyz:8080/juan18/83e45w87w/22973
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIVISION: LOCAL | IL | Joliet | 35 WGBO
+http://fastream.xyz:8080/juan18/83e45w87w/22974
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS NEW YORK HD
+http://fastream.xyz:8080/juan18/83e45w87w/22978
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS (KFPH-PHOENIX (PRESCOTT) AZ)
+http://fastream.xyz:8080/juan18/83e45w87w/22979
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS (KFTR-LOS ANGELES CA)
+http://fastream.xyz:8080/juan18/83e45w87w/22980
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS (KSTR-DALLAS-FT WORTH TX)
+http://fastream.xyz:8080/juan18/83e45w87w/22981
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS (KTFO-AUSTIN TX)
+http://fastream.xyz:8080/juan18/83e45w87w/22982
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS (WAMI-MIAMI-FT. LAUDERDALE
+http://fastream.xyz:8080/juan18/83e45w87w/22983
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UniMas West
+http://fastream.xyz:8080/juan18/83e45w87w/22984
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Cleveland HD
+http://fastream.xyz:8080/juan18/83e45w87w/22985
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS LOS ANGELES  HD
+http://fastream.xyz:8080/juan18/83e45w87w/22986
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS EAST HD
+http://fastream.xyz:8080/juan18/83e45w87w/22990
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Houston  HD
+http://fastream.xyz:8080/juan18/83e45w87w/22991
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Las Vegas HD
+http://fastream.xyz:8080/juan18/83e45w87w/22992
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS TUCSON  HD
+http://fastream.xyz:8080/juan18/83e45w87w/22996
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS  Fresno  HD
+http://fastream.xyz:8080/juan18/83e45w87w/22997
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",UNIMAS ARIZONA
+http://fastream.xyz:8080/juan18/83e45w87w/22999
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Tucson (KFTU) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23021
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas San Antonio (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23022
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Philadelphia (WXFT) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23023
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Dallas (KSTR) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23024
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas New York (WFUT) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23025
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Miami (WAMI) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23026
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Los Angeles (KFTR) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23027
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas Austin (KTFO) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23028
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Unimas (UNIHD) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23031
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Boston (WUNI) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23034
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Green Valley (KUVE) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23037
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Tlenovelas (UNITLN) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23038
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Houston (KXLN) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23040
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Austin (KAKW)
+http://fastream.xyz:8080/juan18/83e45w87w/23041
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Network (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23042
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Dallas (KUVN) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23043
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Chicago (WGBO) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23044
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Atlanta (WUVG) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23045
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Miami (WLTV) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23046
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision New York (WXTV) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23047
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision San Antonio (KWEX) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23049
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Philadelphia (WUPV) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23050
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Phoenix (WXTV) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23051
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️USA LATAM",Univision Nashville (WLLC) (us_lat)
+http://fastream.xyz:8080/juan18/83e45w87w/23052
+
+⭐️CINEMAS PPV
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 01" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 01 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11987
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 02" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 02 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11988
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 03" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 03 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11989
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 04" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 04 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11990
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 05" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 05 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11991
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 06" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 06 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11992
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 07" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 07 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11993
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 08" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 08 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11994
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 09" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 09 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11995
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 10" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 10 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11996
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 11" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 11 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11997
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 12" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 12 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11998
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 13" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 13 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/11999
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 14" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 14 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12000
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 15" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 15 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12001
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 16" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 16 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12002
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 17" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 17 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12003
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 18" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 18 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12004
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 19" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 19 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12005
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 20" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 20 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12006
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 21" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 21 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12007
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 22" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 22 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12008
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 23" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 23 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12009
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 24" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 24 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12010
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 25" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 25 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12011
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 26" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 26 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12012
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 27" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 27 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12013
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 28" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 28 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12014
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 29" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 29 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12015
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 30" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 30 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12016
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 31" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 31 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12017
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 32" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 32 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12018
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 33" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 33 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12019
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 34" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 34 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12020
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 35" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 35 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12021
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 36" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 36 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12022
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 37" tvg-logo="" group-title="⭐️CINEMAS PPV",Cinema 37 PPV
+http://fastream.xyz:8080/juan18/83e45w87w/12023
+
+⭐️MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",Qwest TV
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+
+⭐️MUNDO
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Brefcinema
+http://fastream.xyz:8080/juan18/83e45w87w/266954
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",TELEVISA Telenovela Channel
+http://fastream.xyz:8080/juan18/83e45w87w/266958
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Rakuten VIKI
+http://fastream.xyz:8080/juan18/83e45w87w/266960
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",The Pet Collective
+http://fastream.xyz:8080/juan18/83e45w87w/266966
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",People Are Awesome
+http://fastream.xyz:8080/juan18/83e45w87w/266967
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",AFV Family
+http://fastream.xyz:8080/juan18/83e45w87w/266968
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Revry
+http://fastream.xyz:8080/juan18/83e45w87w/266969
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Zee Magic
+http://fastream.xyz:8080/juan18/83e45w87w/266970
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Motus La Cha¯ne
+http://fastream.xyz:8080/juan18/83e45w87w/266972
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Y A Que La VÚritÚ Qui Compte La Cha¯ne
+http://fastream.xyz:8080/juan18/83e45w87w/266973
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",FUEL TV
+http://fastream.xyz:8080/juan18/83e45w87w/266976
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Travelxp
+http://fastream.xyz:8080/juan18/83e45w87w/266978
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",EnquÛtes de Choc
+http://fastream.xyz:8080/juan18/83e45w87w/266984
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO", La chaine du fait divers
+http://fastream.xyz:8080/juan18/83e45w87w/266985
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Nature Time
+http://fastream.xyz:8080/juan18/83e45w87w/266988
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",DAZN Women's Football
+http://fastream.xyz:8080/juan18/83e45w87w/267040
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",5-Minute Crafts
+http://fastream.xyz:8080/juan18/83e45w87w/267041
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Tastemade
+http://fastream.xyz:8080/juan18/83e45w87w/267042
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",DAZN Combat
+http://fastream.xyz:8080/juan18/83e45w87w/267043
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",DonÆt Tell The Bride
+http://fastream.xyz:8080/juan18/83e45w87w/267048
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",World of Love Island
+http://fastream.xyz:8080/juan18/83e45w87w/267049
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Nature Time
+http://fastream.xyz:8080/juan18/83e45w87w/267058
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Travelxp
+http://fastream.xyz:8080/juan18/83e45w87w/267061
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Nour TV (720p)
+http://fastream.xyz:8080/juan18/83e45w87w/267240
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Zee Aflam (720p) [Geo-blocked]
+http://fastream.xyz:8080/juan18/83e45w87w/267251
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Zee Alwan (720p) [Geo-blocked]
+http://fastream.xyz:8080/juan18/83e45w87w/267252
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",ATN News (720p) [Not 24/7]
+http://fastream.xyz:8080/juan18/83e45w87w/267255
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",RTA (1080p)
+http://fastream.xyz:8080/juan18/83e45w87w/267262
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",RTA Education (1080p)
+http://fastream.xyz:8080/juan18/83e45w87w/267263
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",RTA News (1080p)
+http://fastream.xyz:8080/juan18/83e45w87w/267264
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",RTA Sport (1080p)
+http://fastream.xyz:8080/juan18/83e45w87w/267265
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",POP
+https://narrative-popkids-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-narrative-popkids-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Hell's Kitchen
+https://itv-hellskitchen-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-itvhellskitchen-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",COPS
+https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Jail
+https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Real Crime
+https://lds-realcrimebeta-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-realcrime2-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Mystery TV
+https://aenetworks-mysterytv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aenetworks-mysterytv-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Inside Crime
+https://aenetworks-insidecrime-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aenetworks-insidecrime-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Haunt TV
+https://bamcahaunttvrakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamcahaunttvrakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",History Hit - Golden Cinema
+https://lds-timeline-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-timeline-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Real Wild
+https://lds-realwild-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-realwild-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Wonder
+https://lds-wonder-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-wonder-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Earth Touch TV
+https://earthtouch-earthtouch-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-earthtouch-rakutenA/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Waterbear
+https://waterbear-waterbear-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-waterbear-waterbear-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Adventure Earth
+https://f06cd57c1eeb48fd89b80d9ff8ae230f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",World War TV
+https://aenetworks-worldwartv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aenetworks-worldwartv-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Revry News
+https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Bloomberg Originals
+https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Bloomberg Television
+https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",GB News
+https://lightning-gbnews-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-gbnews-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",MyTime Movie Network
+http://fastream.xyz:8080/juan18/83e45w87w/266951
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Syri
+http://fastream.xyz:8080/juan18/83e45w87w/266855
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Strongman Champions League
+https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Fashion TV
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Travelxp
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Wellbeing TV
+https://amg01255-secomcofites-my-myzen-en-rakuten-cyxqh.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-en-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Homes Under the Hammer
+https://4234a984c3604c218a65c6b287631ea6.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_HomeUndertheHammer/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Tastemade
+https://tastemade-tdint-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-rakuten-uk/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUNDO",Gusto TV
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
