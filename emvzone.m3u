@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EMVZONE tvg-logo="https://n9.cl/w0ftl" group-title="⭐️ZZZ",EMVZONE
+#EXTINF:-1 tvg-id="" tvg-name="EMVZONE tvg-logo="https://n9.cl/w0ftl" group-title="⭐EMV ZONE",EMVZONE
 ===PPV===
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 1" tvg-logo="https://n9.cl/w0ftl" group-title="⭐️PPV",EVENTOS 1 (HD)
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 1" tvg-logo="https://n9.cl/aux30" group-title="⭐️PPV",EVENTOS 1
 http://fastream.xyz:8080/juan18/83e45w87w/20203
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2" tvg-logo="" group-title="⭐️PPV",EVENTOS 2 (HD)
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2" tvg-logo="https://n9.cl/aux30" group-title="⭐️PPV",EVENTOS 2
 http://fastream.xyz:8080/juan18/83e45w87w/20220
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 3" tvg-logo="" group-title="⭐️PPV",EVENTOS 3 (HD)
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 3" tvg-logo="https://n9.cl/aux30" group-title="⭐️PPV",EVENTOS 3
 http://fastream.xyz:8080/juan18/83e45w87w/20233
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 4" tvg-logo="" group-title="⭐️PPV",EVENTOS 4 (HD)
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 4" tvg-logo="https://n9.cl/aux30" group-title="⭐️PPV",EVENTOS 4
 http://fastream.xyz:8080/juan18/83e45w87w/20286
-#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="" group-title="⭐️PPV",UFC TV (HD)
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="https://n9.cl/uvxk8" group-title="⭐️PPV",UFC TV
 http://fastream.xyz:8080/juan18/83e45w87w/20374
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="⭐️PPV",UFC FIGHT PASS (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://n9.cl/vd02w" group-title="⭐️PPV",UFC FIGHT PASS »1«
 http://fastream.xyz:8080/juan18/83e45w87w/20382
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="⭐️PPV",UFC FIGHT PASS (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://n9.cl/vd02w" group-title="⭐️PPV",UFC FIGHT PASS »2«
 http://fastream.xyz:8080/juan18/83e45w87w/20430
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://n9.cl/93460" group-title="⭐️PPV",WWE NETWORK »1«
 http://fastream.xyz:8080/juan18/83e45w87w/20509
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://n9.cl/93460" group-title="⭐️PPV",WWE NETWORK »2«
 http://fastream.xyz:8080/juan18/83e45w87w/20533
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://n9.cl/93460" group-title="⭐️PPV",WWE NETWORK »3«
 http://fastream.xyz:8080/juan18/83e45w87w/20558
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://n9.cl/93460" group-title="⭐️PPV",WWE NETWORK »4«
 http://fastream.xyz:8080/juan18/83e45w87w/20623
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="⭐️PPV",WWE NETWORK (HD) »5«
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://n9.cl/93460" group-title="⭐️PPV",WWE NETWORK »5«
 http://fastream.xyz:8080/juan18/83e45w87w/20669
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="" group-title="⭐️PPV",COMBATE (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="https://n9.cl/c9jxt" group-title="⭐️PPV",COMBATE »1«
 http://fastream.xyz:8080/juan18/83e45w87w/20693
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="" group-title="⭐️PPV",COMBATE (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="https://n9.cl/c9jxt" group-title="⭐️PPV",COMBATE »2«
 http://fastream.xyz:8080/juan18/83e45w87w/20694
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE WORLD" tvg-logo="" group-title="⭐️PPV",COMBATE WORLD (HD)
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE WORLD" tvg-logo="https://n9.cl/c9jxt" group-title="⭐️PPV",COMBATE WORLD
 http://fastream.xyz:8080/juan18/83e45w87w/21007
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FIGHT" tvg-logo="" group-title="⭐️PPV",DIRECTV SPORTS FIGHT (HD)
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FIGHT" tvg-logo="https://n9.cl/wlgt3" group-title="⭐️PPV",DIRECTV SPORTS FIGHT
 http://fastream.xyz:8080/juan18/83e45w87w/20350
-#EXTINF:-1 tvg-id="" tvg-name="THE FIGHT NETWORK" tvg-logo="" group-title="⭐️PPV",THE FIGHT NETWORK (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="THE FIGHT NETWORK" tvg-logo="https://n9.cl/nljlf" group-title="⭐️PPV",THE FIGHT NETWORK »2«
 http://fastream.xyz:8080/juan18/83e45w87w/21185
-#EXTINF:-1 tvg-id="" tvg-name="THE FIGHT NETWORK" tvg-logo="" group-title="⭐️PPV",THE FIGHT NETWORK (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-name="THE FIGHT NETWORK" tvg-logo="https://n9.cl/nljlf" group-title="⭐️PPV",THE FIGHT NETWORK »3«
 http://fastream.xyz:8080/juan18/83e45w87w/21186
 
 ⭐️COLOMBIA
@@ -93,11 +93,11 @@ http://fastream.xyz:8080/juan18/83e45w87w/355
 http://fastream.xyz:8080/juan18/83e45w87w/356
 #EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/fq76g" group-title="⭐️COLOMBIA",TELEMEDELLIN »3«
 http://cord-cutter.net:8080/Rme2Fg/183926/78722
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="" group-title="⭐️COLOMBIA",TELEPACIFICO »1«
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/u7o5f" group-title="⭐️COLOMBIA",TELEPACIFICO »1«
 http://fastream.xyz:8080/juan18/83e45w87w/357
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="" group-title="⭐️COLOMBIA",TELEPACIFICO »2«
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/u7o5f" group-title="⭐️COLOMBIA",TELEPACIFICO »2«
 http://fastream.xyz:8080/juan18/83e45w87w/358
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="" group-title="⭐️COLOMBIA",TELEPACIFICO (EMV)
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/u7o5f" group-title="⭐️COLOMBIA",TELEPACIFICO (EMV)
 https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+" tvg-logo="https://n9.cl/w8ond" group-title="⭐️COLOMBIA",WIN SPORTS+ »1«
 http://cord-cutter.net:8080/Rme2Fg/183926/78717
@@ -236,34 +236,8 @@ http://fastream.xyz:8080/juan18/83e45w87w/403
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/lspgk" group-title="⭐️HIST Y CULT",ANIMAL PLANET »6«
 http://fastream.xyz:8080/juan18/83e45w87w/59554
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ⭐️VARIEDADES
-#EXTINF:-1 tvg-id="" tvg-name="[ADULT SWIN]" tvg-logo="https://n9.cl/1mhur" group-title="⭐️VARIEDADES",[ADULT SWIN]
+#EXTINF:-1 tvg-id="" tvg-name="[ADULT SWIN]" tvg-logo="https://n9.cl/1mhur" group-title="⭐️VARIEDADES",ADULT SWIN
 http://fastream.xyz:8080/juan18/83e45w87w/593
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://n9.cl/nmhcr" group-title="⭐️VARIEDADES",AMERICA TV
 http://cord-cutter.net:8080/100974831/100974831/110637
@@ -297,7 +271,7 @@ http://fastream.xyz:8080/juan18/83e45w87w/607
 http://fastream.xyz:8080/juan18/83e45w87w/623
 #EXTINF:-1 tvg-id="" tvg-name="MAS CHIC ESP" tvg-logo="https://n9.cl/2mvix" group-title="⭐️VARIEDADES",MAS CHIC (ESP)
 http://fastream.xyz:8080/juan18/83e45w87w/624
-#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="" group-title="⭐️VARIEDADES",MULTIMEDIOS
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="https://n9.cl/w0ftl" group-title="⭐️VARIEDADES",MULTIMEDIOS
 http://cord-cutter.net:8080/100974831/100974831/57646
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://n9.cl/77ic08" group-title="⭐️VARIEDADES",PANAMERICANA 
 http://cord-cutter.net:8080/100974831/100974831/110633
@@ -361,6 +335,8 @@ http://fastream.xyz:8080/juan18/83e45w87w/181
 http://fastream.xyz:8080/juan18/83e45w87w/182
 #EXTINF:-1 tvg-id="" tvg-name="DE PELÍCULA PLUS" tvg-logo="https://n9.cl/y5rdx4" group-title="⭐️PACK PREMIUM",DE PELÍCULA PLUS
 http://fastream.xyz:8080/juan18/83e45w87w/183
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://n9.cl/n37z0g" group-title="⭐️CINE Y SERIES",GOLDEN
+http://fastream.xyz:8080/juan18/83e45w87w/127
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://n9.cl/xqxvi" group-title="⭐️PACK PREMIUM",HBO
 http://fastream.xyz:8080/juan18/83e45w87w/139
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://n9.cl/s3jg9l" group-title="⭐️PACK PREMIUM",HBO 2
@@ -413,6 +389,8 @@ http://fastream.xyz:8080/juan18/83e45w87w/228
 http://fastream.xyz:8080/juan18/83e45w87w/172
 
 ===2===
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://n9.cl/n37z0g" group-title="⭐️CINE Y SERIES",GOLDEN »2«
+http://fastream.xyz:8080/juan18/83e45w87w/129
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://n9.cl/xqxvi" group-title="⭐️PACK PREMIUM",HBO »2«
 http://fastream.xyz:8080/juan18/83e45w87w/140
 #EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://n9.cl/s3jg9l" group-title="⭐️PACK PREMIUM",HBO2 »2«
@@ -481,167 +459,7 @@ http://fastream.xyz:8080/juan18/83e45w87w/217
 http://fastream.xyz:8080/juan18/83e45w87w/675
 
 ⭐️CINE Y SERIES
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",A&E »1«
-http://fastream.xyz:8080/juan18/83e45w87w/100
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",A3 CINE »1«
-http://fastream.xyz:8080/juan18/83e45w87w/174
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",A3 SERIES »1«
-http://fastream.xyz:8080/juan18/83e45w87w/175
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",AMC »1«
-http://fastream.xyz:8080/juan18/83e45w87w/104
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",AXN »1«
-http://fastream.xyz:8080/juan18/83e45w87w/108
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINE LATINO »1«
-http://fastream.xyz:8080/juan18/83e45w87w/110
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINE CANAL »1«
-http://fastream.xyz:8080/juan18/83e45w87w/112
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINE DINAMITA »1«
-http://fastream.xyz:8080/juan18/83e45w87w/116
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX »1«
-http://fastream.xyz:8080/juan18/83e45w87w/118
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX ACTION »1«
-http://fastream.xyz:8080/juan18/83e45w87w/177
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",DHE »1«
-http://fastream.xyz:8080/juan18/83e45w87w/121
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",EURO CHANNEL »1«
-http://fastream.xyz:8080/juan18/83e45w87w/184
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",EUROPA EUROPA »1«
-http://fastream.xyz:8080/juan18/83e45w87w/187
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",FILM & ARTS »1«
-http://fastream.xyz:8080/juan18/83e45w87w/244
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",FX »1«
-http://fastream.xyz:8080/juan18/83e45w87w/126
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",GOLDEN »1«
-http://fastream.xyz:8080/juan18/83e45w87w/127
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",I-SAT »1«
-http://fastream.xyz:8080/juan18/83e45w87w/240
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",INDIE PLEX
-http://fastream.xyz:8080/juan18/83e45w87w/189
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",OUTERMAX
-http://fastream.xyz:8080/juan18/83e45w87w/190
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",PARAMOUNT CHANNEL »1«
-http://fastream.xyz:8080/juan18/83e45w87w/191
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",PARAMOUNT NETWORK »1«
-http://fastream.xyz:8080/juan18/83e45w87w/194
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",RETROPLEX
-http://fastream.xyz:8080/juan18/83e45w87w/239
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SONY »1«
-http://fastream.xyz:8080/juan18/83e45w87w/199
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SPACE »1«
-http://fastream.xyz:8080/juan18/83e45w87w/202
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",STAR CHANNEL »1«
-http://fastream.xyz:8080/juan18/83e45w87w/160
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",STUDIO UNIVERSAL »1«
-http://fastream.xyz:8080/juan18/83e45w87w/218
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SYFY »1«
-http://fastream.xyz:8080/juan18/83e45w87w/222
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",TCM »1«
-http://fastream.xyz:8080/juan18/83e45w87w/229
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",TNT »1«
-http://fastream.xyz:8080/juan18/83e45w87w/166
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",TNT SERIES »1«
-http://fastream.xyz:8080/juan18/83e45w87w/170
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",UNIVERSAL CHANNEL »1«
-http://fastream.xyz:8080/juan18/83e45w87w/232
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",WARNER CHANNEL
-http://fastream.xyz:8080/juan18/83e45w87w/238
-===2===
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",A&E »2«
-http://fastream.xyz:8080/juan18/83e45w87w/101
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",AMC »2«
-http://fastream.xyz:8080/juan18/83e45w87w/105
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",AXN »3«
-http://fastream.xyz:8080/juan18/83e45w87w/109
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINE LATINO »2«
-http://fastream.xyz:8080/juan18/83e45w87w/111
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINE CANAL »2«
-http://fastream.xyz:8080/juan18/83e45w87w/113
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX »2«
-http://fastream.xyz:8080/juan18/83e45w87w/176
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",DHE »2«
-http://fastream.xyz:8080/juan18/83e45w87w/122
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",EURO CHANNEL »2«
-http://fastream.xyz:8080/juan18/83e45w87w/185
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",EUROPA EUROPA »2«
-http://fastream.xyz:8080/juan18/83e45w87w/188
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",FILM & ARTS »2«
-http://fastream.xyz:8080/juan18/83e45w87w/245
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",FX »2«
-http://fastream.xyz:8080/juan18/83e45w87w/124
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",GOLDEN »2«
-http://fastream.xyz:8080/juan18/83e45w87w/129
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",PARAMOUNT CHANNEL »2«
-http://fastream.xyz:8080/juan18/83e45w87w/192
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",PARAMOUNT NETWORK »2«
-http://fastream.xyz:8080/juan18/83e45w87w/195
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SONY »2«
-http://fastream.xyz:8080/juan18/83e45w87w/200
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SPACE »2«
-http://fastream.xyz:8080/juan18/83e45w87w/203
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",STAR CHANNEL »2«
-http://fastream.xyz:8080/juan18/83e45w87w/161
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",STUDIO UNIVERSAL »2«
-http://fastream.xyz:8080/juan18/83e45w87w/219
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SYFY »2«
-http://fastream.xyz:8080/juan18/83e45w87w/223
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",TCM »2«
-http://fastream.xyz:8080/juan18/83e45w87w/230
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",TNT »2«
-http://fastream.xyz:8080/juan18/83e45w87w/167
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",TNT SERIES »2«
-http://fastream.xyz:8080/juan18/83e45w87w/171
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",UNIVERSAL CHANNEL »2«
-http://fastream.xyz:8080/juan18/83e45w87w/233
-===3===
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",A&E »3«
-http://fastream.xyz:8080/juan18/83e45w87w/102
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",AMC »3«
-http://fastream.xyz:8080/juan18/83e45w87w/106
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINE CANAL »3«
-http://fastream.xyz:8080/juan18/83e45w87w/114
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX »3«
-http://fastream.xyz:8080/juan18/83e45w87w/119
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",DHE »3«
-http://fastream.xyz:8080/juan18/83e45w87w/123
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",EURO CHANNEL »3«
-http://fastream.xyz:8080/juan18/83e45w87w/186
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",FILM & ARTS »3«
-http://fastream.xyz:8080/juan18/83e45w87w/246
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",FX »3«
-http://fastream.xyz:8080/juan18/83e45w87w/125
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",PARAMOUNT CHANNEL »3«
-http://fastream.xyz:8080/juan18/83e45w87w/193
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SONY »3«
-http://fastream.xyz:8080/juan18/83e45w87w/201
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SPACE »3«
-http://fastream.xyz:8080/juan18/83e45w87w/204
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",STAR CHANNEL »3«
-http://fastream.xyz:8080/juan18/83e45w87w/162
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",STUDIO UNIVERSAL »3«
-http://fastream.xyz:8080/juan18/83e45w87w/220
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SYFY »3«
-http://fastream.xyz:8080/juan18/83e45w87w/224
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",UNIVERSAL CHANNEL »3«
-http://fastream.xyz:8080/juan18/83e45w87w/234
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",TCM »3«
-http://fastream.xyz:8080/juan18/83e45w87w/231
-===4===
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",A&E »4«
-http://fastream.xyz:8080/juan18/83e45w87w/103
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINE CANAL »4«
-http://fastream.xyz:8080/juan18/83e45w87w/115
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX »4«
-http://fastream.xyz:8080/juan18/83e45w87w/173
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",SPACE »4«
-http://fastream.xyz:8080/juan18/83e45w87w/205
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",STUDIO UNIVERSAL »4«
-http://fastream.xyz:8080/juan18/83e45w87w/221
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX »5«
-http://fastream.xyz:8080/juan18/83e45w87w/178
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX »6«
-http://fastream.xyz:8080/juan18/83e45w87w/179
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️CINE Y SERIES",CINEMAX »7«
-http://fastream.xyz:8080/juan18/83e45w87w/180
+
 
 
 
