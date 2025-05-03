@@ -17,7 +17,7 @@ http://fastream.xyz:8080/juan18/83e45w87w/382
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/2ykyz" group-title="⭐️KIDS",DISNEY JR
 http://fastream.xyz:8080/juan18/83e45w87w/385
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="https://n9.cl/d9lgk" group-title="⭐️KIDS",DREAMWORKS
-http://fastream.xyz:8080/juan18/83e45w87w/61598
+http://fastream.xyz:8080/juan18/83e45w87w/61596
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/g8mmg" group-title="⭐️KIDS",NICK JR.
 http://fastream.xyz:8080/juan18/83e45w87w/393
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://n9.cl/uijn4" group-title="⭐️KIDS",NICKELODEON
@@ -53,8 +53,6 @@ http://fastream.xyz:8080/juan18/83e45w87w/384
 http://fastream.xyz:8080/juan18/83e45w87w/386
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="https://n9.cl/d9lgk" group-title="⭐️KIDS",DREAMWORKS »2«
 http://fastream.xyz:8080/juan18/83e45w87w/61597
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="https://n9.cl/d9lgk" group-title="⭐️KIDS",DREAMWORKS »3«
-http://fastream.xyz:8080/juan18/83e45w87w/61596
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/g8mmg" group-title="⭐️KIDS",NICK JR. »2«
 http://fastream.xyz:8080/juan18/83e45w87w/394
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/g8mmg" group-title="⭐️KIDS",NICK JR. »3«
@@ -669,16 +667,6 @@ http://fastream.xyz:8080/juan18/83e45w87w/223
 #EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="https://n9.cl/0bn86i" group-title="⭐️CINE Y SERIES",USA »3«
 http://fastream.xyz:8080/juan18/83e45w87w/224
 
-
-
-
-
-
-
-
-
-
-
 ⭐️DEPORTES
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",TNT SPORTS (ARG) »1«
 http://fastream.xyz:8080/juan18/83e45w87w/459
@@ -1163,7 +1151,25 @@ http://fastream.xyz:8080/juan18/83e45w87w/250
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA 24 TV" tvg-logo="" group-title="⭐️LATINOS",CULTURA 24 TV (PER)
 http://fastream.xyz:8080/juan18/83e45w87w/259
 
-
+===⭐️24/7===
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://n9.cl/k7jma" group-title="⭐️24/7",BOB ESPONJA
+http://fastream.xyz:8080/juan18/83e45w87w/690
+#EXTINF:-1 tvg-id="" tvg-name="CHESPIRITO" tvg-logo="https://n9.cl/2bqne" group-title="⭐️24/7",CHESPIRITO
+http://fastream.xyz:8080/juan18/83e45w87w/691
+#EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE" tvg-logo="https://n9.cl/qlrb7" group-title="⭐️24/7",CORAJE EL PERRO COBARDE
+http://fastream.xyz:8080/juan18/83e45w87w/692
+#EXTINF:-1 tvg-id="" tvg-name="GAMES OF THRONES" tvg-logo="https://n9.cl/hk9ah" group-title="⭐️24/7",GAMES OF THRONES
+http://fastream.xyz:8080/juan18/83e45w87w/698
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY GUY" tvg-logo="https://n9.cl/vjf8lk" group-title="⭐️24/7",FAMILY GUY
+http://fastream.xyz:8080/juan18/83e45w87w/699
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLELA" tvg-logo="https://n9.cl/61rbdv" group-title="⭐️24/7",SMALLVILLE
+http://fastream.xyz:8080/juan18/83e45w87w/777
+#EXTINF:-1 tvg-id="" tvg-name="EL PRINCIPE DEL RAP" tvg-logo="https://n9.cl/cn200" group-title="⭐️24/7",EL PRINCIPE DEL RAP
+http://fastream.xyz:8080/juan18/83e45w87w/787
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON (1-5)" tvg-logo="https://n9.cl/jxn7u" group-title="⭐️24/7",LOS SIMPSON (1-5)
+http://fastream.xyz:8080/juan18/83e45w87w/789
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="https://n9.cl/7a0pn5" group-title="⭐️24/7",ANIMANIACS
+http://fastream.xyz:8080/juan18/83e45w87w/795
 
 
 
