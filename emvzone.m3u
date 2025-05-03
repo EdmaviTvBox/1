@@ -1,6 +1,74 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="EMVZONE tvg-logo="https://n9.cl/w0ftl" group-title="⭐EMV ZONE",EMVZONE
-===PPV===
+
+===⭐️KIDS===
+#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST" tvg-logo="https://n9.cl/zvbhy" group-title="⭐️KIDS",BABY FIRST
+http://fastream.xyz:8080/juan18/83e45w87w/370
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://n9.cl/u35mc" group-title="⭐️KIDS",BABY TV
+http://fastream.xyz:8080/juan18/83e45w87w/372
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://n9.cl/564dq" group-title="⭐️KIDS",CARTOONITO
+http://fastream.xyz:8080/juan18/83e45w87w/61600
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/pa5zv" group-title="⭐️KIDS",CARTOON NETWORK
+http://fastream.xyz:8080/juan18/83e45w87w/373
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://n9.cl/72yfv" group-title="⭐️KIDS",DISCOVERY KIDS
+http://fastream.xyz:8080/juan18/83e45w87w/376
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/w15e8" group-title="⭐️KIDS",DISNEY CHANNEL
+http://fastream.xyz:8080/juan18/83e45w87w/382
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/2ykyz" group-title="⭐️KIDS",DISNEY JR
+http://fastream.xyz:8080/juan18/83e45w87w/385
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="https://n9.cl/d9lgk" group-title="⭐️KIDS",DREAMWORKS
+http://fastream.xyz:8080/juan18/83e45w87w/61598
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/g8mmg" group-title="⭐️KIDS",NICK JR.
+http://fastream.xyz:8080/juan18/83e45w87w/393
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://n9.cl/uijn4" group-title="⭐️KIDS",NICKELODEON
+http://fastream.xyz:8080/juan18/83e45w87w/390
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON CLÁSICO" tvg-logo="https://n9.cl/h1q5ql" group-title="⭐️KIDS",NICKELODEON CLÁSICO
+http://fastream.xyz:8080/juan18/83e45w87w/61590
+#EXTINF:-1 tvg-id="" tvg-name="PAKAPAKA" tvg-logo="https://n9.cl/1plpb" group-title="⭐️KIDS",PAKAPAKA
+http://fastream.xyz:8080/juan18/83e45w87w/61601
+#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK" tvg-logo="https://n9.cl/41wcl" group-title="⭐️KIDS",TEEN NICK
+http://fastream.xyz:8080/juan18/83e45w87w/396
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://n9.cl/tgy9m" group-title="⭐️KIDS",TOONCAST
+http://fastream.xyz:8080/juan18/83e45w87w/399
+==2==
+#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST" tvg-logo="https://n9.cl/zvbhy" group-title="⭐️KIDS",BABY FIRST »2«
+http://fastream.xyz:8080/juan18/83e45w87w/371
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://n9.cl/564dq" group-title="⭐️KIDS",CARTOONITO »2«
+http://fastream.xyz:8080/juan18/83e45w87w/61603
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://n9.cl/564dq" group-title="⭐️KIDS",CARTOONITO »3«
+http://fastream.xyz:8080/juan18/83e45w87w/61599
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/pa5zv" group-title="⭐️KIDS",CARTOON NETWORK »2«
+http://fastream.xyz:8080/juan18/83e45w87w/374
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/pa5zv" group-title="⭐️KIDS",CARTOON NETWORK »3«
+http://fastream.xyz:8080/juan18/83e45w87w/375
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://n9.cl/72yfv" group-title="⭐️KIDS",DISCOVERY KIDS »2«
+http://fastream.xyz:8080/juan18/83e45w87w/377
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://n9.cl/72yfv" group-title="⭐️KIDS",DISCOVERY KIDS »3«
+http://fastream.xyz:8080/juan18/83e45w87w/378
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/w15e8" group-title="⭐️KIDS",DISNEY CHANNEL »2«
+http://fastream.xyz:8080/juan18/83e45w87w/383
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/w15e8" group-title="⭐️KIDS",DISNEY CHANNEL »3«
+http://fastream.xyz:8080/juan18/83e45w87w/384
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/2ykyz" group-title="⭐️KIDS",DISNEY JR »2«
+http://fastream.xyz:8080/juan18/83e45w87w/386
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="https://n9.cl/d9lgk" group-title="⭐️KIDS",DREAMWORKS »2«
+http://fastream.xyz:8080/juan18/83e45w87w/61597
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="https://n9.cl/d9lgk" group-title="⭐️KIDS",DREAMWORKS »3«
+http://fastream.xyz:8080/juan18/83e45w87w/61596
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/g8mmg" group-title="⭐️KIDS",NICK JR. »2«
+http://fastream.xyz:8080/juan18/83e45w87w/394
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/g8mmg" group-title="⭐️KIDS",NICK JR. »3«
+http://fastream.xyz:8080/juan18/83e45w87w/392
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://n9.cl/uijn4" group-title="⭐️KIDS",NICKELODEON »2«
+http://fastream.xyz:8080/juan18/83e45w87w/391
+#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK" tvg-logo="https://n9.cl/41wcl" group-title="⭐️KIDS",TEEN NICK »2«
+http://fastream.xyz:8080/juan18/83e45w87w/395
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://n9.cl/tgy9m" group-title="⭐️KIDS",TOONCAST »2«
+http://fastream.xyz:8080/juan18/83e45w87w/398
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://n9.cl/tgy9m" group-title="⭐️KIDS",TOONCAST »3«
+http://fastream.xyz:8080/juan18/83e45w87w/397
+
+===⭐️PPV===
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS 1" tvg-logo="https://n9.cl/aux30" group-title="⭐️PPV",EVENTOS 1
 http://fastream.xyz:8080/juan18/83e45w87w/20203
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS 2" tvg-logo="https://n9.cl/aux30" group-title="⭐️PPV",EVENTOS 2
