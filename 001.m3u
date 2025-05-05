@@ -139,3 +139,35 @@ http://supersonictv.live:8080/537517/07061968/13749
 http://supersonictv.live:8080/537517/07061968/61714
 #EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/n8b9c" group-title="» HIST Y CULT »",History en Espanol
 http://supersonictv.live:8080/537517/07061968/61812
+
+==== » CINE Y SERIES » ====
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/1mgp5" group-title="» CINE Y SERIES »",A3Cine
+http://supersonictv.live:8080/537517/07061968/61708
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/1mgp5" group-title="» CINE Y SERIES »",AMC
+http://supersonictv.live:8080/537517/07061968/61711
+
+==== » PACK PREMIUM » ====
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/1mgp5" group-title="» PACK PREMIUM »",HBO
+http://supersonictv.live:8080/537517/07061968/61810
+
+==== » VARIEDADES » ====
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Canal Once
+http://supersonictv.live:8080/537517/07061968/61748
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Ecuavisa Internacional
+http://supersonictv.live:8080/537517/07061968/61782
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",EVTV
+http://supersonictv.live:8080/537517/07061968/61792
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",HOLA! TV
+http://supersonictv.live:8080/537517/07061968/61813
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Mexicanal
+http://supersonictv.live:8080/537517/07061968/61817
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Milenio Television
+http://supersonictv.live:8080/537517/07061968/61818
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",RCN Novelas
+http://supersonictv.live:8080/537517/07061968/61830
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Supercanal Caribe
+http://supersonictv.live:8080/537517/07061968/61837
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",TV Quisqueya
+http://supersonictv.live:8080/537517/07061968/61860
+#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Video Rola
+http://supersonictv.live:8080/537517/07061968/61865
