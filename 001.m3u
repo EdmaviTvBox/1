@@ -1,173 +1,175 @@
 #EXTM3U
-==== » USA LATAM » ====
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/6442v" group-title="» USA LATAM »",Estrella TV
-http://supersonictv.live:8080/537517/07061968/61790
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM
-http://supersonictv.live:8080/537517/07061968/10550
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/c0yg30" group-title="» USA LATAM »",Univision Chicago
-http://supersonictv.live:8080/537517/07061968/10600
 
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM (East)
-http://supersonictv.live:8080/537517/07061968/10548
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM (West)
-http://supersonictv.live:8080/537517/07061968/10552
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Colorado Springs
-http://supersonictv.live:8080/537517/07061968/10553
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Chicago
-http://supersonictv.live:8080/537517/07061968/10560
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Washington
-http://supersonictv.live:8080/537517/07061968/10561
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Richmond
-http://supersonictv.live:8080/537517/07061968/10562
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Lubbock
-http://supersonictv.live:8080/537517/07061968/10563
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM California
-http://supersonictv.live:8080/537517/07061968/10565
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Denver
-http://supersonictv.live:8080/537517/07061968/10573
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Fresno
-http://supersonictv.live:8080/537517/07061968/10574
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Harlingen
-http://supersonictv.live:8080/537517/07061968/10575
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/9br5kv" group-title="» USA LATAM »",TM Los Angeles
-http://supersonictv.live:8080/537517/07061968/10578
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/c0yg30" group-title="» USA LATAM »",Univision Sacramento
-http://supersonictv.live:8080/537517/07061968/10586
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/c0yg30" group-title="» USA LATAM »",Univision Fort Lauderdale
-http://supersonictv.live:8080/537517/07061968/10588
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/c0yg30" group-title="» USA LATAM »",Univision Atlanta 
-http://supersonictv.live:8080/537517/07061968/10591
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/c0yg30" group-title="» USA LATAM »",Univision Los Angeles
-http://supersonictv.live:8080/537517/07061968/10592
-
-==== » DEPORTES » ====
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/6i3lq" group-title="» DEPORTES »",ESPN (ARG)
-http://supersonictv.live:8080/537517/07061968/5100
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/6i3lq" group-title="» DEPORTES »",ESPN 2 (LAT)
-http://supersonictv.live:8080/537517/07061968/61788
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/6i3lq" group-title="» DEPORTES »",FOX SPORTS (ARG)
-http://supersonictv.live:8080/537517/07061968/5118
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/6i3lq" group-title="» DEPORTES »",FOX SPORTS 3 (ARG)
-http://supersonictv.live:8080/537517/07061968/5117
-
-==== » MUSIC » ====
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV 2 (USA)
-http://supersonictv.live:8080/537517/07061968/13750
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV Classic (USA)
-http://supersonictv.live:8080/537517/07061968/13751
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV Live (USA)
-http://supersonictv.live:8080/537517/07061968/13752
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV U (USA)
-http://supersonictv.live:8080/537517/07061968/13753
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV Base (UK) 
-http://supersonictv.live:8080/537517/07061968/13755
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV Classic (UK)
-http://supersonictv.live:8080/537517/07061968/13756
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV Dance (UK)
-http://supersonictv.live:8080/537517/07061968/13757
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV Hits (UK)
-http://supersonictv.live:8080/537517/07061968/13759
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV Music (UK)
-http://supersonictv.live:8080/537517/07061968/13760
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MTV Rocks (UK)
-http://supersonictv.live:8080/537517/07061968/13762
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Max
-http://supersonictv.live:8080/537517/07061968/13719
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Musica Urbana
-http://supersonictv.live:8080/537517/07061968/13720
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Play
-http://supersonictv.live:8080/537517/07061968/13721
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Holiday Hits
-http://supersonictv.live:8080/537517/07061968/13722
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Holiday Yule Logs
-http://supersonictv.live:8080/537517/07061968/13723
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Tailgate Party
-http://supersonictv.live:8080/537517/07061968/13724
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Hit List
-http://supersonictv.live:8080/537517/07061968/13725
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Hip-Hop and R&B
-http://supersonictv.live:8080/537517/07061968/13726
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Teen Beats
-http://supersonictv.live:8080/537517/07061968/13727
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Today's Country: CMA Awards
-http://supersonictv.live:8080/537517/07061968/13728
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Pop Hits
-http://supersonictv.live:8080/537517/07061968/13729
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Pop & Country
-http://supersonictv.live:8080/537517/07061968/13730
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC 90's
-http://supersonictv.live:8080/537517/07061968/13731
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC R&B
-http://supersonictv.live:8080/537517/07061968/13732
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Rock
-http://supersonictv.live:8080/537517/07061968/13733
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC R&B Soul
-http://supersonictv.live:8080/537517/07061968/13734
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Dance/ EDM
-http://supersonictv.live:8080/537517/07061968/13735
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Y2K
-http://supersonictv.live:8080/537517/07061968/13736
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Brits + Hits
-http://supersonictv.live:8080/537517/07061968/13737
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Pop Latino
-http://supersonictv.live:8080/537517/07061968/13738
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Rap
-http://supersonictv.live:8080/537517/07061968/13739
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Throwback Jamz
-http://supersonictv.live:8080/537517/07061968/13740
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Rap 2K
-http://supersonictv.live:8080/537517/07061968/13741
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Tropicales
-http://supersonictv.live:8080/537517/07061968/13742
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Mexicana
-http://supersonictv.live:8080/537517/07061968/13743
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Metal
-http://supersonictv.live:8080/537517/07061968/13744
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Alternative
-http://supersonictv.live:8080/537517/07061968/13745
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Indie
-http://supersonictv.live:8080/537517/07061968/13746
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Kidz Only!
-http://supersonictv.live:8080/537517/07061968/13747
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Kidz Bop
-http://supersonictv.live:8080/537517/07061968/13748
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/tcw7q" group-title="» MUSIC »",MC Toddler Tunes
-http://supersonictv.live:8080/537517/07061968/13749
-
-==== » HIST Y CULT » ====
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/n8b9c" group-title="» HIST Y CULT »",Animal Planet
-http://supersonictv.live:8080/537517/07061968/61714
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/n8b9c" group-title="» HIST Y CULT »",History en Espanol
-http://supersonictv.live:8080/537517/07061968/61812
-
-==== » CINE Y SERIES » ====
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/1mgp5" group-title="» CINE Y SERIES »",A3Cine
-http://supersonictv.live:8080/537517/07061968/61708
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/1mgp5" group-title="» CINE Y SERIES »",AMC
-http://supersonictv.live:8080/537517/07061968/61711
-
-==== » PACK PREMIUM » ====
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="https://n9.cl/1mgp5" group-title="» PACK PREMIUM »",HBO
-http://supersonictv.live:8080/537517/07061968/61810
-
-==== » VARIEDADES » ====
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Canal Once
-http://supersonictv.live:8080/537517/07061968/61748
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Ecuavisa Internacional
-http://supersonictv.live:8080/537517/07061968/61782
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",EVTV
-http://supersonictv.live:8080/537517/07061968/61792
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",HOLA! TV
-http://supersonictv.live:8080/537517/07061968/61813
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Mexicanal
-http://supersonictv.live:8080/537517/07061968/61817
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Milenio Television
-http://supersonictv.live:8080/537517/07061968/61818
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",RCN Novelas
-http://supersonictv.live:8080/537517/07061968/61830
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Supercanal Caribe
-http://supersonictv.live:8080/537517/07061968/61837
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",TV Quisqueya
-http://supersonictv.live:8080/537517/07061968/61860
-#EXTINF:-1 tvg-id="IPTV ZONE" tvg-logo="" group-title="» VARIEDADES »",Video Rola
-http://supersonictv.live:8080/537517/07061968/61865
+⭐️SUDAMERICA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jz4pm" group-title="SUDAMERICA",Bolivia TV (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269126
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gxc9m" group-title="SUDAMERICA",Gigavision (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269127
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ft0l7h" group-title="SUDAMERICA",Bolivision (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269128
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n9e0j" group-title="SUDAMERICA",Unitel (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269132
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n9e0j" group-title="SUDAMERICA",Unitel La Paz (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269129
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/40nwwz" group-title="SUDAMERICA",Red Uno La Paz (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269130
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dzelzw" group-title="SUDAMERICA",RTP (BOL)
+http://fastream.xyz:8080/juan18/83e45w87w/269131
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i6whp" group-title="SUDAMERICA",TVN (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/38
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i6whp" group-title="SUDAMERICA",TVN (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/37
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i6whp" group-title="SUDAMERICA",TVN (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/35
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lqqmv" group-title="SUDAMERICA",MEGA (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/43
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lqqmv" group-title="SUDAMERICA",MEGA (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/42
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lqqmv" group-title="SUDAMERICA",MEGA (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/41
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lqqmv" group-title="SUDAMERICA",MEGA (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/40
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ff8ak" group-title="SUDAMERICA",CHV (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/47
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ff8ak" group-title="SUDAMERICA",CHV (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/46
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ff8ak" group-title="SUDAMERICA",CHV (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/45
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ff8ak" group-title="SUDAMERICA",CHV (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/44
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6vwdf" group-title="SUDAMERICA",CANAL 13 (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/51
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6vwdf" group-title="SUDAMERICA",CANAL 13 (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/50
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6vwdf" group-title="SUDAMERICA",CANAL 13 (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/49
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6vwdf" group-title="SUDAMERICA",CANAL 13 (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/48
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fgjmi" group-title="SUDAMERICA",24 HORAS (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/78
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fgjmi" group-title="SUDAMERICA",24 HORAS (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/77
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fgjmi" group-title="SUDAMERICA",24 HORAS (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/32
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6yig1" group-title="SUDAMERICA",CNN CHILE (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/34
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6yig1" group-title="SUDAMERICA",CNN CHILE (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/33
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6yig1" group-title="SUDAMERICA",CNN CHILE (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/57268
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6yig1" group-title="SUDAMERICA",CNN CHILE (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/57269
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2qi2v" group-title="SUDAMERICA",ETC (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/66
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3ar3cl" group-title="SUDAMERICA",LA RED (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/53
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3ar3cl" group-title="SUDAMERICA",LA RED (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/52
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ra788" group-title="SUDAMERICA",TELETRAK (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/57272
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/glqkdt" group-title="SUDAMERICA",VIA-X (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/64
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/glqkdt" group-title="SUDAMERICA",VIA-X (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/63
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6g4x4" group-title="SUDAMERICA",13 CULTURA (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/79
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kx1d92" group-title="SUDAMERICA",13 TELESERIES (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/82
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAMERICA",T13 RADIO (CHI)
+http://fastream.xyz:8080/juan18/83e45w87w/85
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/neqt2" group-title="SUDAMERICA",TVN 3 (CHI) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/61187
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/neqt2" group-title="SUDAMERICA",TVN 3 (CHI) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/61188
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/neqt2" group-title="SUDAMERICA",TVN 3 (CHI) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/61267
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/neqt2" group-title="SUDAMERICA",TVN 3 (CHI) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/61268
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wb8hb" group-title="SUDAMERICA",AMERICA TV (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/247
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wb8hb" group-title="SUDAMERICA",AMERICA TV (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/248
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wb8hb" group-title="SUDAMERICA",AMERICA TV (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/249
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ko7xg5" group-title="SUDAMERICA",CANAL N (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/288
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ko7xg5" group-title="SUDAMERICA",CANAL N (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/275
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ko7xg5" group-title="SUDAMERICA",CANAL N (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/294
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/eo24p" group-title="SUDAMERICA",PANAMERICANA (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/273
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/eo24p" group-title="SUDAMERICA",PANAMERICANA (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/291
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/junh8v" group-title="SUDAMERICA",LATINA FM TV (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/290
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/junh8v" group-title="SUDAMERICA",LATINA FM TV (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/271
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/junh8v" group-title="SUDAMERICA",LATINA FM TV (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/268
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rnlsq6" group-title="SUDAMERICA",LATINA TV (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/269
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rnlsq6" group-title="SUDAMERICA",LATINA TV (PER) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/270
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h5ibt" group-title="SUDAMERICA",RPP (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/295
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h5ibt" group-title="SUDAMERICA",RPP (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/296
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h5ibt" group-title="SUDAMERICA",RPP (PER) »4«
+http://fastream.xyz:8080/juan18/83e45w87w/297
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kwbvw" group-title="SUDAMERICA",TV PERU (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/298
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kwbvw" group-title="SUDAMERICA",TV PERU (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/299
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x0nosp" group-title="SUDAMERICA",WILLAX (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/285
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x0nosp" group-title="SUDAMERICA",WILLAX (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/286
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oi8re" group-title="SUDAMERICA",EXITOSA (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/260
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oi8re" group-title="SUDAMERICA",EXITOSA (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/261
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oi8re" group-title="SUDAMERICA",EXITOSA (PER) »3«
+http://fastream.xyz:8080/juan18/83e45w87w/289
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x72c5i" group-title="SUDAMERICA",ATV (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/253
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x72c5i" group-title="SUDAMERICA",ATV (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/301
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/58jc5i" group-title="SUDAMERICA",ATV+ (PER) »1«
+http://fastream.xyz:8080/juan18/83e45w87w/254
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/58jc5i" group-title="SUDAMERICA",ATV+ (PER) »2«
+http://fastream.xyz:8080/juan18/83e45w87w/255
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yeiya" group-title="SUDAMERICA",ANTARES TV (PER)
+http://fastream.xyz:8080/juan18/83e45w87w/250
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5ya1m" group-title="SUDAMERICA",El Nueve (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/15881
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6pls2" group-title="SUDAMERICA",El Trece (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/15905
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6pls2" group-title="SUDAMERICA",El Trece SD (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/16158
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n4l01" group-title="SUDAMERICA",TV Publica FHD (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/16159
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n4l01" group-title="SUDAMERICA",TV Publica HD (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/16160
+#EXTINF:-1 tvg-id="https://n9.cl/bx1hxa" tvg-logo="" group-title="SUDAMERICA",TN (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/16240
+#EXTINF:-1 tvg-id="https://n9.cl/bx1hxa" tvg-logo="" group-title="SUDAMERICA",TN HD (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/16397
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bx1hxa" group-title="SUDAMERICA",TN SD (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/16477
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q2ibaa" group-title="SUDAMERICA",Telearagua (VEN)
+http://fastream.xyz:8080/juan18/83e45w87w/23171
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7y2s2" group-title="SUDAMERICA",Ve Plus (VEN)
+http://fastream.xyz:8080/juan18/83e45w87w/23173
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7y2s2" group-title="SUDAMERICA",Ve Plus (VEN) 
+http://fastream.xyz:8080/juan18/83e45w87w/23181
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t66ce" group-title="SUDAMERICA",Venevision (VEN)
+http://fastream.xyz:8080/juan18/83e45w87w/23174
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hxvv7" group-title="SUDAMERICA",Globovision (VEN)
+http://fastream.xyz:8080/juan18/83e45w87w/23175
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vfqsz" group-title="SUDAMERICA",Tele Tuya (VEN)
+http://fastream.xyz:8080/juan18/83e45w87w/23177
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ov6gx" group-title="SUDAMERICA",Anzoategui TV (VEN)
+http://fastream.xyz:8080/juan18/83e45w87w/35016
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/flo4o" group-title="SUDAMERICA",eSports Max TV (VEN)
+http://fastream.xyz:8080/juan18/83e45w87w/35019
