@@ -732,6 +732,8 @@ http://fastream.xyz:8080/juan18/83e45w87w/517
 http://fastream.xyz:8080/juan18/83e45w87w/515
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN 4 (MEX) »2«
 http://fastream.xyz:8080/juan18/83e45w87w/516
+#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",ESPN Premium (ARG)
+http://fastream.xyz:8080/juan18/83e45w87w/16161
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 1 (ARG) »1«
 http://fastream.xyz:8080/juan18/83e45w87w/456
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",FOX SPORTS 1 (ARG) »2«
@@ -968,12 +970,32 @@ http://fastream.xyz:8080/juan18/83e45w87w/324
 http://fastream.xyz:8080/juan18/83e45w87w/317
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS+ (PER)
 http://fastream.xyz:8080/juan18/83e45w87w/315
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 (PER)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️DEPORTES",DIRECTV SPORTS 2 (PER)
 http://fastream.xyz:8080/juan18/83e45w87w/316
 
-⭐️NOVELAS
+=== ⭐️DEP EUROPA ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEP EUROPA",BEIN LA LIGA 1 HD
+http://fastream.xyz:8080/juan18/83e45w87w/12300
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEP EUROPA",BEIN SPORTS FHD
+http://fastream.xyz:8080/juan18/83e45w87w/12305
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEP EUROPA",BEIN SPORTS LA LIGA HD
+http://fastream.xyz:8080/juan18/83e45w87w/12301
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEP EUROPA",DAZN LA LIGA 2 TV HD
+http://fastream.xyz:8080/juan18/83e45w87w/12304
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEP EUROPA",MOVISTAR DEPORTES HD
+http://fastream.xyz:8080/juan18/83e45w87w/12307
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEP EUROPA",MOVISTAR DEPORTE 2 HD
+http://fastream.xyz:8080/juan18/83e45w87w/12302
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEP EUROPA",MOVISTAR DEPORTE 3 HD
+http://fastream.xyz:8080/juan18/83e45w87w/12303
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEP EUROPA",MOVISTAR LA LIGA HD
+http://fastream.xyz:8080/juan18/83e45w87w/12306
 
 
+
+
+
+=== ⭐️NOVELAS ===
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",PASIONES »1«
 http://fastream.xyz:8080/juan18/83e45w87w/590
 #EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️NOVELAS",PASIONES »2«
@@ -1423,15 +1445,49 @@ http://fastream.xyz:8080/juan18/83e45w87w/12022
 http://fastream.xyz:8080/juan18/83e45w87w/12023
 
 ⭐️MUSIC
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",CLUBBING TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Vevo '70s
+http://fastream.xyz:8080/juan18/83e45w87w/47247
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Vevo '80s
+http://fastream.xyz:8080/juan18/83e45w87w/47248
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Vevo '90s
+http://fastream.xyz:8080/juan18/83e45w87w/47249
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Vevo 2K
+http://fastream.xyz:8080/juan18/83e45w87w/47250
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Vevo Country
+http://fastream.xyz:8080/juan18/83e45w87w/47251
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Vevo Pop
+http://fastream.xyz:8080/juan18/83e45w87w/47253
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Vevo R&B
+http://fastream.xyz:8080/juan18/83e45w87w/47254
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",BET
+http://fastream.xyz:8080/juan18/83e45w87w/47256
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",BET Her
+http://fastream.xyz:8080/juan18/83e45w87w/47257
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",MTV 2
+http://fastream.xyz:8080/juan18/83e45w87w/47259
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Mtv Live
+http://fastream.xyz:8080/juan18/83e45w87w/47260
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",MTV 80´s
+http://fastream.xyz:8080/juan18/83e45w87w/47261
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Bandamax
+http://fastream.xyz:8080/juan18/83e45w87w/47263
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",MTV Live
+http://fastream.xyz:8080/juan18/83e45w87w/47265
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",MTV Hits
+http://fastream.xyz:8080/juan18/83e45w87w/47266
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",MTV Classics
+http://fastream.xyz:8080/juan18/83e45w87w/47267
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Telehit
+http://fastream.xyz:8080/juan18/83e45w87w/47268
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",Qwest TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",Qwest TV
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",NOW 70s
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",NOW 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",NOW 80s
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",NOW 80s
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="001" tvg-logo="" group-title="⭐️MUSIC",NOW Rock
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⭐️MUSIC",NOW Rock
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 
 ⭐️MUNDO
