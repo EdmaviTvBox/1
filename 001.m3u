@@ -45,10 +45,14 @@ http://alfa.7057460.xyz:2095/brenda38/brenda64/7384
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7246
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bk338" group-title="»KIDS»",CARTOON NETWORK
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7088
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bk338" group-title="»KIDS»",CARTOON NETWORK HD
+http://alfa.7057460.xyz:2095/brenda38/brenda64/13915
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bk338" group-title="»KIDS»",CARTOON NETWORK HD (1080p)
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7234
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7wqub" group-title="»KIDS»",DISCOVERY KIDS
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7098
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7wqub" group-title="»KIDS»",DISCOVERY KIDS HD
+http://alfa.7057460.xyz:2095/brenda38/brenda64/13916
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7wqub" group-title="»KIDS»",DISCOVERY KIDS HD (1080p)
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7274
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kyk1n" group-title="»KIDS»",DISNEY CHANNEL
@@ -65,6 +69,8 @@ http://alfa.7057460.xyz:2095/brenda38/brenda64/7491
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7470
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/418cxe" group-title="»KIDS»",NICK
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7142
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/418cxe" group-title="»KIDS»",NICK HD 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/13918
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/418cxe" group-title="»KIDS»",NICK HD (1080p)
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7255
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g74wue" group-title="»KIDS»",NICK JUNIOR 
@@ -151,6 +157,8 @@ http://alfa.7057460.xyz:2095/brenda38/brenda64/13925
 http://alfa.7057460.xyz:2095/brenda38/brenda64/13926
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/idn0d" group-title="»PREMIUM PACK»",ACTIONMAX (DUAL) 
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7793
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bs10o" group-title="»PREMIUM PACK»",OUTERMAX (DUAL)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/13927
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e2krb" group-title="»PREMIUM PACK»",THRILLERMAX (DUAL)
 http://alfa.7057460.xyz:2095/brenda38/brenda64/13935
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ssomg" group-title="»PREMIUM PACK»",DE PELICULA 
@@ -165,6 +173,12 @@ http://alfa.7057460.xyz:2095/brenda38/brenda64/7099
 http://alfa.7057460.xyz:2095/brenda38/brenda64/13904
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/y5rdx4" group-title="»PREMIUM PACK»",DE PELICULA PLUS HD (1080p)
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7279
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ze6k7" group-title="»PREMIUM PACK»",FX (DUAL)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/13971
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pjrz7" group-title="»PREMIUM PACK»",FXM (DUAL)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/13972
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhlsu" group-title="»PREMIUM PACK»",FXX (DUAL)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/13973
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n37z0g" group-title="»PREMIUM PACK»",GOLDEN 
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7174
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n37z0g" group-title="»PREMIUM PACK»",GOLDEN HD 
