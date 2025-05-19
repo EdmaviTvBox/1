@@ -1,4 +1,381 @@
 #EXTM3U
+===== PACK PREMIUM ====
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ssomg" group-title="PACK PREMIUM",De Pelicula (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9638
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ssomg" group-title="PACK PREMIUM",De Película (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9642
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/y5rdx4" group-title="PACK PREMIUM",De Pelicula Plus (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9639
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/y5rdx4" group-title="PACK PREMIUM",De Pelicula Plus (Z)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9640
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bt6tl" group-title="PACK PREMIUM",De Peliculas Clasico (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9641
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n37z0g" group-title="PACK PREMIUM",Golden (M)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9656
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n37z0g" group-title="PACK PREMIUM",Golden (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9657
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vsmpd" group-title="PACK PREMIUM",Golden Edge (M)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9658
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vsmpd" group-title="PACK PREMIUM",Golden Edge (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9659
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6mna9" group-title="PACK PREMIUM",Golden Plus (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9660
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6mna9" group-title="PACK PREMIUM",Golden Plus (M)(1080) [Dual Audio]
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9661
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6mna9" group-title="PACK PREMIUM",Golden Plus (Z)(1080) -
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9662
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jgqnb4" group-title="PACK PREMIUM",Golden Premier (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9663
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jgqnb4" group-title="PACK PREMIUM",Golden Premiere (M)(1080) [Dual Audio]
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9664
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lev4" group-title="PACK PREMIUM",Golden Premiere 2 (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9665
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xqxvi" group-title="PACK PREMIUM",HBO (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9666
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xqxvi" group-title="PACK PREMIUM",HBO SUR (Z)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9696
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xqxvi" group-title="PACK PREMIUM",HBO (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9668
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xqxvi" group-title="PACK PREMIUM",HBO (M)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9667
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xqxvi" group-title="PACK PREMIUM",HBO (TV)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9669
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xqxvi" group-title="PACK PREMIUM",HBO (SD)(Z)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9670
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="PACK PREMIUM",HBO 2 (T)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9673
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="PACK PREMIUM",HBO 2 (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9675
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="PACK PREMIUM",HBO 2 (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9672
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="PACK PREMIUM",HBO 2 (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9671
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="PACK PREMIUM",HBO 2 (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9674
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fwl62" group-title="PACK PREMIUM",HBO Family (L)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9676
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fwl62" group-title="PACK PREMIUM",HBO Family (T)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9678
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fwl62" group-title="PACK PREMIUM",HBO Family (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9679
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fwl62" group-title="PACK PREMIUM",HBO Family (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9681
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fwl62" group-title="PACK PREMIUM",HBO Family (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9680
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fwl62" group-title="PACK PREMIUM",HBO Family (TV)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9677
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/clvafw" group-title="PACK PREMIUM",HBO Mundi (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9682
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/clvafw" group-title="PACK PREMIUM",HBO Mundi (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9683
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/clvafw" group-title="PACK PREMIUM",HBO Mundi (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9684
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0ro0g" group-title="PACK PREMIUM",HBO Plus (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9685
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0ro0g" group-title="PACK PREMIUM",HBO Plus (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9688
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0ro0g" group-title="PACK PREMIUM",HBO Plus (M)(SD) [Dual Audio]
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9686
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0ro0g" group-title="PACK PREMIUM",HBO Plus (TV)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9687
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3m3rhz" group-title="PACK PREMIUM",HBO POP (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9689
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3m3rhz" group-title="PACK PREMIUM",HBO POP (Z)(720) -
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9691
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3m3rhz" group-title="PACK PREMIUM",HBO POP (TV)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9690
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/utl05" group-title="PACK PREMIUM",HBO Signature (M)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9692
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/utl05" group-title="PACK PREMIUM",HBO Signature (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9693
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/utl05" group-title="PACK PREMIUM",HBO Signature (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9694
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/utl05" group-title="PACK PREMIUM",HBO Signature Dual Audio (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9695
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xfor" group-title="PACK PREMIUM",HBO Xtreme (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9698
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xfor" group-title="PACK PREMIUM",HBO Xtreme (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9701
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xfor" group-title="PACK PREMIUM",HBO Xtreme (M)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9699
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xfor" group-title="PACK PREMIUM",HBO Xtreme (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9697
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xfor" group-title="PACK PREMIUM",HBO Xtreme Dual (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9779
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xfor" group-title="PACK PREMIUM",HBO Xtreme (TV)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9700
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/amt0l" group-title="PACK PREMIUM",TNT (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9743
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/amt0l" group-title="PACK PREMIUM",TNT (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9745
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/amt0l" group-title="PACK PREMIUM",TNT (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9742
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/amt0l" group-title="PACK PREMIUM",TNT (M)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9744
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i39n0" group-title="PACK PREMIUM",TNT Novelas (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9747
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i39n0" group-title="PACK PREMIUM",TNT Novelas (M)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9737
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ak4sgz" group-title="PACK PREMIUM",TNT Series (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9749
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ak4sgz" group-title="PACK PREMIUM",TNT Series (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9750
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ak4sgz" group-title="PACK PREMIUM",TNT Series (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9748
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ak4sgz" group-title="PACK PREMIUM",TNT Series (Z)(720).
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9751
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2tjhm8" group-title="PACK PREMIUM",Universal Channel (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9754
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2tjhm8" group-title="PACK PREMIUM",Universal Channel (M)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9755
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8a1l7n" group-title="PACK PREMIUM",Universal Cinema (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9756
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8a1l7n" group-title="PACK PREMIUM",Universal Cinema (M)(1080) [Dual Audio]
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9757
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8a1l7n" group-title="PACK PREMIUM",Universal Cinema (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9758
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/sn7sn" group-title="PACK PREMIUM",Universal Comedy (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9759
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/sn7sn" group-title="PACK PREMIUM",Universal Comedy (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9760
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/uag2n" group-title="PACK PREMIUM",Universal Crime (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9761
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/uag2n" group-title="PACK PREMIUM",Universal Crime (M)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9762
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/uag2n" group-title="PACK PREMIUM",Universal Crime (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9763
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/uag2n" group-title="PACK PREMIUM",Universal Crime (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9764
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/07m76" group-title="PACK PREMIUM",Universal Premier (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9765
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/07m76" group-title="PACK PREMIUM",Universal Premier (M)(1080) [Dual Audio]
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9766
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/07m76" group-title="PACK PREMIUM",Universal Premier (T)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9767
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/07m76" group-title="PACK PREMIUM",Universal Premiere Norte (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9768
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/07m76" group-title="PACK PREMIUM",Universal Premiere Sur (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9769
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mk7ay" group-title="PACK PREMIUM",Universal Reality (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9770
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mk7ay" group-title="PACK PREMIUM",Universal Reality (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9771
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mk7ay" group-title="PACK PREMIUM",Universal Reality (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9772
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mk7ay" group-title="PACK PREMIUM",Universal Reality (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9773
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1gf7w" group-title="PACK PREMIUM",Showtime Extreme (Z)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9709
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9xsrn" group-title="PACK PREMIUM",Showtime West Dual (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9710
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lrcc" group-title="PACK PREMIUM",Sony Channel (L)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9711
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lrcc" group-title="PACK PREMIUM",Sony Channel (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9712
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/heq05" group-title="PACK PREMIUM",Sony Cine (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9713
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4lqxm" group-title="PACK PREMIUM",Sony Comedias (S)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9714
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/db1q8" group-title="PACK PREMIUM",Sony Movies (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9715
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rz9ve" group-title="PACK PREMIUM",Sony Novelas (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9716
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5uu4u" group-title="PACK PREMIUM",Starz (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9727
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6zzew0" group-title="PACK PREMIUM",Starz Comedy (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9728
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dmx7bg" group-title="PACK PREMIUM",STARZ Encore (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9729
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bnq4q" group-title="PACK PREMIUM",Starz Encore Suspense (Z)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9730
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/13iwds" group-title="PACK PREMIUM",Starz Family (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9731
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",
+
+===== CINE Y SERIES ====
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr595q" group-title="CINE Y SERIES",A&E NORTE (1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9614
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr595q" group-title="CINE Y SERIES",A&E NORTE (1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9615
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr595q" group-title="CINE Y SERIES",A&E SUR (1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9616
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tp6hh" group-title="CINE Y SERIES",A3 Series (1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9618
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tp6hh" group-title="CINE Y SERIES",A3 Series (1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9617
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kv5us" group-title="CINE Y SERIES",AMC NORTE (720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9620
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kv5us" group-title="CINE Y SERIES",AMC SUR (1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9621
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kv5us" group-title="CINE Y SERIES",AMC (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9619
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kv5us" group-title="CINE Y SERIES",AMC (M)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9702
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0skekc" group-title="CINE Y SERIES",AXN (720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9622
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0skekc" group-title="CINE Y SERIES",AXN (1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9623
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0skekc" group-title="CINE Y SERIES",AXN (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9624
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0skekc" group-title="CINE Y SERIES",AXN (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9625
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gdafy" group-title="CINE Y SERIES",Cine Latino (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9626
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gdafy" group-title="CINE Y SERIES",Cine Latino (Z)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9627
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ofoupz" group-title="CINE Y SERIES",Cinecanal (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9628
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ofoupz" group-title="CINE Y SERIES",CineCanal (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9629
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ofoupz" group-title="CINE Y SERIES",CineCanal (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9630
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ofoupz" group-title="CINE Y SERIES",Cinecanal (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9631
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q9tfx" group-title="CINE Y SERIES",Cinema Dinamita (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9632
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6p3y6" group-title="CINE Y SERIES",Cinemax (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9633
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6p3y6" group-title="CINE Y SERIES",Cinemax (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9635
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6p3y6" group-title="CINE Y SERIES",Cinemax (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9634
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e6iu4" group-title="CINE Y SERIES",DHE (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9643
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3pyr7" group-title="CINE Y SERIES",Europa Europa (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9648
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1wven" group-title="CINE Y SERIES",Film & Arts (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9649
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1wven" group-title="CINE Y SERIES",Film And Arts (M)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9650
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htn5h" group-title="CINE Y SERIES",FX (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9652
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htn5h" group-title="CINE Y SERIES",FX (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9653
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htn5h" group-title="CINE Y SERIES",FX (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9654
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htn5h" group-title="CINE Y SERIES",FX MEX (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9655
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fqn74" group-title="CINE Y SERIES",Lifetime (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9703
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m27rnf" group-title="CINE Y SERIES",Panico MEX (T)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9704
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/74m77" group-title="CINE Y SERIES",Paramount (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9705
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/74m77" group-title="CINE Y SERIES",Paramount Channel (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9708
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/74m77" group-title="CINE Y SERIES",Paramount Network (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9707
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2lu3" group-title="CINE Y SERIES",Space (TV)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9717
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2lu3" group-title="CINE Y SERIES",Space (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9718
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2lu3" group-title="CINE Y SERIES",Space (Z)(1080) 
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9719
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="CINE Y SERIES",Star Channel (Z)(720) -
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9720
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="CINE Y SERIES",Star Channel CO (M)(1080) [Dual Audio]
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9721
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="CINE Y SERIES",Star Channel MX (L)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9723
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="CINE Y SERIES",Star Channel CO (M)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9722
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="CINE Y SERIES",Star Channel Norte (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9724
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="CINE Y SERIES",Star Channel Sur (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9725
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oxr5s" group-title="CINE Y SERIES",Studio Universal (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9732
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oxr5s" group-title="CINE Y SERIES",Studio Universal (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9733
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/amt0l" group-title="CINE Y SERIES",TNT (Z)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9746
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2tjhm8" group-title="CINE Y SERIES",Universal Channel (L)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9753
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lqca9" group-title="CINE Y SERIES",Warner Channel (L)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9774
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lqca9" group-title="CINE Y SERIES",Warner Channel (TV)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9776
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lqca9" group-title="CINE Y SERIES",Warner Channel (Z)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9777
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lqca9" group-title="CINE Y SERIES",Warner Channel Dual Audio (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9775
+
+
+=== VARIEDADES ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gbjo1r" group-title="VARIEDADES",Comedy Central (L)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9636
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gbjo1r" group-title="VARIEDADES",Comedy Central (M)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9637
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/khr247" group-title="VARIEDADES",Distrito Comedia (L)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9644
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/khr247" group-title="VARIEDADES",Distrito Comedia (M)(SD)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9645
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/a43gx" group-title="VARIEDADES",E! (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9646
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kuyq7" group-title="VARIEDADES",El Gourmet (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9647
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i4d5x" group-title="VARIEDADES",Food Network (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9651
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ycqnis" group-title="VARIEDADES",Star TVE (M)(1080)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/9726
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",
+
+=== 24/7 SERIES ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KcgsLN0C/Proyectox-Cinemax-14.png" group-title="24/7 SERIES",9-1-1 (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/94915
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c4k0DZqr/Proyectox-24-7seri3s-9.png" group-title="24/7 SERIES",The Walking Dead Daryl Dixon
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/94829
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kg7j0d7d/Proyectox-Cinemax-13.png" group-title="24/7 SERIES",24H
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/95593
+
+=== 24/7 SERIES ANIMACION ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/m2760Dx7/Proyectox-24-7-Comedia-Animada-11.png" group-title="24/7 SERIES ANIMACION",2 Perros Tontos (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/102880
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9FnMDMws/Proyectox-24-7-Comedia-Animada.png" group-title="24/7 SERIES ANIMACION",American Dad (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/94874
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pV1f8LCr/Proyectox-24-7-Infantil-1.png" group-title="24/7 SERIES ANIMACION",24/7 Baby Looney Tunes (2002)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/102584
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jqw14cZg/Proyectox-24-7-series-Animacion2-1.png" group-title="24/7 SERIES ANIMACION",Ben 10 (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/102881
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VvCHssJQ/Proyectox-24-7-series-Animacion2.png" group-title="24/7 SERIES ANIMACION",Ben 10 - Alience Force (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/102882
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tRKMS6cX/Proyectox-24-7-series-Animacion2-2.png" group-title="24/7 SERIES ANIMACION",Ben 10 Ultimate Alien (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/102883
+
+=== 24/7 SERIES COMEDIAS ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x19KB6Q3/Proyectox-24-7-series-Animacion3-8.png" group-title="24/7 SERIES COMEDIAS",Aida (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/95595
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fTccH6Gb/Proyectox-24-7-series-Animacion3-6.png" group-title="24/7 SERIES COMEDIAS",Broke Girls (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/94845
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFJgSfG3/Proyectox-24-7-series-Animacion3-7.png" group-title="24/7 SERIES COMEDIAS",40-20
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/94844
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RV51LMb8/Proyectox-24-7-series-Animacion3-9.png" group-title="24/7 SERIES COMEDIAS",Aqui no hay quien viva (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/95596
+
+=== 24/7 TELENOVELAS ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nVKc1XY2/Proyectox-24-7seri3s-10.png" group-title="24/7 TELENOVELAS",A Corazon Abierto (e)(720)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/95579
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mk4Zs4R7/Proyectox-24-7seri3s-11.png" group-title="24/7 TELENOVELAS",Alias el Mexicano (e)()
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/94789
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5ym49rNT/Proyectox-24-7seri3s-12.png" group-title="24/7 TELENOVELAS",24/7 Amantes Del Desierto (e)()
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/95580
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PxYf9JGt/Proyectox-24-7seri3s-13.png" group-title="24/7 TELENOVELAS",Bermudez (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/95581
+
+=== 24/7 RETRO ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 RETRO",ALF (e)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/96690
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 RETRO",24/7 Batman (1966)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/101815
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 RETRO",24/7 Batman del futuro (1999)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/101816
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 RETRO",24/7 Batman El Enmascarado (2024)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/101817
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 RETRO",24/7 Batman: La Serie Animada (1992)
+http://tv.zeuspro.xyz:8080/ariagaever1/evENchVvJb/101818
 #EXTINF:-1 tvg-id="" tvg-name="EMVZONE tvg-logo="https://n9.cl/w0ftl" group-title="⭐EMV ZONE",EMVZONE
 
 ===⭐️KIDS===
