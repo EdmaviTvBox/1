@@ -72,8 +72,31 @@ http://tvpremiund.ddns.me:2082/alexisfarfan/b6mgBfYdbr3f/52926
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA",VEO TV
 http://tvpremiund.ddns.me:2082/alexisfarfan/b6mgBfYdbr3f/19634
 
-=== COLOMBIA SD ===
-
+=== COLOMBIA No2 ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",TELEMEDELLIN
+http://cord-cutter.net:8080/100974831/100974831/78722
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",CANAL UNO
+http://cord-cutter.net:8080/100974831/100974831/78698
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",GOL CARACOL 
+http://cord-cutter.net:8080/100974831/100974831/78700
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",NTN24 
+http://cord-cutter.net:8080/100974831/100974831/78704
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",RCN FHD
+http://cord-cutter.net:8080/100974831/100974831/78694
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",RCN NOVELAS
+http://cord-cutter.net:8080/100974831/100974831/78716
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",SENAL COLOMBIA
+http://cord-cutter.net:8080/100974831/100974831/78711
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",TELECAFE
+http://cord-cutter.net:8080/100974831/100974831/78726
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",TELEANTIOQUIA 
+http://cord-cutter.net:8080/100974831/100974831/78706
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",TELEPACIFICO 
+http://cord-cutter.net:8080/100974831/100974831/78729
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",WIN SPORTS + HD 
+http://cord-cutter.net:8080/100974831/100974831/78697
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3n8g0" group-title="COLOMBIA No2",WIN SPORTS + FHD
+http://cord-cutter.net:8080/100974831/100974831/78717
 
 
 
