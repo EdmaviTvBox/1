@@ -1,16 +1,73 @@
 #EXTM3U
+=== KIDS ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY FIRST
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/9419.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY TV SD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/56214.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BOING HD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/186608.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOON NETWORK HD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/54404.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOON NETWORK NORTE FHD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/211218.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOON NETWORK SD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/19458.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOON NETWORK SUR FHD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/439761.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOONITO
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/54405.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOONITO SD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/19474.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISCOVERY KIDS NORTE FHD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/9426.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISCOVERY KIDS SUR
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/36459.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISCOVERY KIDS SUR FHD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/439758.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY CHANNEL FHD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/439800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY CHANNEL SD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/211237.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY CHANNEL SUR
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/439795.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY JUNIOR FHD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/225866.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY JUNIOR HD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/53062.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY JUNIOR SD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/439825.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEYJR SUR
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/211238.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICK 2
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/9424.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICK JR HD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/242022.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICK JR SD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/211305.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICKELODEON SD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/9576.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICKELODEON SUR
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/439807.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",RETRO MÁGICO
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/550155.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",RETRO TV ONLINE
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/550156.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",TOONCAST
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/19567.m3u8
 === COLOMBIA ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS +
 http://netlevel.online:8080/FLORESVICTOR/FUQZP/516932.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS +
 http://netlevel.online:8080/FLORESVICTOR/FUQZP/516931.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS + FHD
-http://netlevel.online:8080/FLORESVICTOR/FUQZP/516934.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS + HD
-http://netlevel.online:8080/FLORESVICTOR/FUQZP/516935.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS + HD OP 1
-http://netlevel.online:8080/FLORESVICTOR/FUQZP/516929.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS + VIP 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS +
 http://netlevel.online:8080/FLORESVICTOR/FUQZP/516921.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS OP 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS + SD
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/516935.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/516929.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS 
 http://netlevel.online:8080/FLORESVICTOR/FUQZP/485515.m3u8
+
+=== DEPORTES ====
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",TUDN
+http://netlevel.online:8080/FLORESVICTOR/FUQZP/10222.m3u8
