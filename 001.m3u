@@ -1,11 +1,13 @@
 #EXTM3U
 
+⭐COLOMBIA
 #EXTINF:-1 tvg-id="" tvg-logo="COL logo" group-title="COLOMBIA",Caracol LQ
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIDmJ6A-LVU8YPMhoyJJ9Xds
-#EXTINF:-1,2MB |  RCN LQ
-http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIA5YuLoWYroOkIeJQMkNW8_
-#EXTINF:-1,2MB | Win Sports
+#EXTINF:-1 tvg-id="" tvg-logo="COL logo" group-title="COLOMBIA",Win Sports
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIA0y7hIq_2KsHRArK2tAXmg
+
+#EXTINF:-1 tvg-id="" tvg-logo="OFF logo" group-title="OFF LINE",RCN LQ OFF
+http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIA5YuLoWYroOkIeJQMkNW8_
 
 ⭐VARIEDADES
 #EXTINF:-1 tvg-id="" tvg-logo="VARIE logo" group-title="VARIEDADES",Food Network
@@ -14,47 +16,58 @@ http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9EQ0ZBQlyohykGW-ru
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9ESvGq_TyYsu6PO5P8QJDrgh
 
 ⭐KIDS
-#EXTINF:-1 tvg-id="" tvg-logo="KIDS logo" group-title="KIDS",Disney Channel OFF
+
+#EXTINF:-1 tvg-id="" tvg-logo="OFF logo" group-title="OFF LINE",Baby First OFF
+http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0kb97KsbDWqet2Zot3sbKLZuo7p83ajt9x_5AoEfqVP4
+#EXTINF:-1 tvg-id="" tvg-logo="OFF logo" group-title="OFF LINE",Disney Channel OFF
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9ESD2Gde9RfrpMU72RI_S9_D
 
 ⭐PACK DEPORTES
-#EXTINF:-1,2MB| Directv Sports
+#EXTINF:-1 tvg-id="" tvg-logo="PACK DEP logo" group-title="PACK DEPORTES",Directv Sports
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9ET-k7Lfk5ZNc8ltjr-XwTLp
-#EXTINF:-1,2MB| Directv Sports 2
-http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9EQxIDFY6opIlyN9kSasTRvx
-#EXTINF:-1,2MB | Espn 2
+#EXTINF:-1 tvg-id="" tvg-logo="PACK DEP logo" group-title="PACK DEPORTES",Espn 2
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIAJoia2y_9j6C81MU_X1X3S
-#EXTINF:-1,2MB| Espn 3
+#EXTINF:-1 tvg-id="" tvg-logo="PACK DEP logo" group-title="PACK DEPORTES",Espn 3
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9EReTrDHbkq0qXD5Ydbd6glf
-#EXTINF:-1,2MB| Espn Deportes
+#EXTINF:-1 tvg-id="" tvg-logo="PACK DEP logo" group-title="PACK DEPORTES",Espn Deportes
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9ERsQMGB5xv59B9hSWgFxFka
-#EXTINF:-1,2 MB| Fox Sports 3 LQ
+#EXTINF:-1 tvg-id="" tvg-logo="PACK DEP logo" group-title="PACK DEPORTES",Fox Sports 3 LQ (MEX)
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9ERfW3u9xT-cFMsfqB7C07wF
-#EXTINF:-1,2MB| Fox Sports Premium
+#EXTINF:-1 tvg-id="" tvg-logo="PACK DEP logo" group-title="PACK DEPORTES",Fox Sports Premium
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9ERr6WUE-qFCg42AOKkMuENS
 
+#EXTINF:-1 tvg-id="" tvg-logo="OFF logo" group-title="OFF LINE",Directv Sports 2 OFF
+http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0mENSg5U5kY1e7Ceksbe9EQxIDFY6opIlyN9kSasTRvx
+
+⭐PACK PREMIUM
+#EXTINF:-1 tvg-id="" tvg-logo="PACK PREMIUM logo" group-title="PACK PREMIUM",Universal crime
+http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIA_rF0oQCOTPUxfdE6y7eAZ
 
 ⭐DEPORTES
-#EXTINF:-1 tvg-id="" tvg-logo="dep logo" group-title="DEPORTES",Win Sports
+#EXTINF:-1 tvg-id="" tvg-logo="DEPORTES logo" group-title="DEPORTES",Win Sports
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIA0y7hIq_2KsHRArK2tAXmg
-#EXTINF:-1 tvg-id="" tvg-logo="dep logo" group-title="DEPORTES",GOL TV LQ
-http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIAK2YR7QKnoOX8bzMmAWlVf
-#EXTINF:-1 tvg-id="" tvg-logo="dep logo" group-title="DEPORTES",TUDN MX
+#EXTINF:-1 tvg-id="" tvg-logo="DEPORTES logo" group-title="DEPORTES",TUDN MX
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0qXUYkwt1oF377cyNiKe0CExVZ6jCouKkVoL719G6OgN
 
+#EXTINF:-1 tvg-id="" tvg-logo="OFF logo" group-title="OFF LINE",GOL TV LQ
+http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIAK2YR7QKnoOX8bzMmAWlVf
+
 ⭐PPV
-#EXTINF:-1 tvg-id="" tvg-logo="dep logo" group-title="PPV",UFC Fight Pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="OFF logo" group-title="OFF LINE",UFC Fight Pass
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqICqvtgTPbLQWjS0MT2QWRV5
 
-#EXTINF:-1,2MB | Venevision LQ
-http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIDmkRh9vsFm3Sbcq_Ootfl5
-#EXTINF:-1,2MB | America TV LQ
+⭐LATIN CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="LATIN CHANNEL logo" group-title="LATIN CHANNEL",America TV LQ
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIDxlHZz-ENkkiGLOpE3DZcA
-
-#EXTINF:-1,2 MB |  Ecuavisa LQ
+#EXTINF:-1 tvg-id="" tvg-logo="LATIN CHANNEL logo" group-title="LATIN CHANNEL",Ecuavisa LQ
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIAs2W8kTZqAspC6SdN1oecs
-#EXTINF:-1,2MB | Discovery world LQ
-http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIA_rF0oQCOTPUxfdE6y7eAZ
+
+#EXTINF:-1 tvg-id="" tvg-logo="OFF logo" group-title="OFF LINE",Venevision LQ
+http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIDmkRh9vsFm3Sbcq_Ootfl5
+
+
+
 #EXTINF:-1,2MB | Discovery Theater LQ
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0n_GMVPwzu3rhxVHkHWZqIAVP4ku0p4bUD_MWWlOqZPt
 #EXTINF:-1,2MB | Discovery Turbo
@@ -273,8 +286,7 @@ http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0kb97KsbDWqet2Zot3sbKLYLoVT76rLTxbFynL
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0kb97KsbDWqet2Zot3sbKLYZsb1BY0sE2b_LgHnOzL93
 #EXTINF:-1,I | Baby TV HQ
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0kb97KsbDWqet2Zot3sbKLZC8oL7Wv0ZyjR_T3gLrdb4
-#EXTINF:-1,I | Baby First
-http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0kb97KsbDWqet2Zot3sbKLZuo7p83ajt9x_5AoEfqVP4
+
 #EXTINF:-1,I | Once Niños
 http://l3d.us:80/play/ifhTWx_gkj-7kHW6um-K0tF4z8heyiEjKnSBcNTpaiptYPW0sujbKUDYSIZF5L_s
 #EXTINF:-1,I | Disney Jr HD
