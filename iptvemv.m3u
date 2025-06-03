@@ -1,78 +1,83 @@
 #EXTM3U
-=== COLOMBIA ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",El Tiempo
-EXTINF:-1,01 | DISCOVERY CHANNEL
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152892
-#EXTINF:-1,02 | DISCOVERY CHANNEL ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152893
-#EXTINF:-1,04 | DISCOVERY FAMILIA ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152896
-#EXTINF:-1,05 | DISCOVERY ID
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152897
-#EXTINF:-1,06 | DISCOVERY ID ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152898
-#EXTINF:-1,07 | DISCOVERY ID ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152899
-#EXTINF:-1,08 | DISCOVERY WORLD
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152901
-#EXTINF:-1,09 | DISCOVERY WORLD LAT ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152902
-#EXTINF:-1,10 | DISCOVERY WORLD ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152903
-#EXTINF:-1,11 | DISCOVERY SCIENCE
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152905
-#EXTINF:-1,12 | DISCOVERY SCIENCE ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152906
-#EXTINF:-1,13 | DISCOVERY SCIENCE USA ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152907
-#EXTINF:-1,14 | DISCOVERY TURBO
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152909
-#EXTINF:-1,15 | DISCOVERY TURBO ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152910
-#EXTINF:-1,16 | DISCOVERY TURBO ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152911
-#EXTINF:-1,17 | DISCOVERY EN ESPAÑOL ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152912
-#EXTINF:-1,18 | HGTV ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152913
-#EXTINF:-1,19 | HGTV USA ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152914
-#EXTINF:-1,20 | DISCOVERY THEATER ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152918
-#EXTINF:-1,21 | DISCOVERY H&H ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152919
-#EXTINF:-1,23 | DISCOVERY H&H ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152921
-#EXTINF:-1,24 | DISCOVERY H&H
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152922
-#EXTINF:-1,25 | ANIMAL PLANET
+=== KIDS ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/72yfv" group-title="KIDS",DISCOVERY KIDS 1
+http://elitestream.click:8080/ArnGiral749/Giraldo749/156086
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/72yfv" group-title="KIDS",DISCOVERY KIDS 2
+http://elitestream.click:8080/ArnGiral749/Giraldo749/156087
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/72yfv" group-title="KIDS",DISCOVERY KIDS 3
+http://elitestream.click:8080/ArnGiral749/Giraldo749/156088
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/72yfv" group-title="KIDS",DISCOVERY KIDS 4
+http://elitestream.click:8080/ArnGiral749/Giraldo749/156089
+
+=== HIST Y CULT ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lspgk" group-title="MUNDO Y CULT",ANIMAL PLANET
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152923
-#EXTINF:-1,26 | ANIMAL PLANET ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lspgk" group-title="MUNDO Y CULT",ANIMAL PLANET HD
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152924
-#EXTINF:-1,27 | ANIMAL PLANET ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lspgk" group-title="MUNDO Y CULT",ANIMAL PLANET SD
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152925
-#EXTINF:-1,28 | HISTORY
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z9b1r" group-title="MUNDO Y CULT",DISCOVERY CHANNEL
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152892
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z9b1r" group-title="MUNDO Y CULT",DISCOVERY CHANNEL HD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152893
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8l26t" group-title="MUNDO Y CULT",DISCOVERY FAMILIA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152896
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/43ce2x" group-title="MUNDO Y CULT",DISCOVERY ID
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152897
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/43ce2x" group-title="MUNDO Y CULT",DISCOVERY ID HD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152898
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/43ce2x" group-title="MUNDO Y CULT",DISCOVERY ID SD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152899
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lece4" group-title="MUNDO Y CULT",DISCOVERY WORLD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152901
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lece4" group-title="MUNDO Y CULT",DISCOVERY WORLD ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152903
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lece4" group-title="MUNDO Y CULT",DISCOVERY WORLD LAT ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152902
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/alnrs" group-title="MUNDO Y CULT",DISCOVERY SCIENCE
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152905
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/alnrs" group-title="MUNDO Y CULT",DISCOVERY SCIENCE ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152906
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/alnrs" group-title="MUNDO Y CULT",DISCOVERY SCIENCE USA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152907
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5aq8f" group-title="MUNDO Y CULT",DISCOVERY TURBO
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152909
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5aq8f" group-title="MUNDO Y CULT",DISCOVERY TURBO HD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152910
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5aq8f" group-title="MUNDO Y CULT",DISCOVERY TURBO SD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152911
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/27lwd" group-title="MUNDO Y CULT",DISCOVERY EN ESPAÑOL ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152912
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cal8b" group-title="MUNDO Y CULT",HGTV ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152913
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cal8b" group-title="MUNDO Y CULT",HGTV USA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152914
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dw7fi" group-title="MUNDO Y CULT",DISCOVERY THEATER ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152918
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iuvwz" group-title="MUNDO Y CULT",DISCOVERY H&H
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152922
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iuvwz" group-title="MUNDO Y CULT",DISCOVERY H&H HD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152919
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iuvwz" group-title="MUNDO Y CULT",DISCOVERY H&H SD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152921
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/durah" group-title="MUNDO Y CULT",HISTORY
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152927
-#EXTINF:-1,29 | HISTORY ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/durah" group-title="MUNDO Y CULT",HISTORY HD
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152928
-#EXTINF:-1,30 | HISTORY ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/durah" group-title="MUNDO Y CULT",HISTORY SD
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152929
-#EXTINF:-1,31 | HISTORY USA ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/durah" group-title="MUNDO Y CULT",HISTORY USA ᴴᴰ
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152930
-#EXTINF:-1,32 | HISTORY 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dsloh" group-title="MUNDO Y CULT",HISTORY 2
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152931
-#EXTINF:-1,33 | HISTORY 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dsloh" group-title="MUNDO Y CULT",HISTORY 2 ᴴᴰ
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152933
-#EXTINF:-1,34 | NATGEO USA ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/152935
-#EXTINF:-1,35 | NATGEO ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0itaw6" group-title="MUNDO Y CULT",NATGEO 
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152936
-#EXTINF:-1,36 | NATGEO ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0itaw6" group-title="MUNDO Y CULT",NATGEO ᴴᴰ
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152937
-#EXTINF:-1,37 | NATGEO MUNDO ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0itaw6" group-title="MUNDO Y CULT",NATGEO USA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152935
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9f4an" group-title="MUNDO Y CULT",NATGEO MUNDO ᴴᴰ
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152938
-
-
-
-
 
