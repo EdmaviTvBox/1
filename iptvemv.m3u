@@ -1,320 +1,76 @@
 #EXTM3U
 === COLOMBIA ===
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",El Tiempo
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/4ceaf6bf-7bdc-449b-bf51-c8a56e05f540.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",WIN SPORTS + FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",WIN SPORTS + HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/36d0c169-0c98-4741-a454-38148ffeb3f7.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",WIN SPORTS + SD.
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/980f69d6-b851-4258-b480-ecad9a4f590b.m3u
-#EXTINF:-1 tvg-id="https://n9.cl/iub6g" tvg-logo="" group-title="COLOMBIA",WIN SPORTS HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fef94d94-c446-4491-9065-76c5c864e159.m3u
-#EXTINF:-1 tvg-id="https://n9.cl/iub6g" tvg-logo="" group-title="COLOMBIA",WIN SPORTS SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c02879d-7c36-4c24-bb99-c8e7a90b4afe.m3u
-
-=== KIDS ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",PAKAPAKA HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/be9ad81d-651d-4bc6-8c64-bc2744aab17c.m3u
-
-=== MUNDO Y CULT ===
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lspgk" group-title="MUNDO Y CULT",Animal Planet HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/6224856f-0628-40a6-9c2b-90c2db5b623f.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lspgk" group-title="MUNDO Y CULT",Animal Planet SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e49981c3-04e8-4f15-8fbc-036497e7467b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z9b1r" group-title="MUNDO Y CULT",Discovery HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/a9245612-2c2f-459d-bde4-751e3ff2706a.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z9b1r" group-title="MUNDO Y CULT",Discovery SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/959f7ddc-1fcd-41eb-b988-33fe6eaacdfa.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8l26t" group-title="MUNDO Y CULT",Discovery Familia HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/0d3eb1e5-c4e9-4647-802a-8ae2ce07e8f3.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iuvwz" group-title="MUNDO Y CULT",Discovery Home & Health HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/749a80fd-b31d-4478-a088-dbc7e58ba050.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iuvwz" group-title="MUNDO Y CULT",Discovery Home & Health SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/8dd3e978-b0f6-4c7d-8b34-28ee9f9db161.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/43ce2x" group-title="MUNDO Y CULT",Discovery Investigation HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/db4385ad-414d-4156-81f1-559e6ad483e5.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/43ce2x" group-title="MUNDO Y CULT",Discovery Investigation SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/8e89e032-bcb5-403a-a20a-054b610f935f.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/alnrs" group-title="MUNDO Y CULT",Discovery Science HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/23c81864-ffba-40e9-9878-046cc22319b3.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dw7fi" group-title="MUNDO Y CULT",Discovery Theater HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/ff763c5c-654e-4cf3-921b-dedcc3b709cb.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dw7fi" group-title="MUNDO Y CULT",Discovery Theater SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/7627c129-8749-4baa-890e-5194c60c1e5b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5aq8f" group-title="MUNDO Y CULT",Discovery Turbo HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/69734230-1a67-41dd-8d15-8de7460fdc8d.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5aq8f" group-title="MUNDO Y CULT",Discovery Turbo SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/59a10851-d28a-414d-adcd-71f4888a60b2.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lece4" group-title="MUNDO Y CULT",Discovery World HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/41c8d5ea-135b-4940-921d-2d2f2ced49af.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lece4" group-title="MUNDO Y CULT",Discovery World SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/645f3014-6d23-4ef2-b1a9-0244244a3bad.m3u
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",HISTORY HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/a5d69a30-8f69-44de-8e42-eb006d4174ca.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",HISTORY SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/79426067-6e55-44ce-893a-1f79765c20f5.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",History 2 HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/f78ce468-c9ff-462f-9e50-7f82d89c9479.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",History 2 SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/de076734-0021-4d8e-bd22-38adaa6608a3.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",National Geographic FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/cd60a497-60b5-4518-9f55-f9f5adbd687f.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",Nat Geo HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/6458fd4c-89ac-4279-941e-2b3ae2903fa6.m3u
-
-=== PACK PREMIUM ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",De Pelicula
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/3d2d80eb-55d3-4494-9a4d-ba798b4db1ce.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",De Pelicula Classico
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/f2a8c487-4272-4732-9dbd-7b3b998eb1ae.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",De Pelicula Plus
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/409eee46-94da-4157-bd97-0a6f2ea64a58.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/09bba380-91d1-4e62-838c-29224f076583.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/4359ac08-9fab-48a2-9e5d-a7c998a7ee72.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/5728594f-2dad-41d3-a97c-1f2bf486362b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN EDGE FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/45a3965f-1f8b-421b-ab28-45f30e2f69da.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN EDGE HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/bb743629-9748-4817-bea7-54cf38146c9b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN EDGE SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1a994e05-c863-4718-8dd3-7876d5472dde.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN PLUS FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/d240450a-12ba-4305-8d62-67a99655072d.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN PLUS HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/7415b95f-427b-4177-8d05-0f6de12cda08.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN PLUS SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1294434b-7c26-4f50-b684-acd9523e7aaf.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN PREMIER FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/6c7133d3-7f7a-40f5-8852-de3551f0a363.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN PREMIER HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/ef92b224-bd93-4120-a16f-f5377c66ac57.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",GOLDEN PREMIER SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/caba2f47-9c38-437e-a016-62cef3d31a43.m3u
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e7c58a77-e1e7-4503-be45-865566194deb.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/d72a9d07-f977-44ab-b19e-c4b39f91d513.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fa62be1f-593c-4d35-af51-c5e87d47759f.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="PACK PREMIUM",HBO 2 FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/845e93fd-f009-4aab-afdd-4dbffee605ec.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="PACK PREMIUM",HBO 2 HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/92b0e1a4-8d7c-4587-b198-d0bbd4cf132a.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s3jg9l" group-title="PACK PREMIUM",HBO 2 SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/d2942b66-8c81-4709-a9e5-b89a979e3f1e.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO FAMILY FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/9ce7e172-c23e-49f2-b272-fe44c587cfa6.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO FAMILY HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/65778fcf-611c-476a-92f4-5d9942e7f78c.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO FAMILY SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/2567a63e-f353-4869-ad77-559ec06a7fc1.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO PLUS HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/24452204-be7b-4f9a-83b3-846e14c4caf9.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO PLUS SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/ca5dcb90-0296-4659-be12-d0dcdbf5e5cd.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO POP HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e1422307-44ae-4947-947c-e0e5f667e1fa.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO POP FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e543eb4f-05f0-466c-9ac1-899431d3829d.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO POP SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/9b15d1af-0886-46ff-9476-2375e3d3521b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO SIGNATURE HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/4fc23356-9bcf-4002-bfaa-bc1cd54ebfee.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO SIGNATURE SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/d2f92536-ce31-419a-8626-b0dcf4b73c91.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO XTREME HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/6056fa27-2c06-4163-8070-b744777478ea.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",HBO XTREME SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fdc57821-5c9a-485a-b04f-5d6867b158a9.m3u
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",TNT FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/0ec8b54c-3cfa-418d-91c4-da0051bfa67c.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",TNT HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/cbfc2164-b472-4dd1-8ee0-4f6b21df3cc6.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",TNT SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/8fe101be-d9a7-472f-841f-4fb69545f049.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",TNT SERIES FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/8aee835e-8916-4eb0-b3ca-5847a6949278.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",TNT SERIES HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/a200f1bc-c4d0-48ab-85b0-1b852e9dd51f.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",TNT SERIES SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/55fa32ed-5e06-4bfb-8a55-e77c3005ae7f.m3u
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK PREMIUM",
-
-
-
-=== CINE Y SERIES ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",A&E HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/35b0ee9d-c7fb-4c01-8f89-d20e8acc6fc8.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",A&E SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/7c47c68b-577d-4939-b044-3bb004081567.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AMC FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/bf628500-9115-42aa-b016-a4ee93913342.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AMC HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/6237b54e-7f95-41d9-9d95-800ca03e8f74.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AMC SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/c602926d-0e9b-49f3-ba78-7ada4b9207cc.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/ad227b23-ca59-4582-a9f3-b2f6c40d19d9.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/7150992d-360a-48d1-a06a-0c2b703267ce.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/a5d9d713-61c1-42a3-93de-7632973cdafd.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL  FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/70b1b9e5-b03b-43ec-880b-8be08f732245.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL  HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/2c4ca91d-d6d2-4379-a6a6-973a4cfbbb92.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINE LATINO
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/94c71137-2a7b-409e-838d-a29b77d08e21.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINE LATINO
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/51eef933-c856-4fe9-8a9b-c9e02c92b4eb.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINEMAX HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/0fe88a29-dcd2-4128-ac7f-1ad34d5beed6.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINEMAX  SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/112f0f96-265f-4fef-a985-d981345b2d03.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",FX FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fb7fde48-f336-4831-9d06-0a4326e0bf56.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",FX HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/d7143235-a62e-4851-b0f0-7b6b939b45bf.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",FX SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1cfa44f0-1eb7-4e23-acef-0e5e02530405.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT CHANEL FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/c12c10ef-b485-40c7-9641-b52c6c704cbc.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT CHANEL HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/9e9a0e98-8b8c-45f2-a903-46543ada2536.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT CHANEL SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c22a0cb-b2f3-47a6-86ee-d4bd226216e0.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SONY FHD DUAL AUDIO
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/ee07d3bc-a8b8-48ab-a87f-4a18b5fa4a28.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SONY HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/55b4609b-3c46-44c3-ac75-a088fe722346.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SONY SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/498ab4ce-4d20-4560-aa8e-b62e7907934c.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SPACE CHANEL FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/c705ff14-c764-4e22-b5c8-8ad4e1d70bc4.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SPACE CHANEL HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/558ff0b5-4de6-4c07-98d6-11cc3997c2b8.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SPACE CHANEL SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e52446d7-20cf-4009-be7c-7247351aa5fb.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/bb6f327c-86cb-44cc-a82a-4cc3e586c22a.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/93228440-1e6f-4906-b2ba-3b6cffee9bee.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",TCM FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/cad728a8-e8e5-4bca-84e4-4d7b179a17bc.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",TCM HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/f07f02cf-8df2-43b7-83a5-7c64d6c83da3.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",TCM SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/0281acb2-5cf8-4447-b736-59ceb8594065.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CHANEL HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e46a40bd-295d-4b35-be26-3c8202279065.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CHANEL SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/ff60d405-85aa-4720-a92b-ac8aec00a784.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL STUDIO HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/82aa71b9-35f4-459d-b8d0-584417483ec7.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/d3f4c836-cdd6-4cef-a4a5-9d3f6bed5be9.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/0c7311ac-9b3f-406d-ace8-27d8f177cc30.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/74195f02-9ddd-4433-bf39-509b2e54d031.m3u
-
-
-=== VARIEDADES ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",AZ Cinema
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/43918c15-1f97-40a1-94cc-a715b9f56904.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",AZ Corazon
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/7887c607-63cc-4315-9e55-9f3e008b1321.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca 7
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/2056bac4-3350-41dc-8cb9-85d650b7f298.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca 7 FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/2d65a703-b942-4cd6-9193-378a146bd0af.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca 7 HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/4e841914-ccd1-4f0d-be9d-76da39e57849.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca Clic HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/d7116d60-6f05-4348-81b5-e4176b46d3fa.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca Corazon
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/38f117ef-b1ac-4045-a5a5-44225cb54479.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca Corazon FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/813f68dc-5c80-45a9-a8d9-45ac92653eaa.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca Corazon HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e9639aac-8626-40c7-bfae-2491c028e887.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca Honduras
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/0380cf49-f02d-4bba-83fe-97026248272d.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca Mundo
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/62bb6d91-549b-4f0b-81dc-eb0ede6ac275.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca Uno
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/91ac7d8a-06e7-4b34-9a3f-6f9242038782.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Azteca Uno HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/86f1835c-1580-4173-b363-8d67abfcd09f.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Comedy Central
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/90444c28-06f5-4574-a46b-1c425bcce22b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Distrito Comedia HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e233f2f1-4348-4028-b989-d77629cc6204.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Distrito Comedia SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/0cc2e142-1185-409e-9d99-ce4376624801.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",El Gourmet HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/5f61b889-8ac7-42b1-91e6-4b6066368fe8.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Estrella TV
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/b9a1b9a0-d926-4d43-a892-ed73cbd1458b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Foro TV
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/798d4a39-6f63-4310-9202-f0c300ad52f1.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Gala TV
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/094fbfda-ba97-46ce-91c6-7207d18e0149.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Hola TV
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/386cf9b6-460e-41bd-a8e6-e360933c4869.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Mas Chic
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fe9d2981-1dcf-4b43-afbe-c6e538b2e3d0.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Mas Chic HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/8f08813f-522c-4f2e-a50a-e073931d378c.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Mas Chic FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/916febc8-c404-4469-90f6-6d5129e1a606.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Unicable
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/ca24ba2d-b082-42ea-98df-ad918d864203.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Telemundo Pto Rico FHD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/2f605c3d-938d-41aa-a2da-54e341146635.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Tlnovelas HD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fd133ac1-e08b-4770-9a06-37c5e5bf3db9.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",Tlnovelas SD
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/2b86f4ea-3a48-487e-9fc4-7e711d3d36cc.m3u
-
-=== USA LATAM ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA LATAM",Telemundo 47 
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/439a4717-0b8b-40c8-bea7-6bb9cf44ecc1.m3u
-
-=== MUSIC Y VARIEDADES ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",Clubbing TV
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/ead129f0-4c5d-4fb5-b5d8-0676724bc48f.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",MTV 00's
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e0f656bc-6d02-4418-bf50-25167f217d39.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",MTV Biggest Pop
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/a28ce6dc-4168-4f99-95fd-02a984965a17.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",MTV CLASSICS
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/8bc46610-1fd8-4d74-b963-e014e5e9840e.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",MTV en español
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/3db0e00f-4285-491b-955c-9c7346e33086.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",MTV En Vivo
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/816b6591-31e7-4bc9-8275-636f75628f7d.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",MTV Made in Spain
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/285ef2aa-b4b9-49b8-94d8-3d79486c08e1.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",MTV Spankin New
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/62684c45-f39b-4204-8d69-d93e837d1aa6.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",Stingray Conciertos
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/735c46d8-2da0-4915-8828-5b0f5b9e2fec.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",Stingray Karaoke 
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/f5da352d-131a-408a-88b6-2a742fa8468c.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",Telehit Musica
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/411aea90-78a4-4dc8-b42a-7b5a3597e098.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC Y VARIEDADES",VH1 Classic
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/8ccf3ba9-60da-4ef8-848e-eb275a1c8dfd.m3u
+EXTINF:-1,01 | DISCOVERY CHANNEL
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152892
+#EXTINF:-1,02 | DISCOVERY CHANNEL ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152893
+#EXTINF:-1,04 | DISCOVERY FAMILIA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152896
+#EXTINF:-1,05 | DISCOVERY ID
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152897
+#EXTINF:-1,06 | DISCOVERY ID ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152898
+#EXTINF:-1,07 | DISCOVERY ID ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152899
+#EXTINF:-1,08 | DISCOVERY WORLD
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152901
+#EXTINF:-1,09 | DISCOVERY WORLD LAT ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152902
+#EXTINF:-1,10 | DISCOVERY WORLD ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152903
+#EXTINF:-1,11 | DISCOVERY SCIENCE
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152905
+#EXTINF:-1,12 | DISCOVERY SCIENCE ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152906
+#EXTINF:-1,13 | DISCOVERY SCIENCE USA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152907
+#EXTINF:-1,14 | DISCOVERY TURBO
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152909
+#EXTINF:-1,15 | DISCOVERY TURBO ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152910
+#EXTINF:-1,16 | DISCOVERY TURBO ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152911
+#EXTINF:-1,17 | DISCOVERY EN ESPAÑOL ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152912
+#EXTINF:-1,18 | HGTV ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152913
+#EXTINF:-1,19 | HGTV USA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152914
+#EXTINF:-1,20 | DISCOVERY THEATER ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152918
+#EXTINF:-1,21 | DISCOVERY H&H ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152919
+#EXTINF:-1,23 | DISCOVERY H&H ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152921
+#EXTINF:-1,24 | DISCOVERY H&H
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152922
+#EXTINF:-1,25 | ANIMAL PLANET
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152923
+#EXTINF:-1,26 | ANIMAL PLANET ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152924
+#EXTINF:-1,27 | ANIMAL PLANET ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152925
+#EXTINF:-1,28 | HISTORY
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152927
+#EXTINF:-1,29 | HISTORY ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152928
+#EXTINF:-1,30 | HISTORY ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152929
+#EXTINF:-1,31 | HISTORY USA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152930
+#EXTINF:-1,32 | HISTORY 2
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152931
+#EXTINF:-1,33 | HISTORY 2 ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152933
+#EXTINF:-1,34 | NATGEO USA ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152935
+#EXTINF:-1,35 | NATGEO ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152936
+#EXTINF:-1,36 | NATGEO ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152937
+#EXTINF:-1,37 | NATGEO MUNDO ᴴᴰ
+http://elitestream.click:8080/ArnGiral749/Giraldo749/152938
 
 
 
