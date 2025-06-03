@@ -2,15 +2,15 @@
 === COLOMBIA ===
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",El Tiempo
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/4ceaf6bf-7bdc-449b-bf51-c8a56e05f540.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS + FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",WIN SPORTS + FHD
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/5af75b23-584d-491b-849f-44e25ea39d0b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS + HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",WIN SPORTS + HD
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/36d0c169-0c98-4741-a454-38148ffeb3f7.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS + SD.
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="COLOMBIA",WIN SPORTS + SD.
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/980f69d6-b851-4258-b480-ecad9a4f590b.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS HD
+#EXTINF:-1 tvg-id="https://n9.cl/iub6g" tvg-logo="" group-title="COLOMBIA",WIN SPORTS HD
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fef94d94-c446-4491-9065-76c5c864e159.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",WIN SPORTS SD
+#EXTINF:-1 tvg-id="https://n9.cl/iub6g" tvg-logo="" group-title="COLOMBIA",WIN SPORTS SD
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c02879d-7c36-4c24-bb99-c8e7a90b4afe.m3u
 
 === KIDS ===
@@ -18,11 +18,13 @@ http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c02879d-7c36-4c24-bb99-c8e7a9
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/be9ad81d-651d-4bc6-8c64-bc2744aab17c.m3u
 
 === MUNDO Y CULT ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lspgk" group-title="MUNDO Y CULT",Animal Planet HD
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/6224856f-0628-40a6-9c2b-90c2db5b623f.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lspgk" group-title="MUNDO Y CULT",Animal Planet SD
+http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/e49981c3-04e8-4f15-8fbc-036497e7467b.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z9b1r" group-title="MUNDO Y CULT",Discovery HD
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/a9245612-2c2f-459d-bde4-751e3ff2706a.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",Discovery Channel SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z9b1r" group-title="MUNDO Y CULT",Discovery SD
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/959f7ddc-1fcd-41eb-b988-33fe6eaacdfa.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDO Y CULT",Discovery Home & Health HD
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/749a80fd-b31d-4478-a088-dbc7e58ba050.m3u
