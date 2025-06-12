@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w0ftl" group-title="⭐EMV ZONE",EMVZONE
 
 ⭐️»COLOMBIA»
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/aux30" group-title="»COLOMBIA»",COL PPV 1 (1080)
@@ -35,8 +36,6 @@ http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8491
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84900
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6r1qp" group-title="»COLOMBIA»",RCN (Z)(1080)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8492
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6r1qp" group-title="»COLOMBIA»",RCN
-http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84901
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6wvr1" group-title="»COLOMBIA»",RCN NUESTRA TELE (M)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8496
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6wvr1" group-title="»COLOMBIA»",RCN NUESTRA TELE (T)(720)
@@ -85,6 +84,8 @@ http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8512
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84897
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="»COLOMBIA»",WIN SPORTS PLUS (T)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84896
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="»COLOMBIA»",WIN SPORTS PLUS 
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84901
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/v41ku" group-title="»COLOMBIA»",CLARO SPORTS (M)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8488
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b3lkr" group-title="»COLOMBIA»",D SPORTS (TV)(720)
@@ -218,10 +219,190 @@ http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8228
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bq7nk" group-title="»HIST Y CULT»",ODISEA (TV)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8229 
 
+⭐️»CINE Y SERIES»
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr595q" group-title="»CINE Y SERIES»",A&E (L)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9614
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr595q" group-title="»CINE Y SERIES»",A&E (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9615
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr595q" group-title="»CINE Y SERIES»",A&E (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9616
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tp6hh" group-title="»CINE Y SERIES»",A3 Series (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9618
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kv5us" group-title="»CINE Y SERIES»",AMC (L)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9619
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kv5us" group-title="»CINE Y SERIES»",AMC (TV)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9620
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kv5us" group-title="»CINE Y SERIES»",AMC (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9621
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kv5us" group-title="»CINE Y SERIES»",AMC (M)(SD)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9702
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0skekc" group-title="»CINE Y SERIES»",AXN (L)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9622
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0skekc" group-title="»CINE Y SERIES»",AXN (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9623
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0skekc" group-title="»CINE Y SERIES»",AXN (TV)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9624
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0skekc" group-title="»CINE Y SERIES»",AXN (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9625
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q9tfx" group-title="»CINE Y SERIES»",Cinema Dinamita (Z)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9632
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gdafy" group-title="»CINE Y SERIES»",Cine Latino (L)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9626
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gdafy" group-title="»CINE Y SERIES»",Cine Latino (Z)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9627
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ofoupz" group-title="»CINE Y SERIES»",Cinecanal (L)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9628
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ofoupz" group-title="»CINE Y SERIES»",CineCanal (TV)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9629
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ofoupz" group-title="»CINE Y SERIES»",CineCanal (TV)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9630
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6p3y6" group-title="»CINE Y SERIES»",Cinemax (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9633
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6p3y6" group-title="»CINE Y SERIES»",Cinemax (TV)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9634
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6p3y6" group-title="»CINE Y SERIES»",Cinemax (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9635
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3pyr7" group-title="»CINE Y SERIES»",Europa Europa (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9648
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1wven" group-title="»CINE Y SERIES»",Film & Arts (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9649
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1wven" group-title="»CINE Y SERIES»",Film And Arts (M)(SD)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9650
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htn5h" group-title="»CINE Y SERIES»",FX (L)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9652
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htn5h" group-title="»CINE Y SERIES»",FX (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9653
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htn5h" group-title="»CINE Y SERIES»",FX (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9654
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fqn74" group-title="»CINE Y SERIES»",Lifetime (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9703
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m27rnf" group-title="»CINE Y SERIES»",Panico MEX (T)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9704
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/74m77" group-title="»CINE Y SERIES»",Paramount (Z)(720) -
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9705
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/74m77" group-title="»CINE Y SERIES»",Paramount (TV)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9708
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/74m77" group-title="»CINE Y SERIES»",Paramount (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9707
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2lu3" group-title="»CINE Y SERIES»",Space (TV)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9717
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2lu3" group-title="»CINE Y SERIES»",Space (TV)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9718
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2lu3" group-title="»CINE Y SERIES»",Space (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9719
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="»CINE Y SERIES»",STAR Channel CO (M)(1080) [Dual Audio]
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9721
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="»CINE Y SERIES»",STAR Channel CO. (M)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9722
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="»CINE Y SERIES»",STAR Channel MX (L)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9723
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="»CINE Y SERIES»",Star Channel Norte (Z)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9724
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="»CINE Y SERIES»",Star Channel Sur (Z)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9725
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oxr5s" group-title="»CINE Y SERIES»",Studio Universal (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9732
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oxr5s" group-title="»CINE Y SERIES»",Studio Universal (TV)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9733
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pyore" group-title="»CINE Y SERIES»",TCM (M)(SD)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9740
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pyore" group-title="»CINE Y SERIES»",TCM (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9741
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/amt0l" group-title="»PREMIUM PACK»",TNT (L)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9742
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0bn86i" group-title="»CINE Y SERIES»",USA (M)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9735
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0bn86i" group-title="»CINE Y SERIES»",USA (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9736
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lqca9" group-title="»CINE Y SERIES»",Warner Channel (L)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9774
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lqca9" group-title="»CINE Y SERIES»",Warner Channel (TV)(720)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9776
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lqca9" group-title="»CINE Y SERIES»",Warner Channel (Z)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9777
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3lqca9" group-title="»CINE Y SERIES»",Warner Channel Dual Audio (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9775
+
+⭐️CINEMA PPV
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 01 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8586
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 02 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8587
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 03 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8588
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 04 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8589
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 05 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8590
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 06 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8591
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 07 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8592
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 08 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8593
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 09 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8594
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 10 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8595
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 11 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8596
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 12 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8597
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 13 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8598
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 14 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8599
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 15 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8600
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 16 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8601
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 17 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8602
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 18 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8603
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 19 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8604
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 20 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8605
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 21 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8606
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 22 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8607
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 23 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8608
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 24 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8609
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 25 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8610
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 26 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8611
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 27 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8612
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 28 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8613
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 29 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8614
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 30 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8615
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 31 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8616
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 32 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8617
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 33 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8618
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 34 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8619
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 35 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8620
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 36 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8621
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wybkf" group-title="»CINEMA PPV»",Cinema 37 (M)(1080)
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8622
+
+
+
 ⭐️»HIST Y CULT MUNDO
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yoxifs" group-title="»HIST Y CULT MUNDO",Smithsonian Channel (L)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9850
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yoxifs" group-title="»HIST Y CULT MUNDO",Smithsonian Channel (Z)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9808 
-
-
