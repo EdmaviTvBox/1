@@ -3,8 +3,6 @@
 ⭐️»COLOMBIA»
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/aux30" group-title="»COLOMBIA»",COL PPV 1 (1080)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8476
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0oacv" group-title="»COLOMBIA»",CABLENOTICIAS (Z)(720)
-http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84908
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/osj8s" group-title="»COLOMBIA»",CANAL 1 (T)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84899
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/osj8s" group-title="»COLOMBIA»",CANAL 1 (TV)(720)
@@ -17,6 +15,8 @@ http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8483
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8484
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lnr9r" group-title="»COLOMBIA»",CARACOL (L)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8480
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lnr9r" group-title="»COLOMBIA»",CARACOL TV
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84908
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4d0bp" group-title="»COLOMBIA»",CARACOL INT (M)(1080)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8485
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4d0bp" group-title="»COLOMBIA»",CARACOL INT (TV)(720)
@@ -39,8 +39,6 @@ http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8492
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8496
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6wvr1" group-title="»COLOMBIA»",RCN NUESTRA TELE (T)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84903
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6wvr1" group-title="»COLOMBIA»",RCN INTERNACIONAL (T)(720)
-http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84901
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0rzu9" group-title="»COLOMBIA»",RCN NOVELAS (T)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84902
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vd03l2" group-title="»COLOMBIA»",RCN MAS
@@ -85,9 +83,11 @@ http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8512
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84897
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="»COLOMBIA»",WIN SPORTS PLUS (T)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84896
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/v41ku" group-title="»COLOMBIA»",Claro Sports (M)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="»COLOMBIA»",WIN SPORTS PLUS 
+http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/84901
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/v41ku" group-title="»COLOMBIA»",CLARO SPORTS (M)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8488
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b3lkr" group-title="»COLOMBIA»",Directv Sports (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b3lkr" group-title="»COLOMBIA»",D SPORTS (TV)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8489
 
 ⭐️»HIST Y CULT»
