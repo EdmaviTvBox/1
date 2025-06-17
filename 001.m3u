@@ -8,10 +8,12 @@ http://nocable.cc:8080/w3Gsmh/389606/78698
 http://nocable.cc:8080/w3Gsmh/389606/78701
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tkeb7" group-title="»COLOMBIA»",CARACOL HD2
 http://nocable.cc:8080/w3Gsmh/389606/78700
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tkeb7" group-title="»COLOMBIA»",CARACOL INT
+http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/283197ee-f929-48af-83b5-aa933a95a67c.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nmvkt" group-title="»COLOMBIA»",NTN24 
 http://nocable.cc:8080/w3Gsmh/389606/78704
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6r1qp" group-title="»COLOMBIA»",RCN
-http://nocable.cc:8080/w3Gsmh/389606/78694
+http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/2749235c-e786-438f-87fc-e7a13f253b4d.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6wvr1" group-title="»COLOMBIA»",RCN INT
 http://nocable.cc:8080/w3Gsmh/389606/78716
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/31lf9l" group-title="»COLOMBIA»",SENAL COLOMBIA
@@ -54,7 +56,7 @@ http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9816
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z9b1r" group-title="»HIST Y CULT»",DISCOVERY CHANNEL (Z)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/9782 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/27lwd" group-title="»HIST Y CULT»",DISCOVERY ESPAÑOL (L)(720)
-http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/10708
+http://nocable.cc:8080/w3Gsmh/389606/57645
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z9b1r" group-title="»HIST Y CULT»",DISCOVERY ESPAÑA (T)(720)
 http://tv.zeuspro.xyz:8080/anacazares3/dpyLbGuUDt/8169
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8l26t" group-title="»HIST Y CULT»",DISCOVERY FAMILIA (TV)(720)
