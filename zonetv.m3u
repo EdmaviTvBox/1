@@ -378,6 +378,20 @@ http://netlevel.online:8080/Mgtv612qs/HDRTG/54164
 http://netlevel.online:8080/Mgtv612qs/HDRTG/159148
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lrcc" group-title="» PREMIUM PACK",SONY
 http://netlevel.online:8080/Mgtv612qs/HDRTG/199523
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lrcc" group-title="» PREMIUM PACK",SONY CHANNEL
+http://netlevel.online:8080/Mgtv612qs/HDRTG/481787
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lrcc" group-title="» PREMIUM PACK",SONY CHANNEL FHD
+http://netlevel.online:8080/Mgtv612qs/HDRTG/439783
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lrcc" group-title="» PREMIUM PACK",SONY CHANNEL HD
+http://netlevel.online:8080/Mgtv612qs/HDRTG/53039
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2lrcc" group-title="» PREMIUM PACK",SONY CHANNEL SD
+http://netlevel.online:8080/Mgtv612qs/HDRTG/211310
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/heq05" group-title="» PREMIUM PACK",SONY CINEMA
+http://netlevel.online:8080/Mgtv612qs/HDRTG/276162
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/heq05" group-title="» PREMIUM PACK"SONY COMPETENCIAS
+http://netlevel.online:8080/Mgtv612qs/HDRTG/218342
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rz9ve" group-title="» PREMIUM PACK",SONY NOVELAS
+http://netlevel.online:8080/Mgtv612qs/HDRTG/276161
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/db1q8" group-title="» PREMIUM PACK",SONY MOVIES HD
 http://netlevel.online:8080/Mgtv612qs/HDRTG/469055
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5uu4u" group-title="» PREMIUM PACK",STARZ LATINO HD
@@ -390,6 +404,14 @@ http://netlevel.online:8080/Mgtv612qs/HDRTG/439741
 http://netlevel.online:8080/Mgtv612qs/HDRTG/439765
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i39n0" group-title="» PREMIUM PACK",TNT NOVELAS HD
 http://netlevel.online:8080/Mgtv612qs/HDRTG/19562
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i39n0" group-title="» PREMIUM PACK",TNT NOVELAS
+http://netlevel.online:8080/Mgtv612qs/HDRTG/542720
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ak4sgz" group-title="» PREMIUM PACK",TNT SERIES NORTE FHD
+http://netlevel.online:8080/Mgtv612qs/HDRTG/439780
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ak4sgz" group-title="» PREMIUM PACK",TNT SERIES SUR
+http://netlevel.online:8080/Mgtv612qs/HDRTG/53054
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ak4sgz" group-title="» PREMIUM PACK",TNT SERIES SUR  FHD
+http://netlevel.online:8080/Mgtv612qs/HDRTG/9560
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8a1l7n" group-title="» PREMIUM PACK",UNIVERSAL CINEMA FHD
 http://netlevel.online:8080/Mgtv612qs/HDRTG/185152
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/sn7sn" group-title="» PREMIUM PACK",UNIVERSAL COMEDY FHD
