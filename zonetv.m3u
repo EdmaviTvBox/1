@@ -230,6 +230,10 @@ http://netlevel.online:8080/Mgtv612qs/HDRTG/54167
 http://netlevel.online:8080/Mgtv612qs/HDRTG/242025
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1fljv" group-title="» CINE Y SERIES",CLARO CINEMA
 http://netlevel.online:8080/Mgtv612qs/HDRTG/276307
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3pyr7" group-title="» PREMIUM PACK",EUROPA EUROPA
+http://netlevel.online:8080/Mgtv612qs/HDRTG/473708
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1wven" group-title="» PREMIUM PACK",FILM & ARTS HD
+http://netlevel.online:8080/Mgtv612qs/HDRTG/19535
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nc50of" group-title="» CINE Y SERIES",MULTICINEMA
 http://netlevel.online:8080/Mgtv612qs/HDRTG/453506
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/85jan" group-title="» CINE Y SERIES",MULTIPREMIER HD
@@ -254,8 +258,6 @@ http://netlevel.online:8080/Mgtv612qs/HDRTG/159153
 http://netlevel.online:8080/Mgtv612qs/HDRTG/19454
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="» CINE Y SERIES",STAR CHANNEL MEX HD
 http://netlevel.online:8080/Mgtv612qs/HDRTG/198735
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="» CINE Y SERIES",STAR CHANNEL NORTE FHD
-http://netlevel.online:8080/Mgtv612qs/HDRTG/198736
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="» CINE Y SERIES",STAR CHANNEL SUR FHD
 http://netlevel.online:8080/Mgtv612qs/HDRTG/439744
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1lt8u" group-title="» CINE Y SERIES",STAR CHANNEL SUR SD
