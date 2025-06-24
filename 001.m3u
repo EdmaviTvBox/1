@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ao730" group-title="CULT Y HIST",HISTORY
+http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/372037.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i45xs" group-title="ESPAÑA",DARK HD
 http://goldtvhd.tv:8080/claude27033/eNPxWgJr7e/10285
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/o9beb" group-title="ESPAÑA",NATIONAL GEOGRAPHIC HD
