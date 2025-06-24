@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/i45xs" group-title="ESPAÑA",DARK HD
+http://goldtvhd.tv:8080/claude27033/eNPxWgJr7e/10285
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/o9beb" group-title="ESPAÑA",NATIONAL GEOGRAPHIC HD
+http://goldtvhd.tv:8080/claude27033/eNPxWgJr7e/3145
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h4uql" group-title="ESPAÑA",NAT GEO WILD HD
+http://goldtvhd.tv:8080/claude27033/eNPxWgJr7e/3144
 
 🌐 LATAM
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/daduc" group-title="LATAM",CLARO MUSIC
