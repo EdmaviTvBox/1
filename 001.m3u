@@ -1,77 +1,93 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hxqnc" group-title="HIST Y CULT",ANIMAL PLANET 
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518426.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5ccom" group-title="HIST Y CULT",DISCOVERY CHANNEL (DUAL)
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518403.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5w8pzb" group-title="HIST Y CULT",DISCOVERY EN ESPAÑOL 
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518418.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htaq6b" group-title="HIST Y CULT",DISCOVERY H&H 
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518422.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/edk0n" group-title="HIST Y CULT",DISCOVERY ID #1
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518407.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xbusk" group-title="HIST Y CULT",DISCOVERY ID #2
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341975.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r142p" group-title="HIST Y CULT",DISCOVERY FAMILIA 
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341985.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hw6it" group-title="HIST Y CULT",DISCOVERY SCIENCE
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518413.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c2n7vc" group-title="HIST Y CULT",DISCOVERY TURBO
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518417.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42ry5" group-title="HIST Y CULT",DISCOVERY WORLD
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518411.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ao730" group-title="HIST Y CULT",HISTORY
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/372037.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nb7bzj" group-title="HIST Y CULT",HISTORY 2 
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341990.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/o9beb" group-title="HIST Y CULT",NATGEO
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341992.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b80qw" group-title="HIST Y CULT",NATGEO MUNDO 
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518437.ts
-==============================================================================================================
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hxqnc" group-title="HIST Y CULT",ANIMAL PLANET ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518427.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hxqnc" group-title="HIST Y CULT",ANIMAL PLANET SD
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518425.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5ccom" group-title="HIST Y CULT",DISCOVERY CHANNEL ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518404.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/htaq6b" group-title="HIST Y CULT",DISCOVERY H&H
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518424.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xbusk" group-title="HIST Y CULT",DISCOVERY ID #2
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341977.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xbusk" group-title="HIST Y CULT",DISCOVERY ID
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518406.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r142p" group-title="HIST Y CULT",DISCOVERY FAMILIA #2
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341986.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r142p" group-title="HIST Y CULT",DISCOVERY FAMILIA ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518405.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hw6it" group-title="HIST Y CULT",DISCOVERY SCIENCE ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518412.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c2n7vc" group-title="HIST Y CULT",DISCOVERY TURBO ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341983.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42ry5" group-title="HIST Y CULT",DISCOVERY WORLD #1
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341982.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42ry5" group-title="HIST Y CULT",DISCOVERY WORLD
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518409.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42ry5" group-title="HIST Y CULT",DISCOVERY WORLD MX ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518410.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/p8keht" group-title="HIST Y CULT",HGTV USA ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518420.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ao730" group-title="HIST Y CULT",HISTORY #1
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341989.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ao730" group-title="HIST Y CULT",HISTORY #2
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341978.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ao730" group-title="HIST Y CULT",HISTORY
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518428.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ao730" group-title="HIST Y CULT",HISTORY ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518429.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nb7bzj" group-title="HIST Y CULT",HISTORY 2 SD
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518433.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nb7bzj" group-title="HIST Y CULT",HISTORY 2
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518432.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/o9beb" group-title="HIST Y CULT",NATGEO #2
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/341993.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/o9beb" group-title="HIST Y CULT",NATGEO ᴴᴰ
-http://tvlatino.club:2082/PerU2025/GzbETr8sxjZG/518436.ts
+#EXTM3U
+
+🌐 COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Avivamiento TV
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/19631
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g8etr" group-title="COLOMBIA",Bum Television 
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2616
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Cali Tv
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/19632
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Canal 1
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/36067
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Canal 1 HD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/56581
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Canal Capital
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30363
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Canal Insitucional
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13321
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Canal TRO
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/54979
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Canal Tr3ce
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2614
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Caracol  1
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2369
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Caracol 2
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30606
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Caracol 3
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/38210
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Caracol HD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/38211
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Caracol FHD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2370
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Caracol Internacional
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30720
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",City TV
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2373
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",City TV HD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/81207
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",CNC Medellín
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13328
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Cosmovisión
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13326
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",CTV
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30364
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Eureka
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/51030
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",La Kalle TV
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/81018
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Mi Música Popular
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/76958
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",NTN24
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2374
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Oasis TV
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13324
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",RCN
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/7112
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",RCN HD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30679
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",RCN FHD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2375
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",RCN Novelas
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30612
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",RCN HD 2
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/44540
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",RCN Más+
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/57151
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Señal Colombia SD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/74949
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Señal Colombia HD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/51027
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Suram TV HD
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/19635
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Tele Medellin
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/19636
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Teleantioquia
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/31854
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Telecafé
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2377
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Telecaribe
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2378
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Teleislas
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13323
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Tele Familia
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/48452
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Telepacifico
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2617
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w101353964.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jvxxbe" group-title="COLOMBIA",Tu Universo Tv
+http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/52926
 ===========================================================================================================
 
 
