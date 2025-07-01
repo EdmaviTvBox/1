@@ -1,92 +1,52 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1, Cartoon Network
+https://live2.saohgdasregions.fun:9091/114_/index.m3u8?token=a194e53d3cc595d0a071eb419b8a235ac7139d46-ff890d19e0abe070c4e6fc9ac6b77416-1751370980-1751349380&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+#EXTINF:-1, Nick Jr
+https://live2.saohgdasregions.fun:9091/112_/index.m3u8?token=c5747da149c6da56fc252018027d9aa114aa2a3a-4792d5b23cedf56e78a376021bf7fea1-1751371208-1751349608&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+#EXTINF:-1, Tooncast
+https://live2.saohgdasregions.fun:9091/116_/index.m3u8?token=58bb0c2cd6aeada2087c481927a85dde15d34882-e6bb11cb24c8e5852d9bfa2cca8e6e80-1751371050-1751349450&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+
+#EXTINF:-1, D Sport
+https://deportes2.ksdjugfsddeports.fun:9091/164_/index.m3u8?token=fd599d9f3aa58eef7729a27f2c413f44629957a6-a405590e761f4a81c638766f4da0a109-1751370734-1751349134&remote=186.119.48.13
+#EXTINF:-1, D Sport 2
+https://deportes2.ksdjugfsddeports.fun:9091/17_/index.m3u8?token=6fdeedf1b63f15a577dc9775b389d83d74ccb57b-ad92ab271de672bf4af964ed793d28e3-1751370799-1751349199&remote=186.119.48.13
+#EXTINF:-1, D Sport +
+https://deportes2.ksdjugfsddeports.fun:9091/163_/index.m3u8?token=cbfe711c7952ab74554052a4d23b6f26dfe16fbd-206627c4024a9910ea690772766c7586-1751370866-1751349266&remote=186.119.48.13
+
+#EXTINF:-1, Cinemax
+https://live2.saohgdasregions.fun:9091/43_/index.m3u8?token=88db02d3d5554da407237f530a7fca7e46717b9b-664aa6bf303ae8f1627e43d45149075d-1751372197-1751350597&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+#EXTINF:-1, Sony Channel
+https://live2.saohgdasregions.fun:9091/77_/index.m3u8?token=bb4934378bd310e4524c3ebb068fae566fe72bf3-b3b2592b7396abc13f6d52f14f5163f8-1751369657-1751348057&remote=186.119.48.13
+#EXTINF:-1, Star Channel
+https://live2.saohgdasregions.fun:9091/42_/index.m3u8?token=83dbfbb88175f3400a108ab8609c09a366c335ea-4e4d32b9ffc9507f0a11986b5d66df5f-1751372131-1751350531&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+#EXTINF:-1, Universal TV
+https://live2.saohgdasregions.fun:9091/79_/index.m3u8?token=f24ad31cc0d9bec759f94b1efbaf221f4f12baa9-1686e9ebab06515c3c175d7c68ecd685-1751372055-1751350455&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+
+#EXTINF:-1, Animal Channel
+https://live2.saohgdasregions.fun:9091/94_/index.m3u8?token=f88d11cba4744bb62aadbd74c6e953e051edab9e-343ee3da35d2619056ee3a6c1ba8eeab-1751370495-1751348895&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+#EXTINF:-1, Discovery H&H
+https://live2.saohgdasregions.fun:9091/97_/index.m3u8?token=fdb11950a0910e0c98f68ebb63f572808d6da08a-d2c07b4e9d88c10a822f55e1d8b250ca-1751371880-1751350280&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+#EXTINF:-1, Discovery ID
+https://live2.saohgdasregions.fun:9091/98_/index.m3u8?token=489ef29f80fbfd1b84c7da544e9bb17309682497-d5879871642d02289b0e3c0f2b99fca9-1751371721-1751350121&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+#EXTINF:-1, Discovery Theater
+https://live2.saohgdasregions.fun:9091/101_/index.m3u8?token=6e38ebb4f1b23067f5076f8bf11c9bdce6e18b70-66ba261052eb5b11eb5f4d8a78d5d8e2-1751371363-1751349763&remote=186.119.48.13
+#EXTINF:-1, Discovery Turbo
+https://live2.saohgdasregions.fun:9091/96_/index.m3u8?token=8e80e3091ff2b3c912e05b405cf1c33a27acd415-b13d077d10c9e85f7ab5f040a4ac8046-1751371793-1751350193&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+#EXTINF:-1, Discovery Science
+https://live2.saohgdasregions.fun:9091/139_/index.m3u8?token=d23a149d3a33a96cb876194b7c5347bb68e932aa-90cf6064fbf6b7a44af59b358529cf2e-1751371607-1751350007&remote=186.119.48.13
+#EXTINF:-1, Discovery World
+https://live2.saohgdasregions.fun:9091/102_/index.m3u8?token=b18f70aa826dbbd3aa659f3fb132659d26a853e1-7a2aa10c38a9c5f75371633e8d464cdc-1751371277-1751349677&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+
+#EXTINF:-1, History Channel
+https://live2.saohgdasregions.fun:9091/49_/index.m3u8?token=57d08d3c1d5c3c3bc3fd394e99664267c80adb90-5a446bed58bb417b71aa7f16f2071610-1751370245-1751348645&remote=186.119.48.13
+#EXTINF:-1, Nat Geo
+https://live2.saohgdasregions.fun:9091/92_/index.m3u8?token=8393580c87ac7b766c230c8f3f1436e1e568e50a-59f2d6f56654807d9911ae3d5e84bd1c-1751370630-1751349030&remote=186.119.48.13&__PROXY_IDENTIFIER__=true
+
 
 🌐 COLOMBIA
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s2ukr" group-title="COLOMBIA",Avivamiento TV
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/19631
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g8etr" group-title="COLOMBIA",Bum Television 
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2616
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q43x7" group-title="COLOMBIA",Cali Tv
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/19632
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zbkye" group-title="COLOMBIA",Canal 1
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/36067
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zbkye" group-title="COLOMBIA",Canal 1 HD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/56581
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w67vf" group-title="COLOMBIA",Canal Capital
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30363
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tu07qw" group-title="COLOMBIA",Canal Insitucional
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13321
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4sj27" group-title="COLOMBIA",Canal Tr3ce
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2614
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rta8f" group-title="COLOMBIA",Caracol 1
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2369
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rta8f" group-title="COLOMBIA",Caracol 2
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30606
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rta8f" group-title="COLOMBIA",Caracol 3
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/38210
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rta8f" group-title="COLOMBIA",Caracol HD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/38211
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rta8f" group-title="COLOMBIA",Caracol FHD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2370
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wav17" group-title="COLOMBIA",Caracol Internacional
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30720
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8w1lp" group-title="COLOMBIA",City TV
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2373
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8w1lp" group-title="COLOMBIA",City TV HD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/81207
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w2t43r" group-title="COLOMBIA",CNC Medellín
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13328
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7tzuq" group-title="COLOMBIA",Cosmovisión
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13326
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b04r1" group-title="COLOMBIA",CTV
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30364
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/57h3sb" group-title="COLOMBIA",Eureka
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/51030
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4bzm5p" group-title="COLOMBIA",La Kalle TV
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/81018
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tja2k" group-title="COLOMBIA",Mi Música Reggaeton
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/76958
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7ojy9" group-title="COLOMBIA",NTN24
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2374
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1baakc" group-title="COLOMBIA",Oasis TV
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13324
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8yv8n" group-title="COLOMBIA",RCN
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/7112
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8yv8n" group-title="COLOMBIA",RCN HD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30679
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8yv8n" group-title="COLOMBIA",RCN FHD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2375
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8yv8n" group-title="COLOMBIA",RCN HD 2
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/44540
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/77xx94" group-title="COLOMBIA",RCN Más+
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/57151
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0jgi4w" group-title="COLOMBIA",RCN Novelas
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/30612
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hptwb" group-title="COLOMBIA",Señal Colombia SD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/74949
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hptwb" group-title="COLOMBIA",Señal Colombia HD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/51027
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mrqbx9" group-title="COLOMBIA",Suram TV
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/54979
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mrqbx9" group-title="COLOMBIA",Suram TV HD
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/19635
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bxizy" group-title="COLOMBIA",Tele Medellin
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/19636
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n9huwl" group-title="COLOMBIA",Teleantioquia
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/31854
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bmt7w" group-title="COLOMBIA",Telecafé
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2377
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g3cfh" group-title="COLOMBIA",Telecaribe
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2378
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7y56wr" group-title="COLOMBIA",Teleislas
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/13323
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s6hib6" group-title="COLOMBIA",Tele Familia
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/48452
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oqrue" group-title="COLOMBIA",Telepacifico
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/2617
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/55rem" group-title="COLOMBIA",TV Peñol
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w101353964.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/k2ne9t" group-title="COLOMBIA",Tu Universo Tv
-http://tvpremiund.ddns.me:2082/Danielaramirez/xavzDw7pQQrB/52926
+
 ===========================================================================================================
 
 
