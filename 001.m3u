@@ -3,8 +3,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/osj8s" group-title="Colombia",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=Jy2n4uTCOuAkBkSPj03bIk1xOUnCLmRT&sid=u8kgP84qPOWFU4oYxnVtUhABuYCv4rpq&pid=FXtKFij1NYmre5HOmCkduoWoKb9BpVio&pid_dvr=13Le6TpLMmvk6Ql1dqlmhV0B4WqT0cq1&an=c1_mediastream_vod&at=web-app&av=v6.0.176&ref=https%3A%2F%2Fcanal1.com.co%2F&res=904x509&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w8ond" group-title="Colombia",Win Sport +
-https://b2zmawnpyww.fubohd.com/winsports2/mono.m3u8?token=44becd74da416aa316951016324f253d35bb3cb1-10-1751421147-1751403147
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/19mdmw" group-title="Colombia",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fkgyc" group-title="Hist y Cult",Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
