@@ -14,13 +14,20 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=Jy2n4u
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=Jy2n4uTCOuAkBkSPj03bIk1xOUnCLmRT&sid=kwJjyAho3InrOoQ2GVmjWkpE2DzA11Kx&pid=kj6y2mqB8rS1p7gZtggH63qRIeESr9oe&pid_dvr=L1E04lKFL3lkQ8rhoKIhmD2MRvVlMzKP&an=screen&at=web-app&av=v6.0.176&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=1244x450&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=cc10d481-f635-43e6-b237-d141737efbab:CBF2
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/19mdmw" group-title="COLOMBIA",SENAL COLOMBIA (EMV)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wcj2v" group-title="COLOMBIA",CANAL CAPITAL (EMV)
+https://cdns.livewave.co:8081/canalcapital/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/35s5dj" group-title="COLOMBIA",TELEANTIOQUIA (EMV)
+https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kfwgl" group-title="COLOMBIA",TELECAFE (EMV)
 https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-900/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q190w" group-title="COLOMBIA",TELEPACIFICO (EMV)
+https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gpzfv" group-title="COLOMBIA",WIN SPORTS (EMV)
 https://ag9wzq.fubohd.com/winsports/mono.m3u8?token=8d8207c3320d29ad571d3f13c187504e4526e2ff-dc-1751529155-1751511155
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tu07qw" group-title="COLOMBIA",CANAL INSTITUCIONAL (EMV)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1d72nv" group-title="COLOMBIA",ORIGEN (EMV)
+https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/live-origen/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cpl5uj" group-title="COLOMBIA",CARACOL INTERNACIONAL HD
 http://1tvnow.icu:8080/0AqJuj/750185/78701
