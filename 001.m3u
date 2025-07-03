@@ -1,12 +1,39 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zbkye" group-title="Colombia",Canal 1
+==== COLOMBIA ====
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bxizy" group-title="COLOMBIA",TELEMEDELLIN
+http://1tvnow.icu:8080/0AqJuj/750185/78722
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zbkye" group-title="COLOMBIA",CANAL UNO
+http://1tvnow.icu:8080/0AqJuj/750185/78698
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zbkye" group-title="COLOMBIA",CANAL UNO (EMV)
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=Jy2n4uTCOuAkBkSPj03bIk1xOUnCLmRT&sid=u8kgP84qPOWFU4oYxnVtUhABuYCv4rpq&pid=FXtKFij1NYmre5HOmCkduoWoKb9BpVio&pid_dvr=13Le6TpLMmvk6Ql1dqlmhV0B4WqT0cq1&an=c1_mediastream_vod&at=web-app&av=v6.0.176&ref=https%3A%2F%2Fcanal1.com.co%2F&res=904x509&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tu07qw" group-title="Colombia",Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/19mdmw" group-title="Colombia",Señal Colombia
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cpl5uj" group-title="COLOMBIA",CARACOL INTERNACIONAL HD
+http://1tvnow.icu:8080/0AqJuj/750185/78701
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pp76q" group-title="COLOMBIA",CARACOL HD
+http://1tvnow.icu:8080/0AqJuj/750185/78700
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t4ug4" group-title="COLOMBIA",NTN24 HD
+http://1tvnow.icu:8080/0AqJuj/750185/78704
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8yv8n" group-title="COLOMBIA",RCN FHD
+http://1tvnow.icu:8080/0AqJuj/750185/78694
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0jgi4w" group-title="COLOMBIA",RCN NOVELAS
+http://1tvnow.icu:8080/0AqJuj/750185/78716
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/aj0bi" group-title="COLOMBIA",SENAL COLOMBIA
+http://1tvnow.icu:8080/0AqJuj/750185/78711
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/19mdmw" group-title="Colombia",SENAL COLOMBIA (EMV)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kfwgl" group-title="COLOMBIA",TELECAFE
+http://1tvnow.icu:8080/0AqJuj/750185/78726
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/35s5dj" group-title="COLOMBIA",TELEANTIOQUIA HD
+http://1tvnow.icu:8080/0AqJuj/750185/78706
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q190w" group-title="COLOMBIA",TELEPACIFICO
+http://1tvnow.icu:8080/0AqJuj/750185/78729
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/aiam15" group-title="COLOMBIA",WIN SPORTS PLUS FHD
+http://1tvnow.icu:8080/0AqJuj/750185/78717
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/aiam15" group-title="COLOMBIA",WIN SPORTS PLUS HD (EXCLUSIVO)
+http://1tvnow.icu:8080/0AqJuj/750185/78697
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tu07qw" group-title="Colombia",CANAL INSTITUCIONAL (EMV)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fkgyc" group-title="Hist y Cult",Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
