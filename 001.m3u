@@ -1,72 +1,79 @@
 #EXTM3U
-==== COLOMBIA ====
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pp76q" group-title="COLOMBIA",CARACOL OP1 (EMV)
-https://doc1.crackstreamslivehd.com/caracoltv/tracks-v1a1/mono.m3u8?ip=186.119.53.135&token=4f12284846e8b06391021a62bb577738e8bddadd-13-1751556444-1751502444
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pp76q" group-title="COLOMBIA",CARACOL OP2 (EMV)
-https://doc1.crackstreamslivehd.com/caracoltv/index.m3u8?token=4f12284846e8b06391021a62bb577738e8bddadd-13-1751556444-1751502444&ip=186.119.53.135
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pp76q" group-title="COLOMBIA",CARACOL OP3 (EMV)
-https://print.crackstreamslivehd.com/global/caracoltv/index.m3u8?token=4f12284846e8b06391021a62bb577738e8bddadd-13-1751556444-1751502444&ip=186.119.53.135
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bxizy" group-title="COLOMBIA",TELEMEDELLIN (EMV)
-https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/rtmp01-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zbkye" group-title="COLOMBIA",CANAL UNO (EMV)
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=Jy2n4uTCOuAkBkSPj03bIk1xOUnCLmRT&sid=u8kgP84qPOWFU4oYxnVtUhABuYCv4rpq&pid=FXtKFij1NYmre5HOmCkduoWoKb9BpVio&pid_dvr=13Le6TpLMmvk6Ql1dqlmhV0B4WqT0cq1&an=c1_mediastream_vod&at=web-app&av=v6.0.176&ref=https%3A%2F%2Fcanal1.com.co%2F&res=904x509&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b5grml" group-title="COLOMBIA",LA KALLE
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=Jy2n4uTCOuAkBkSPj03bIk1xOUnCLmRT&sid=kwJjyAho3InrOoQ2GVmjWkpE2DzA11Kx&pid=kj6y2mqB8rS1p7gZtggH63qRIeESr9oe&pid_dvr=L1E04lKFL3lkQ8rhoKIhmD2MRvVlMzKP&an=screen&at=web-app&av=v6.0.176&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=1244x450&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=cc10d481-f635-43e6-b237-d141737efbab:CBF2
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/19mdmw" group-title="COLOMBIA",SENAL COLOMBIA (EMV)
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wcj2v" group-title="COLOMBIA",CANAL CAPITAL (EMV)
-https://cdns.livewave.co:8081/canalcapital/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/35s5dj" group-title="COLOMBIA",TELEANTIOQUIA (EMV)
-https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kfwgl" group-title="COLOMBIA",TELECAFE (EMV)
-https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-900/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q190w" group-title="COLOMBIA",TELEPACIFICO (EMV)
-https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gpzfv" group-title="COLOMBIA",WIN SPORTS (EMV)
-https://ag9wzq.fubohd.com/winsports/mono.m3u8?token=8d8207c3320d29ad571d3f13c187504e4526e2ff-dc-1751529155-1751511155
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tu07qw" group-title="COLOMBIA",CANAL INSTITUCIONAL (EMV)
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1d72nv" group-title="COLOMBIA",ORIGEN (EMV)
-https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/live-origen/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cpl5uj" group-title="COLOMBIA",CARACOL INTERNACIONAL HD
-http://1tvnow.icu:8080/0AqJuj/750185/78701
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pp76q" group-title="COLOMBIA",CARACOL HD
-http://1tvnow.icu:8080/0AqJuj/750185/78700
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t4ug4" group-title="COLOMBIA",NTN24 HD
-http://1tvnow.icu:8080/0AqJuj/750185/78704
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8yv8n" group-title="COLOMBIA",RCN FHD
-http://1tvnow.icu:8080/0AqJuj/750185/78694
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0jgi4w" group-title="COLOMBIA",RCN NOVELAS
-http://1tvnow.icu:8080/0AqJuj/750185/78716
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/aj0bi" group-title="COLOMBIA",SENAL COLOMBIA
-http://1tvnow.icu:8080/0AqJuj/750185/78711
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kfwgl" group-title="COLOMBIA",TELECAFE
-http://1tvnow.icu:8080/0AqJuj/750185/78726
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/35s5dj" group-title="COLOMBIA",TELEANTIOQUIA HD
-http://1tvnow.icu:8080/0AqJuj/750185/78706
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/q190w" group-title="COLOMBIA",TELEPACIFICO
-http://1tvnow.icu:8080/0AqJuj/750185/78729
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/aiam15" group-title="COLOMBIA",WIN SPORTS PLUS FHD
-http://1tvnow.icu:8080/0AqJuj/750185/78717
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/aiam15" group-title="COLOMBIA",WIN SPORTS PLUS HD (EXCLUSIVO)
-http://1tvnow.icu:8080/0AqJuj/750185/78697
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fkgyc" group-title="Hist y Cult",Love The Planet
-https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hdxy" group-title="Sport Latam",
-
-XXX
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fq138d" group-title="Adult",Dorcel TV
-http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/10019
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fq138d" group-title="Adult",Dorcel TV HD
-http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9641
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fq138d" group-title="Adult",Penthouse Gold
-http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9735
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fq138d" group-title="Adult",Redligth HD
-http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9649
+✨ KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",BABY TV
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606881
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",BABY FIRST HD 
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606954
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",BABY FIRST SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607085
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",BABY TV SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607084
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",BITME
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606834
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",BITME SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606945
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOON NETWORK HD.
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606856
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOON NETWORK HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606979
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOON NETWORK 1 TURGO
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607071
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOON NETWORK 2 TURGO
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607072
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOON NETWORK SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607083
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOONITO HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606854
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOONITO
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606883
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOONITO HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606980
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",CARTOONITO SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607082
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISCOVERY KIDS
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606857
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISCOVERY KIDS HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606973
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISCOVERY KIDS SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607081
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISNEY CHANNEL
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606899
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISNEY CHANNEL HD 
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606976
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISNEY CHANNEL SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607080
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISNEY JR HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606906
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISNEY JR. HD 
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606974
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DISNEY JR. SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607079
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",DREAM WORKS HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606890
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICK JR HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606920
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICK JR. HD 
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606975
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICK JR. SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607078
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICK HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606855
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICK SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607077
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICKELODEON HD 
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606978
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICKELODEON SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607076
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICKMUSIC HD 
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606977
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",NICKMUSIC SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607075
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",TEENNICK
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606833
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",TEENNICK  HD 
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606958
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",TEENNICK SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/607074
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x40pn" group-title="KIDS",TOONCAST HD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/606981
 
