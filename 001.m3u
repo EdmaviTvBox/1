@@ -1,6 +1,6 @@
 #EXTM3U
 
-=== ✨ ARGENTINA ===
+======✨ ARGENTINA =======
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",5TV CORRIENTES
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545462
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",A24
@@ -75,22 +75,22 @@ http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495301
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545458
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",HIPODROMO DE PALERMO
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495249
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",LN
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495265
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",MULTIVISION CANAL 9
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545467
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=2520962991
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",NET TV.
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/451190
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",RURAL
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/241754
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEFE
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495282
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEFE (1080p)
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545468
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEFE FHD
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495293
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEFE FHD.
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495282
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEFE HD
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495305
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEFE HD.
@@ -101,30 +101,10 @@ http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495284
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545455
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEFE CORD CANAL 8.
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495250
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEFE INTERNACIONAL
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495272
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEMAX
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/241762
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEMAX TLX 
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495263
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELESUR
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495264
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TN
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495306
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TN HD
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/241766
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TN HD.
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495286
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TN NOTICIAS
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495262
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TELEMAX  
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TV PUBLICA
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/138304
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TV PUBLICA FHD
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495285
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TV PUBLICA HD
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/447041
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",TV PUBLICA SD
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495279
+https://g1.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 === ✨ COLOMBIA ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/qvq23" group-title="COLOMBIA",CABLENOTICIAS 
