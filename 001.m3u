@@ -1,4 +1,42 @@
 #EXTM3U
+=== ✨ COLOMBIA =EMV= ===
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0up4p" group-title="COLOMBIA =EMV=",CANAL CAPITAL =EMV=
+https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t92jp9" group-title="COLOMBIA =EMV=",CANAL CNC BOYACA =EMV=
+https://usmia00-edge.teveo.com.co/live/AeAAAgBLAA4-A1IAyADIUDAAAAGAAAAAAmhuwLi6dzWHAAAA/chunklist_w1001547330.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t92jp9" group-title="COLOMBIA =EMV=",CANAL CNC BOYACA. =EMV=
+https://usmia00-edge.teveo.com.co/live/AeAAAgBLAA4-A1IAyADIUDAAAAGAAAAAAmhuwLi6dzWHAAAA/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t92jp9" group-title="COLOMBIA =EMV=",CANAL CNC CALI =EMV=
+https://usher.ttvnw.net/api/channel/hls/cnccali.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNmNlMjgzOWItMjNmMi00NDk4LTk5MzEtM2IxNTEyYjZiMmJmIn0%3D&allow_source=true&browser_family=microsoft%20edge&browser_version=138.0&cdm=wv&fast_bread=true&include_unavailable=true&os_name=Windows&os_version=NT%2010.0&p=454729&parent_domains=twitchplayer&platform=web&play_session_id=16e77e0e8543d4ceed45ead6f7408e22&player_backend=mediaplayer&player_version=1.43.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=bcc3754868bf8ff46446f1f8ddb0fd8647bfaed4&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cnccali%22%2C%22channel_id%22%3A803372568%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22hyyby2EnxHyNfzO8pLNNoq5WYZ3g7TR7%22%2C%22expires%22%3A1752089862%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.119.53.135%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t92jp9" group-title="COLOMBIA =EMV=",CANAL CNC CORDOBA =EMV=
+https://usmia00-edge.teveo.com.co/live/AeAAAgAfAANlA1IAyADIUDAAAAGAAAAAAmhuv2O6dzWHAAAA/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t92jp9" group-title="COLOMBIA =EMV=",CANAL CNC LA UNION =EMV=
+https://server.streamtech.com.co:5443/cnclaunion/streams/EELCw4t3IFs8mC2X1573414196224725.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/t92jp9" group-title="COLOMBIA =EMV=",CANAL CNC MEDELLIN =EMV=
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5fvp9b" group-title="COLOMBIA =EMV=",CANAL INSTITUCIONAL =EMV=
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7chyy" group-title="COLOMBIA =EMV=",CANAL UNO =EMV=
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=Jy2n4uTCOuAkBkSPj03bIk1xOUnCLmRT&sid=otW0lcG5sMxQEYcubCU30yrpPS1TxYG4&pid=tBYo11OxCCJS3wUmbsEozqhihPG06W1V&pid_dvr=hx5O9WofhlmHiBzKINDFZrSi0CUVFV9l&an=c1_mediastream_vod&at=web-app&av=v6.0.178&ref=https%3A%2F%2Fcanal1.com.co%2F&res=904x509&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xjb85v" group-title="COLOMBIA =EMV=",CARACOL =EMV=
+https://rfsqd3x6wh8j9kyutc47bp.cdnweigh.net:8443/hls/lujph4scp.m3u8?s=IpDlR-j-DLmDFAnLKpy5Kw&e=1752112558
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/efa7m" group-title="COLOMBIA =EMV=",CARACOL HD2
+https://live20.bozztv.com/giatv/giatv-c1hdjulsevc1hdjulsev/c1hdjulsevc1hdjulsev/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wyibs" group-title="COLOMBIA =EMV=",CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=Jy2n4uTCOuAkBkSPj03bIk1xOUnCLmRT&sid=otW0lcG5sMxQEYcubCU30yrpPS1TxYG4&pid=NhtNZuuxCldly7qUn35TKGY9OagKAQum&pid_dvr=Ay6OPw0xPEdCQSAON3afmrQjlFeWA0LX&an=screen&at=web-app&av=v6.0.178&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=921x518&without_cookies=false&listenerid=&dnt=true&access_token=a25hDb48dd5JSrfM7Wk1kF2BCVMSkXV3iYKGOOolrmIoA0v3w1ivJQM79TPBYqSuHnPfG9qQ1MK&adInsertionGoogleStreamId=965e606f-4ef0-46db-832c-7cde150bf689:MRN2
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9mnfs" group-title="COLOMBIA =EMV=",CITY TV =EMV=
+https://live20.bozztv.com/giatv/giatv-ctyjulsevctyjulsev/ctyjulsevctyjulsev/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9mnfs" group-title="COLOMBIA =EMV=",CITY TV. =EMV=
+https://live20.bozztv.com/giatv/giatv-ctyjulsevctyjulsev/ctyjulsevctyjulsev/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0j74a" group-title="COLOMBIA =EMV=",COSMOVISION =EMV=
+https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0j74a" group-title="COLOMBIA =EMV=",COSMOVISION. =EMV=
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/etqx9" group-title="COLOMBIA =EMV=",CTV BARRANQUILLA =EMV=
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1847190623.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/etqx9" group-title="COLOMBIA =EMV=",CTV BARRANQUILLA =EMV=
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 
 ======✨ ARGENTINA =======
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",5TV CORRIENTES
