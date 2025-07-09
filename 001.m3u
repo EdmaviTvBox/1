@@ -43,34 +43,38 @@ http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495278
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495269
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",CRONICA
 https://g5.proy-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL NUEVE
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/241675
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL NUEVE HD
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495298
+https://usher.ttvnw.net/api/channel/hls/elnueveenvivo.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNmNlMjgzOWItMjNmMi00NDk4LTk5MzEtM2IxNTEyYjZiMmJmIn0%3D&allow_source=true&browser_family=microsoft%20edge&browser_version=138.0&cdm=wv&fast_bread=true&include_unavailable=true&os_name=Windows&os_version=NT%2010.0&p=2542394&parent_domains=twitchplayer&platform=web&play_session_id=33d088826b8215f40ea92253bd3af6ee&player_backend=mediaplayer&player_version=1.43.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=883fe0813cc5c55eae927510ad9e7b1222f49e94&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueveenvivo%22%2C%22channel_id%22%3A1307193798%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22hyyby2EnxHyNfzO8pLNNoq5WYZ3g7TR7%22%2C%22expires%22%3A1752086180%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.119.53.135%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL NUEVE HD.
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495291
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL NUEVE HD..
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545471
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL NUEVE HD...
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495280
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL NUEVE SD
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495281
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL NUEVE SD.
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495298
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL NUEVE SD..
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545471
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/241672
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE HD
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495268
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE.
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545466
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE HD.
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495276
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE SD
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495277
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE SD.
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495296
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE SD..
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE INT SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495268
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",EL TRECE INT SD.
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545469
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",ENCUENTRO
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495301
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",GARAGE.
-http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545463
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",ENCUENTRO SD
+http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/545458
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",HIPODROMO DE PALERMO
 http://worldviptv.online:8080/ILHSUoCnE4/OWWhrIdmwv/495249
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za1ul" group-title="ARGENTINA",LN
