@@ -1,33 +1,29 @@
 #EXTM3U
 
-
-
 === ✨PREMIUM PACK ===
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",DE PELICULA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqa6n" group-title="PREMIUM PACK",DE PELICULA 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7194
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",DE PELICULA HD (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqa6n" group-title="PREMIUM PACK",DE PELICULA HD (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7278
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",DE PELICULA PLUS
+#EXTINF:-1 tvg-id="https://n9.cl/53y8h" tvg-logo="" group-title="PREMIUM PACK",DE PELICULA PLUS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7099
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",DE PELICULA PLUS HD (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/53y8h" group-title="PREMIUM PACK",DE PELICULA PLUS HD (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",GOLDEN 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vs3x1" group-title="PREMIUM PACK",GOLDEN 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7174
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",GOLDEN HD (1080P)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vs3x1" group-title="PREMIUM PACK",GOLDEN HD (1080P)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8452
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",GOLDEN EDGE 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kvzei" group-title="PREMIUM PACK",GOLDEN EDGE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7123
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",GOLDEN EDGE HD (1080P)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kvzei" group-title="PREMIUM PACK",GOLDEN EDGE HD (1080P)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8464
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",GOLDEN PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x8hap" group-title="PREMIUM PACK",GOLDEN PLUS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7124
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",GOLDEN PLUS HD (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x8hap" group-title="PREMIUM PACK",GOLDEN PLUS HD (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7224
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",GOLDEN PREMIER 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ciuhiv" group-title="PREMIUM PACK",GOLDEN PREMIER 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7309
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",GOLDEN PREMIER 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/po527" group-title="PREMIUM PACK",GOLDEN PREMIER 2
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7386
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO 1 MEX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7323
@@ -59,69 +55,70 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7435
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7327
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yh237" group-title="PREMIUM PACK",HBO XTREME MEX HD
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7437
-#EXTINF:-1,1340.MOVISTAR SERIES 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7520
-#EXTINF:-1,1341.MOVISTAR ACCION 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7521
-#EXTINF:-1,1342.MOVISTAR COMEDIA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4ys36" group-title="PREMIUM PACK",HBO COMEDY USA (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8276
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2qccz" group-title="PREMIUM PACK",HBO ZONE USA (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7472
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7uxur" group-title="PREMIUM PACK",MOVISTAR COMEDIA 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7522
-#EXTINF:-1,1343.MOVISTAR DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/06qyq" group-title="PREMIUM PACK",MOVISTAR DRAMA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7523
-#EXTINF:-1,1344.MOVISTAR CINE
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ji46j" group-title="PREMIUM PACK",MOVISTAR ESTRENOS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7524
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",SONY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vem7e" group-title="PREMIUM PACK",SONY CHANNEL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7474
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",SONY MOVIE 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2czsn" group-title="PREMIUM PACK",SONY CINE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/14162
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dowyfu" group-title="PREMIUM PACK",SONY MOVIE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7359
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",TNT 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dowyfu" group-title="PREMIUM PACK",SONY MOVIES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/14169
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5djo4w" group-title="PREMIUM PACK",TNT 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7371
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",TNT NOVELAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/npa79" group-title="PREMIUM PACK",TNT NOVELAS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7218
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",TNT SERIES 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wt9ctd" group-title="PREMIUM PACK",TNT SERIES 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7159
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",TNT SERIES HD (1080P)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wt9ctd" group-title="PREMIUM PACK",TNT SERIES HD (1080P)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7228
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",UNIVERSAL 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ygrzg" group-title="PREMIUM PACK",UNIVERSAL TV
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7338
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",UNIVERSAL CRIME 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7464
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",UNIVERSAL COMEDY 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7467
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",UNIVERSAL CINEMA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/emb9s" group-title="PREMIUM PACK",UNIVERSAL CINEMA 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7465
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",UNIVERSAL PREMIER 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/u1w30" group-title="PREMIUM PACK",UNIVERSAL COMEDY 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7467
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ag7ryi" group-title="PREMIUM PACK",UNIVERSAL CRIME 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7464
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tlxdod" group-title="PREMIUM PACK",UNIVERSAL PREMIERE
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7466
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",UNIVERSAL REALITY  
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/60qudb" group-title="PREMIUM PACK",UNIVERSAL REALITY  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7463
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",5 STARMAX (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/26wov" group-title="PREMIUM PACK",5 STARMAX (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8510
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",ACTIONMAX (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9xddx0" group-title="PREMIUM PACK",ACTIONMAX (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7793
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",MAXLATINO (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xatq7h" group-title="PREMIUM PACK",MAXLATINO (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7834
-#EXTINF:-1,0005.MOREMAX (dual)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b3dv9j" group-title="PREMIUM PACK",MOREMAX (dual)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7591
-#EXTINF:-1,0005.MOVIEMAX (dual)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mfh8u" group-title="PREMIUM PACK",MOVIEMAX (dual)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7519
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",HBO COMEDY USA (DUAL)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8276
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",HBO ZONE USA (DUAL)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7472
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",MGM (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7px3n" group-title="PREMIUM PACK",MGM (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7864
-#EXTINF:-1,0006.MGM DRIVE IN (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/krv1t" group-title="PREMIUM PACK",MGM DRIVE IN (DUAL) 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8500
-#EXTINF:-1,0006.MGM HITS (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mtpyso" group-title="PREMIUM PACK",MGM HITS (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7592
-#EXTINF:-1,0006.MGM MARQUEE (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mxstwa" group-title="PREMIUM PACK",MGM MARQUEE (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7590
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",STARZ CINEMA (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h2rjd" group-title="PREMIUM PACK",STARZ CINEMA (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8518
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",STARZ ENCORE ACTION (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8406
+
+
 
 === ✨CINE Y SERIES ===
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",A&E
