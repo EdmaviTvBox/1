@@ -1,4 +1,54 @@
 #EXTM3U
+=== ✨INFANTIL ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hv44ev" group-title="INFANTIL",BABY FIRST
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7181
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ixht6" group-title="INFANTIL",BABY TV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7189
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nxqqn" group-title="INFANTIL",BITME
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7200
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nxqqn" group-title="INFANTIL",BITME HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7114
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mdooc" group-title="INFANTIL",CARTOON NETWORK
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7088
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mdooc" group-title="INFANTIL",CARTOON NETWORK HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7234
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5cccx" group-title="INFANTIL",CARTOONITO 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7384
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5cccx" group-title="INFANTIL",CARTOONITO HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7246
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rtkxs" group-title="INFANTIL",DISCOVERY KIDS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7098
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rtkxs" group-title="INFANTIL",DISCOVERY KIDS HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7274
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oxtqh" group-title="INFANTIL",DISNEY CHANNEL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7095
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oxtqh" group-title="INFANTIL",DISNEY CHANNEL HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7473
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xz6lt" group-title="INFANTIL",DISNEY JR
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7094
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xz6lt" group-title="INFANTIL",DISNEY JR HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8404
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4l8mb" group-title="INFANTIL",DREAMWORKS CHANNEL 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7470
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/d8v0a" group-title="INFANTIL",NICK
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7142
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/d8v0a" group-title="INFANTIL",NICK HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7255
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b85t9" group-title="INFANTIL",NICK JR 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7143
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b85t9" group-title="INFANTIL",NICK JR HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7318
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rifkd" group-title="INFANTIL",ONCE NIÑOS 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7347
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7cvaa" group-title="INFANTIL",TEEN NICK
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7144
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8u7sm" group-title="INFANTIL",TOONCAST
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7160
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/eovza" group-title="KIDS",NICKTOONS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/11783
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b85t9" group-title="KIDS",NICKELODEON
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/11784
 
 === ✨PREMIUM PACK ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqa6n" group-title="PREMIUM PACK",DE PELICULA 
@@ -93,7 +143,6 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7464
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7466
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/60qudb" group-title="PREMIUM PACK",UNIVERSAL REALITY  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7463
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/26wov" group-title="PREMIUM PACK",5 STARMAX (DUAL)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8510
@@ -565,49 +614,3 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7149
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7156
 #EXTINF:-1,0716.TELERITMO
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7196
-
-=== ✨KIDS ===
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY FIRST
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7181
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY TV
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7189
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BITME
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7200
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BITME HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7114
-#EXTINF:-1,0604.CARTOON NETWORK
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7088
-#EXTINF:-1,0604.CARTOON NETWORK HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOONITO 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7384
-#EXTINF:-1,0603.CARTOONITO HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7246
-#EXTINF:-1,0605.DISCOVERY KIDS
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7098
-#EXTINF:-1,0605.DISCOVERY KIDS HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7274
-#EXTINF:-1,0607.DISNEY CHANNEL
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7095
-#EXTINF:-1,0607.DISNEY CHANNEL HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7473
-#EXTINF:-1,0608.DISNEY JUNIOR
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7094
-#EXTINF:-1,0608.DISNEY JUNIOR HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8404
-#EXTINF:-1,0606.DREAMWORKS CHANNEL 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7470
-#EXTINF:-1,0609.NICK
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7142
-#EXTINF:-1,0609.NICK HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7255
-#EXTINF:-1,0610.NICK JR 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7143
-#EXTINF:-1,0610.NICK JR HD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7318
-#EXTINF:-1,0613.ONCE NIÑOS 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7347
-#EXTINF:-1,0611.TEEN NICK
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7144
-#EXTINF:-1,0612.TOONCAST
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7160
