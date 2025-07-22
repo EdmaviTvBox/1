@@ -2,7 +2,7 @@
 ✨COLOMBIA
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mlia0z" group-title="COLOMBIA",SEÑAL COLOMBIA
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155811
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",CANAL UNO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0cxro" group-title="COLOMBIA",CANAL UNO FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1066863
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155793
@@ -16,9 +16,9 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/1155783
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155787
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tk8fk" group-title="COLOMBIA",CARACOL INT HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1208182
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",RCN NOVELAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/qs51p" group-title="COLOMBIA",RCN NOVELAS
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155809
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",NTN 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fst0p" group-title="COLOMBIA",NTN 24
 http://tv.nousiptv.com:8080/Dario/Grinspan/41815
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xfaje" group-title="COLOMBIA",TELECARIBE HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/43625
@@ -28,7 +28,7 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/47693
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155801
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7b66w" group-title="COLOMBIA",CABLE NOTICIAS
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155805
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",TELECAFE
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ic869" group-title="COLOMBIA",TELECAFE
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155810
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8dgd7" group-title="COLOMBIA",CITY TV
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155813
@@ -40,7 +40,7 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/54738
 http://tv.nousiptv.com:8080/Dario/Grinspan/16723
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kae9ck" group-title="COLOMBIA",WIN SPORTS FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155795
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",ESPN COLOMBIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8oher" group-title="COLOMBIA",ESPN COLOMBIA HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1119288
 
 ✨INFANTIL
@@ -92,7 +92,6 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/8143
 http://tv.nousiptv.com:8080/Dario/Grinspan/8144
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bw6w1" group-title="PACK CHANNEL",OUTERMAX HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/8146
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqa6n" group-title="PACK CHANNEL",DE PELICULA
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155786
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/53y8h" group-title="PACK CHANNEL",DE PELICULA PLUS
