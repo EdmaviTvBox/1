@@ -163,6 +163,8 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/1119201
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/60qudb" group-title="PACK CHANNEL",UNIVERSAL REALITY
 http://tv.nousiptv.com:8080/Dario/Grinspan/1119205
 
+
+
 ✨CINEMA
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",AMAZON PRIME
 http://tv.nousiptv.com:8080/Dario/Grinspan/1200682
@@ -206,6 +208,28 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/1155781
 http://tv.nousiptv.com:8080/Dario/Grinspan/1185762
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",TERROR TV
 http://tv.nousiptv.com:8080/Dario/Grinspan/1180736
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINE INFANTIL 03
+http://tv.nousiptv.com:8080/Dario/Grinspan/29415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 05 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/8005
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 09 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/8001
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 10 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/8000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 11 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/7999
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 12 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/7998
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 13 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/7997
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 14 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/7996
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 20 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/7990
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 22 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/7988
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",CINEMA 24 FHD (ES).
+http://tv.nousiptv.com:8080/Dario/Grinspan/7986
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",INDIE PLEX
 http://tv.nousiptv.com:8080/Dario/Grinspan/8142
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINEMA",MOVIEPLEX
