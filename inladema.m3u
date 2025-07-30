@@ -1,45 +1,61 @@
 #EXTM3U
 ✨COLOMBIA
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mlia0z" group-title="COLOMBIA",SEÑAL COLOMBIA
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155811
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7b66w" group-title="COLOMBIA",CABLE NOTICIAS
+http://tv.nousiptv.com:8080/Dario/Grinspan/1155805
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0cxro" group-title="COLOMBIA",CANAL UNO
+http://xxip25.top:8080/mpn0zU/378258/78698
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0cxro" group-title="COLOMBIA",CANAL UNO FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1066863
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1809w" group-title="COLOMBIA",CARACOL HD
+http://tv.nousiptv.com:8080/Dario/Grinspan/1155783
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1809w" group-title="COLOMBIA",CARACOL SD
+http://tv.nousiptv.com:8080/Dario/Grinspan/1155787
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bpnyjw" group-title="COLOMBIA",CARACOL HD2
+http://xxip25.top:8080/mpn0zU/378258/78700
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tk8fk" group-title="COLOMBIA",CARACOL INT HD
+http://xxip25.top:8080/mpn0zU/378258/78701
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tk8fk" group-title="COLOMBIA",CARACOL INT HD.
+http://tv.nousiptv.com:8080/Dario/Grinspan/1208182
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8dgd7" group-title="COLOMBIA",CITY TV
+http://tv.nousiptv.com:8080/Dario/Grinspan/1155813
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fst0p" group-title="COLOMBIA",NTN 24
+http://tv.nousiptv.com:8080/Dario/Grinspan/41815
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN FHD
+http://xxip25.top:8080/mpn0zU/378258/78694
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN FHD.
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155793
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4002
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN SD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1087192
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1809w" group-title="COLOMBIA",CARACOL HD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155783
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1809w" group-title="COLOMBIA",CARACOL SD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155787
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tk8fk" group-title="COLOMBIA",CARACOL INT HD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1208182
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/qs51p" group-title="COLOMBIA",RCN NOVELAS
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155809
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fst0p" group-title="COLOMBIA",NTN 24
-http://tv.nousiptv.com:8080/Dario/Grinspan/41815
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mlia0z" group-title="COLOMBIA",SEÑAL COLOMBIA
+http://tv.nousiptv.com:8080/Dario/Grinspan/1155811
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gxgumj" group-title="COLOMBIA",TELEANTIOQUIA
+http://tv.nousiptv.com:8080/Dario/Grinspan/1155801
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ic869" group-title="COLOMBIA",TELECAFE
+http://tv.nousiptv.com:8080/Dario/Grinspan/1155810
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xfaje" group-title="COLOMBIA",TELECARIBE HD
+http://xxip25.top:8080/mpn0zU/378258/173301
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xfaje" group-title="COLOMBIA",TELECARIBE HD.
 http://tv.nousiptv.com:8080/Dario/Grinspan/43625
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4e94o" group-title="COLOMBIA",TELEPACIFICO
 http://tv.nousiptv.com:8080/Dario/Grinspan/47693
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gxgumj" group-title="COLOMBIA",TELEANTIOQUIA
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155801
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7b66w" group-title="COLOMBIA",CABLE NOTICIAS
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155805
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ic869" group-title="COLOMBIA",TELECAFE
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155810
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8dgd7" group-title="COLOMBIA",CITY TV
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155813
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN + FUTBOL  FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/16724
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN + FUTBOL  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL FHD.
+http://xxip25.top:8080/mpn0zU/378258/78717
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/54738
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN SPORTS + SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL HD.
+http://xxip25.top:8080/mpn0zU/378258/78697
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL SD
 http://tv.nousiptv.com:8080/Dario/Grinspan/16723
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kae9ck" group-title="COLOMBIA",WIN SPORTS FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155795
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8oher" group-title="COLOMBIA",ESPN COLOMBIA
+http://xxip25.top:8080/mpn0zU/378258/86765
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8oher" group-title="COLOMBIA",ESPN COLOMBIA HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1119288
 
@@ -134,11 +150,11 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/47445
 http://tv.nousiptv.com:8080/Dario/Grinspan/4017
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6niss" group-title="PACK CHANNEL",HBO MUNDI
 http://tv.nousiptv.com:8080/Dario/Grinspan/1143815
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vem7e" group-title="CINE Y SERIES",SONY FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vem7e" group-title="PACK CHANNEL",SONY FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4048
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vem7e" group-title="CINE Y SERIES",SONY
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vem7e" group-title="PACK CHANNEL",SONY
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155800
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dowyfu" group-title="CINE Y SERIES",SONY MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dowyfu" group-title="PACK CHANNEL",SONY MOVIES
 http://tv.nousiptv.com:8080/Dario/Grinspan/1143816
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5djo4w" group-title="PACK CHANNEL",TNT FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4103
@@ -302,11 +318,11 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/3958
 http://tv.nousiptv.com:8080/Dario/Grinspan/4049
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",TBS
 http://tv.nousiptv.com:8080/Dario/Grinspan/4011
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",TCM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",TCM ESPAÑA
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155806
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL TV (DUAL)
 http://tv.nousiptv.com:8080/Dario/Grinspan/4054
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL TV
 http://tv.nousiptv.com:8080/Dario/Grinspan/1156005
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4053
