@@ -254,79 +254,81 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/8145
 http://tv.nousiptv.com:8080/Dario/Grinspan/8147
 
 ✨CINE Y SERIES
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",A&E
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c0h3hi" group-title="CINE Y SERIES",A&E
 http://tv.nousiptv.com:8080/Dario/Grinspan/1156013
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",A&E FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c0h3hi" group-title="CINE Y SERIES",A&E FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4037
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AMC
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/99x7o" group-title="CINE Y SERIES",AMC
 http://tv.nousiptv.com:8080/Dario/Grinspan/4118
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AMC FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/99x7o" group-title="CINE Y SERIES",AMC FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4085
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b4ym6" group-title="CINE Y SERIES",AXN
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155784
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b4ym6" group-title="CINE Y SERIES",AXN FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4038
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINE LATINO
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wmrxu" group-title="CINE Y SERIES",CINE LATINO
 http://tv.nousiptv.com:8080/Dario/Grinspan/4136
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zrsyjw" group-title="CINE Y SERIES",CINECANAL
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155785
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zrsyjw" group-title="CINE Y SERIES",CINECANAL FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4068
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINEMA DINAMITA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ddc9i" group-title="CINE Y SERIES",CINEMA DINAMITA
 http://tv.nousiptv.com:8080/Dario/Grinspan/4142
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rnttq" group-title="CINE Y SERIES",CINEMAX
 http://tv.nousiptv.com:8080/Dario/Grinspan/1068350
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINEMAX FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rnttq" group-title="CINE Y SERIES",CINEMAX FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4110
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CLARO CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7itm4f" group-title="CINE Y SERIES",CLARO CINEMA
 http://tv.nousiptv.com:8080/Dario/Grinspan/4145
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",DHE
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/se35l" group-title="CINE Y SERIES",DHE
 http://tv.nousiptv.com:8080/Dario/Grinspan/24180
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",EUROPA EUROPA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5viitf" group-title="CINE Y SERIES",EUROPA EUROPA
 http://tv.nousiptv.com:8080/Dario/Grinspan/33359
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",FX FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g1f68" group-title="CINE Y SERIES",FX FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4044
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",FX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g1f68" group-title="CINE Y SERIES",FX HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155789
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",MORBID TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/75wty" group-title="CINE Y SERIES",MORBID TV
 http://tv.nousiptv.com:8080/Dario/Grinspan/33364
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",MULTIPREMIER
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wdgvn" group-title="CINE Y SERIES",MULTIPREMIER
 http://tv.nousiptv.com:8080/Dario/Grinspan/1188239
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",MULTICINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6xoya" group-title="CINE Y SERIES",MULTICINEMA
 http://tv.nousiptv.com:8080/Dario/Grinspan/1148845
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",PANICO TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/53ww6" group-title="CINE Y SERIES",PANICO TV HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/7436
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vv85co" group-title="CINE Y SERIES",PARAMOUNT NETWORK
 http://tv.nousiptv.com:8080/Dario/Grinspan/4065
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",PARAMOUNT NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vv85co" group-title="CINE Y SERIES",PARAMOUNT NETWORK HD
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155799
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SPACE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6j12d" group-title="CINE Y SERIES",SPACE FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4099
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pc4co" group-title="CINE Y SERIES",STAR CHANNEL
 http://tv.nousiptv.com:8080/Dario/Grinspan/4121
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pc4co" group-title="CINE Y SERIES",STAR CHANNEL FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4022
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rvwnq" group-title="CINE Y SERIES",STUDIO UNIVERSAL
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155803
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STUDIO UNIVERSAL FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rvwnq" group-title="CINE Y SERIES",STUDIO UNIVERSAL FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4100
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SUNDANCE TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cdnf9" group-title="CINE Y SERIES",SUNDANCE TV
 http://tv.nousiptv.com:8080/Dario/Grinspan/4101
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SYFY
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c3jin" group-title="CINE Y SERIES",SYFY
 http://tv.nousiptv.com:8080/Dario/Grinspan/3958
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",SYFY FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c3jin" group-title="CINE Y SERIES",SYFY FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4049
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",TBS
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5duept" group-title="CINE Y SERIES",TBS
 http://tv.nousiptv.com:8080/Dario/Grinspan/4011
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",TCM ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3t124" group-title="CINE Y SERIES",TCM ESPAÑA
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155806
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL TV (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3t124" group-title="CINE Y SERIES",TCM ESPAÑA HD
+http://tv.nousiptv.com:8080/Dario/Grinspan/1156018
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7cbqa0" group-title="CINE Y SERIES",UNIVERSAL TV (DUAL)
 http://tv.nousiptv.com:8080/Dario/Grinspan/4054
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",UNIVERSAL TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7cbqa0" group-title="CINE Y SERIES",UNIVERSAL TV
 http://tv.nousiptv.com:8080/Dario/Grinspan/1156005
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/merqnu" group-title="CINE Y SERIES",WARNER FHD
 http://tv.nousiptv.com:8080/Dario/Grinspan/4053
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/merqnu" group-title="CINE Y SERIES",WARNER
 http://tv.nousiptv.com:8080/Dario/Grinspan/1155808
 
 ✨MUNDO Y CULTURA
