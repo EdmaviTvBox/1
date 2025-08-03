@@ -1,63 +1,78 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 ✨COLOMBIA
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7b66w" group-title="COLOMBIA",CABLE NOTICIAS
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155805
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0cxro" group-title="COLOMBIA",CANAL UNO
-http://xxip25.top:8080/mpn0zU/378258/78698
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0cxro" group-title="COLOMBIA",CANAL UNO FHD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1066863
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1809w" group-title="COLOMBIA",CARACOL HD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155783
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1809w" group-title="COLOMBIA",CARACOL SD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155787
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bpnyjw" group-title="COLOMBIA",CARACOL HD2
-http://xxip25.top:8080/mpn0zU/378258/78700
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tk8fk" group-title="COLOMBIA",CARACOL INT HD
-http://xxip25.top:8080/mpn0zU/378258/78701
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tk8fk" group-title="COLOMBIA",CARACOL INT HD.
-http://tv.nousiptv.com:8080/Dario/Grinspan/1208182
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8dgd7" group-title="COLOMBIA",CITY TV
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155813
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/fst0p" group-title="COLOMBIA",NTN 24
-http://tv.nousiptv.com:8080/Dario/Grinspan/41815
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN FHD
-http://xxip25.top:8080/mpn0zU/378258/78694
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN FHD.
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155793
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN HD
-http://tv.nousiptv.com:8080/Dario/Grinspan/4002
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bdpu1l" group-title="COLOMBIA",RCN SD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1087192
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/qs51p" group-title="COLOMBIA",RCN NOVELAS
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155809
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mlia0z" group-title="COLOMBIA",SEÑAL COLOMBIA
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155811
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gxgumj" group-title="COLOMBIA",TELEANTIOQUIA
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155801
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ic869" group-title="COLOMBIA",TELECAFE
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155810
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xfaje" group-title="COLOMBIA",TELECARIBE HD
-http://xxip25.top:8080/mpn0zU/378258/173301
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xfaje" group-title="COLOMBIA",TELECARIBE HD.
-http://tv.nousiptv.com:8080/Dario/Grinspan/43625
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4e94o" group-title="COLOMBIA",TELEPACIFICO
-http://tv.nousiptv.com:8080/Dario/Grinspan/47693
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL FHD
-http://tv.nousiptv.com:8080/Dario/Grinspan/16724
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL FHD.
-http://xxip25.top:8080/mpn0zU/378258/78717
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL HD
-http://tv.nousiptv.com:8080/Dario/Grinspan/54738
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL HD.
-http://xxip25.top:8080/mpn0zU/378258/78697
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5v9cm" group-title="COLOMBIA",WIN+ FUTBOL SD
-http://tv.nousiptv.com:8080/Dario/Grinspan/16723
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kae9ck" group-title="COLOMBIA",WIN SPORTS FHD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1155795
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8oher" group-title="COLOMBIA",ESPN COLOMBIA
-http://xxip25.top:8080/mpn0zU/378258/86765
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8oher" group-title="COLOMBIA",ESPN COLOMBIA HD
-http://tv.nousiptv.com:8080/Dario/Grinspan/1119288
+#EXTINF:-1,CO | Cable Noticias ᴴᴰ
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkTEtRZw_bSt8Q_W7vX_bLT/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vbwye" group-title="COLOMBIA",Canal 1
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudlRnoIyH37IlG_7lZ-8AByr/ts
+#EXTINF:-1,CO | Canal Capital
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudnkTh4X_q5EGi3kzXmg9dan/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rkgxs" group-title="COLOMBIA",Caracol
+#EXTINF:-1,CO | 01 • Caracol
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkbEYbUoZEn5wuJlDnt8hIN/ts
+#EXTINF:-1,CO | 02 • Caracol
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudltL2yOydvDDs4SwMiZWcNh/ts
+#EXTINF:-1,CO | 03 • Caracol
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudlkh7Zk8FvScIO0Gf8sSFQU/ts
+#EXTINF:-1,CO | 04 • Caracol Internacional
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudmezlRvnXyph-1Dl5lZOxNx/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rkgxs" group-title="COLOMBIA",Caracol SD
+http://galaxypro.online:8080/cQFrQTf/AE79pJ/376293
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",Caracol HD2
+http://galaxypro.online:8080/cQFrQTf/AE79pJ/393983
+#EXTINF:-1,CO | City TV
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudntjGGXw2ujHib4MNFryfYV/ts
+#EXTINF:-1,CO | City TV SD
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudla35kAZqbHOEvS8ulI62aS/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ij4rb9" group-title="COLOMBIA",El Tiempo
+http://galaxypro.online:8080/cQFrQTf/AE79pJ/93773
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r99ky" group-title="COLOMBIA",La Kalle
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudksuAgPWFLLszcToPk7Hh81/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wmzyp" group-title="COLOMBIA",NTN24
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkwZN80--pgL86P-cAB0F5b/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pbxgm" group-title="COLOMBIA",RCN 
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudmR2PsdjQgfZlmqeooznBQ_/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pbxgm" group-title="COLOMBIA",RCN 
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkkwFhTQd7VnsSPXeMxY3fw/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pbxgm" group-title="COLOMBIA",RCN 
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudmQhaFi20TqqvtHj-_I4W6Q/ts
+#EXTINF:-1,CO | RCN Nuestra Tele ᴴᴰ
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudngtQae3aAOUIDXB3ERy-4U/ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",RCN +
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudlF6Jal0DDuE2p9WSbOQO9U/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2kkhl" group-title="COLOMBIA",Senal Colombia
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudl2_cGYigVAgnwNmXig8Mu0/ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",Telecafe
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkobg-DbmQf-G8e9tGnotrG/ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COLOMBIA",TeleCafe ᴴᴰ
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudnZOLyHyF2aevmTw_NxMrNi/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z4evu" group-title="COLOMBIA",TeleCaribe
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudk52hcnyuK6qEmSQg81S3FD/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z4evu" group-title="COLOMBIA",TeleCaribe.
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkbgYOsBHj-HLXMVXGNCOtc/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/om9er" group-title="COLOMBIA",Teleantioquia 
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkSAa40M4WvL1ZXukj33-qX/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42vlb" group-title="COLOMBIA",Telepacifico 
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudnIfbDLdcjr6UMCY5OgIsbw/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudmfBRO8_eBKJRFTpU8iK-WA/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ.
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkYrLJ9EaERlVu4QDnDoSxw/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ..
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudlGyUl6edeDutQLdgtRcr4E/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",Win+ Fútbol ᴴᴰ...
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudnIAr4yZBFwmQJjUDrEgZN0/ts
+#EXTINF:-1,CO | 01 • Win Sports FHD
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudl6kCnGDiH0L18xCV3_AZzq/ts
+#EXTINF:-1,CO | 02 •Win Sports HD
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkNSKD4JHe64jUp1JlVjNfm/ts
+#EXTINF:-1,CO | 03 • Win Sports SD
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudmRxM91Yuy14OPHrqTEriq6/ts
+#EXTINF:-1,CO | 01 • ESPN COLOMBIA
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudk33noXo6UvCNb4qG6TJXBx/ts
+#EXTINF:-1,CO | 02 • ESPN COLOMBIA 2
+https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudn3eo-lbla1jGHgF8TOO1iI/ts
+
 
 ✨INFANTIL
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zxk5z" group-title="INFANTIL",BABY FIRST FHD
@@ -544,6 +559,7 @@ http://tv.nousiptv.com:8080/Dario/Grinspan/1147320
 http://tv.nousiptv.com:8080/Dario/Grinspan/1147321
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES LATAM",VIX LO MEJOR DE LIGA MX 
 http://tv.nousiptv.com:8080/Dario/Grinspan/1158436
+
 
 
 
