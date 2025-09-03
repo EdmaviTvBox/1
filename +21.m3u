@@ -1,56 +1,28 @@
 #EXTM3U
-
-#EXTINF:0 tvg-rec="3",Extasy Platinum 4K
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5014/index.m3u8
-#EXTINF:0 tvg-rec="0",Rusnigth
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/9344/index.m3u8
-#EXTINF:0 tvg-rec="0",Exxxotica HD orig
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/9346/index.m3u8
-#EXTINF:0 tvg-rec="3",Eroxxx HD
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5015/index.m3u8
-#EXTINF:0 tvg-rec="3",Playboy
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/527/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Ню Арт HD
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31716/index.m3u8
-#EXTINF:0 tvg-rec="3",Русская Ночь
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/147/index.m3u8
-#EXTINF:0 tvg-rec="3",Brazzers TV Europe Россия
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/910/index.m3u8
-#EXTINF:0 tvg-rec="0",Blue Hustler
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/1064/index.m3u8
-#EXTINF:0 tvg-rec="3",Redlight HD
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/242/index.m3u8
-#EXTINF:0 tvg-rec="3",Private TV
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/243/index.m3u8
-#EXTINF:0 tvg-rec="0",Hustler HD
-#EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/244/index.m3u8
 #EXTINF:0 tvg-rec="3",Dorcel TV HD
 #EXTGRP:Взрослые
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/245/index.m3u8
-#EXTINF:0 tvg-rec="3",Babes TV
+#EXTINF:0 tvg-rec="3",Extasy Platinum 4K
 #EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/2161/index.m3u8
-#EXTINF:0 tvg-rec="1",Vivid Red HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5014/index.m3u8
+#EXTINF:0 tvg-rec="0",Exxxotica HD orig
 #EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/2162/index.m3u8
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/9346/index.m3u8
 #EXTINF:0 tvg-rec="3",Exxxotica HD
 #EXTGRP:Взрослые
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/2397/index.m3u8
-#EXTINF:0 tvg-rec="3",XXL
+#EXTINF:0 tvg-rec="3",Eroxxx HD
 #EXTGRP:Взрослые
-http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5009/index.m3u8
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5015/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Ню Арт HD
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31716/index.m3u8
+#EXTINF:0 tvg-rec="0",Hustler HD
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/244/index.m3u8
+#EXTINF:0 tvg-rec="1",Vivid Red HD
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/2162/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Passion HD
 #EXTGRP:Взрослые
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5010/index.m3u8
@@ -63,6 +35,38 @@ http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5012/index.m3u8
 #EXTINF:0 tvg-rec="3",Penthouse Reality TV FHD
 #EXTGRP:Взрослые
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5013/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0",Rusnigth (480p)
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/9344/index.m3u8
+#EXTINF:0 tvg-rec="3",Playboy (480p)
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/527/index.m3u8
+#EXTINF:0 tvg-rec="3",Rusnigth (480p)
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/147/index.m3u8
+#EXTINF:0 tvg-rec="3",Brazzers TV Europe (480p)
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/910/index.m3u8
+#EXTINF:0 tvg-rec="0",Blue Hustler (480p)
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/1064/index.m3u8
+#EXTINF:0 tvg-rec="3",Private TV (480p)
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/243/index.m3u8
+#EXTINF:0 tvg-rec="3",Babes TV (480p)
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/2161/index.m3u8
+#EXTINF:0 tvg-rec="3",XXL (480p)
+#EXTGRP:Взрослые
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/5009/index.m3u8
+
+
+
+
+
+
 #EXTINF:0 tvg-rec="0",SexArt HD
 #EXTGRP:Взрослые
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/6165/index.m3u8
@@ -645,6 +649,7 @@ http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/20089/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan ExExEx TWO
 #EXTGRP:Взрослые
 http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/20090/index.m3u8
+
 
 
 
