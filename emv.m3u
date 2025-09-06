@@ -1,6 +1,6 @@
 #EXTM3U
 ✨CINE Y SERIES
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hze4d" group-title="CINE Y SERIES",5 STARMAX (dual)
+#EXTINF:-1 tvg-id="5 STARMAX (dual)" tvg-logo="https://n9.cl/hze4d" group-title="CINE Y SERIES",5 STARMAX (dual)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8510
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/99x7o" group-title="CINE Y SERIES",AMC HD (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7236
@@ -46,3 +46,4 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/8518
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7235
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3t124" group-title="CINE Y SERIES",TCM
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7154
+
