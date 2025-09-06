@@ -1,6 +1,6 @@
 #EXTM3U
 ✨CINE Y SERIES
-#EXTINF:-1 tvg-id="5 STARMAX (dual)" tvg-logo="https://n9.cl/hze4d" group-title="CINE Y SERIES",5 STARMAX (dual)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hze4d" group-title="CINE Y SERIES",5 STARMAX (dual)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8510
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/99x7o" group-title="CINE Y SERIES",AMC HD (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7236
@@ -10,40 +10,46 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/8412
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7219
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rnttq" group-title="CINE Y SERIES",CINEMAX HD (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7220
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rit7v" group-title="CINE Y SERIES",SONY CHANNEL
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7474
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/uip5a1" group-title="CINE Y SERIES",DE PELICULA HD (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7278
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iqp7bn" group-title="CINE Y SERIES",DE PELICULA PLUS HD (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5viitf" group-title="CINE Y SERIES",EUROPA EUROPA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7190
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g1f68" group-title="CINE Y SERIES",FX  
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7332
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wpwpl" group-title="CINE Y SERIES",FILM AND ARTS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7191
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/sefy1" group-title="CINE Y SERIES",GOLDEN HD (1080P)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g1f68" group-title="CINE Y SERIES",FX  
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7332
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/sefy1" group-title="CINE Y SERIES",GOLDEN (1080P)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8452
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/94ckll" group-title="CINE Y SERIES",GOLDEN EDGE HD (1080P)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/94ckll" group-title="CINE Y SERIES",GOLDEN EDGE (1080P)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8464
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/95qhv" group-title="CINE Y SERIES",GOLDEN PLUS HD (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/95qhv" group-title="CINE Y SERIES",GOLDEN PLUS (1080p)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7224
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vv85co" group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7360
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/53ww6" group-title="CINE Y SERIES",PANICO 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7478
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6j12d" group-title="CINE Y SERIES",SPACE 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7336
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w5xkn" group-title="CINE Y SERIES",USA HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7227
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rvwnq" group-title="CINE Y SERIES",STUDIO UNIVERSAL HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7243
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lxh3n" group-title="CINE Y SERIES",HBO ZONE USA (dual)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7472
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/53ww6" group-title="CINE Y SERIES",PANICO 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7478
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vv85co" group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7360
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rit7v" group-title="CINE Y SERIES",SONY CHANNEL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7474
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6j12d" group-title="CINE Y SERIES",SPACE 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7336
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/002iq" group-title="CINE Y SERIES",STARZ CINEMA (dual)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8518
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bmuoq" group-title="CINE Y SERIES",TNT HD (1080p)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7235
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rvwnq" group-title="CINE Y SERIES",STUDIO UNIVERSAL (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7243
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3t124" group-title="CINE Y SERIES",TCM
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7154
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bmuoq" group-title="CINE Y SERIES",TNT HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7235
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w5xkn" group-title="CINE Y SERIES",USA (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7227
+
+
+
+
+
+
 
