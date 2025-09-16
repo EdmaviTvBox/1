@@ -50,6 +50,38 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/11783
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b85t9" group-title="KIDS",NICKELODEON
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/11784
 
+=== ✨CINE Y SERIES ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN HD 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7321
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN (ESP)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/8456
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN MOVIES
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7543
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD (1080p)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7219
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD (1080p)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7252
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER HD (1080p)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7230
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7031
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7090
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD
+http://alfa.7057460.xyz:2095/brenda38/brenda64/13909
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7167
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7357
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN (DUAL)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/14950
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7115
+
+
 === ✨PREMIUM PACK ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqa6n" group-title="PREMIUM PACK",DE PELICULA 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7194
@@ -75,40 +107,81 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7224
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7309
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/po527" group-title="PREMIUM PACK",GOLDEN PREMIER 2
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7386
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO 1 MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7323
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO 1 MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7431
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c7xql" group-title="PREMIUM PACK",HBO 2 MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7325
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c7xql" group-title="PREMIUM PACK",HBO 2 MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7432
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x3d14k" group-title="PREMIUM PACK",HBO FAMILY MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7326
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x3d14k" group-title="PREMIUM PACK",HBO FAMILY MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7433
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6niss" group-title="PREMIUM PACK",HBO MUNDI MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7304
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6niss" group-title="PREMIUM PACK",HBO MUNDI MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7436
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lzjwd" group-title="PREMIUM PACK",HBO PLUS MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7324
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lzjwd" group-title="PREMIUM PACK",HBO PLUS MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7434
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oq51n" group-title="PREMIUM PACK",HBO POP MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7305
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oq51n" group-title="PREMIUM PACK",HBO POP MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7438
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/uv8rd" group-title="PREMIUM PACK",HBO SIGNATURE MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7435
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yh237" group-title="PREMIUM PACK",HBO XTREME MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7327
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yh237" group-title="PREMIUM PACK",HBO XTREME MEX HD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7437
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (NORTE)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/14952
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (SUR)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/9293
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (MEX) 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7323
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (USA) 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/9264
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c7xql" group-title="PREMIUM PACK",HBO 2 (LAT)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/14953
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c7xql" group-title="PREMIUM PACK",HBO 2 (MEX)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7432
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4ys36" group-title="PREMIUM PACK",HBO COMEDY USA (DUAL)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8276
+http://alfa.7057460.xyz:2095/brenda38/brenda64/8276
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",HBO DRAMA
+http://alfa.7057460.xyz:2095/brenda38/brenda64/8499
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x3d14k" group-title="PREMIUM PACK",HBO FAMILY (MEX) HD 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7432
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",HBO HITS
+http://alfa.7057460.xyz:2095/brenda38/brenda64/8503
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",HBO MOVIES (DUAL)
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7472
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6niss" group-title="PREMIUM PACK",HBO MUNDI (MEX) HD 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7436
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lzjwd" group-title="PREMIUM PACK",HBO PLUS (MEX) HD 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7434
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oq51n" group-title="PREMIUM PACK",HBO POP (MEX) HD 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7438
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/uv8rd" group-title="PREMIUM PACK",HBO SIGNATURE (MEX) HD 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7435
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yh237" group-title="PREMIUM PACK",HBO XTREME (MEX) HD
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7437
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (MEX) HD 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7431
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c7xql" group-title="PREMIUM PACK",HBO 2 (MEX) 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7325
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x3d14k" group-title="PREMIUM PACK",HBO FAMILY (MEX) 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7433
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6niss" group-title="PREMIUM PACK",HBO MUNDI MEX 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7304
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lzjwd" group-title="PREMIUM PACK",HBO PLUS (MEX) 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7324
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oq51n" group-title="PREMIUM PACK",HBO POP (MEX) 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7305
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yh237" group-title="PREMIUM PACK",HBO XTREME (MEX) 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7327
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x3d14k" group-title="PREMIUM PACK",HBO FAMILY (MEX) 
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7326
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2qccz" group-title="PREMIUM PACK",HBO ZONE USA (DUAL)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7472
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7uxur" group-title="PREMIUM PACK",MOVISTAR COMEDIA 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7522
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/06qyq" group-title="PREMIUM PACK",MOVISTAR DRAMA
@@ -509,3 +582,4 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7149
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7156
 #EXTINF:-1,0716.TELERITMO
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7196
+
