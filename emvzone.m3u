@@ -1,4 +1,36 @@
 #EXTM3U
+=== ✨COLOMBIA ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6aqby3" group-title="Colombia",Canal Uno (UHD) 
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/93754
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5kfuy" group-title="Colombia",Capital TV (UHD) 
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/374895
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7mce0" group-title="Colombia",Caracol (UHD)
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/93767
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7mce0" group-title="Colombia",Caracol (SD)
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/376293
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/anpsa" group-title="Colombia",Caracol HD2 (UHD) 
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/393983
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jkgszc" group-title="Colombia",City TV (UHD) 
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/98130
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lg26uj" group-title="Colombia",El Tiempo (UHD) 
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/93773
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hwjvn" group-title="Colombia",La Kalle (UHD) 
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/693701
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cs9ok2" group-title="Colombia",NTN24 Noticias (UHD) 
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/93770
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/46tra" group-title="Colombia",RCN Colombia (UHD)
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/90151
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x5dc6" group-title="Colombia",Senal Colombia (UHD)
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/93753
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iz3t7" group-title="Colombia",Telecaribe (UHD)
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/374766
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/obm9it" group-title="Colombia",Teleantoquia (UHD)
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/700950
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5c22t" group-title="Colombia",Telepacifico (UHD)
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/67053
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1cppd" group-title="Colombia",Win Sports + (UHD)
+http://gama-mx.com:8085/EDGAR2022/EDGAR060722/93494
+
 === ✨INFANTIL ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hv44ev" group-title="INFANTIL",BABY FIRST
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7181
@@ -664,6 +696,7 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7149
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7156
 #EXTINF:-1,0716.TELERITMO
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7196
+
 
 
 
