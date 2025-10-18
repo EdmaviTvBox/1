@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2
 
-#EXTINF:-1,PLAYBOY TV FHD
+#EXTINF:-1,PLAYBOY TV FHD 1
 http://cdn.arrascacrf.site:80/412205509550/797167927956/208183.ts
 #EXTINF:-1,PLAYBOY TV HD
 http://cdn.arrascacrf.site:80/412205509550/797167927956/101559.ts
@@ -244,6 +244,7 @@ http://cdn.arrascacrf.site:80/412205509550/797167927956/3514532.ts
 
 
 ===========================================================================================================================
+
 
 
 
