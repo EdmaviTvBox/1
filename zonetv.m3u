@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vbwye" group-title="COLOMBIA",CANAL UNO HD
 http://imaxplay.net:8880//live/angela1673/STZUG/242016.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",CARACOL SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rkgxs" group-title="COLOMBIA",CARACOL 
 http://imaxplay.net:8880//live/angela1673/STZUG/55619.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",CARACOL HD2
 http://imaxplay.net:8880//live/angela1673/STZUG/224163.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",CARACOL INT
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/d9nzo" group-title="COLOMBIA",CARACOL INT
 http://imaxplay.net:8880//live/angela1673/STZUG/211350.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r99ky" group-title="COLOMBIA",LA KALLE
 http://imaxplay.net:8880//live/angela1673/STZUG/610872.ts
@@ -28,6 +28,7 @@ http://imaxplay.net:8880//live/angela1673/STZUG/12846.ts
 http://imaxplay.net:8880//live/angela1673/STZUG/516929.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",WIN SPORTS
 http://imaxplay.net:8880//live/angela1673/STZUG/516932.ts
+
 
 
 
