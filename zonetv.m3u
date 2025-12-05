@@ -1,35 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vbwye" group-title="COLOMBIA",Canal Uno
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/93754
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rkgxs" group-title="COLOMBIA",Caracol
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/93767
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rkgxs" group-title="COLOMBIA",Caracol SD
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/376293
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",Caracol HD2
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/393983
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ij4rb9" group-title="COLOMBIA",El Tiempo
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/93773
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r99ky" group-title="COLOMBIA",La Kalle
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/693701
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wmzyp" group-title="COLOMBIA",NTN24
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/93770
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pbxgm" group-title="COLOMBIA",RCN 
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/90151
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2kkhl" group-title="COLOMBIA",Senal Colombia
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/98130
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2kkhl" group-title="COLOMBIA",Senal Colombia.
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/93753
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z4evu" group-title="COLOMBIA",TeleCaribe
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/374766
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/om9er" group-title="COLOMBIA",Teleantioquia 
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/700950
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42vlb" group-title="COLOMBIA",Telepacifico 
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/67053
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",Win Sports +
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/697594
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",Win Sports +.
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/697645
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",Win Sports +..
-http://galaxypro.online:8080/cQFrQTf/AE79pJ/93494
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vbwye" group-title="COLOMBIA",CANAL UNO HD
+http://imaxplay.net:8880//live/angela1673/STZUG/242016.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",CARACOL SD
+http://imaxplay.net:8880//live/angela1673/STZUG/55619.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",CARACOL HD2
+http://imaxplay.net:8880//live/angela1673/STZUG/224163.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",CARACOL INT
+http://imaxplay.net:8880//live/angela1673/STZUG/211350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r99ky" group-title="COLOMBIA",LA KALLE
+http://imaxplay.net:8880//live/angela1673/STZUG/610872.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wmzyp" group-title="COLOMBIA",NTN 24
+http://imaxplay.net:8880//live/angela1673/STZUG/9483.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pbxgm" group-title="COLOMBIA",RCN HD
+http://imaxplay.net:8880//live/angela1673/STZUG/259372.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pbxgm" group-title="COLOMBIA",RCN HD2
+http://imaxplay.net:8880//live/angela1673/STZUG/552798.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2kkhl" group-title="COLOMBIA",SEÑAL COLOMBIA
+http://imaxplay.net:8880//live/angela1673/STZUG/12841.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z4evu" group-title="COLOMBIA",TELECARIBE
+http://imaxplay.net:8880//live/angela1673/STZUG/12844.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/om9er" group-title="COLOMBIA",TELEANTIOQUIA
+http://imaxplay.net:8880//live/angela1673/STZUG/35873.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42vlb" group-title="COLOMBIA",TELEPACÍFICO
+http://imaxplay.net:8880//live/angela1673/STZUG/12846.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",WIN SPORTS + HD 
+http://imaxplay.net:8880//live/angela1673/STZUG/516929.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",WIN SPORTS
+http://imaxplay.net:8880//live/angela1673/STZUG/516932.ts
+
+
+
 
