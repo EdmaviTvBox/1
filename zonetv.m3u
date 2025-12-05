@@ -1,33 +1,49 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1hksa" group-title="COLOMBIA",CANAL INSTITUCIONAL
+http://imaxplay.net:8880//live/angela1673/STZUG/552800.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lg4ab" group-title="COLOMBIA",CANAL TRO
+http://imaxplay.net:8880//live/angela1673/STZUG/215911.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vbwye" group-title="COLOMBIA",CANAL UNO HD
 http://imaxplay.net:8880//live/angela1673/STZUG/242016.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rkgxs" group-title="COLOMBIA",CARACOL 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rkgxs" group-title="COLOMBIA",CARACOL FHD
+http://imaxplay.net:8880//live/angela1673/STZUG/46257.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rkgxs" group-title="COLOMBIA",CARACOL SD
 http://imaxplay.net:8880//live/angela1673/STZUG/55619.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",CARACOL HD2
 http://imaxplay.net:8880//live/angela1673/STZUG/224163.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/d9nzo" group-title="COLOMBIA",CARACOL INT
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4imx9a" group-title="COLOMBIA",CARACOL INT
 http://imaxplay.net:8880//live/angela1673/STZUG/211350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/m0u77" group-title="COLOMBIA",CITY TV SD
+http://imaxplay.net:8880//live/angela1673/STZUG/439822.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kn7jx" group-title="COLOMBIA",CRISTOVISIÓN
+http://imaxplay.net:8880//live/angela1673/STZUG/565139.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r99ky" group-title="COLOMBIA",LA KALLE
 http://imaxplay.net:8880//live/angela1673/STZUG/610872.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wmzyp" group-title="COLOMBIA",NTN 24
 http://imaxplay.net:8880//live/angela1673/STZUG/9483.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4fm2il" group-title="COLOMBIA",RCN NOVELAS
+http://imaxplay.net:8880//live/angela1673/STZUG/9907.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pbxgm" group-title="COLOMBIA",RCN HD
 http://imaxplay.net:8880//live/angela1673/STZUG/259372.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pbxgm" group-title="COLOMBIA",RCN HD2
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tcgo4" group-title="COLOMBIA",RCN HD2
 http://imaxplay.net:8880//live/angela1673/STZUG/552798.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/pcgvgj" group-title="COLOMBIA",RED +
+http://imaxplay.net:8880//live/angela1673/STZUG/552799.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2kkhl" group-title="COLOMBIA",SEÑAL COLOMBIA
 http://imaxplay.net:8880//live/angela1673/STZUG/12841.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/z4evu" group-title="COLOMBIA",TELECARIBE
-http://gama-mx.com:8085/EDGAR2022/EDGAR060722/374766
+http://imaxplay.net:8880//live/angela1673/STZUG/12844.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/om9er" group-title="COLOMBIA",TELEANTIOQUIA
 http://imaxplay.net:8880//live/angela1673/STZUG/35873.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hxu1n" group-title="COLOMBIA",TELEMEDELLÍN
+http://imaxplay.net:8880//live/angela1673/STZUG/12845.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42vlb" group-title="COLOMBIA",TELEPACÍFICO
 http://imaxplay.net:8880//live/angela1673/STZUG/12846.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",WIN SPORTS + HD 
 http://imaxplay.net:8880//live/angela1673/STZUG/516929.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",WIN SPORTS
 http://imaxplay.net:8880//live/angela1673/STZUG/516932.ts
+
 
 
 
