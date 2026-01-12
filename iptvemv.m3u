@@ -1,5 +1,5 @@
 #EXTM3U
-=== KIDS ===
+=== ✨KIDS ===
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY FIRST
 https://tvgolat.org:8443/batusaix/javier/43504.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY TV
@@ -40,9 +40,6 @@ https://tvgolat.org:8443/batusaix/javier/161681.ts
 https://tvgolat.org:8443/batusaix/javier/187989.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",TOONCAST
 https://tvgolat.org:8443/batusaix/javier/9787.ts
-
-
-
 
 === HIST Y CULT ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lspgk" group-title="MUNDO Y CULT",ANIMAL PLANET
@@ -115,6 +112,7 @@ http://elitestream.click:8080/ArnGiral749/Giraldo749/152937
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152935
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9f4an" group-title="MUNDO Y CULT",NATGEO MUNDO ᴴᴰ
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152938
+
 
 
 
