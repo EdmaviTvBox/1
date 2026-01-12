@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMADOS",BITME
+http://xworld-blue.com:25461/play/-BRM6iT3h-0_ymDlmj57fJGIXc11o-d75Ik4-rjEGfDGGboMUDc0sSa7UfVQ7YEG/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/1hksa" group-title="COLOMBIA",CANAL INSTITUCIONAL
 http://imaxplay.net:8880//live/angela1673/STZUG/552800.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lg4ab" group-title="COLOMBIA",CANAL TRO
@@ -43,6 +47,7 @@ http://imaxplay.net:8880//live/angela1673/STZUG/12846.ts
 http://imaxplay.net:8880//live/angela1673/STZUG/516929.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gm8zoi" group-title="COLOMBIA",WIN SPORTS
 http://imaxplay.net:8880//live/angela1673/STZUG/516932.ts
+
 
 
 
