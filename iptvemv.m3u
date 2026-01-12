@@ -1,81 +1,45 @@
 #EXTM3U
 === KIDS ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY FIRST
+https://tvgolat.org:8443/batusaix/javier/43504.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS"BABY TV
+https://tvgolat.org:8443/batusaix/javier/3426.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BITME ᴴᴰ
 https://tvgolat.org:8443/batusaix/javier/160524.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h194f" group-title="KIDS",TOONCAST
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOON NETWORK ᴴᴰ
+https://tvgolat.org:8443/batusaix/javier/16905.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",CARTOONITO
+https://tvgolat.org:8443/batusaix/javier/191171.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISCOVERY KIDS
+https://tvgolat.org:8443/batusaix/javier/43520.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISCOVERY KIDS ᴴᴰ
+https://tvgolat.org:8443/batusaix/javier/757.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY CHANNEL ᴴᴰ
+https://tvgolat.org:8443/batusaix/javier/16908.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY CHANNEL
+https://tvgolat.org:8443/batusaix/javier/187886.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY JR ᴴᴰ (DOB)
+https://tvgolat.org:8443/batusaix/javier/16909.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",LOLLY KIDS
+https://tvgolat.org:8443/batusaix/javier/181456.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICK JR ᴴᴰ
+https://tvgolat.org:8443/batusaix/javier/3429.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICK JR
+https://tvgolat.org:8443/batusaix/javier/187947.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICKELODEON ᴴᴰ
+https://tvgolat.org:8443/batusaix/javier/58204.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICKELODEON ᴴᴰ
+https://tvgolat.org:8443/batusaix/javier/187949.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",PAKA PAKA
+https://tvgolat.org:8443/batusaix/javier/17825.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",SEMILLITAS TV
+https://tvgolat.org:8443/batusaix/javier/171125.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",TEEN NICK ᴴᴰ
+https://tvgolat.org:8443/batusaix/javier/161681.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",TEEN NICK
+https://tvgolat.org:8443/batusaix/javier/187989.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",TOONCAST
 https://tvgolat.org:8443/batusaix/javier/9787.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BOING
-http://imaxplay.net:8880//live/angela1673/STZUG/186608.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/f7hog" group-title="KIDS",BABY FIRTS
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150474
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/o8qys" group-title="KIDS",BABY TV
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150475
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/o8qys" group-title="KIDS",BABY TV
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150476
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bk338" group-title="KIDS",CARTOON NETWORK
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150432
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bk338" group-title="KIDS",CARTOON NETWORK ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150433
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bk338" group-title="KIDS",CARTOON NETWORK ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150434
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bk338" group-title="KIDS",CARTOON NETWORK ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150435
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5jz17" group-title="KIDS",CARTOONITO
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150436
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5jz17" group-title="KIDS",CARTOONITO ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150438
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/72yfv" group-title="KIDS",DISCOVERY KIDS 1
-http://elitestream.click:8080/ArnGiral749/Giraldo749/156086
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/72yfv" group-title="KIDS",DISCOVERY KIDS 2
-http://elitestream.click:8080/ArnGiral749/Giraldo749/156087
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/72yfv" group-title="KIDS",DISCOVERY KIDS 3
-http://elitestream.click:8080/ArnGiral749/Giraldo749/156088
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/72yfv" group-title="KIDS",DISCOVERY KIDS 4
-http://elitestream.click:8080/ArnGiral749/Giraldo749/156089
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kyk1n" group-title="KIDS",DISNEY CHANNEL
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150450
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kyk1n" group-title="KIDS",DISNEY CHANNEL ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150451
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kyk1n" group-title="KIDS",DISNEY CHANNEL ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150452
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kyk1n" group-title="KIDS",DISNEY CHANNEL USA ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150453
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7dogz" group-title="KIDS",DISNEY JR.
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150459
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7dogz" group-title="KIDS",DISNEY JR. ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150460
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7dogz" group-title="KIDS",DISNEY JR. ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150461
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/418cxe" group-title="KIDS",NICK
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150444
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/418cxe" group-title="KIDS",NICK
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150445
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/418cxe" group-title="KIDS",NICK ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150446
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g74wue" group-title="KIDS",NICK JR.
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150440
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g74wue" group-title="KIDS",NICK JR USA ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150442
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g74wue" group-title="KIDS",NICK JR. ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150443
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6nl62m" group-title="KIDS",NICKMUSIC
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150448
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6nl62m" group-title="KIDS",NICKMUSIC ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150449
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/418cxe" group-title="KIDS",NICKTOONS USA ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150447
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2hv8h" group-title="KIDS",PAKA PAKA ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150463
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xooke" group-title="KIDS",TEENNICK
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150470
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xooke" group-title="KIDS",TEENNICK ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150471
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xooke" group-title="KIDS",TEENNICK ᴴᴰ
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150472
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h194f" group-title="KIDS",TOONCAST
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150467
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h194f" group-title="KIDS",TOONCAST
-http://elitestream.click:8080/ArnGiral749/Giraldo749/150468
 
 
 
@@ -151,6 +115,7 @@ http://elitestream.click:8080/ArnGiral749/Giraldo749/152937
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152935
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9f4an" group-title="MUNDO Y CULT",NATGEO MUNDO ᴴᴰ
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152938
+
 
 
 
