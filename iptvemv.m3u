@@ -2,7 +2,7 @@
 === KIDS ===
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY FIRST
 https://tvgolat.org:8443/batusaix/javier/43504.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS"BABY TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY TV
 https://tvgolat.org:8443/batusaix/javier/3426.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BITME ᴴᴰ
 https://tvgolat.org:8443/batusaix/javier/160524.ts
@@ -115,6 +115,7 @@ http://elitestream.click:8080/ArnGiral749/Giraldo749/152937
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152935
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9f4an" group-title="MUNDO Y CULT",NATGEO MUNDO ᴴᴰ
 http://elitestream.click:8080/ArnGiral749/Giraldo749/152938
+
 
 
 
