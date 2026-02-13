@@ -16,9 +16,9 @@ http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/8506
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/8507
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",Claro Sports (M)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/8488
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",Cablenoticias (W)(1080)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g4ayt" group-title="COLOMBIA",Cablenoticias (W)(1080)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/160791
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",Cable Noticias (Z)(720)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/g4ayt" group-title="COLOMBIA",Cable Noticias (Z)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84908
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vbwye" group-title="COLOMBIA",Canal Uno (i)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84899
@@ -44,9 +44,9 @@ http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/8491
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/8492
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",RCN Internacional (i)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84901
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",RCN Nuestra Tele (i)(720)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ph8ev" group-title="COLOMBIA",RCN Nuestra Tele (i)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84903
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",RCN Nuestra Tele (M)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ph8ev" group-title="COLOMBIA",RCN Nuestra Tele (M)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/8496
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2kkhl" group-title="COLOMBIA",Señal Colombia (Z)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84910
@@ -54,11 +54,11 @@ http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84910
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84904
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wmzyp" group-title="COLOMBIA",NTN24 (Z)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84905
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",Suram TV (W)(1080)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mrqbx9" group-title="COLOMBIA",Suram TV (W)(1080)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/160854
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/om9er" group-title="COLOMBIA",TeleAntioquia (Z)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84906
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",TeleCafe (Z)(720)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9q1u1" group-title="COLOMBIA",TeleCafe (Z)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84911
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/42vlb" group-title="COLOMBIA",Telepacifico (Z)(720)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/84912
@@ -152,6 +152,7 @@ http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/160877
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/160878
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/e07n07" group-title="COLOMBIA",Zoom (W)(1080)
 http://tv.diablotv.net:8080/atoasa1/972a7dc52a43/160879
+
 
 
 
