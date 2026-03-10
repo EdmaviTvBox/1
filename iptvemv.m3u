@@ -1,4 +1,84 @@
 #EXTM3U
+
+=== ✨LAT COLOMBIA ===
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4mep9" group-title="LAT COLOMBIA",CANAL 1 (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/330
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oiivif" group-title="LAT COLOMBIA",SENAL COLOMBIA (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/350
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ukgzl" group-title="LAT COLOMBIA",CARACOL (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/331
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iewk4" group-title="LAT COLOMBIA",CARACOL INT (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/335
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8i4gl" group-title="LAT COLOMBIA",RCN (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/344
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ntik1z" group-title="LAT COLOMBIA",RCN NOVELAS (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/348
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr7u9" group-title="LAT COLOMBIA",TELECARIBE (HD) 
+http://canal-pro.xyz:8080/975483113tv/jsn271a/354
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/p8ttb" group-title="LAT COLOMBIA",PASIONES (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/341
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",CABLE NOTICIAS (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/326
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kvv5f" group-title="LAT COLOMBIA",CITY TV (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/337
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wcj54" group-title="LAT COLOMBIA",NTN 24 (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/339
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/v7oyf3" group-title="LAT COLOMBIA",TELEMEDELLIN (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/355
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nne1q" group-title="LAT COLOMBIA",TELEPACIFICO (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/357
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/leyfbo" group-title="LAT COLOMBIA",TELECAFE (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/352
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/046z7p" group-title="LAT COLOMBIA",CANAL CAPITAL (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/328
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lz08j2" group-title="LAT COLOMBIA",CANAL TRO (HD)
+http://canal-pro.xyz:8080/975483113tv/jsn271a/329
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ukgzl" group-title="LAT COLOMBIA",CARACOL (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/332
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iewk4" group-title="LAT COLOMBIA",CARACOL INT (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/336
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8i4gl" group-title="LAT COLOMBIA",RCN (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/345
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/p8ttb" group-title="LAT COLOMBIA",PASIONES (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/342
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",CABLE NOTICIAS (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/327
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/v7oyf3" group-title="LAT COLOMBIA",TELEMEDELLIN (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/356
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nne1q" group-title="LAT COLOMBIA",TELEPACIFICO (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/358
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ukgzl" group-title="LAT COLOMBIA",CARACOL (HD) »3«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/333
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8i4gl" group-title="LAT COLOMBIA",RCN (HD) »3«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/346
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ukgzl" group-title="LAT COLOMBIA",CARACOL (HD) »4«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/334
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r17eu9" group-title="LAT COLOMBIA",WIN SPORTS+ (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/359
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r17eu9" group-title="LAT COLOMBIA",WIN SPORTS+ (HD) »2«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/360
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r17eu9" group-title="LAT COLOMBIA",WIN SPORTS+ (HD) »3«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/361
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cth33" group-title="LAT COLOMBIA",WIN SPORTS (HD) »1«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/362
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cth33" group-title="LAT COLOMBIA",WIN SPORTS (HD) »2«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/363
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cth33" group-title="LAT COLOMBIA",WIN SPORTS (HD) »3«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/364
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cth33" group-title="LAT COLOMBIA",WIN SPORTS (HD) »4«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/365
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cth33" group-title="LAT COLOMBIA",WIN SPORTS (HD) »5«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/366
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cth33" group-title="LAT COLOMBIA",WIN SPORTS (HD) »6«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/367
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cth33" group-title="LAT COLOMBIA",WIN SPORTS (HD) »7«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/368
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/cth33" group-title="LAT COLOMBIA",WIN SPORTS (HD) »8«
+http://canal-pro.xyz:8080/975483113tv/jsn271a/369
 === ✨KIDS ===
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",BABY FIRST
 https://tvgolat.org:8443/batusaix/javier/43504.ts
@@ -104,6 +184,7 @@ https://tvgolat.org:8443/batusaix/javier/59141.ts
 https://tvgolat.org:8443/batusaix/javier/58674.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NAT HIST Y CULTURA",NAT GEO WILD ᴴᴰ
 https://tvgolat.org:8443/batusaix/javier/167088.ts
+
 
 
 
