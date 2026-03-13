@@ -12,6 +12,8 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/344
 http://canal-pro.xyz:8080/998876166tv/z5f870/348
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr7u9" group-title="LAT COLOMBIA",TELECARIBE
 http://canal-pro.xyz:8080/998876166tv/z5f870/354
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr7u9" group-title="LAT COLOMBIA",CITY TV
+http://canal-pro.xyz:8080/998876166tv/z5f870/337
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",CABLE NOTICIAS
 http://canal-pro.xyz:8080/998876166tv/z5f870/327
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",NTN 24
@@ -46,6 +48,7 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/200
 
 https://n9.cl/jremt
 001.m3u
+
 
 
 
