@@ -1,5 +1,7 @@
 #EXTM3U
 ✨ LAT COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",CANAL 1 
+http://canal-pro.xyz:8080/998876166tv/z5f870/330
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ukgzl" group-title="LAT COLOMBIA",CARACOL 
 http://canal-pro.xyz:8080/998876166tv/z5f870/331
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iewk4" group-title="LAT COLOMBIA",CARACOL INT
@@ -12,12 +14,39 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/348
 http://canal-pro.xyz:8080/998876166tv/z5f870/354
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",CABLE NOTICIAS
 http://canal-pro.xyz:8080/998876166tv/z5f870/327
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",NTN 24
+http://canal-pro.xyz:8080/998876166tv/z5f870/340
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",CANAL TRO 
+http://canal-pro.xyz:8080/998876166tv/z5f870/329
 
-⭐️DEPORTES
+✨ VARIEDADES PREMIUM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",A&E »1«
+http://canal-pro.xyz:8080/998876166tv/z5f870/100
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",SONY CHANNEL »1«
+http://canal-pro.xyz:8080/998876166tv/z5f870/199
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",SONY CHANNEL »2«
+http://canal-pro.xyz:8080/998876166tv/z5f870/200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://n9.cl/jremt
 001.m3u
+
 
 
 
