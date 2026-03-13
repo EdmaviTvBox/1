@@ -1,22 +1,22 @@
 #EXTM3U
 ✨ LAT COLOMBIA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",CANAL 1 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/akr0q" group-title="LAT COLOMBIA",CANAL 1 
 http://canal-pro.xyz:8080/998876166tv/z5f870/330
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",SENAL COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47FAPeE" group-title="LAT COLOMBIA",SENAL COLOMBIA
 http://canal-pro.xyz:8080/998876166tv/z5f870/350
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ukgzl" group-title="LAT COLOMBIA",CARACOL 
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3u5wkv" group-title="LAT COLOMBIA",CARACOL 
 http://canal-pro.xyz:8080/998876166tv/z5f870/331
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/iewk4" group-title="LAT COLOMBIA",CARACOL INT
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4cKrTs2" group-title="LAT COLOMBIA",CARACOL INT
 http://canal-pro.xyz:8080/998876166tv/z5f870/335
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8i4gl" group-title="LAT COLOMBIA",RCN
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4djffjO" group-title="LAT COLOMBIA",RCN
 http://canal-pro.xyz:8080/998876166tv/z5f870/344
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ntik1z" group-title="LAT COLOMBIA",RCN NOVELAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47iesft" group-title="LAT COLOMBIA",RCN NOVELAS
 http://canal-pro.xyz:8080/998876166tv/z5f870/348
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yr7u9" group-title="LAT COLOMBIA",TELECARIBE
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4s7uKzX" group-title="LAT COLOMBIA",TELECARIBE
 http://canal-pro.xyz:8080/998876166tv/z5f870/354
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",CITY TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9jndi" group-title="LAT COLOMBIA",CITY TV
 http://canal-pro.xyz:8080/998876166tv/z5f870/337
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",CABLE NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5qgs2m" group-title="LAT COLOMBIA",CABLE NOTICIAS
 http://canal-pro.xyz:8080/998876166tv/z5f870/327
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",NTN 24
 http://canal-pro.xyz:8080/998876166tv/z5f870/340
@@ -58,6 +58,7 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/200
 
 https://n9.cl/jremt
 001.m3u
+
 
 
 
