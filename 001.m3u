@@ -8,12 +8,14 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/54423
 ✨ LAT COLOMBIA
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/akr0q" group-title="LAT COLOMBIA",CANAL 1 »EMV« 
 https://live.eu-north-1b.cf.dmcdn.net/sec2(5FIN7zhB-aFd279qNmtN0WjAHtrTqeeRVnInMXRCYIAk7UCe5AYgZKtJ3QJur5ckrSpI-gb93ph6sJ8qcSJYzeXTedoV28FMWNJfBeYgiWBfWV3Wz_s3aXDZxVz26L7j)/dm/3/x9nvvkc/s/live-480.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47FAPeE" group-title="LAT COLOMBIA",SENAL COLOMBIA »EMV«
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",RED MAS »EMV« 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/akr0q" group-title="LAT COLOMBIA",CANAL 1 
 http://canal-pro.xyz:8080/998876166tv/z5f870/330
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47FAPeE" group-title="LAT COLOMBIA",SENAL COLOMBIA
 http://canal-pro.xyz:8080/998876166tv/z5f870/350
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",RED MAS »EMV« 
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3u5wkv" group-title="LAT COLOMBIA",CARACOL 
 http://canal-pro.xyz:8080/998876166tv/z5f870/331
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4cKrTs2" group-title="LAT COLOMBIA",CARACOL INT
@@ -66,6 +68,8 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/199
 http://canal-pro.xyz:8080/998876166tv/z5f870/200
 
 ✨ CULTURAL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURAL",DISC SCI 
+http://canal-pro.xyz:8080/998876166tv/z5f870/59436
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURAL",NAT GEO
 http://canal-pro.xyz:8080/998876166tv/z5f870/59398
 
