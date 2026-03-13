@@ -6,6 +6,8 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/54428
 http://canal-pro.xyz:8080/998876166tv/z5f870/54423
 
 ✨ LAT COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/akr0q" group-title="LAT COLOMBIA",CANAL 1 »EMV« 
+https://live.eu-north-1b.cf.dmcdn.net/sec2(5FIN7zhB-aFd279qNmtN0WjAHtrTqeeRVnInMXRCYIAk7UCe5AYgZKtJ3QJur5ckrSpI-gb93ph6sJ8qcSJYzeXTedoV28FMWNJfBeYgiWBfWV3Wz_s3aXDZxVz26L7j)/dm/3/x9nvvkc/s/live-480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/akr0q" group-title="LAT COLOMBIA",CANAL 1 
 http://canal-pro.xyz:8080/998876166tv/z5f870/330
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47FAPeE" group-title="LAT COLOMBIA",SENAL COLOMBIA
@@ -52,10 +54,10 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/59479
 http://canal-pro.xyz:8080/998876166tv/z5f870/54448
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN MOVIES »ESP«
 http://canal-pro.xyz:8080/998876166tv/z5f870/12320
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",EL GOURMET
+http://canal-pro.xyz:8080/998876166tv/z5f870/59409
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",FX
 http://canal-pro.xyz:8080/998876166tv/z5f870/59395
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",MTV 
-http://canal-pro.xyz:8080/998876166tv/z5f870/59397
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",SONY CHANNEL »1«
 http://canal-pro.xyz:8080/998876166tv/z5f870/199
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",SONY CHANNEL »2«
@@ -65,10 +67,36 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/200
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURAL",NAT GEO
 http://canal-pro.xyz:8080/998876166tv/z5f870/59398
 
-
 ✨ DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN »MEX«
+http://canal-pro.xyz:8080/998876166tv/z5f870/59420
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN2 »MEX«
+http://canal-pro.xyz:8080/998876166tv/z5f870/59419
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN3 »MEX«
+http://canal-pro.xyz:8080/998876166tv/z5f870/59421
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 »MEX«
 http://canal-pro.xyz:8080/998876166tv/z5f870/59401
+
+✨ LAT MEXICO
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT MEXICO",LAS ESTRELLAS
+http://canal-pro.xyz:8080/998876166tv/z5f870/59422
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT MEXICO",MEXIQUENSE
+http://canal-pro.xyz:8080/998876166tv/z5f870/59408
+
+✨ ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPAÑA",TVE
+http://canal-pro.xyz:8080/998876166tv/z5f870/59418
+
+
+✨ MUSICA VARIEDADES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA VARIEDADES",BANDAMAX
+http://canal-pro.xyz:8080/998876166tv/z5f870/59411
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA VARIEDADES",MTV 
+http://canal-pro.xyz:8080/998876166tv/z5f870/59397
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA VARIEDADES",TELEHIT
+http://canal-pro.xyz:8080/998876166tv/z5f870/59412
+
 
 
 
@@ -87,6 +115,7 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/59401
 
 https://n9.cl/jremt
 001.m3u
+
 
 
 
