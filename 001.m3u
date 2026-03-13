@@ -1,4 +1,10 @@
 #EXTM3U
+✨ KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICK JR
+http://canal-pro.xyz:8080/998876166tv/z5f870/54428
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",DISNEY JR (HD)
+http://canal-pro.xyz:8080/998876166tv/z5f870/54423
+
 ✨ LAT COLOMBIA
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/akr0q" group-title="LAT COLOMBIA",CANAL 1 
 http://canal-pro.xyz:8080/998876166tv/z5f870/330
@@ -12,6 +18,8 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/335
 http://canal-pro.xyz:8080/998876166tv/z5f870/344
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47iesft" group-title="LAT COLOMBIA",RCN NOVELAS
 http://canal-pro.xyz:8080/998876166tv/z5f870/348
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4djffjO" group-title="LAT COLOMBIA",RCN NUESTRA TELE
+http://canal-pro.xyz:8080/998876166tv/z5f870/35402
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4s7uKzX" group-title="LAT COLOMBIA",TELECARIBE
 http://canal-pro.xyz:8080/998876166tv/z5f870/354
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9jndi" group-title="LAT COLOMBIA",CITY TV
@@ -34,12 +42,31 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/363
 ✨ VARIEDADES PREMIUM
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",A&E »1«
 http://canal-pro.xyz:8080/998876166tv/z5f870/100
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",A&E »2«
+http://canal-pro.xyz:8080/998876166tv/z5f870/102
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN »1«
+http://canal-pro.xyz:8080/998876166tv/z5f870/107
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN »2«
+http://canal-pro.xyz:8080/998876166tv/z5f870/59479
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN »ESP«
+http://canal-pro.xyz:8080/998876166tv/z5f870/54448
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN MOVIES »ESP«
+http://canal-pro.xyz:8080/998876166tv/z5f870/12320
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",FX
+http://canal-pro.xyz:8080/998876166tv/z5f870/59395
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",MTV 
+http://canal-pro.xyz:8080/998876166tv/z5f870/59397
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",SONY CHANNEL »1«
 http://canal-pro.xyz:8080/998876166tv/z5f870/199
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",SONY CHANNEL »2«
 http://canal-pro.xyz:8080/998876166tv/z5f870/200
 
+✨ CULTURAL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURAL",
 
+✨ DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 »MEX«
+http://canal-pro.xyz:8080/998876166tv/z5f870/59401
 
 
 
@@ -58,6 +85,7 @@ http://canal-pro.xyz:8080/998876166tv/z5f870/200
 
 https://n9.cl/jremt
 001.m3u
+
 
 
 
