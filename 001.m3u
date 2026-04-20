@@ -1,4 +1,61 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel HD" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="⭐️ CULTURA",Discovery Channel HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318603.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel SD" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="⭐️ CULTURA",Discovery Channel SD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="⭐️ CULTURA",Discovery Home & Health HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="⭐️ CULTURA",Discovery Home & Health SD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="⭐️ CULTURA",Discovery Investigation HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science" tvg-logo="http://redworld.pro:8880/images/d69e2b874961c77fcc63cc7798a56b85.png" group-title="⭐️ CULTURA",DISCOVERY Science
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo HD" tvg-logo="http://redworld.pro:8880/images/1463afaef86d27073fa41c8053a853a4.png" group-title="⭐️ CULTURA",DISCOVERY Turbo HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="http://redworld.pro:8880/images/8cd8bfde4f3359975e55ffef11065a50.png" group-title="⭐️ CULTURA",DISCOVERY World SD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World HD" tvg-logo="http://redworld.pro:8880/images/8cd8bfde4f3359975e55ffef11065a50.png" group-title="⭐️ CULTURA",DISCOVERY World HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia FHD" tvg-logo="http://redworld.pro:8880/images/b7664c449eaa2b5da315f071351f39e7.png" group-title="⭐️ CULTURA",Discovery Familia FHD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia HD" tvg-logo="http://redworld.pro:8880/images/b7664c449eaa2b5da315f071351f39e7.png" group-title="⭐️ CULTURA",Discovery Familia HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="http://redworld.pro:8880/images/0e8398e1532318e98927555bc11e0ae1.png" group-title="⭐️ CULTURA",EL GOURMET
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318616.m3u8
+#EXTINF:-1 tvg-id="History.pe" tvg-name="HISTORY HD" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="⭐️ CULTURA",HISTORY HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318617.m3u8
+#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2 " tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="⭐️ CULTURA",History 2 
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318618.m3u8
+#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2 HD" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="⭐️ CULTURA",History 2 HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL Geographic FHD" tvg-logo="http://redworld.pro:8880/images/7a9d62e859726cf7afa212b05ad79f7f.png" group-title="⭐️ CULTURA",NATIONAL Geographic FHD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo HD" tvg-logo="http://redworld.pro:8880/images/7a9d62e859726cf7afa212b05ad79f7f.png" group-title="⭐️ CULTURA",NAT Geo HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="http://redworld.pro:8880/images/2f41b8dc685ce23fc3d65959372de685.png" group-title="⭐️ CULTURA",NATGEO WILD HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD." tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="⭐️ CULTURA",ANIMAL Planet HD.
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment FHD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="⭐️ CULTURA",E! Entretainment FHD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment HD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="⭐️ CULTURA",E! Entretainment HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD." tvg-logo="http://redworld.pro:8880/images/faced036eb73698d8950976cac5c442d.png" group-title="⭐️ CULTURA",CANAL COCINA HD.
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="⭐️ CULTURA",TLC FHD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="⭐️ CULTURA",TLC HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="http://redworld.pro:8880/images/8361b0aa15c201aba7d73d0b6193b6c7.png" group-title="⭐️ CULTURA",HGTV FHD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://redworld.pro:8880/images/4e6a938c29df214ad11bef9ee275cd76.png" group-title="⭐️ CULTURA",LIFETIME HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318632.m3u8
+
 ✨ KIDS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",NICK JR
 http://canal-pro.xyz:8080/998876166tv/z5f870/54428
