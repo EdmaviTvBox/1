@@ -1,18 +1,24 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
 ✨COLOMBIA
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oka29" group-title="COLOMBIA",Caracol
-https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkbEYbUoZEn5wuJlDnt8hIN/ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oka29" group-title="COLOMBIA",Caracol (HD)
-https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudlkh7Zk8FvScIO0Gf8sSFQU/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n276p" group-title="COLOMBIA",RCN FHD 
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31359
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oka29" group-title="COLOMBIA",CANAL CARACOL FHD  
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31369
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zrn61" group-title="COLOMBIA",TELECARIBE HD
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31361
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/a4oyj" group-title="COLOMBIA",VWIN SPORTS PLUS*
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/68891
+
+https://xonawinfinity.xyz:8443
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oka29" group-title="COLOMBIA",Caracol (SD)
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudltL2yOydvDDs4SwMiZWcNh/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/44rio" group-title="COLOMBIA",Caracol HD2
 http://galaxypro.online:8080/cQFrQTf/AE79pJ/393983
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/r7d9pg" group-title="COLOMBIA",Caracol Int (SD)
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudmezlRvnXyph-1Dl5lZOxNx/ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n276p" group-title="COLOMBIA",RCN
-https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudmR2PsdjQgfZlmqeooznBQ_/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n276p" group-title="COLOMBIA",RCN (HD)
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkkwFhTQd7VnsSPXeMxY3fw/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n276p" group-title="COLOMBIA",RCN (HD).
@@ -42,8 +48,7 @@ https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkS
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkobg-DbmQf-G8e9tGnotrG/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7q3c1" group-title="COLOMBIA",TeleCafe ᴴᴰ
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudnZOLyHyF2aevmTw_NxMrNi/ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zrn61" group-title="COLOMBIA",Telecaribe (SD)
-https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkbgYOsBHj-HLXMVXGNCOtc/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zrn61" group-title="COLOMBIA",Telecaribe (SD).
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudk52hcnyuK6qEmSQg81S3FD/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ne8fl" group-title="COLOMBIA",TelePacifico HD
@@ -60,8 +65,7 @@ https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudlG
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudnIAr4yZBFwmQJjUDrEgZN0/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/a4oyj" group-title="COLOMBIA",Win Sports FHD
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudl6kCnGDiH0L18xCV3_AZzq/ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/a4oyj" group-title="COLOMBIA",Win Sports HD
-https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudkNSKD4JHe64jUp1JlVjNfm/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/a4oyj" group-title="COLOMBIA",Win Sports SD
 https://xonawinfinity.xyz:8443/play/HWUBcbz7qWpQR1BeircIW0r3CDdCKVBXz_Ttb2zIudmRxM91Yuy14OPHrqTEriq6/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/w939r2" group-title="COLOMBIA",ESPN COLOMBIA
