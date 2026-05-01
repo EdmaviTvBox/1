@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/708xw" group-title="🌎Colombia",Cablenoticias
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://n9.cl/l97ohv" group-title="🌎Colombia",Canal Capital
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Uno HD" tvg-logo="https://n9.cl/708xw" group-title="🌎Colombia",Canal Uno
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318371.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="🌎Colombia",Caracol TV
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318373.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caracol Int" tvg-logo="https://n9.cl/8hqgt" group-title="🌎Colombia",Caracol Int
@@ -26,7 +20,7 @@ http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/363718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN Novelas HD" tvg-logo="https://n9.cl/hamvc0" group-title="🌎Colombia",RCN Novelas
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318386.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://n9.cl/83cwi" group-title="🌎Colombia",Señal Colombia
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318387.m3u8
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://n9.cl/83cwi" group-title="🌎Colombia",Señal Colombia
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318388.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleAntioquia" tvg-logo="https://n9.cl/s37mhf" group-title="🌎Colombia",TeleAntioquia
@@ -39,6 +33,13 @@ http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318392.m3u8
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318393.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="https://n9.cl/va7m7" group-title="🌎Colombia",Telecaribe
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="https://n9.cl/7cd2pp" group-title="🌎Colombia",Telemedellin
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="https://n9.cl/7cd2pp" group-title="🌎Colombia",Telemedellin
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/482k5" group-title="🌎Colombia",Telepacifico
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318397.m3u8
+
 🪲CULTURA
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD." tvg-logo="https://n9.cl/8bc53" group-title="🪲CULTURA",Animal Planet HD.
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318624.m3u8
