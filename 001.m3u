@@ -3,16 +3,11 @@
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/68891
 #EXTINF:-1 tvg-id="" tvg-name="CABLENOTICIAS" tvg-logo="https://n9.cl/vxdiqi" group-title="💫Colombia",CABLENOTICIAS FHD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/84868
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV FHD  
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31369
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV FHD 
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/288078
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV HD  
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/159809
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV HD 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/61894
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV HQ
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/892130
+
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/8hqgt" group-title="💫Colombia",CARACOL INT FHD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/892129
 #EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/5ykv6p" group-title="💫Colombia",NTN24 FHD
@@ -50,6 +45,12 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/61906
 #EXTINF:-1 tvg-id="" tvg-name="CANAL TRO" tvg-logo="" group-title="💫Colombia",CANAL TRO SD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31391
 
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV FHD  
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31369
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV FHD 
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/288078
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV HQ
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/892130
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia",LA KALLE
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31387
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia",CANAL UNO
