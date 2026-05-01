@@ -1,75 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="W $ports+ HD" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="🌎Colombia",W $ports+ HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/437740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="W $ports+ OP2" tvg-logo="http://redworld.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="🌎Colombia",W $ports + OP2
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/437741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="W $ports HD" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="🌎Colombia",W $ports HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/437742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="W $ports SD" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="🌎Colombia",W $ports SD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/437743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CableNoticias HD" tvg-logo="http://goldfull.pro:8880/images/6397e0a8c21ef6a4bac5a777a71e7f01.png" group-title="🌎Colombia",CableNoticias HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="http://goldfull.pro:8880/images/7da05d11d78e8951326c0b1d72928161.png" group-title="🌎Colombia",Canal Capital
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Uno HD" tvg-logo="http://redworld.pro:8880/images/cd4425427821cc583cfb026e619fa062.png" group-title="🌎Colombia",Canal Uno HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD" tvg-logo="http://redworld.pro:8880/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="🌎Colombia",CARACOL HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL OP2" tvg-logo="http://redworld.pro:8880/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="🌎Colombia",CARACOL OP2
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="http://goldfull.pro:8880/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="🌎Colombia",CARACOL
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional" tvg-logo="http://goldfull.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="🌎Colombia",Caracol Internacional
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional HD" tvg-logo="http://redworld.pro:8880/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="🌎Colombia",Caracol Internacional HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Noticias" tvg-logo="http://redworld.pro:8880/images/83e0ce2370325de8a0c042aa691e69ce.png" group-title="🌎Colombia",Caracol Noticias
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="City TV HD" tvg-logo="http://redworld.pro:8880/images/3c9c23cf3b3110edd5de217492ba23bf.png" group-title="🌎Colombia",City TV HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Tiempo" tvg-logo="http://redworld.pro:8880/images/e3374ab3d074c77675647cfd8d5ac193.png" group-title="🌎Colombia",El Tiempo
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="http://redworld.pro:8880/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png" group-title="🌎Colombia",NTN24
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="http://redworld.pro:8880/images/ea579624982a7b2006f31ac0abe3084e.png" group-title="🌎Colombia",Pasiones HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN SD" tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="🌎Colombia",RCN SD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="http://redworld.pro:8880/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="🌎Colombia",RCN HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas HD" tvg-logo="http://redworld.pro:8880/images/1fb58df5c47942436ba1bfe0978e1b70.png" group-title="🌎Colombia",RCN Novelas HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="http://goldfull.pro:8880/images/30e73c310da7d353d9a9bf46213c1135.png" group-title="🌎Colombia",Señal Colombia
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia HD" tvg-logo="http://redworld.pro:8880/images/30e73c310da7d353d9a9bf46213c1135.png" group-title="🌎Colombia",Señal Colombia HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleAntioquia" tvg-logo="http://goldfull.pro:8880/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png" group-title="🌎Colombia",TeleAntioquia
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleAntioquia HD" tvg-logo="http://redworld.pro:8880/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png" group-title="🌎Colombia",TeleAntioquia HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="http://goldfull.pro:8880/images/aff1a8273b40f6cdd36ef6da73fdeb50.png" group-title="🌎Colombia",Telecafé
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecafé HD" tvg-logo="http://redworld.pro:8880/images/aff1a8273b40f6cdd36ef6da73fdeb50.png" group-title="🌎Colombia",Telecafé HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleCaribe" tvg-logo="http://goldfull.pro:8880/images/313344b792f2396df12c249f7d3812c9.png" group-title="🌎Colombia",TeleCaribe
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecaribe HD" tvg-logo="http://redworld.pro:8880/images/313344b792f2396df12c249f7d3812c9.png" group-title="🌎Colombia",Telecaribe HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="http://goldfull.pro:8880/images/ff3f24f3d5d3103cd988f09417c23c27.png" group-title="🌎Colombia",Telemedellin
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemedellin HD" tvg-logo="http://redworld.pro:8880/images/ff3f24f3d5d3103cd988f09417c23c27.png" group-title="🌎Colombia",Telemedellin HD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="http://goldfull.pro:8880/images/f661ac88786c79fb80ecb9bde42fa929.png" group-title="🌎Colombia",Telepacifico
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318397.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La kalle" tvg-logo="http://goldfull.pro:8880/images/a4b965de697b8782ba503dd6ab336c04.png" group-title="🌎Colombia",La kalle
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV AGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAW1Sn8nmaEu9zN4vP23Fp8EfO2OSWuoGgg&usqp=CAU" group-title="🌎Colombia",TV AGRO
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="http://redworld.pro:8880/images/6397e0a8c21ef6a4bac5a777a71e7f01.png" group-title="🌎Colombia",Cablenoticias
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/708xw" group-title="🌎Colombia",Cablenoticias
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN MÁS+" tvg-logo="http://goldfull.pro:8880/images/9eab3d01ae2477e250ff4dd968b47923.jpg" group-title="🌎Colombia",RCN MÁS+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://n9.cl/l97ohv" group-title="🌎Colombia",Canal Capital
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Uno HD" tvg-logo="https://n9.cl/708xw" group-title="🌎Colombia",Canal Uno
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="🌎Colombia",Caracol TV
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Int" tvg-logo="https://n9.cl/8hqgt" group-title="🌎Colombia",Caracol Int
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Int" tvg-logo="https://n9.cl/8hqgt" group-title="🌎Colombia",Caracol Int
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City TV HD" tvg-logo="https://n9.cl/my1t2" group-title="🌎Colombia",City TV HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/5ykv6p" group-title="🌎Colombia",NTN24
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://n9.cl/4wevv0" group-title="🌎Colombia",Pasiones
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN SD" tvg-logo="https://n9.cl/otrs8r" group-title="🌎Colombia",RCN SD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://n9.cl/otrs8r" group-title="🌎Colombia",RCN HD
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN MÁS+" tvg-logo="https://n9.cl/zaj67" group-title="🌎Colombia",RCN MÁS+
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/363718.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas HD" tvg-logo="https://n9.cl/hamvc0" group-title="🌎Colombia",RCN Novelas
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://n9.cl/83cwi" group-title="🌎Colombia",Señal Colombia
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://n9.cl/83cwi" group-title="🌎Colombia",Señal Colombia
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleAntioquia" tvg-logo="https://n9.cl/s37mhf" group-title="🌎Colombia",TeleAntioquia
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://n9.cl/gg0h83" group-title="🌎Colombia",Telecafé
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://n9.cl/gg0h83" group-title="🌎Colombia",Telecafé
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleCaribe" tvg-logo="https://n9.cl/va7m7" group-title="🌎Colombia",TeleCaribe
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="https://n9.cl/va7m7" group-title="🌎Colombia",Telecaribe
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318394.m3u8
 🪲CULTURA
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD." tvg-logo="https://n9.cl/8bc53" group-title="🪲CULTURA",Animal Planet HD.
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318624.m3u8
