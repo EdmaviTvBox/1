@@ -78,63 +78,117 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31393
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia",CARACOL INT 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31368
 
-🪲CULTURA
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD." tvg-logo="https://n9.cl/8bc53" group-title="🪲CULTURA",Animal Planet HD.
+♨️CULTURA
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/tsi6qx" group-title="♨️CULTURA",ANIMAL PLANET 
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/30074
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/tsi6qx" group-title="♨️CULTURA",ANIMAL PLANET 
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina HD." tvg-logo="https://n9.cl/heeg0g" group-title="🪲CULTURA",Canal Cocina HD.
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://n9.cl/m6jc3" group-title="♨️CULTURA",CANAL COCINA
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://n9.cl/fla9p" group-title="🪲CULTURA",Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/qyckf" group-title="♨️CULTURA",DISC CHANNEL
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/30076
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/qyckf" group-title="♨️CULTURA",DISC CHANNEL
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="https://n9.cl/fla9p" group-title="🪲CULTURA",Discovery Channel SD
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/qyckf" group-title="♨️CULTURA",DISC CHANNEL
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia FHD" tvg-logo="https://n9.cl/4ko5i" group-title="🪲CULTURA",Discovery Familia FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISC FAMILIA" tvg-logo="https://n9.cl/j0nt7" group-title="♨️CULTURA",DISC FAMILIA 
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31053
+#EXTINF:-1 tvg-id="" tvg-name="DISC FAMILIA" tvg-logo="https://n9.cl/j0nt7" group-title="♨️CULTURA",DISC FAMILIA 
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia HD" tvg-logo="https://n9.cl/4ko5i" group-title="🪲CULTURA",Discovery Familia HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC FAMILIA" tvg-logo="https://n9.cl/j0nt7" group-title="♨️CULTURA",DISC FAMILIA 
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="https://n9.cl/89dml" group-title="🪲CULTURA",Discovery H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/m4ajs" group-title="♨️CULTURA",DISC H&H 
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/30084
+#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/m4ajs" group-title="♨️CULTURA",DISC H&H 
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H SD" tvg-logo="https://n9.cl/89dml" group-title="🪲CULTURA",Discovery H&H SD
+#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/m4ajs" group-title="♨️CULTURA",DISC H&H 
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" tvg-logo="https://n9.cl/q6p82" group-title="🪲CULTURA",Discovery ID HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/ha3do" group-title="♨️CULTURA",DISC ID
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31049
+#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/ha3do" group-title="♨️CULTURA",DISC ID
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://n9.cl/75ivo" group-title="🪲CULTURA",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="DISC SCIENCE" tvg-logo="https://n9.cl/3hm07" group-title="♨️CULTURA",DISC SCIENCE 
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31047
+#EXTINF:-1 tvg-id="" tvg-name="DISC SCIENCE" tvg-logo="https://n9.cl/3hm07" group-title="♨️CULTURA",DISC SCIENCE 
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31048
+#EXTINF:-1 tvg-id="" tvg-name="DISC SCIENCE" tvg-logo="https://n9.cl/3hm07" group-title="♨️CULTURA",DISC SCIENCE 
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://n9.cl/3zy7u" group-title="🪲CULTURA",Discovery Theater HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC THEATER" tvg-logo="https://n9.cl/agm0h" group-title="♨️CULTURA",DISC THEATER 
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/110775
+#EXTINF:-1 tvg-id="" tvg-name="DISC THEATER" tvg-logo="https://n9.cl/agm0h" group-title="♨️CULTURA",DISC THEATER 
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://n9.cl/3zy7u" group-title="🪲CULTURA",Discovery Theater
+#EXTINF:-1 tvg-id="" tvg-name="DISC THEATER" tvg-logo="https://n9.cl/agm0h" group-title="♨️CULTURA",DISC THEATER 
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC FHD" tvg-logo="https://n9.cl/f2nz9" group-title="🪲CULTURA",Discovery TLC FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/wcw2tq" group-title="♨️CULTURA",DISC TLC
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/110781
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/wcw2tq" group-title="♨️CULTURA",DISC TLC
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD" tvg-logo="https://n9.cl/f2nz9" group-title="🪲CULTURA",Discovery TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/wcw2tq" group-title="♨️CULTURA",DISC TLC
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://n9.cl/1m7mg" group-title="🪲CULTURA",Discovery Turbo HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/5xpqgk" group-title="♨️CULTURA",DISC TURBO
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/30078
+#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/5xpqgk" group-title="♨️CULTURA",DISC TURBO
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World SD" tvg-logo="https://n9.cl/thhac" group-title="🪲CULTURA",Discovery World SD
+#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/hqd6ix" group-title="♨️CULTURA",DISC WORLD
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31050
+#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/hqd6ix" group-title="♨️CULTURA",DISC WORLD
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://n9.cl/thhac" group-title="🪲CULTURA",Discovery World HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/hqd6ix" group-title="♨️CULTURA",DISC WORLD
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment FHD" tvg-logo="https://n9.cl/rflwf" group-title="🪲CULTURA",E! Entretainment FHD
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="https://n9.cl/qcwrlf" group-title="♨️CULTURA",E! FHD
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment HD" tvg-logo="https://n9.cl/rflwf" group-title="🪲CULTURA",E! Entretainment HD
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://n9.cl/qcwrlf" group-title="♨️CULTURA",E! HD
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://n9.cl/qva2pr" group-title="🪲CULTURA",El Gourmet
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://n9.cl/fh15m" group-title="♨️CULTURA",EL GOURMET
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://n9.cl/9l6stw" group-title="🪲CULTURA",HGTV FHD
-http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318631.m3u8
-#EXTINF:-1 tvg-id="History.pe" tvg-name="History HD" tvg-logo="https://n9.cl/yvsnems" group-title="🪲CULTURA",History HD
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/fjwzsu" group-title="♨️CULTURA",FOOD NETWORK
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31063
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/ameo2" group-title="♨️CULTURA",HISTORY
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318617.m3u8
-#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2 HD" tvg-logo="https://n9.cl/x6zod" group-title="🪲CULTURA",History 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/g1lm5" group-title="♨️CULTURA",HISTORY 2
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31054
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/g1lm5" group-title="♨️CULTURA",HISTORY 2
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318619.m3u8
-#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2 " tvg-logo="https://n9.cl/x6zod" group-title="🪲CULTURA",History 2 
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/g1lm5" group-title="♨️CULTURA",HISTORY 2
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://n9.cl/uicx5" group-title="🪲CULTURA",LIFETIME HD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/jkub2" group-title="♨️CULTURA",HGTV
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/110851
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/jkub2" group-title="♨️CULTURA",HGTV
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/30082
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/jkub2" group-title="♨️CULTURA",HGTV
+http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/uicx5" group-title="♨️CULTURA",LIFETIME
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD" tvg-logo="https://n9.cl/1qwh0c" group-title="🪲CULTURA",Nat Geo FHD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/nbroy" group-title="♨️CULTURA",NAT GEO
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="https://n9.cl/1qwh0c" group-title="🪲CULTURA",Nat Geo HD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/nbroy" group-title="♨️CULTURA",NAT GEO
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="https://n9.cl/4xwyqv" group-title="🪲CULTURA",NatGeo Wild HD
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO MUNDO" tvg-logo="https://n9.cl/u9it8" group-title="♨️CULTURA",NATGEO MUNDO
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31058
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://n9.cl/9h5vg" group-title="♨️CULTURA",NATGEO WILD
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/182223
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://n9.cl/9h5vg" group-title="♨️CULTURA",NATGEO WILD
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318623.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
 
 #EXTINF:-1 tvg-id="ABELLA DANGER" tvg-logo="https://n9.cl/tlk0k" group-title="⛔PORNBOX",ABELLA DANGER
 http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565730
