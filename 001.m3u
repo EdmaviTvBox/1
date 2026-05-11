@@ -7,7 +7,8 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/84868
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/159809
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV HD 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/61894
-
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31035
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/8hqgt" group-title="💫Colombia",CARACOL INT FHD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/892129
 #EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/5ykv6p" group-title="💫Colombia",NTN24 FHD
@@ -77,97 +78,6 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31382
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31393
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia",CARACOL INT 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31368
-
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia II",CARACOL (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/331
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia II",CARACOL (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/332
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia II",CARACOL (HD) »3«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/333
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia II",CARACOL (HD) »4«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/334
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/8hqgt" group-title="💫Colombia II",CARACOL INTERNACIONAL (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/335
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/8hqgt" group-title="💫Colombia II",CARACOL INTERNACIONAL (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/336
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/otrs8r" group-title="💫Colombia II",RCN (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/343
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/otrs8r" group-title="💫Colombia II",RCN (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/344
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/otrs8r" group-title="💫Colombia II",RCN (HD) »3«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/345
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/otrs8r" group-title="💫Colombia II",RCN (HD) »4«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/346
-#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/ixrs3" group-title="💫Colombia II",RCN NUESTRA TELE (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/349
-#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/ixrs3" group-title="💫Colombia II",RCN INTERNACIONAL (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/347
-#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/ixrs3" group-title="💫Colombia II",RCN NOVELAS (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/348
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/va7m7" group-title="💫Colombia II",TELECARIBE (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/353
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/va7m7" group-title="💫Colombia II",TELECARIBE (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/354
-#EXTINF:-1 tvg-id="" tvg-name="CABLENOTICIAS" tvg-logo="https://n9.cl/vxdiqi" group-title="💫Colombia II",CABLE NOTICIAS (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/326
-#EXTINF:-1 tvg-id="" tvg-name="CABLENOTICIAS" tvg-logo="https://n9.cl/vxdiqi" group-title="💫Colombia II",CABLE NOTICIAS (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/327
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/5ykv6p" group-title="💫Colombia II",NTN 24 (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/339
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/5ykv6p" group-title="💫Colombia II",NTN 24 (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/340
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://n9.cl/4wevv0" group-title="💫Colombia II",PASIONES (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/341
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://n9.cl/4wevv0" group-title="💫Colombia II",PASIONES (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/342
-#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/7cd2pp" group-title="💫Colombia II",TELEMEDELLIN (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/355
-#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="https://n9.cl/7cd2pp" group-title="💫Colombia II",TELEMEDELLIN (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/356
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/482k5" group-title="💫Colombia II",TELEPACIFICO (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/357
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/482k5" group-title="💫Colombia II",TELEPACIFICO (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/358
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 1" tvg-logo="https://n9.cl/708xw" group-title="💫Colombia II",CANAL 1 (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/330
-#EXTINF:-1 tvg-id="" tvg-name="CANAL TRO" tvg-logo="https://n9.cl/oyhr6" group-title="💫Colombia II",CANAL TRO (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/329
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://n9.cl/my1t2" group-title="💫Colombia II",CITY TV (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/337
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://n9.cl/my1t2" group-title="💫Colombia II",CITY TV  FHD**
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/270523
-#EXTINF:-1 tvg-id="" tvg-name="TELECAFE" tvg-logo="https://n9.cl/gg0h83" group-title="💫Colombia II",TELECAFE (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/352
-#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/s37mhf" group-title="💫Colombia II",TELEANTIOQUIA (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/351
-#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="https://n9.cl/l97ohv" group-title="💫Colombia II",CANAL CAPITAL (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/328
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/83cwi" group-title="💫Colombia II",SENAL COLOMBIA (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/350
-#EXTINF:-1 tvg-id="" tvg-name="WIN+ FUTBOL" tvg-logo="https://n9.cl/yswrud" group-title="💫Colombia II",WIN SPORTS+ (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/359
-#EXTINF:-1 tvg-id="" tvg-name="WIN+ FUTBOL" tvg-logo="https://n9.cl/yswrud" group-title="💫Colombia II",WIN SPORTS+ (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/360
-#EXTINF:-1 tvg-id="" tvg-name="WIN+ FUTBOL" tvg-logo="https://n9.cl/yswrud" group-title="💫Colombia II",WIN SPORTS+ (HD) »3«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/361
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/o9flr" group-title="💫Colombia II",WIN SPORTS (HD) »1«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/362
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/o9flr" group-title="💫Colombia II",WIN SPORTS (HD) »2«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/363
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/o9flr" group-title="💫Colombia II",WIN SPORTS (HD) »3«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/364
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/o9flr" group-title="💫Colombia II",WIN SPORTS (HD) »4«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/365
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/o9flr" group-title="💫Colombia II",WIN SPORTS (HD) »5«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/366
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/o9flr" group-title="💫Colombia II",WIN SPORTS (HD) »6«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/367
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/o9flr" group-title="💫Colombia II",WIN SPORTS (HD) »7«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/368
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/o9flr" group-title="💫Colombia II",WIN SPORTS (HD) »8«
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/369
-#EXTINF:-1 tvg-id="" tvg-name="EL TRECE" tvg-logo="" group-title="💫Colombia II",EL TRECE (HD)
-http://ultrapremium.cloud:8080/PLAYLIFEoffshore@.207824*/5uvLVJqVYK/338
 
 ♨️CULTURA
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/tsi6qx" group-title="♨️CULTURA",ANIMAL PLANET 
@@ -318,20 +228,7 @@ http://tvmate.icu:8080/zrKFScbH5h/24v86AjU9w/315903
 
 
 
-#EXTINF:-1 tvg-id="ABELLA DANGER" tvg-logo="https://n9.cl/tlk0k" group-title="⛔PORNBOX",ABELLA DANGER
-http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565730
-#EXTINF:-1 tvg-id="ADRIANA CHECHIK" tvg-logo="https://n9.cl/byz1c" group-title="⛔PORNBOX",ADRIANA CHECHIK
-http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565731
-#EXTINF:-1 tvg-id="ALINA LOPEZ" tvg-logo="https://n9.cl/6ulgu" group-title="⛔PORNBOX",ALINA LOPEZ
-http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565732
-#EXTINF:-1 tvg-id="ANGELA WHITE" tvg-logo="https://n9.cl/fv8tm" group-title="⛔PORNBOX",ANGELA WHITE
-http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565733
-#EXTINF:-1 tvg-id="ARIANA MARIE" tvg-logo="https://n9.cl/mmely" group-title="⛔PORNBOX",ARIANA MARIE
-http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565734
-#EXTINF:-1 tvg-id="AUGUST AMES" tvg-logo="https://n9.cl/cgx9y" group-title="⛔PORNBOX",AUGUST AMES
-http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565735
-#EXTINF:-1 tvg-id="AUTUMN FALLS" tvg-logo="https://n9.cl/pvnbcs" group-title="⛔PORNBOX",AUTUMN FALLS
-http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565736
+
 
 
 
@@ -340,44 +237,10 @@ http://nuhproxtv.shop:8080/mrt8011/mrt.2110/565736
 
 
 ✨ LAT COLOMBIA
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/akr0q" group-title="LAT COLOMBIA",CANAL 1 »EMV« 
-https://live.eu-north-1b.cf.dmcdn.net/sec2(5FIN7zhB-aFd279qNmtN0WjAHtrTqeeRVnInMXRCYIAk7UCe5AYgZKtJ3QJur5ckrSpI-gb93ph6sJ8qcSJYzeXTedoV28FMWNJfBeYgiWBfWV3Wz_s3aXDZxVz26L7j)/dm/3/x9nvvkc/s/live-480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47FAPeE" group-title="LAT COLOMBIA",SENAL COLOMBIA »EMV«
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",RED MAS »EMV« 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/akr0q" group-title="LAT COLOMBIA",CANAL 1 
-http://canal-pro.xyz:8080/998876166tv/z5f870/330
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47FAPeE" group-title="LAT COLOMBIA",SENAL COLOMBIA
-http://canal-pro.xyz:8080/998876166tv/z5f870/350
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/3u5wkv" group-title="LAT COLOMBIA",CARACOL 
-http://canal-pro.xyz:8080/998876166tv/z5f870/331
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4cKrTs2" group-title="LAT COLOMBIA",CARACOL INT
-http://canal-pro.xyz:8080/998876166tv/z5f870/335
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4djffjO" group-title="LAT COLOMBIA",RCN
-http://canal-pro.xyz:8080/998876166tv/z5f870/344
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/47iesft" group-title="LAT COLOMBIA",RCN NOVELAS
-http://canal-pro.xyz:8080/998876166tv/z5f870/348
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4djffjO" group-title="LAT COLOMBIA",RCN NUESTRA TELE
-http://canal-pro.xyz:8080/998876166tv/z5f870/35402
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/4s7uKzX" group-title="LAT COLOMBIA",TELECARIBE
-http://canal-pro.xyz:8080/998876166tv/z5f870/354
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9jndi" group-title="LAT COLOMBIA",CITY TV
-http://canal-pro.xyz:8080/998876166tv/z5f870/337
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5qgs2m" group-title="LAT COLOMBIA",CABLE NOTICIAS
-http://canal-pro.xyz:8080/998876166tv/z5f870/327
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5hx8u" group-title="LAT COLOMBIA",NTN 24
-http://canal-pro.xyz:8080/998876166tv/z5f870/340
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",CANAL CAPITAL 
-http://canal-pro.xyz:8080/998876166tv/z5f870/328
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",CANAL TRO 
-http://canal-pro.xyz:8080/998876166tv/z5f870/329
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",TELECAFE
-http://canal-pro.xyz:8080/998876166tv/z5f870/352
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",WIN SPORTS+ 
-http://canal-pro.xyz:8080/998876166tv/z5f870/359
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT COLOMBIA",WIN SPORTS
-http://canal-pro.xyz:8080/998876166tv/z5f870/363
 
 ✨ VARIEDADES PREMIUM
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",A&E »1«
