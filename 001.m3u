@@ -171,7 +171,36 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/182223
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://n9.cl/9h5vg" group-title="♨️CULTURA",NATGEO WILD
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318623.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="AXN NORTE" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN NORTE 540p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31032
+#EXTINF:-1 tvg-id="" tvg-name="AXN SUR" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN SUR 480P
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/288079
+#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN ESP 1080p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/791982
+#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN ESP 360p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/55853
+#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN ESP 360p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/67566
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="https://n9.cl/1imxk" group-title="🏄‍♂️Premium Latino",AXN MOVIES 1080p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/781915
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/7tzker" group-title="🏄‍♂️Premium Latino",CINECANAL 720p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31016
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/7tzker" group-title="🏄‍♂️Premium Latino",CINECANAL 720p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/164036
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/7tzker" group-title="🏄‍♂️Premium Latino",CINECANAL 720p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31015
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/7tzker" group-title="🏄‍♂️Premium Latino",CINECANAL 720p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/43190
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/rw17mm" group-title="🏄‍♂️Premium Latino",CINEMAX 480p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/164034
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/rw17mm" group-title="🏄‍♂️Premium Latino",CINEMAX 480p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/67
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/rw17mm" group-title="🏄‍♂️Premium Latino",CINEMAX 480p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31014
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/77hj3" group-title="🏄‍♂️Premium Latino",DE PELICULA 540p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/109986
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/77hj3" group-title="🏄‍♂️Premium Latino",DE PELICULA 540p
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31044
 
 
 
