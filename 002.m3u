@@ -20,6 +20,24 @@ EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-titl
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7337
 EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️CINE HITS,CINEMAX >720p< 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7220
+EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN >720< 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7031
+EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN >720< 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7321
+EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN ESP >1080p<
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8456
+EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://n9.cl/7s2n37" group-title="🎞️CINE HITS,CINE LATINO >432< 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/9263
+EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA" tvg-logo="https://n9.cl/828xd" group-title="🎞️CINE HITS,CINE DINAMITA >1080p< 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7460
+EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/vy7m5" group-title="🎞️CINE HITS,DE PELICULA >720< 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7194
+EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️CINE HITS,DE PELICULA PLUS >720< 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7099
+EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️CINE HITS,DE PELICULA PLUS >1080p< 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
+EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️CINE HITS,DHE >720< 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7477
 === CINE Y SERIES ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",A&E OP1
 http://vineavertv.site:80/Arturo1924/Arturo1924/46085.ts
@@ -27,44 +45,15 @@ http://vineavertv.site:80/Arturo1924/Arturo1924/46085.ts
 http://vineavertv.site:80/Arturo1924/Arturo1924/46086.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",A&E OP3
 http://vineavertv.site:80/Arturo1924/Arturo1924/46087.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",AMC FHD
-http://vineavertv.site:80/Arturo1924/Arturo1924/46089.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",AMC HD (DTV)
-http://vineavertv.site:80/Arturo1924/Arturo1924/46090.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",AMC HD MX (DTV)
-http://vineavertv.site:80/Arturo1924/Arturo1924/46092.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",AXN FHD
-http://vineavertv.site:80/Arturo1924/Arturo1924/46093.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",AXN HD MX (DTV)
-http://vineavertv.site:80/Arturo1924/Arturo1924/46094.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",AXN HD (DTV)
-http://vineavertv.site:80/Arturo1924/Arturo1924/46095.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",A3SERIES
 http://vineavertv.site:80/Arturo1924/Arturo1924/46097.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",ATRESERIES HD (DTV)
 http://vineavertv.site:80/Arturo1924/Arturo1924/46098.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",ATRESERIES HD (P)
 http://vineavertv.site:80/Arturo1924/Arturo1924/46100.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CINE LATINO HD (DTV)
-http://vineavertv.site:80/Arturo1924/Arturo1924/46103.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CINE LATINO
-http://vineavertv.site:80/Arturo1924/Arturo1924/46104.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CINE LATINO FHD
-http://vineavertv.site:80/Arturo1924/Arturo1924/46106.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CINECANAL ARG (DTV)
-http://vineavertv.site:80/Arturo1924/Arturo1924/46107.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CINECANAL HD
-http://vineavertv.site:80/Arturo1924/Arturo1924/46108.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CineCanal HD CH (DTV)
-http://vineavertv.site:80/Arturo1924/Arturo1924/46109.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CineCanal HD MX (DTV)
-http://vineavertv.site:80/Arturo1924/Arturo1924/46110.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CINEMAX OP1
-http://vineavertv.site:80/Arturo1924/Arturo1924/46111.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CINEMAX OP2
-http://vineavertv.site:80/Arturo1924/Arturo1924/46112.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",CINEMAX OP3
-http://vineavertv.site:80/Arturo1924/Arturo1924/46114.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",DHE FHD
 http://vineavertv.site:80/Arturo1924/Arturo1924/46122.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",DHE
