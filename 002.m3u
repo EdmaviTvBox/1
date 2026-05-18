@@ -1,42 +1,42 @@
 #EXTM3U
-=== 🎞️CINE HITS ===
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC NORTE >1080p<
+=== 🎞️Cine & Series ===
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7552
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC NORTE >1080p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13924
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC SUR >720p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC SUR 
 pttp://alfa.7057460.xyz:2095/julinnn2/Camion01/7236
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC SUR >360p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC SUR 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7187
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC ESP >1080p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC ESP 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7329
-EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://n9.cl/3uc96v" group-title="🎞️CINE HITS,AMC SERIES >720p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://n9.cl/3uc96v" group-title="🎞️Cine & Series",AMC SERIES 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/28915
-EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️CINE HITS,CINECANAL >360p<
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series",CINECANAL 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7357
-EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️CINE HITS,CINECANAL >720p<
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series",CINECANAL 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7090
-EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️CINE HITS,CINEMAX >360p< 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series",CINEMAX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7337
-EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️CINE HITS,CINEMAX >720p< 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series",CINEMAX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7220
-EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN >720< 
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7031
-EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN >720< 
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7321
-EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN ESP >1080p<
+#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN ESP 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8456
-EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://n9.cl/7s2n37" group-title="🎞️CINE HITS,CINE LATINO >432< 
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://n9.cl/7s2n37" group-title="🎞️Cine & Series",CINE LATINO  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/9263
-EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA" tvg-logo="https://n9.cl/828xd" group-title="🎞️CINE HITS,CINE DINAMITA >1080p< 
+#EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA" tvg-logo="https://n9.cl/828xd" group-title="🎞️Cine & Series",CINE DINAMITA  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7460
-EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/vy7m5" group-title="🎞️CINE HITS,DE PELICULA >720< 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/vy7m5" group-title="🎞️Cine & Series",DE PELICULA 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7194
-EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️CINE HITS,DE PELICULA PLUS >720< 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series",DE PELICULA PLUS 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7099
-EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️CINE HITS,DE PELICULA PLUS >1080p< 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series",DE PELICULA PLUS 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
-EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️CINE HITS,DHE >720< 
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️Cine & Series",DHE  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7477
 === CINE Y SERIES ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8qx2ch" group-title="CINE Y SERIES",A&E OP1
