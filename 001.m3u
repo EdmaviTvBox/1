@@ -1,41 +1,39 @@
 #EXTM3U
+
+=== 💫Colombia ===
 #EXTINF:-1 tvg-id="" tvg-name="WIN+ FUTBOL" tvg-logo="https://n9.cl/yswrud" group-title="💫Colombia",WIN+ FUTBOL HD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/68891
 #EXTINF:-1 tvg-id="" tvg-name="CABLENOTICIAS" tvg-logo="https://n9.cl/vxdiqi" group-title="💫Colombia",CABLENOTICIAS FHD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/84868
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="https://n9.cl/708xw" group-title="💫Colombia",CANAL UNO HD
+http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31370
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV HD  
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/159809
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV HD 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/61894
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/kgjvbp" group-title="💫Colombia",CARACOL TV
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31035
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/8hqgt" group-title="💫Colombia",CARACOL INT FHD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/892129
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/5ykv6p" group-title="💫Colombia",NTN24 FHD
+#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/5ykv6p" group-title="💫Colombia",NTN24 HD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31358
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/otrs8r" group-title="💫Colombia",RCN FHD 
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/otrs8r" group-title="💫Colombia",RCN HD 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31359
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/otrs8r" group-title="💫Colombia",RCN FHD
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31370
-#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://n9.cl/hamvc0" group-title="💫Colombia",RCN NOVELAS  
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/56991
 #EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://n9.cl/hamvc0" group-title="💫Colombia",RCN NOVELAS HD  
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/56996
 #EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://n9.cl/hamvc0" group-title="💫Colombia",RCN NOVELAS HD  
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/33395
-#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/zaj67" group-title="💫Colombia",RCN MAS
+#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/zaj67" group-title="💫Colombia",RCN MAS FHD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/344943
 #EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/ixrs3" group-title="💫Colombia",RCN INT HD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31363
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/83cwi" group-title="💫Colombia",SENAL COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/83cwi" group-title="💫Colombia",SENAL COLOMBIA HD
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/83cwi" group-title="💫Colombia",SENAL COLOMBIA 
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/83cwi" group-title="💫Colombia",SENAL COLOMBIA HD 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/va7m7" group-title="💫Colombia",TELECARIBE SD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31361
 #EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/va7m7" group-title="💫Colombia",TELECARIBE SD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/61904
-#EXTINF:-1 tvg-id="" tvg-name="RED +" tvg-logo="https://n9.cl/ctiky" group-title="💫Colombia",RED + »EMV« 
+#EXTINF:-1 tvg-id="" tvg-name="RED +" tvg-logo="https://n9.cl/ctiky" group-title="💫Colombia",RED + EDTV 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://n9.cl/my1t2" group-title="💫Colombia",CITY TV FHD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31373
@@ -83,44 +81,74 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31393
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia",CARACOL INT 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31368
 
-=== 🎞️CINE HITS ===
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC NORTE >1080p<
+=== 💫Colombia II ===
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",CARACOL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7643
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",CITY TV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7641
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",RCN COL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7647
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",RCN INT
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7646
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",SENAL COLOMBIA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",TELECARIBE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/11748
+#EXTINF:-1 tvg-id="" tvg-name="RED +" tvg-logo="" group-title="💫Colombia",RED + EDTV 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",TELEANTIOQUIA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",TELEPACIFICO
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",ENLACE 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",WIN + 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7827
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",WIN SPORTS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",DIRECTV SPORTS  COL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7815
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II",DIRECTV SPORTS 2 COL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/11775
+
+=== 🎞️Cine & Series ===
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series,AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7552
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC NORTE >1080p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series,AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13924
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC SUR >720p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series,AMC SUR 
 pttp://alfa.7057460.xyz:2095/julinnn2/Camion01/7236
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC SUR >360p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series,AMC SUR 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7187
-EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️CINE HITS,AMC ESP >1080p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series,AMC ESP 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7329
-EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://n9.cl/3uc96v" group-title="🎞️CINE HITS,AMC SERIES >720p<
+#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://n9.cl/3uc96v" group-title="🎞️Cine & Series,AMC SERIES 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/28915
-EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️CINE HITS,CINECANAL >360p<
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series,CINECANAL 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7357
-EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️CINE HITS,CINECANAL >720p<
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series,CINECANAL 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7090
-EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️CINE HITS,CINEMAX >360p< 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series,CINEMAX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7337
-EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️CINE HITS,CINEMAX >720p< 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series,CINEMAX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7220
-EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN >720< 
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series,AXN 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7031
-EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN >720< 
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series,AXN 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7321
-EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/ymto3" group-title="🎞️CINE HITS,AXN ESP >1080p<
+#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series,AXN ESP 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8456
-EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://n9.cl/7s2n37" group-title="🎞️CINE HITS,CINE LATINO >432< 
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://n9.cl/7s2n37" group-title="🎞️Cine & Series,CINE LATINO  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/9263
-EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA" tvg-logo="https://n9.cl/828xd" group-title="🎞️CINE HITS,CINE DINAMITA >1080p< 
+#EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA" tvg-logo="https://n9.cl/828xd" group-title="🎞️Cine & Series,CINE DINAMITA  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7460
-EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/vy7m5" group-title="🎞️CINE HITS,DE PELICULA >720< 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/vy7m5" group-title="🎞️Cine & Series,DE PELICULA 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7194
-EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️CINE HITS,DE PELICULA PLUS >720< 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series,DE PELICULA PLUS 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7099
-EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️CINE HITS,DE PELICULA PLUS >1080p< 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series,DE PELICULA PLUS 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
-EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️CINE HITS,DHE >720< 
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️Cine & Series,DHE  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7477
 
 ♨️CULTURA
