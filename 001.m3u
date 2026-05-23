@@ -153,14 +153,19 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
 #EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️Cine & Series",DHE  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7477
 
+
 #EXTINF:-1 tvg-id="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7368
+#EXTINF:-1 tvg-id="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7257
 #EXTINF:-1 tvg-id="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7367
 #EXTINF:-1 tvg-id="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7092
 #EXTINF:-1 tvg-id="DISC ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="🪲Nat y Cultura",DISC ESPAÑOL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7613
+#EXTINF:-1 tvg-id="DISC ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="🪲Nat y Cultura",DISC ESPAÑA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8459
 #EXTINF:-1 tvg-id="DISC FAMILIA" tvg-logo="https://n9.cl/gd2s1" group-title="🪲Nat y Cultura",DISC FAMILIA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7614
 #EXTINF:-1 tvg-id="DISC HYH" tvg-logo="https://n9.cl/dsavw" group-title="🪲Nat y Cultura",DISC HYH 
@@ -191,31 +196,53 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7469
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7043
 #EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7250
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://n9.cl/3ejbo" group-title="🪲Nat y Cultura",FOOD NETWORK
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7172
 #EXTINF:-1 tvg-id="EL GOURMET" tvg-logo="https://n9.cl/x1gdp" group-title="🪲Nat y Cultura",EL GOURMET
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7125
 #EXTINF:-1 tvg-id="EL GOURMET" tvg-logo="https://n9.cl/x1gdp" group-title="🪲Nat y Cultura",EL GOURMET HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8405
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://n9.cl/3ejbo" group-title="🪲Nat y Cultura",FOOD NETWORK
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7172
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="🪲Nat y Cultura",HGTV
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7204
 #EXTINF:-1 tvg-id="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="🪲Nat y Cultura",HGTV HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7443
+#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://n9.cl/ip14l" group-title="🪲Nat y Cultura",HISTORIA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7545
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7126
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7225
-#EXTINF:-1 tvg-id="HISTORY 2 " tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7353
-#EXTINF:-1 tvg-id="HISTORY 2 " tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 HD 
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7476
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7129
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7242
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7379
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7253
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="🪲Nat y Cultura",NAT GEO WILD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/14065
+#EXTINF:-1 tvg-id="ODISEA" tvg-logo="https://n9.cl/ineqo8" group-title="🪲Nat y Cultura",ODISEA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8461
 
+#EXTINF:-1 tvg-id="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET (ENG)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7546
+#EXTINF:-1 tvg-id="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL (ENG) 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7547
+#EXTINF:-1 tvg-id="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC (ENG) 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8477
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT (ENG)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7588
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY (ENG)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8475
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME (ENG)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7583
+#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO (ENG)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8476
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="🪲Nat y Cultura",NAT GEO WILD (ENG)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/14065
 ♨️CULTURA
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/tsi6qx" group-title="♨️CULTURA",ANIMAL PLANET 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/30074
