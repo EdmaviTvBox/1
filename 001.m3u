@@ -21,8 +21,7 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31359
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/56996
 #EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://n9.cl/rlw5i" group-title="💫Colombia",RCN NOVELAS HD  
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/33395
-#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia",RCN MAS FHD
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/344943
+
 #EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia",RCN INT HD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31363
 #EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia",SENAL COLOMBIA HD
@@ -90,6 +89,8 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7641
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7647
 #EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia II",RCN INT
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7646
+#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/30760
 #EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia II",SENAL COLOMBIA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7352
 #EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/gqfbb" group-title="💫Colombia II",TELECARIBE
@@ -153,6 +154,37 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
 #EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️Cine & Series",DHE  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7477
 
+=============== 🎫Cine Premium ===============
+#EXTINF:-1 tvg-id="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1 MEX 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7323
+#EXTINF:-1 tvg-id="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1 MEX HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7431
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://n9.cl/im7pq" group-title="🎫Cine Premium",HBO 2 MEX 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7325
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://n9.cl/im7pq" group-title="🎫Cine Premium",HBO 2 MEX HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7432
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://n9.cl/bn04l" group-title="🎫Cine Premium",HBO PLUS MEX 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7324
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://n9.cl/bn04l" group-title="🎫Cine Premium",HBO PLUS MEX HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7434
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://n9.cl/ouw2v" group-title="🎫Cine Premium",HBO FAMILY MEX 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7326
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://n9.cl/ouw2v" group-title="🎫Cine Premium",HBO FAMILY MEX HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7433
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://n9.cl/dhpcd" group-title="🎫Cine Premium",HBO SIGNATURE MEX HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7435
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://n9.cl/eqsye" group-title="🎫Cine Premium",HBO XTREME MEX 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7327
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://n9.cl/eqsye" group-title="🎫Cine Premium",HBO XTREME MEX HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7437
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://n9.cl/w4zp3x" group-title="🎫Cine Premium",HBO POP MEX 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7305
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://n9.cl/w4zp3x" group-title="🎫Cine Premium",HBO POP MEX HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7438
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://n9.cl/vwr7vh" group-title="🎫Cine Premium",HBO MUNDI MEX 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7304
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://n9.cl/vwr7vh" group-title="🎫Cine Premium",HBO MUNDI MEX HD 
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7436
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7368
