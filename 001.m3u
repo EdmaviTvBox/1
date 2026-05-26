@@ -149,14 +149,12 @@ https://co-e1-p-e-ar3.cdn.mdstrm.com/live-stream-gdai/58d191f07290fbb058025843/l
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Canal Noticiero 90Min" tvg-logo="" group-title="💫Colombia II",Canal Noticiero 90Min (E)
 https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
-#EXTINF:-1 tvg-id="Oasis TV" tvg-logo="" group-title="💫Colombia II",Oasis TV (E)
-https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w93144707.m3u8
-#EXTINF:-1 tvg-id="teleamiga" tvg-logo="" group-title="💫Colombia II",teleamiga (E)
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="Teleantioquia" tvg-logo="" group-title="💫Colombia II",Teleantioquia (E)
-https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="Telecaribe" tvg-logo="" group-title="💫Colombia II",Telecaribe (E)
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="Telesangil" tvg-logo="" group-title="💫Colombia II",Telesangil (E)
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece TV" tvg-logo="" group-title="💫Colombia II",Trece TV (E)
+https://liveingesta118.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="TV San Jorge" tvg-logo="" group-title="💫Colombia II",TV San Jorge (E)
+https://asucap.com/livestream/asucap_envivo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="💫Colombia II", (E)
 === 🎞️Cine & Series ===
@@ -349,7 +347,7 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/13961
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13962
 
 
-♨️CULTURA
+===♨️ CULTURA ===
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/tsi6qx" group-title="♨️CULTURA",ANIMAL PLANET 
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/30074
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/tsi6qx" group-title="♨️CULTURA",ANIMAL PLANET 
@@ -445,6 +443,8 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/182223
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://n9.cl/9h5vg" group-title="♨️CULTURA",NATGEO WILD
 http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318623.m3u8
 
+
+=== 🏄‍♂️Premium Latino ===
 #EXTINF:-1 tvg-id="" tvg-name="AXN NORTE" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN NORTE 540p
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31032
 #EXTINF:-1 tvg-id="" tvg-name="AXN SUR" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN SUR 480P
@@ -477,7 +477,7 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/109986
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31044
 
 
-
+=== ⛔ADULT ===
 #EXTINF:-1 tvg-id="" tvg-name="Babes TV " tvg-logo="https://n9.cl/sinmf" group-title="⛔ADULT",Babes TV 
 http://vporpahe.top:8080/VIP013201751290218503/adb698998b73/157157
 #EXTINF:-1 tvg-id="" tvg-name="Brazzers" tvg-logo="https://n9.cl/svxgv" group-title="⛔ADULT",Brazzers
@@ -499,9 +499,7 @@ http://vporpahe.top:8080/VIP013201751290218503/adb698998b73/157154
 #EXTINF:-1 tvg-id="" tvg-name="XY Max" tvg-logo="https://n9.cl/pty3cm" group-title="⛔ADULT",XY Max
 http://vporpahe.top:8080/VIP013201751290218503/adb698998b73/157159
 
-
-
-
+=== ⛔Pink Erotic ===
 #EXTINF:-1 tvg-id="Pink Erotic 1" tvg-logo="https://n9.cl/jtyb5u" group-title="⛔Pink Erotic",Pink Erotic 1
 http://tvmate.icu:8080/zrKFScbH5h/24v86AjU9w/315896
 #EXTINF:-1 tvg-id="Pink Erotic 2" tvg-logo="https://n9.cl/06z26" group-title="⛔Pink Erotic",Pink Erotic 2
@@ -518,6 +516,54 @@ http://tvmate.icu:8080/zrKFScbH5h/24v86AjU9w/315901
 http://tvmate.icu:8080/zrKFScbH5h/24v86AjU9w/315902
 #EXTINF:-1 tvg-id="Pink Erotic 8" tvg-logo="https://n9.cl/ei7cq" group-title="⛔Pink Erotic",Pink Erotic 8
 http://tvmate.icu:8080/zrKFScbH5h/24v86AjU9w/315903
+
+=== 💋MyCamTv ===
+#EXTINF:-1 tvg-id="Anal" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",Anal
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="asian" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",asian
+https://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="bigass" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",bigass
+https://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="bigdick" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",bigdick
+https://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="bigtits" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",bigtits
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="blonde" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",blonde
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="blowjob" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",blowjob
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="brunette" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",brunette
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="compilation" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",compilation
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="cuckold" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",cuckold
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="fetish" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",fetish
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="gangbang" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",gangbang
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="gay" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",gay
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="lesbian" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",lesbian
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="livecams" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",livecams
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="milf" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",milf
+https://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="pornstar" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",pornstar
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="pov" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",pov
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="rough" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",rough
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="russian" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",russian
+https://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="teen" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",teen
+https://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="threesome" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",threesome
+https://live.adultiptv.net/threesome.m3u8
 
 #EXTINF:-1 tvg-id="Mortal Kombat II" tvg-logo="https://n9.cl/bx4l4" group-title="VOD",Mortal Kombat II
 https://powvideo.org/imbj3rcqqsa1
