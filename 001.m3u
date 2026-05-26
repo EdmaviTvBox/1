@@ -131,8 +131,22 @@ https://movil.ejeserver.com/live/mundovisiontv.m3u8
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Cali TV" tvg-logo="https://n9.cl/t97gxk" group-title="💫Colombia II",Cali TV (E)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
-#EXTINF:-1 tvg-id="Cosmovision" tvg-logo="" group-title="💫Colombia II",Cosmovision (E)
+#EXTINF:-1 tvg-id="Cosmovision" tvg-logo="https://n9.cl/zjdla" group-title="💫Colombia II",Cosmovision (E)
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-id="Cristovision" tvg-logo="https://n9.cl/0agvx" group-title="💫Colombia II",Cristovision (E)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w2054941854.m3u8
+#EXTINF:-1 tvg-id="Frecuencia F" tvg-logo="https://n9.cl/z95am7" group-title="💫Colombia II",Frecuencia F (E)
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+#EXTINF:-1 tvg-id="Memorias Classic" tvg-logo="https://n9.cl/r103vr" group-title="💫Colombia II",Memorias Classic (E)
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1 tvg-id="Memorias Film" tvg-logo="https://n9.cl/e99lr" group-title="💫Colombia II",Memorias Film (E)
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-id="La Kalle" tvg-logo="https://n9.cl/g1xpw" group-title="💫Colombia II",La Kalle (E)
+https://co-e1-p-e-ar3.cdn.mdstrm.com/live-stream-gdai/58d191f07290fbb058025843/linear/hls/pa/event/RRmIwzY8SeypJ5-icasjpw/stream/d1240df3-47df-4b7a-81c3-dccd5ffa1d75:ATL/variant/f9dd50c0106a85f0688fafd537ea58c7/bandwidth/2103200.m3u8?aid=589b127df30bc52f54100dcb&adInsertionGoogleStreamId=d1240df3-47df-4b7a-81c3-dccd5ffa1d75%3AATL&pid=EpoCkAToSzxKHj5pHOKI1uJjHWJ6vUkW&sid=PGb1vVQLriCYntOXMBpEF7rRUEcYKxJ0&uid=Be6IL12CXEzkkxjqxShaNFY6rIHL5zHg&es=co-e1-p-e-ar3.cdn.mdstrm.com&ote=1779904075732&ot=p0EaS1-JjuOAPe9qVsPfFQ&proto=https&pz=us&access_token=x7o7L8iSN9kqth3d8t7e9ugH7hY0jjTqZYe7p3cisrw60sw57Mt5KBBB0vZ1Stat6Avljzk6uoZ
+#EXTINF:-1 tvg-id="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia II",Mi Gente (E)
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="💫Colombia II", (E)
 === 🎞️Cine & Series ===
