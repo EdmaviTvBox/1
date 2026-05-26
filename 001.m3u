@@ -105,15 +105,32 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7157
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="💫Colombia II",TV Familia (E) 
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w540890667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WIN +" tvg-logo="https://n9.cl/tr3uw3" group-title="💫Colombia II",WIN + 
+#EXTINF:-1 tvg-id="Bendicion Channel" tvg-logo="https://n9.cl/evjai" group-title="💫Colombia II",Bendicion Channel (E)
+https://s.emisoras.tv:8081/bendicionchannel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Oracion con Son" tvg-logo="https://n9.cl/jm5vah" group-title="💫Colombia II",Oracion con Son (E) 
+https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-id="telefamilia" tvg-logo="https://n9.cl/ahi4m" group-title="💫Colombia II",telefamilia (E)
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?hls_ctx=331z8n7e
+#EXTINF:-1 tvg-id="WIN+" tvg-logo="https://n9.cl/tr3uw3" group-title="💫Colombia II",WIN+ 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7827
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/vdbp0w" group-title="💫Colombia II",WIN SPORTS
+#EXTINF:-1 tvg-id="WIN SPORTS" tvg-logo="https://n9.cl/vdbp0w" group-title="💫Colombia II",WIN SPORTS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7826
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://n9.cl/j6zx6" group-title="💫Colombia II",DIRECTV SPORTS  COL
+#EXTINF:-1 tvg-id="DIRECTV SPORTS" tvg-logo="https://n9.cl/j6zx6" group-title="💫Colombia II",DIRECTV SPORTS  COL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7815
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://n9.cl/e72ns" group-title="💫Colombia II",DIRECTV SPORTS 2 COL
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2" tvg-logo="https://n9.cl/e72ns" group-title="💫Colombia II",DIRECTV SPORTS 2 COL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/11775
+#EXTINF:-1 tvg-id="Canal Nets" tvg-logo="" group-title="💫Colombia II",Canal Nets (E)
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia II",mas (E)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="Mundo Vision TV" tvg-logo="https://n9.cl/0imea" group-title="💫Colombia II",Mundo Vision TV (E)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="Canal 8 TV" tvg-logo="https://n9.cl/cjivm" group-title="💫Colombia II",Canal 8 TV (E)
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="Cali TV" tvg-logo="https://n9.cl/t97gxk" group-title="💫Colombia II",Cali TV (E)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💫Colombia II", (E)
 === 🎞️Cine & Series ===
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7552
