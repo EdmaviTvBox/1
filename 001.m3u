@@ -71,8 +71,6 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31380
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/61887
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia",CANAL CALI
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/196436
-#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="https://n9.cl/mtmd3" group-title="💫Colombia",CANAL CAPITAL
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31378
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia",CANAL INSTITUCIONAL
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31382
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia",CANAL TRECE
@@ -85,6 +83,8 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31368
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7643
 #EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://n9.cl/gchzpb" group-title="💫Colombia II",CITY TV
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7641
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="https://n9.cl/mtmd3" group-title="💫Colombia II",CANAL CAPITAL (E)
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/tpdmz" group-title="💫Colombia II",RCN COL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7647
 #EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia II",RCN INT
@@ -95,15 +95,15 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/30760
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7352
 #EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/gqfbb" group-title="💫Colombia II",TELECARIBE
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/11748
-#EXTINF:-1 tvg-id="" tvg-name="RED +" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia II",RED + EDTV 
+#EXTINF:-1 tvg-id="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia II",RED+ (E) 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/9oovj" group-title="💫Colombia II",TELEANTIOQUIA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7645
 #EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/dny0q" group-title="💫Colombia II",TELEPACIFICO
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7157
-#EXTINF:-1 tvg-id="" tvg-name="ENLACE" tvg-logo="https://n9.cl/47x0q" group-title="💫Colombia II",ENLACE 
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE" tvg-logo="https://n9.cl/tcorzp" group-title="💫Colombia II",ENLACE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
-#EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/47x0q" group-title="💫Colombia II",TV Familia 
+#EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="💫Colombia II",TV Familia (E) 
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w540890667.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WIN +" tvg-logo="https://n9.cl/tr3uw3" group-title="💫Colombia II",WIN + 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7827
