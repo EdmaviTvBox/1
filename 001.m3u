@@ -83,9 +83,11 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7641
 https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/tpdmz" group-title="💫Colombia II",RCN COL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7647
-#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia II",RCN INT
+#EXTINF:-1 tvg-id="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia II",RCN INT
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7646
-#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS
+#EXTINF:-1 tvg-id="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS (E)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/30760
 #EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia II",SENAL COLOMBIA (E)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -113,6 +115,8 @@ https://s.emisoras.tv:8081/bendicionchannel/tracks-v1a1/mono.ts.m3u8
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTINF:-1 tvg-id="telefamilia" tvg-logo="https://n9.cl/ahi4m" group-title="💫Colombia II",telefamilia (E)
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?hls_ctx=331z8n7e
+#EXTINF:-1 tvg-id="Cristovision" tvg-logo="https://n9.cl/0agvx" group-title="💫Colombia II",Cristovision (E)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w2054941854.m3u8
 #EXTINF:-1 tvg-id="WIN+" tvg-logo="https://n9.cl/tr3uw3" group-title="💫Colombia II",WIN+ 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7827
 #EXTINF:-1 tvg-id="WIN SPORTS" tvg-logo="https://n9.cl/vdbp0w" group-title="💫Colombia II",WIN SPORTS
@@ -133,8 +137,6 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
 #EXTINF:-1 tvg-id="Cosmovision" tvg-logo="https://n9.cl/zjdla" group-title="💫Colombia II",Cosmovision (E)
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 tvg-id="Cristovision" tvg-logo="https://n9.cl/0agvx" group-title="💫Colombia II",Cristovision (E)
-https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w2054941854.m3u8
 #EXTINF:-1 tvg-id="Frecuencia F" tvg-logo="https://n9.cl/z95am7" group-title="💫Colombia II",Frecuencia F (E)
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 #EXTINF:-1 tvg-id="Memorias Classic" tvg-logo="https://n9.cl/r103vr" group-title="💫Colombia II",Memorias Classic (E)
@@ -145,8 +147,16 @@ https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 https://co-e1-p-e-ar3.cdn.mdstrm.com/live-stream-gdai/58d191f07290fbb058025843/linear/hls/pa/event/RRmIwzY8SeypJ5-icasjpw/stream/d1240df3-47df-4b7a-81c3-dccd5ffa1d75:ATL/variant/f9dd50c0106a85f0688fafd537ea58c7/bandwidth/2103200.m3u8?aid=589b127df30bc52f54100dcb&adInsertionGoogleStreamId=d1240df3-47df-4b7a-81c3-dccd5ffa1d75%3AATL&pid=EpoCkAToSzxKHj5pHOKI1uJjHWJ6vUkW&sid=PGb1vVQLriCYntOXMBpEF7rRUEcYKxJ0&uid=Be6IL12CXEzkkxjqxShaNFY6rIHL5zHg&es=co-e1-p-e-ar3.cdn.mdstrm.com&ote=1779904075732&ot=p0EaS1-JjuOAPe9qVsPfFQ&proto=https&pz=us&access_token=x7o7L8iSN9kqth3d8t7e9ugH7hY0jjTqZYe7p3cisrw60sw57Mt5KBBB0vZ1Stat6Avljzk6uoZ
 #EXTINF:-1 tvg-id="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia II",Mi Gente (E)
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-id="Canal Noticiero 90Min" tvg-logo="" group-title="💫Colombia II",Canal Noticiero 90Min (E)
+https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
+#EXTINF:-1 tvg-id="Oasis TV" tvg-logo="" group-title="💫Colombia II",Oasis TV (E)
+https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w93144707.m3u8
+#EXTINF:-1 tvg-id="teleamiga" tvg-logo="" group-title="💫Colombia II",teleamiga (E)
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="Teleantioquia" tvg-logo="" group-title="💫Colombia II",Teleantioquia (E)
+https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="Telecaribe" tvg-logo="" group-title="💫Colombia II",Telecaribe (E)
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="💫Colombia II", (E)
 === 🎞️Cine & Series ===
