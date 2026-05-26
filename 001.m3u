@@ -21,18 +21,15 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31359
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/56996
 #EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://n9.cl/rlw5i" group-title="💫Colombia",RCN NOVELAS HD  
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/33395
-
 #EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia",RCN INT HD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31363
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia",SENAL COLOMBIA HD
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia",SENAL COLOMBIA (E)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia",SENAL COLOMBIA HD 
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/gqfbb" group-title="💫Colombia",TELECARIBE SD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31361
 #EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/gqfbb" group-title="💫Colombia",TELECARIBE SD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/61904
-#EXTINF:-1 tvg-id="" tvg-name="RED +" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia",RED + EDTV 
+#EXTINF:-1 tvg-id="" tvg-name="RED +" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia",RED+ (E)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://n9.cl/gchzpb" group-title="💫Colombia",CITY TV FHD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31373
@@ -46,7 +43,6 @@ http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/277654
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/61906
 #EXTINF:-1 tvg-id="" tvg-name="CANAL TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia",CANAL TRO SD
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31391
-
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/9umi64" group-title="💫Colombia",CARACOL TV FHD  
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31369
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/9umi64" group-title="💫Colombia",CARACOL TV FHD 
@@ -91,6 +87,8 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7647
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7646
 #EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/30760
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia",SENAL COLOMBIA (E)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia II",SENAL COLOMBIA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7352
 #EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/gqfbb" group-title="💫Colombia II",TELECARIBE
@@ -267,7 +265,7 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7379
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7253
 #EXTINF:-1 tvg-id="ODISEA" tvg-logo="https://n9.cl/ineqo8" group-title="🪲Nat y Cultura",ODISEA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8461
-
+==
 #EXTINF:-1 tvg-id="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET (ENG)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7546
 #EXTINF:-1 tvg-id="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL (ENG) 
@@ -286,21 +284,21 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/8476
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/14065
 
 === ⚽Eventos Deport ===
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhqly" group-title="⚽Eventos Deport",SKY SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 1
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13955
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhqly" group-title="⚽Eventos Deport",SKY SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 2
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13956
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhqly" group-title="⚽Eventos Deport",SKY SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 3
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13957
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhqly" group-title="⚽Eventos Deport",SKY SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 4
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13958
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhqly" group-title="⚽Eventos Deport",SKY SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 5
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13959
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhqly" group-title="⚽Eventos Deport",SKY SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 6
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13960
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhqly" group-title="⚽Eventos Deport",SKY SPORTS 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 7
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13961
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yhqly" group-title="⚽Eventos Deport",SKY SPORTS 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 8
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13962
 
 
