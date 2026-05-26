@@ -97,6 +97,8 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/11748
 #EXTINF:-1 tvg-id="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia II",RED+ (E) 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
+#EXTINF:-1 tvg-id="Canal TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia II",Canal TRO (E)
+https://liveingesta318.cdnmedia.tv/canaltro2live/live-3000/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/9oovj" group-title="💫Colombia II",TELEANTIOQUIA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7645
 #EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/dny0q" group-title="💫Colombia II",TELEPACIFICO
@@ -129,6 +131,8 @@ https://movil.ejeserver.com/live/mundovisiontv.m3u8
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Cali TV" tvg-logo="https://n9.cl/t97gxk" group-title="💫Colombia II",Cali TV (E)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
+#EXTINF:-1 tvg-id="Cosmovision" tvg-logo="" group-title="💫Colombia II",Cosmovision (E)
+https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="💫Colombia II", (E)
 === 🎞️Cine & Series ===
