@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA HD***CB" tvg-logo="http://visualservice.xyz:80/images/f9318418184f449baf2b148a3a6a6021.png" group-title="COLOMBIA",COL | TELEANTIOQUIA HD***CB
+http://soporte-visual2.com:8080/live/Maik6@m*7D/N3ZB9J@/31377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL INSTITUCIONAL HD*CB" tvg-logo="http://visualservice.xyz:80/images/a244d019d3349a0f8103a657fceebd1a.png" group-title="COLOMBIA",COL | CANAL INSTITUCIONAL HD*CB
+http://soporte-visual2.com:8080/live/Maik6@m*7D/N3ZB9J@/31382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE HD*CB" tvg-logo="http://visualservice.xyz:80/images/b389ee4954f151c9841ac0deb343a951.png" group-title="COLOMBIA",COL | LA KALLE HD*CB
+http://soporte-visual2.com:8080/live/Maik6@m*7D/N3ZB9J@/31387.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN F1 FHD" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",ES: DAZN F1 FHD
 http://soporte-visual2.com:8080/live/Maik6@m*7D/N3ZB9J@/278202.m3u8
