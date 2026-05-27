@@ -4,22 +4,22 @@
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7494
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="✝️Religiosos",TV Familia (E) 
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w540890667.m3u8
-#EXTINF:-1 tvg-id="Bendicion Channel" tvg-logo="https://n9.cl/evjai" group-title="✝️Religiosos",Bendicion Channel (E)
+#EXTINF:-1 tvg-id="" tvg-name="Bendicion Channel" tvg-logo="https://n9.cl/evjai" group-title="✝️Religiosos",Bendicion Channel (E)
 https://s.emisoras.tv:8081/bendicionchannel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Oracion con Son" tvg-logo="https://n9.cl/jm5vah" group-title="✝️Religiosos",Oracion con Son (E) 
+#EXTINF:-1 tvg-id="" tvg-name="Oracion con Son" tvg-logo="https://n9.cl/jm5vah" group-title="✝️Religiosos",Oracion con Son (E) 
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:-1 tvg-id="Telefamilia" tvg-logo="https://n9.cl/ahi4m" group-title="✝️Religiosos",Telefamilia (E)
+#EXTINF:-1 tvg-id="" tvg-name="Telefamilia" tvg-logo="https://n9.cl/ahi4m" group-title="✝️Religiosos",Telefamilia (E)
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?hls_ctx=331z8n7e
-#EXTINF:-1 tvg-id="Cristovision" tvg-logo="https://n9.cl/0agvx" group-title="✝️Religiosos",Cristovision (E)
+#EXTINF:-1 tvg-id="" tvg-name="Cristovision" tvg-logo="https://n9.cl/0agvx" group-title="✝️Religiosos",Cristovision (E)
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w2054941854.m3u8
-#EXTINF:-1 tvg-id="Frecuencia F" tvg-logo="https://n9.cl/z95am7" group-title="✝️Religiosos",Frecuencia F (E)
+#EXTINF:-1 tvg-id="" tvg-name="Frecuencia F" tvg-logo="https://n9.cl/z95am7" group-title="✝️Religiosos",Frecuencia F (E)
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
-#EXTINF:-1 tvg-id="MARIA VISION" tvg-logo="https://n9.cl/rnk0j" group-title="✝️Religiosos",MARIA VISION 
+#EXTINF:-1 tvg-id="" tvg-name="MARIA VISION" tvg-logo="https://n9.cl/rnk0j" group-title="✝️Religiosos",MARIA VISION 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7492
-#EXTINF:-1 tvg-id="Maria Vision" tvg-logo="https://n9.cl/rnk0j" group-title="✝️Religiosos",Maria Vision (E) 
+#EXTINF:-1 tvg-id="" tvg-name="Maria Vision" tvg-logo="https://n9.cl/rnk0j" group-title="✝️Religiosos",Maria Vision (E) 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="✝️Religiosos",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="✝️Religiosos",
 
 === 💫Colombia ===
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/9umi64" group-title="💫Colombia II",CARACOL
@@ -30,11 +30,11 @@ http://alfa.7057460.xyz:2095/julinnn2/Camion01/7641
 https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/tpdmz" group-title="💫Colombia II",RCN COL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7647
-#EXTINF:-1 tvg-id="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia II",RCN INT
+#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia II",RCN INT
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7646
-#EXTINF:-1 tvg-id="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS (E)
+#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS (E)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS
+#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/30760
 #EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia II",SENAL COLOMBIA (E)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -46,256 +46,258 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/11748
 #EXTINF:-1 tvg-id="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia II",RED+ (E) 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
-#EXTINF:-1 tvg-id="Canal TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia II",Canal TRO (E)
+#EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia II",Canal TRO (E)
 https://liveingesta318.cdnmedia.tv/canaltro2live/live-3000/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/9oovj" group-title="💫Colombia II",TELEANTIOQUIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/9oovj" group-title="💫Colombia II",TELEANTIOQUIA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7645
 #EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/dny0q" group-title="💫Colombia II",TELEPACIFICO
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7157
-#EXTINF:-1 tvg-id="WIN+" tvg-logo="https://n9.cl/tr3uw3" group-title="💫Colombia II",WIN+ 
+#EXTINF:-1 tvg-id="" tvg-name="WIN+" tvg-logo="https://n9.cl/tr3uw3" group-title="💫Colombia II",WIN+ 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7827
-#EXTINF:-1 tvg-id="WIN SPORTS" tvg-logo="https://n9.cl/vdbp0w" group-title="💫Colombia II",WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/vdbp0w" group-title="💫Colombia II",WIN SPORTS
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7826
-#EXTINF:-1 tvg-id="DIRECTV SPORTS" tvg-logo="https://n9.cl/j6zx6" group-title="💫Colombia II",DIRECTV SPORTS  COL
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://n9.cl/j6zx6" group-title="💫Colombia II",DIRECTV SPORTS  COL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7815
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 2" tvg-logo="https://n9.cl/e72ns" group-title="💫Colombia II",DIRECTV SPORTS 2 COL
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://n9.cl/e72ns" group-title="💫Colombia II",DIRECTV SPORTS 2 COL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/11775
-#EXTINF:-1 tvg-id="Canal Nets" tvg-logo="https://n9.cl/khian6" group-title="💫Colombia II",Canal Nets (E)
+#EXTINF:-1 tvg-id="" tvg-name="Canal Nets" tvg-logo="https://n9.cl/khian6" group-title="💫Colombia II",Canal Nets (E)
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia II",mas (E)
+#EXTINF:-1 tvg-id="" tvg-name="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia II",mas (E)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="Mundo Vision TV" tvg-logo="https://n9.cl/0imea" group-title="💫Colombia II",Mundo Vision TV (E)
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Vision TV" tvg-logo="https://n9.cl/0imea" group-title="💫Colombia II",Mundo Vision TV (E)
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-id="Canal 8 TV" tvg-logo="https://n9.cl/cjivm" group-title="💫Colombia II",Canal 8 TV (E)
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TV" tvg-logo="https://n9.cl/cjivm" group-title="💫Colombia II",Canal 8 TV (E)
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="Cali TV" tvg-logo="https://n9.cl/t97gxk" group-title="💫Colombia II",Cali TV (E)
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-logo="https://n9.cl/t97gxk" group-title="💫Colombia II",Cali TV (E)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
-#EXTINF:-1 tvg-id="Cosmovision" tvg-logo="https://n9.cl/zjdla" group-title="💫Colombia II",Cosmovision (E)
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="https://n9.cl/zjdla" group-title="💫Colombia II",Cosmovision (E)
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 tvg-id="Memorias Classic" tvg-logo="https://n9.cl/r103vr" group-title="💫Colombia II",Memorias Classic (E)
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Classic" tvg-logo="https://n9.cl/r103vr" group-title="💫Colombia II",Memorias Classic (E)
 https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-#EXTINF:-1 tvg-id="Memorias Film" tvg-logo="https://n9.cl/e99lr" group-title="💫Colombia II",Memorias Film (E)
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Film" tvg-logo="https://n9.cl/e99lr" group-title="💫Colombia II",Memorias Film (E)
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
-#EXTINF:-1 tvg-id="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia II",Mi Gente (E)
+#EXTINF:-1 tvg-id="" tvg-name="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia II",Mi Gente (E)
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Canal Noticiero 90Min" tvg-logo="" group-title="💫Colombia II",Canal Noticiero 90Min (E)
+#EXTINF:-1 tvg-id="" tvg-name="Canal Noticiero 90Min" tvg-logo="" group-title="💫Colombia II",Canal Noticiero 90Min (E)
 https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
-#EXTINF:-1 tvg-id="Telesangil" tvg-logo="" group-title="💫Colombia II",Telesangil (E)
+#EXTINF:-1 tvg-id="" tvg-name="Telesangil" tvg-logo="" group-title="💫Colombia II",Telesangil (E)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece TV" tvg-logo="" group-title="💫Colombia II",Trece TV (E)
+#EXTINF:-1 tvg-id="" tvg-name="Trece TV" tvg-logo="" group-title="💫Colombia II",Trece TV (E)
 https://liveingesta118.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="TV San Jorge" tvg-logo="" group-title="💫Colombia II",TV San Jorge (E)
+#EXTINF:-1 tvg-id="" tvg-name="TV San Jorge" tvg-logo="" group-title="💫Colombia II",TV San Jorge (E)
 https://asucap.com/livestream/asucap_envivo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💫Colombia II", (E)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II", (E)
+
+
 
 === 🎞️Cine & Series ===
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7552
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13924
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC SUR 
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC SUR 
 pttp://alfa.7057460.xyz:2095/julinnn2/Camion01/7236
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC SUR 
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC SUR 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7187
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC ESP 
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC ESP 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7329
-#EXTINF:-1 tvg-id="AMC SERIES" tvg-logo="https://n9.cl/3uc96v" group-title="🎞️Cine & Series",AMC SERIES 
+#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://n9.cl/3uc96v" group-title="🎞️Cine & Series",AMC SERIES 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/28915
-#EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series",CINECANAL 
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series",CINECANAL 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7357
-#EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series",CINECANAL 
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series",CINECANAL 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7090
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series",CINEMAX 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series",CINEMAX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7337
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series",CINEMAX 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series",CINEMAX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7220
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN 
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7031
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN 
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7321
-#EXTINF:-1 tvg-id="AXN ESP" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN ESP 
+#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN ESP 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8456
-#EXTINF:-1 tvg-id="CINE LATINO" tvg-logo="https://n9.cl/7s2n37" group-title="🎞️Cine & Series",CINE LATINO  
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://n9.cl/7s2n37" group-title="🎞️Cine & Series",CINE LATINO  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/9263
-#EXTINF:-1 tvg-id="CINE DINAMITA" tvg-logo="https://n9.cl/828xd" group-title="🎞️Cine & Series",CINE DINAMITA  
+#EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA" tvg-logo="https://n9.cl/828xd" group-title="🎞️Cine & Series",CINE DINAMITA  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7460
-#EXTINF:-1 tvg-id="DE PELICULA" tvg-logo="https://n9.cl/vy7m5" group-title="🎞️Cine & Series",DE PELICULA 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/vy7m5" group-title="🎞️Cine & Series",DE PELICULA 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7194
-#EXTINF:-1 tvg-id="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series",DE PELICULA PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series",DE PELICULA PLUS 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7099
-#EXTINF:-1 tvg-id="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series",DE PELICULA PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series",DE PELICULA PLUS 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
-#EXTINF:-1 tvg-id="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️Cine & Series",DHE  
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️Cine & Series",DHE  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7477
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="" tvg-logo="" group-title="🎞️Cine & Series",
 
 === 🎫Cine Premium ===
-#EXTINF:-1 tvg-id="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7472
-#EXTINF:-1 tvg-id="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1 MEX 
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1 MEX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7323
-#EXTINF:-1 tvg-id="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1 MEX HD 
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1 MEX HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7431
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://n9.cl/im7pq" group-title="🎫Cine Premium",HBO 2 MEX 
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://n9.cl/im7pq" group-title="🎫Cine Premium",HBO 2 MEX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7325
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://n9.cl/im7pq" group-title="🎫Cine Premium",HBO 2 MEX HD 
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://n9.cl/im7pq" group-title="🎫Cine Premium",HBO 2 MEX HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7432
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://n9.cl/bn04l" group-title="🎫Cine Premium",HBO PLUS MEX 
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://n9.cl/bn04l" group-title="🎫Cine Premium",HBO PLUS MEX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7324
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://n9.cl/bn04l" group-title="🎫Cine Premium",HBO PLUS MEX HD 
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://n9.cl/bn04l" group-title="🎫Cine Premium",HBO PLUS MEX HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7434
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://n9.cl/ouw2v" group-title="🎫Cine Premium",HBO FAMILY MEX 
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://n9.cl/ouw2v" group-title="🎫Cine Premium",HBO FAMILY MEX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7326
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://n9.cl/ouw2v" group-title="🎫Cine Premium",HBO FAMILY MEX HD 
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://n9.cl/ouw2v" group-title="🎫Cine Premium",HBO FAMILY MEX HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7433
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://n9.cl/dhpcd" group-title="🎫Cine Premium",HBO SIGNATURE MEX HD 
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://n9.cl/dhpcd" group-title="🎫Cine Premium",HBO SIGNATURE MEX HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7435
-#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://n9.cl/eqsye" group-title="🎫Cine Premium",HBO XTREME MEX 
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://n9.cl/eqsye" group-title="🎫Cine Premium",HBO XTREME MEX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7327
-#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://n9.cl/eqsye" group-title="🎫Cine Premium",HBO XTREME MEX HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://n9.cl/eqsye" group-title="🎫Cine Premium",HBO XTREME MEX HD
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7437
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://n9.cl/w4zp3x" group-title="🎫Cine Premium",HBO POP MEX 
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://n9.cl/w4zp3x" group-title="🎫Cine Premium",HBO POP MEX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7305
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://n9.cl/w4zp3x" group-title="🎫Cine Premium",HBO POP MEX HD 
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://n9.cl/w4zp3x" group-title="🎫Cine Premium",HBO POP MEX HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7438
-#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://n9.cl/vwr7vh" group-title="🎫Cine Premium",HBO MUNDI MEX 
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://n9.cl/vwr7vh" group-title="🎫Cine Premium",HBO MUNDI MEX 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7304
-#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://n9.cl/vwr7vh" group-title="🎫Cine Premium",HBO MUNDI MEX HD 
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://n9.cl/vwr7vh" group-title="🎫Cine Premium",HBO MUNDI MEX HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7436
-#EXTINF:-1 tvg-id="MGM+" tvg-logo="https://n9.cl/3uf4w" group-title="🎫Cine Premium",MGM+
+#EXTINF:-1 tvg-id="" tvg-name="MGM+" tvg-logo="https://n9.cl/3uf4w" group-title="🎫Cine Premium",MGM+
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7864
-#EXTINF:-1 tvg-id="MGM+ DRIVE IN" tvg-logo="https://n9.cl/yhqly" group-title="🎫Cine Premium",MGM+ DRIVE IN 
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ DRIVE IN" tvg-logo="https://n9.cl/yhqly" group-title="🎫Cine Premium",MGM+ DRIVE IN 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8500
-#EXTINF:-1 tvg-id="MGM+ MARQUEE" tvg-logo="https://n9.cl/bgmk9" group-title="🎫Cine Premium",MGM+ MARQUEE 
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ MARQUEE" tvg-logo="https://n9.cl/bgmk9" group-title="🎫Cine Premium",MGM+ MARQUEE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7590
-#EXTINF:-1 tvg-id="MGM+ HITS" tvg-logo="https://n9.cl/6yiukd" group-title="🎫Cine Premium",MGM+ HITS 
+#EXTINF:-1 tvg-id="" tvg-name="MGM+ HITS" tvg-logo="https://n9.cl/6yiukd" group-title="🎫Cine Premium",MGM+ HITS 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7592
-#EXTINF:-1 tvg-id="STARZ ENCORE BLACK" tvg-logo="https://n9.cl/tiryf" group-title="🎫Cine Premium",STARZ ENCORE BLACK
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE BLACK" tvg-logo="https://n9.cl/tiryf" group-title="🎫Cine Premium",STARZ ENCORE BLACK
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/14050
-#EXTINF:-1 tvg-id="STARZ ENCORE CLASSIC" tvg-logo="https://n9.cl/i7uzly" group-title="🎫Cine Premium",STARZ ENCORE CLASSIC 
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://n9.cl/i7uzly" group-title="🎫Cine Premium",STARZ ENCORE CLASSIC 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/14051
-#EXTINF:-1 tvg-id="STARZ ENCORE WESTERNS" tvg-logo="https://n9.cl/oe0ln4" group-title="🎫Cine Premium",STARZ ENCORE WESTERNS 
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="https://n9.cl/oe0ln4" group-title="🎫Cine Premium",STARZ ENCORE WESTERNS 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/14052
-#EXTINF:-1 tvg-id="STARZ IN BLACK" tvg-logo="https://n9.cl/f84tu1" group-title="🎫Cine Premium",STARZ IN BLACK 
+#EXTINF:-1 tvg-id="" tvg-name="STARZ IN BLACK" tvg-logo="https://n9.cl/f84tu1" group-title="🎫Cine Premium",STARZ IN BLACK 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/14053
-#EXTINF:-1 tvg-id="STARZ KIDS AND FAMILY" tvg-logo="https://n9.cl/qq15x" group-title="🎫Cine Premium",STARZ KIDS AND FAMILY 
+#EXTINF:-1 tvg-id="" tvg-name="STARZ KIDS AND FAMILY" tvg-logo="https://n9.cl/qq15x" group-title="🎫Cine Premium",STARZ KIDS AND FAMILY 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/14054
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎫Cine Premium",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎫Cine Premium",
 
 === 🪲Nat y Cultura ===
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET 
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7368
-#EXTINF:-1 tvg-id="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET HD 
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7257
-#EXTINF:-1 tvg-id="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL 
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7367
-#EXTINF:-1 tvg-id="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL HD 
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7092
-#EXTINF:-1 tvg-id="DISC ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="🪲Nat y Cultura",DISC ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-name="DISC ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="🪲Nat y Cultura",DISC ESPAÑOL
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7613
-#EXTINF:-1 tvg-id="DISC ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="🪲Nat y Cultura",DISC ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-name="DISC ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="🪲Nat y Cultura",DISC ESPAÑA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8459
-#EXTINF:-1 tvg-id="DISC FAMILIA" tvg-logo="https://n9.cl/gd2s1" group-title="🪲Nat y Cultura",DISC FAMILIA
+#EXTINF:-1 tvg-id="" tvg-name="DISC FAMILIA" tvg-logo="https://n9.cl/gd2s1" group-title="🪲Nat y Cultura",DISC FAMILIA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7614
-#EXTINF:-1 tvg-id="DISC HYH" tvg-logo="https://n9.cl/dsavw" group-title="🪲Nat y Cultura",DISC HYH 
+#EXTINF:-1 tvg-id="" tvg-name="DISC HYH" tvg-logo="https://n9.cl/dsavw" group-title="🪲Nat y Cultura",DISC HYH 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7093
-#EXTINF:-1 tvg-id="DISC HYH" tvg-logo="https://n9.cl/dsavw" group-title="🪲Nat y Cultura",DISC HYH HD 
+#EXTINF:-1 tvg-id="" tvg-name="DISC HYH" tvg-logo="https://n9.cl/dsavw" group-title="🪲Nat y Cultura",DISC HYH HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7251
-#EXTINF:-1 tvg-id="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="🪲Nat y Cultura",DISC ID  
+#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="🪲Nat y Cultura",DISC ID  
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7340
-#EXTINF:-1 tvg-id="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="🪲Nat y Cultura",DISC ID HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="🪲Nat y Cultura",DISC ID HD
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7258
-#EXTINF:-1 tvg-id="DISC SCIENCE" tvg-logo="https://n9.cl/gq7q2" group-title="🪲Nat y Cultura",DISC SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="DISC SCIENCE" tvg-logo="https://n9.cl/gq7q2" group-title="🪲Nat y Cultura",DISC SCIENCE
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7100
-#EXTINF:-1 tvg-id="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="🪲Nat y Cultura",DISC TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="🪲Nat y Cultura",DISC TURBO
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7103
-#EXTINF:-1 tvg-id="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="🪲Nat y Cultura",DISC TURBO HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="🪲Nat y Cultura",DISC TURBO HD
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13912
-#EXTINF:-1 tvg-id="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC 
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7102
-#EXTINF:-1 tvg-id="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC HD
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7254
-#EXTINF:-1 tvg-id="DISC TEATHER" tvg-logo="https://n9.cl/1fj14" group-title="🪲Nat y Cultura",DISC TEATHER
+#EXTINF:-1 tvg-id="" tvg-name="DISC TEATHER" tvg-logo="https://n9.cl/1fj14" group-title="🪲Nat y Cultura",DISC TEATHER
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7101
-#EXTINF:-1 tvg-id="DISC TEATHER" tvg-logo="https://n9.cl/1fj14" group-title="🪲Nat y Cultura",DISC THEATER HD
+#EXTINF:-1 tvg-id="" tvg-name="DISC TEATHER" tvg-logo="https://n9.cl/1fj14" group-title="🪲Nat y Cultura",DISC THEATER HD
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7468
-#EXTINF:-1 tvg-id="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="🪲Nat y Cultura",DISC WORLD
+#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="🪲Nat y Cultura",DISC WORLD
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7104
-#EXTINF:-1 tvg-id="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="🪲Nat y Cultura",DISC WORLD HD 
+#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="🪲Nat y Cultura",DISC WORLD HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7469
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7043
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT HD 
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7250
-#EXTINF:-1 tvg-id="EL GOURMET" tvg-logo="https://n9.cl/x1gdp" group-title="🪲Nat y Cultura",EL GOURMET
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://n9.cl/x1gdp" group-title="🪲Nat y Cultura",EL GOURMET
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7125
-#EXTINF:-1 tvg-id="EL GOURMET" tvg-logo="https://n9.cl/x1gdp" group-title="🪲Nat y Cultura",EL GOURMET HD 
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://n9.cl/x1gdp" group-title="🪲Nat y Cultura",EL GOURMET HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8405
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://n9.cl/3ejbo" group-title="🪲Nat y Cultura",FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/3ejbo" group-title="🪲Nat y Cultura",FOOD NETWORK
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7172
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="🪲Nat y Cultura",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="🪲Nat y Cultura",HGTV
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7204
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="🪲Nat y Cultura",HGTV HD 
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="🪲Nat y Cultura",HGTV HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7443
-#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://n9.cl/ip14l" group-title="🪲Nat y Cultura",HISTORIA
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://n9.cl/ip14l" group-title="🪲Nat y Cultura",HISTORIA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7545
-#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY 
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7126
-#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY HD 
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7225
-#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7353
-#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 HD 
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7476
-#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7129
-#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME HD 
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7242
-#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7379
-#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO HD 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO HD 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7253
-#EXTINF:-1 tvg-id="ODISEA" tvg-logo="https://n9.cl/ineqo8" group-title="🪲Nat y Cultura",ODISEA
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://n9.cl/ineqo8" group-title="🪲Nat y Cultura",ODISEA
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8461
 ==
-#EXTINF:-1 tvg-id="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET (ENG)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7546
-#EXTINF:-1 tvg-id="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL (ENG) 
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL (ENG) 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7547
-#EXTINF:-1 tvg-id="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC (ENG) 
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC (ENG) 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8477
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT (ENG)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7588
-#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY (ENG)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8475
-#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME (ENG)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7583
-#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO (ENG)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/8476
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="🪲Nat y Cultura",NAT GEO WILD (ENG)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="🪲Nat y Cultura",NAT GEO WILD (ENG)
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/14065
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🪲Nat y Cultura",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲Nat y Cultura",
 
 === ⚽Eventos Deport ===
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 1
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13955
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 2" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 2
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13956
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 3" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 3
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13957
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 4" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 4
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13958
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 5" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 5
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13959
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 6" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 6
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13960
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 7
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 7" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 7
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13961
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 8" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 8
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/13962
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="⚽Eventos Deport",
