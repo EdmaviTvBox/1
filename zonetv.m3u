@@ -1,6 +1,11 @@
 #EXTM3U
 
-https://n9.cl/zonetv
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD " tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="ESPAÑA ",ESP | NAT GEO WILD 
+http://soporte-visual2.com:8080/live/Maik6@m*7D/N3ZB9J@/55858.m3u8
+#EXTINF:-1 tvg-id="LA 1" tvg-name="HISTORIA" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ESPAÑA ",ESP | HISTORIA
+http://soporte-visual2.com:8080/live/Maik6@m*7D/N3ZB9J@/55859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/b59c032c79b7d1613a2e6814ca8a24c0.png" group-title="ESPAÑA ",ESP | DISCOVERY CHANNEL
+http://soporte-visual2.com:8080/live/Maik6@m*7D/N3ZB9J@/55860.m3u8
 
 
 
