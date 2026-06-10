@@ -1,15 +1,38 @@
 #EXTM3U
 
-💫COLOMBIA
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/n276p" group-title="💫 COLOMBIA",RCN FHD 
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31359
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oka29" group-title="💫 COLOMBIA",CANAL CARACOL FHD  
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31369
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/zrn61" group-title="💫 COLOMBIA",TELECARIBE HD
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31361
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/a4oyj" group-title="💫 COLOMBIA", WIN SPORTS PLUS
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/200941
+=== 💫Señal En Prueba ===
+#EXTINF:-1 tvg-id="" tvg-name="Noticias Telemundo NY" tvg-logo="" group-title="💫Señal En Prueba",Noticias Telemundo NY (E)
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/784be269-a015-45e1-83e8-bae0978cae23/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OPA" tvg-logo="" group-title="💫Señal En Prueba",OPA (CR) (E)
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1037560156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="viwix tv" tvg-logo="" group-title="💫Señal En Prueba",viwix tv (E)
+https://vdochile.com:3816/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="" group-title="💫Señal En Prueba",Sony Cine (E)
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="" group-title="💫Señal En Prueba",ent Channel (E)
+https://stream.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="" group-title="💫Señal En Prueba",ent Family (E)
+https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic" tvg-logo="" group-title="💫Señal En Prueba",Totalmusic (E)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic Dance" tvg-logo="" group-title="💫Señal En Prueba",Totalmusic Dance (E)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
-✨
-https://xonawinfinity.xyz:8443
+=== ✝️Religiosos ===
+#EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title=""✝️Religiosos",TV Familia (E) 
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w540890667.m3u8
+#EXTINF:-1 tvg-id="Bendicion Channel" tvg-logo="https://n9.cl/evjai" group-title=""✝️Religiosos",Bendicion Channel (E)
+https://s.emisoras.tv:8081/bendicionchannel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Oracion con Son" tvg-logo="https://n9.cl/jm5vah" group-title=""✝️Religiosos",Oracion con Son (E) 
+https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-id="Telefamilia" tvg-logo="https://n9.cl/ahi4m" group-title=""✝️Religiosos",Telefamilia (E)
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?hls_ctx=331z8n7e
+#EXTINF:-1 tvg-id="Cristovision" tvg-logo="https://n9.cl/0agvx" group-title=""✝️Religiosos",Cristovision (E)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w2054941854.m3u8
+#EXTINF:-1 tvg-id="Frecuencia F" tvg-logo="https://n9.cl/z95am7" group-title=""✝️Religiosos",Frecuencia F (E)
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+#EXTINF:-1 tvg-id="Maria Vision" tvg-logo="https://n9.cl/rnk0j" group-title=""✝️Religiosos",Maria Vision (E) 
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE" tvg-logo="https://n9.cl/tcorzp" group-title="✝️Religiosos",Enlace (E)
+https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
