@@ -1,39 +1,14 @@
 #EXTM3U
 
-=== 💫Señal En Prueba ===
-#EXTINF:-1 tvg-id="" tvg-name="Noticias Telemundo NY" tvg-logo="" group-title="💫Señal En Prueba",Noticias Telemundo NY (E)
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/784be269-a015-45e1-83e8-bae0978cae23/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OPA" tvg-logo="" group-title="💫Señal En Prueba",OPA (CR) (E)
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1037560156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love The Planet" tvg-logo="" group-title="💫Señal En Prueba",Love The Planet
-https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="love wines" tvg-logo="" group-title="💫Señal En Prueba",love wines
-https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sol musica" tvg-logo="" group-title="💫Señal En Prueba",Sol musica (E)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
-#EXTINF:-1 tvg-id="" tvg-name="Totalmusic" tvg-logo="" group-title="💫Señal En Prueba",Totalmusic (E)
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Totalmusic Dance" tvg-logo="" group-title="💫Señal En Prueba",Totalmusic Dance (E)
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Totalmusic 80s" tvg-logo="" group-title="💫Señal En Prueba",Totalmusic 80s (E)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Totalmusic 2000s" tvg-logo="" group-title="💫Señal En Prueba",Totalmusic 2000s (E)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Totalmusic Concerts" tvg-logo="" group-title="💫Señal En Prueba",Totalmusic Concerts (E)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-
-
 === 💫Entretenimiento ===
-#EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="" group-title="💫Entretenimiento",ent Channel (E)
+#EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="https://n9.cl/72ny0" group-title="💫Entretenimiento",ent Channel (E)
 https://stream.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="" group-title="💫Entretenimiento",ent Family (E)
+#EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="https://n9.cl/331iba" group-title="💫Entretenimiento",ent Family (E)
 https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="" group-title="💫Entretenimiento",Sony Cine (E)
+#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="https://n9.cl/1musaf" group-title="💫Entretenimiento",Sony Cine (E)
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="viwix tv" tvg-logo="" group-title="💫Entretenimiento",viwix tv (E)
+#EXTINF:-1 tvg-id="" tvg-name="viwix tv" tvg-logo="https://n9.cl/5yeudd" group-title="💫Entretenimiento",viwix tv (E)
 https://vdochile.com:3816/stream/play.m3u8
-
-
 
 === ✝️Religiosos ===
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="✝️Religiosos",TV Familia (E) 
@@ -52,7 +27,85 @@ https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="https://n9.cl/tcorzp" group-title="✝️Religiosos",Enlace (E)
 https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Orbe 21" tvg-logo="" group-title="✝️Religiosos",Orbe 21
+#EXTINF:-1 tvg-id="" tvg-name="Orbe 21" tvg-logo="https://n9.cl/yyz32" group-title="✝️Religiosos",Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+=== 🎙️Musical ===
+#EXTINF:-1 tvg-id="" tvg-name="vclassic tv" tvg-logo="https://n9.cl/gpcsf" group-title="🎙️Musical",vclassic tv (E)
+https://5eaccbab48461.streamlock.net:1936/8076/8076/chunklist_w198686352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sol musica" tvg-logo="https://n9.cl/vay45" group-title="🎙️Musical",Sol musica (E)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
+#EXTINF:-1 tvg-id="" tvg-name="Retroplus" tvg-logo="https://n9.cl/7d532h" group-title="🎙️Musical",Retroplus (E)
+https://tls-cl.cdnz.cl/retroplustvuno/live/chunklist_w1500689156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic" tvg-logo="https://n9.cl/3ol0oj" group-title="🎙️Musical",Totalmusic (E)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic Dance" tvg-logo="https://n9.cl/bse8w2" group-title="🎙️Musical",Totalmusic Dance (E)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic 80s" tvg-logo="https://n9.cl/fbzv9c" group-title="🎙️Musical",Totalmusic 80s (E)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic 2000s" tvg-logo="https://n9.cl/nkp2xf" group-title="🎙️Musical",Totalmusic 2000s (E)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic Concerts" tvg-logo="https://n9.cl/ln5pb" group-title="🎙️Musical",Totalmusic Concerts (E)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+=== 💫Señal En Prueba ===
+#EXTINF:-1 tvg-id="" tvg-name="Noticias Telemundo NY" tvg-logo="https://n9.cl/ty3g28" group-title="💫Señal En Prueba",Noticias Telemundo NY (E)
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/784be269-a015-45e1-83e8-bae0978cae23/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OPA" tvg-logo="https://n9.cl/dl3ai" group-title="💫Señal En Prueba",OPA (CR) (E)
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1037560156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love The Planet" tvg-logo="https://n9.cl/kqebs" group-title="💫Señal En Prueba",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="love wines" tvg-logo="https://n9.cl/b2dob" group-title="💫Señal En Prueba",love wines
+https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/playlist.m3u8
+
+=== 💫Colombia ===
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="https://n9.cl/mtmd3" group-title="💫Colombia",CANAL CAPITAL (E)
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia",RCN MAS (E)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia",SENAL COLOMBIA (E)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="CANAL INSTITUCIONAL" tvg-logo="https://n9.cl/f50pm" group-title="💫Colombia",CANAL INSTITUCIONAL (E)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia",RED+ (E) 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia",Canal TRO (E)
+https://liveingesta318.cdnmedia.tv/canaltro2live/live-3000/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Canal Nets" tvg-logo="https://n9.cl/khian6" group-title="💫Colombia",Canal Nets (E)
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia",mas (E)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Vision TV" tvg-logo="https://n9.cl/0imea" group-title="💫Colombia",Mundo Vision TV (E)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TV" tvg-logo="https://n9.cl/cjivm" group-title="💫Colombia",Canal 8 TV (E)
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-logo="https://n9.cl/t97gxk" group-title="💫Colombia",Cali TV (E)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="https://n9.cl/zjdla" group-title="💫Colombia",Cosmovision (E)
+https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-id="" tvg-name="memorias pop latino" tvg-logo="" group-title="💫Colombia",Mmemorias pop latino (E)
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Del Corazon" tvg-logo="" group-title="💫Colombia",Memorias Del Corazon (E)
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Classic" tvg-logo="https://n9.cl/r103vr" group-title="💫Colombia",Memorias Classic (E)
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias tropical" tvg-logo="" group-title="💫Colombia",Memorias tropical (E)
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Toons" tvg-logo="" group-title="💫Colombia",Memorias Toons (E)
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Film" tvg-logo="https://n9.cl/e99lr" group-title="💫Colombia",Memorias Film (E)
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Series" tvg-logo="" group-title="💫Colombia",Memorias Series (E)
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia",Mi Gente (E)
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Noticiero 90Min" tvg-logo="" group-title="💫Colombia",Canal Noticiero 90Min (E)
+https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telesangil" tvg-logo="" group-title="💫Colombia",Telesangil (E)
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trece TV" tvg-logo="" group-title="💫Colombia",Trece TV (E)
+https://liveingesta118.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="TV San Jorge" tvg-logo="" group-title="💫Colombia",TV San Jorge (E)
+https://asucap.com/livestream/asucap_envivo.m3u8
 
 
