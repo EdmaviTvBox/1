@@ -58,6 +58,42 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480
 #EXTINF:-1 tvg-id="" tvg-name="love wines" tvg-logo="https://n9.cl/b2dob" group-title="💫Señal En Prueba",love wines
 https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/playlist.m3u8
 
+=== 💫Colombia I ===
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 1" tvg-logo="" group-title="💫Colombia I",CANAL 1
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13774.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/9umi64" group-title="💫Colombia I",CARACOL
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13776.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD2" tvg-logo="" group-title="💫Colombia I",CARACOL HD2
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13791.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="" group-title="💫Colombia I",CARACOL INT
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13778.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://n9.cl/gchzpb" group-title="💫Colombia I",CITY TV
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13805.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/tpdmz" group-title="💫Colombia I",RCN COL
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13781.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia I",RCN INT
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13783.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia I",RCN MAS
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/529355.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia I",RCN NOVELAS
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13789.ts
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia I",SENAL COLOMBIA
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13795.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/gqfbb" group-title="💫Colombia I",TELECARIBE
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13801.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/9oovj" group-title="💫Colombia I",TELEANTIOQUIA
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13790.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/dny0q" group-title="💫Colombia I",TELEPACIFICO
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13802.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TRO" tvg-logo="" group-title="💫Colombia I",CANAL TRO
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13794.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="" group-title="💫Colombia I",TELEMEDELLIN
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13798.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECAFE" tvg-logo="" group-title="💫Colombia I",TELECAFE
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13800.ts
+#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="" group-title="💫Colombia I",CALI TV
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/117012.ts
+
 === 💫Colombia ===
 #EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="https://n9.cl/mtmd3" group-title="💫Colombia",CANAL CAPITAL (E)
 https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
