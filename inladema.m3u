@@ -83,29 +83,26 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="https://n9.cl/zjdla" group-title="💫Colombia",Cosmovision (E)
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 tvg-id="" tvg-name="memorias pop latino" tvg-logo="" group-title="💫Colombia",Mmemorias pop latino (E)
-https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Del Corazon" tvg-logo="" group-title="💫Colombia",Memorias Del Corazon (E)
-https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Classic" tvg-logo="https://n9.cl/r103vr" group-title="💫Colombia",Memorias Classic (E)
-https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Memorias tropical" tvg-logo="" group-title="💫Colombia",Memorias tropical (E)
-https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Toons" tvg-logo="" group-title="💫Colombia",Memorias Toons (E)
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Film" tvg-logo="https://n9.cl/e99lr" group-title="💫Colombia",Memorias Film (E)
-https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Series" tvg-logo="" group-title="💫Colombia",Memorias Series (E)
-https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia",Mi Gente (E)
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Noticiero 90Min" tvg-logo="" group-title="💫Colombia",Canal Noticiero 90Min (E)
+#EXTINF:-1 tvg-id="" tvg-name="Canal Noticiero 90Min" tvg-logo="https://n9.cl/br8xtr" group-title="💫Colombia",Canal Noticiero 90Min (E)
 https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telesangil" tvg-logo="" group-title="💫Colombia",Telesangil (E)
+#EXTINF:-1 tvg-id="" tvg-name="Telesangil" tvg-logo="https://n9.cl/xuuv7" group-title="💫Colombia",Telesangil (E)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trece TV" tvg-logo="" group-title="💫Colombia",Trece TV (E)
-https://liveingesta118.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="TV San Jorge" tvg-logo="" group-title="💫Colombia",TV San Jorge (E)
-https://asucap.com/livestream/asucap_envivo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="memorias pop latino" tvg-logo="https://n9.cl/qxypb" group-title="💫Colombia",Contacto latino (E)
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Del Corazon" tvg-logo="https://n9.cl/k9uixf" group-title="💫Colombia",Memorias Del Corazon (E)
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Classic" tvg-logo="https://n9.cl/dfuty" group-title="💫Colombia",Memorias Classic (E)
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias tropical" tvg-logo="https://n9.cl/opz2av" group-title="💫Colombia",Memorias tropical (E)
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Toons" tvg-logo="https://n9.cl/7tykqk" group-title="💫Colombia",Memorias Toons (E)
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Film" tvg-logo="https://n9.cl/2gwbz" group-title="💫Colombia",Memorias Film (E)
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Series" tvg-logo="https://n9.cl/d3ywz5" group-title="💫Colombia",Memorias Series (E)
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 
 
