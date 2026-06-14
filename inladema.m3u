@@ -140,6 +140,13 @@ https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w103756015
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="love wines" tvg-logo="https://n9.cl/b2dob" group-title="💫Señal En Prueba",love wines
 https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",dreikotv
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",ZYOONTV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",energeek
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-name="Evento 01" tvg-logo="" group-title="💫Señal En Prueba",Evento 01
 http://mundo2.vip:80//live/1bopl31e3/4347767hd/154298.ts
 #EXTINF:-1 tvg-id="" tvg-name="Evento 02" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 02.
@@ -200,12 +207,4 @@ http://mundo2.vip:80//live/1bopl31e3/4347767hd/69244.ts
 http://mundo2.vip:80//live/1bopl31e3/4347767hd/69260.ts
 #EXTINF:-1 tvg-id="" tvg-name="La kalle" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",La kalle
 http://mundo2.vip:80//live/1bopl31e3/4347767hd/69287.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",dreikotv
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",ZYOONTV
-https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",energeek
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
