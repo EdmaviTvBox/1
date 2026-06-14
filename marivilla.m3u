@@ -1,0 +1,208 @@
+#EXTM3U
+
+=== ✝️Religiosos ===
+#EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="✝️Religiosos",TV Familia (E) 
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w540890667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/evjai" group-title="✝️Religiosos",Bendicion Channel (E)
+https://s.emisoras.tv:8081/bendicionchannel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/jm5vah" group-title="✝️Religiosos",Oracion con Son (E) 
+https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/ahi4m" group-title="✝️Religiosos",Telefamilia (E)
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?hls_ctx=331z8n7e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/0agvx" group-title="✝️Religiosos",Cristovision (E)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w2054941854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/z95am7" group-title="✝️Religiosos",Frecuencia F (E)
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maria Vision" tvg-logo="https://n9.cl/rnk0j" group-title="✝️Religiosos",Maria Vision (E) 
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="https://n9.cl/tcorzp" group-title="✝️Religiosos",Enlace (E)
+https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orbe 21" tvg-logo="https://n9.cl/yyz32" group-title="✝️Religiosos",Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+=== 💫Entretenimiento ===
+#EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="https://n9.cl/72ny0" group-title="💫Entretenimiento",ent Channel (E)
+https://stream.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="https://n9.cl/331iba" group-title="💫Entretenimiento",ent Family (E)
+https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="https://n9.cl/1musaf" group-title="💫Entretenimiento",Sony Cine (E)
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="viwix tv" tvg-logo="https://n9.cl/5yeudd" group-title="💫Entretenimiento",viwix tv (E)
+https://vdochile.com:3816/stream/play.m3u8
+
+=== 💫Colombia ===
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="https://n9.cl/mtmd3" group-title="💫Colombia",CANAL CAPITAL (E)
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia",RCN MAS (E)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia",SENAL COLOMBIA (E)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="CANAL INSTITUCIONAL" tvg-logo="https://n9.cl/f50pm" group-title="💫Colombia",CANAL INSTITUCIONAL (E)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia",RED+ (E) 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia",Canal TRO (E)
+https://liveingesta318.cdnmedia.tv/canaltro2live/live-3000/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Canal Nets" tvg-logo="https://n9.cl/khian6" group-title="💫Colombia",Canal Nets (E)
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia",mas (E)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Vision TV" tvg-logo="https://n9.cl/0imea" group-title="💫Colombia",Mundo Vision TV (E)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TV" tvg-logo="https://n9.cl/cjivm" group-title="💫Colombia",Canal 8 TV (E)
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-logo="https://n9.cl/t97gxk" group-title="💫Colombia",Cali TV (E)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="https://n9.cl/zjdla" group-title="💫Colombia",Cosmovision (E)
+https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-id="" tvg-name="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia",Mi Gente (E)
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Noticiero 90Min" tvg-logo="https://n9.cl/br8xtr" group-title="💫Colombia",Canal Noticiero 90Min (E)
+https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telesangil" tvg-logo="https://n9.cl/xuuv7" group-title="💫Colombia",Telesangil (E)
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="memorias pop latino" tvg-logo="https://n9.cl/qxypb" group-title="💫Colombia",Contacto latino (E)
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Del Corazon" tvg-logo="https://n9.cl/k9uixf" group-title="💫Colombia",Memorias Del Corazon (E)
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Classic" tvg-logo="https://n9.cl/dfuty" group-title="💫Colombia",Memorias Classic (E)
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias tropical" tvg-logo="https://n9.cl/opz2av" group-title="💫Colombia",Memorias tropical (E)
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Toons" tvg-logo="https://n9.cl/7tykqk" group-title="💫Colombia",Memorias Toons (E)
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Film" tvg-logo="https://n9.cl/2gwbz" group-title="💫Colombia",Memorias Film (E)
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Series" tvg-logo="https://n9.cl/d3ywz5" group-title="💫Colombia",Memorias Series (E)
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+
+=== 💫Colombia I ===
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 1" tvg-logo="" group-title="💫Colombia I",CANAL 1
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13774.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/9umi64" group-title="💫Colombia I",CARACOL
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69250.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD2" tvg-logo="" group-title="💫Colombia I",CARACOL HD2
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13791.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="" group-title="💫Colombia I",CARACOL INT
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13778.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://n9.cl/gchzpb" group-title="💫Colombia I",CITY TV
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13805.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/tpdmz" group-title="💫Colombia I",RCN COL
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/541553.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/tpdmz" group-title="💫Colombia I",RCN COL
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69266.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia I",RCN INT
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13783.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia I",RCN MAS
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/529355.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia I",RCN NOVELAS
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13789.ts
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia I",SENAL COLOMBIA
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13795.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/gqfbb" group-title="💫Colombia I",TELECARIBE
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13801.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/9oovj" group-title="💫Colombia I",TELEANTIOQUIA
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13790.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/dny0q" group-title="💫Colombia I",TELEPACIFICO
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13802.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TRO" tvg-logo="" group-title="💫Colombia I",CANAL TRO
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13794.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMEDELLIN" tvg-logo="" group-title="💫Colombia I",TELEMEDELLIN
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13798.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECAFE" tvg-logo="" group-title="💫Colombia I",TELECAFE
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13800.ts
+#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="" group-title="💫Colombia I",CALI TV
+http://weibplus.is:80/ligia_zepeda/Zepeda2023L/117012.ts
+
+=== 🎙️Musical ===
+#EXTINF:-1 tvg-id="" tvg-name="vclassic tv" tvg-logo="https://n9.cl/gpcsf" group-title="🎙️Musical",vclassic tv (E)
+https://5eaccbab48461.streamlock.net:1936/8076/8076/chunklist_w198686352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sol musica" tvg-logo="https://n9.cl/vay45" group-title="🎙️Musical",Sol musica (E)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
+#EXTINF:-1 tvg-id="" tvg-name="Retroplus" tvg-logo="https://n9.cl/7d532h" group-title="🎙️Musical",Retroplus (E)
+https://tls-cl.cdnz.cl/retroplustvuno/live/chunklist_w1500689156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic" tvg-logo="https://n9.cl/3ol0oj" group-title="🎙️Musical",Totalmusic (E)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic Dance" tvg-logo="https://n9.cl/bse8w2" group-title="🎙️Musical",Totalmusic Dance (E)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic 80s" tvg-logo="https://n9.cl/fbzv9c" group-title="🎙️Musical",Totalmusic 80s (E)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic 2000s" tvg-logo="https://n9.cl/nkp2xf" group-title="🎙️Musical",Totalmusic 2000s (E)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Totalmusic Concerts" tvg-logo="https://n9.cl/ln5pb" group-title="🎙️Musical",Totalmusic Concerts (E)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+=== 💫Señal En Prueba ===
+#EXTINF:-1 tvg-id="" tvg-name="OPA" tvg-logo="https://n9.cl/dl3ai" group-title="💫Señal En Prueba",OPA (CR) (E)
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1037560156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love The Planet" tvg-logo="https://n9.cl/kqebs" group-title="💫Señal En Prueba",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="love wines" tvg-logo="https://n9.cl/b2dob" group-title="💫Señal En Prueba",love wines
+https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evento 01" tvg-logo="" group-title="💫Señal En Prueba",Evento 01
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/154298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento 02" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 02.
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/154299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento 03" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 03
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/154300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento 04" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 04
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/154301.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL FHD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69253.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL HD 01
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69250.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL HD 02
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69251.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL MUNDIAL 2026
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69252.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL 4K
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/400089.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Caracol Internacional HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69257.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Caracol Internacional
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69255.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",RCN HD 05
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/541557.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",RCN HD 04
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/541558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Pasiones HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Pasiones SD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Cablenoticias HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Cablenoticias
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Uno" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Canal Uno HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69248.ts
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",City TV SD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecaribe HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69280.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleCaribe" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",TeleCaribe
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69279.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",NTN24
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Señal Colombia HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69272.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleAntioquia" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",TeleAntioquia
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecafé HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecafé
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telepacifico
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Canal Capital HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69244.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",City TV HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69260.ts
+#EXTINF:-1 tvg-id="" tvg-name="La kalle" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",La kalle
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69287.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",
+
+
+
+
+
