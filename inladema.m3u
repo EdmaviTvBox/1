@@ -48,75 +48,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 #EXTINF:-1 tvg-id="" tvg-name="Totalmusic Concerts" tvg-logo="https://n9.cl/ln5pb" group-title="🎙️Musical",Totalmusic Concerts (E)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
-=== 💫Señal En Prueba ===
-#EXTINF:-1 tvg-id="" tvg-name="OPA" tvg-logo="https://n9.cl/dl3ai" group-title="💫Señal En Prueba",OPA (CR) (E)
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1037560156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love The Planet" tvg-logo="https://n9.cl/kqebs" group-title="💫Señal En Prueba",Love The Planet
-https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="love wines" tvg-logo="https://n9.cl/b2dob" group-title="💫Señal En Prueba",love wines
-https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Evento 01" tvg-logo="" group-title="💫Señal En Prueba",Evento 01
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/154298.ts
-#EXTINF:-1 tvg-id="" tvg-name="Evento 02" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 02.
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/154299.ts
-#EXTINF:-1 tvg-id="" tvg-name="Evento 03" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 03
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/154300.ts
-#EXTINF:-1 tvg-id="" tvg-name="Evento 04" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 04
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/154301.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL FHD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69253.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL HD 01
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69250.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL HD 02
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69251.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL MUNDIAL 2026
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69252.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL 4K
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/400089.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Caracol Internacional HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69257.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Caracol Internacional
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69255.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",RCN HD 05
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/541557.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",RCN HD 04
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/541558.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Pasiones HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69264.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Pasiones SD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69265.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Cablenoticias HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69241.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Cablenoticias
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69242.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Uno" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Canal Uno HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69248.ts
-#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",City TV SD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69259.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecaribe HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69280.ts
-#EXTINF:-1 tvg-id="" tvg-name="TeleCaribe" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",TeleCaribe
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69279.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",NTN24
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69263.ts
-#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Señal Colombia HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69272.ts
-#EXTINF:-1 tvg-id="" tvg-name="TeleAntioquia" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",TeleAntioquia
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69275.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecafé HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69278.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecafé
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69277.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telepacifico
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69285.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Canal Capital HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69244.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",City TV HD
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69260.ts
-#EXTINF:-1 tvg-id="" tvg-name="La kalle" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",La kalle
-http://mundo2.vip:80//live/1bopl31e3/4347767hd/69287.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",
 === 💫Colombia I ===
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 1" tvg-logo="" group-title="💫Colombia I",CANAL 1
 http://weibplus.is:80/ligia_zepeda/Zepeda2023L/13774.ts
@@ -202,4 +133,79 @@ https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Memorias Series" tvg-logo="https://n9.cl/d3ywz5" group-title="💫Colombia",Memorias Series (E)
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 
+=== 💫Señal En Prueba ===
+#EXTINF:-1 tvg-id="" tvg-name="OPA" tvg-logo="https://n9.cl/dl3ai" group-title="💫Señal En Prueba",OPA (CR) (E)
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1037560156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love The Planet" tvg-logo="https://n9.cl/kqebs" group-title="💫Señal En Prueba",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="love wines" tvg-logo="https://n9.cl/b2dob" group-title="💫Señal En Prueba",love wines
+https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evento 01" tvg-logo="" group-title="💫Señal En Prueba",Evento 01
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/154298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento 02" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 02.
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/154299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento 03" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 03
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/154300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evento 04" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Evento 04
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/154301.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL FHD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69253.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL HD 01
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69250.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL HD 02
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69251.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL MUNDIAL 2026
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69252.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",CARACOL 4K
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/400089.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Caracol Internacional HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69257.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INT" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Caracol Internacional
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69255.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",RCN HD 05
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/541557.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",RCN HD 04
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/541558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Pasiones HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Pasiones SD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Cablenoticias HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Cablenoticias
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Uno" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Canal Uno HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69248.ts
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",City TV SD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecaribe HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69280.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleCaribe" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",TeleCaribe
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69279.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",NTN24
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Señal Colombia HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69272.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeleAntioquia" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",TeleAntioquia
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecafé HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecafé" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telecafé
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Telepacifico
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",Canal Capital HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69244.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",City TV HD
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69260.ts
+#EXTINF:-1 tvg-id="" tvg-name="La kalle" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",La kalle
+http://mundo2.vip:80//live/1bopl31e3/4347767hd/69287.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n9.cl/o64di2" group-title="💫Señal En Prueba",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",dreikotv
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",ZYOONTV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",energeek
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
