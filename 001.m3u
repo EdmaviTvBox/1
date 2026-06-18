@@ -10,13 +10,13 @@ http://livetv-plus.com:8880//live/RGCRM/RCQAE/229242.ts
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/453809.ts
 #EXTINF:-1 tvg-id="" tvg-name="CURIOSITY" tvg-logo="https://n9.cl/0yf469" group-title="✳️CULTURA",CURIOSITY
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/640485.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="✳️CULTURA",DISC CHANNEL LAT
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/n4h7a8" group-title="✳️CULTURA",DISC CHANNEL LAT
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/186572.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="✳️CULTURA",DISC CHANNEL SUR
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/n4h7a8" group-title="✳️CULTURA",DISC CHANNEL SUR
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/93442.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="✳️CULTURA",DISCOVERY CHANNEL NORTE FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/n4h7a8" group-title="✳️CULTURA",DISCOVERY CHANNEL NORTE FHD
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/9520.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC EN ESPAÑOL" tvg-logo="https://n9.cl/7az6p" group-title="✳️CULTURA",DISCOVERY EN ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-name="DISC EN ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="✳️CULTURA",DISCOVERY EN ESPAÑOL
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/452236.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISC FAMILIA" tvg-logo="https://n9.cl/gd2s1" group-title="✳️CULTURA",DISCOVERY FAMILIA
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/10769.ts
@@ -80,7 +80,7 @@ http://livetv-plus.com:8880//live/RGCRM/RCQAE/19542.ts
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/276310.ts
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="✳️CULTURA",NAT GEO NORTE
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/439788.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo=""https://n9.cl/ac33f group-title="✳️CULTURA",NAT GEO SUR
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo=""https://n9.cl/ac33f" group-title="✳️CULTURA",NAT GEO SUR
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/242015.ts
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO MUNDO" tvg-logo="https://n9.cl/f0fhz" group-title="✳️CULTURA",NAT GEO MUNDO
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/54154.ts
