@@ -1,25 +1,95 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",HISTORIA
-http://mundo2.vip:80//live/A82204C11480/2204C11480/110249.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",DISCOVERY ESP
-http://zk85.hofcepesp1.top:8080/es2841760451157351/cfcd3eb30bce/76598
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",ODISEA 
-http://zk85.hofcepesp1.top:8080/es2841760451157351/cfcd3eb30bce/76600
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",BBC HISTORY 
-http://zk85.hofcepesp1.top:8080/es2841760451157351/cfcd3eb30bce/76610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",BBC FOOD
-http://zk85.hofcepesp1.top:8080/es2841760451157351/cfcd3eb30bce/76609
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",BBC EARTH
-http://zk85.hofcepesp1.top:8080/es2841760451157351/cfcd3eb30bce/76611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",BBC LIFESTYLE
-http://zk85.hofcepesp1.top:8080/es2841760451157351/cfcd3eb30bce/76612
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲", NATIONAL GEOGRAPHIC
-http://zk85.hofcepesp1.top:8080/es2841760451157351/cfcd3eb30bce/76595
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",NAT GEO WILD
-http://zk85.hofcepesp1.top:8080/es2841760451157351/cfcd3eb30bce/76596
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",dreikotv
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL P" tvg-logo="https://n9.cl/h45odu" group-title="✳️CULTURA",ANIMAL PLANET HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9517.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL P" tvg-logo="https://n9.cl/h45odu" group-title="✳️CULTURA",ANIMAL PLANET SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/276193.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL P SUR" tvg-logo="https://n9.cl/h45odu" group-title="✳️CULTURA",ANIMAL PLANET SUR HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/229242.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://n9.cl/ulzhf" group-title="✳️CULTURA",CANAL COCINA
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/453809.ts
+#EXTINF:-1 tvg-id="" tvg-name="CURIOSITY" tvg-logo="https://n9.cl/0yf469" group-title="✳️CULTURA",CURIOSITY
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/640485.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="✳️CULTURA",DISC CHANNEL LAT
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/186572.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="✳️CULTURA",DISC CHANNEL SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/93442.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="✳️CULTURA",DISCOVERY CHANNEL NORTE FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9520.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC EN ESPAÑOL" tvg-logo="https://n9.cl/7az6p" group-title="✳️CULTURA",DISCOVERY EN ESPAÑOL
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/452236.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC FAMILIA" tvg-logo="https://n9.cl/gd2s1" group-title="✳️CULTURA",DISCOVERY FAMILIA
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/10769.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/dsavw" group-title="✳️CULTURA",DISCOVERY H&H LAT
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/273322.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/dsavw" group-title="✳️CULTURA",DISCOVERY H&H NORTE FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/242008.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/dsavw" group-title="✳️CULTURA",DISCOVERY H&H SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53078.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/dsavw" group-title="✳️CULTURA",DISCOVERY H&H SUR FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439759.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="✳️CULTURA",DISCOVERY ID SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53051.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="✳️CULTURA",DISCOVERY ID SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/36458.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="✳️CULTURA",DISCOVERY ID NORTE
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439789.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC SCIENCE" tvg-logo="https://n9.cl/gq7q2" group-title="✳️CULTURA",DISCOVERY SCIENCE FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/36466.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC THEATER" tvg-logo="https://n9.cl/1fj14" group-title="✳️CULTURA",DISCOVERY THEATER SUR FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439786.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="✳️CULTURA",DISCOVERY TLC
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/268886.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="✳️CULTURA",DISCOVERY TLC HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/199201.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="✳️CULTURA",DISCOVERY TLC FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/242009.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="✳️CULTURA",DISCOVERY TLC MEX HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/19596.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="✳️CULTURA",DISCOVERY TURBO SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/19505.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="✳️CULTURA",DISCOVERY TURBO HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/54283.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="✳️CULTURA",DISCOVERY WORLD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9516.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="✳️CULTURA",DISCOVERY WORLD FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53077.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW AMERICA" tvg-logo="https://n9.cl/qdwo7" group-title="✳️CULTURA",DW AMERICA
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/181177.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="✳️CULTURA",HGTV HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/452238.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="✳️CULTURA",HGTV MEX
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/178146.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://n9.cl/ip14l" group-title="✳️CULTURA",HISTORIA
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/56221.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CH" tvg-logo="https://n9.cl/mueg2" group-title="✳️CULTURA",HISTORY CHANNEL
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/242013.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CH" tvg-logo="https://n9.cl/mueg2" group-title="✳️CULTURA",HISTORY CHANNEL NORTE
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53074.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CH" tvg-logo="https://n9.cl/mueg2" group-title="✳️CULTURA",HISTORY CHANNEL SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/186570.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CH" tvg-logo="https://n9.cl/mueg2" group-title="✳️CULTURA",HISTORY EN ESPAÑOL
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/610874.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="✳️CULTURA",HISTORY 2 SUR FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/105685.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="✳️CULTURA",HISTORY 2 SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439767.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="✳️CULTURA",HISTORY 2 HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/19542.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://n9.cl/s136r" group-title="✳️CULTURA",LOVE NATURE
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/276310.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="✳️CULTURA",NAT GEO NORTE
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439788.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo=""https://n9.cl/ac33f group-title="✳️CULTURA",NAT GEO SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/242015.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO MUNDO" tvg-logo="https://n9.cl/f0fhz" group-title="✳️CULTURA",NAT GEO MUNDO
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/54154.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="✳️CULTURA",NAT GEO WILD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/452237.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="✳️CULTURA",NAT GEO WILD HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/36470.ts
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://n9.cl/ineqo8" group-title="✳️CULTURA",ODISEA
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/56105.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",ZYOONTV
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",energeek
