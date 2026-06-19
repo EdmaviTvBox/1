@@ -1,5 +1,84 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://n9.cl/f4o94" group-title="🔘ENTRETENIMIENTO",A&E HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9547.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://n9.cl/h7wk7" group-title="🔘ENTRETENIMIENTO",A3SERIES
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/211198.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://n9.cl/h7wk7" group-title="🔘ENTRETENIMIENTO",A3SERIES FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/171484.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://n9.cl/h7wk7" group-title="🔘ENTRETENIMIENTO",A3SERIES HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53059.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM" tvg-logo="https://n9.cl/95gue" group-title="🔘ENTRETENIMIENTO",ADULT SWIM
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/622513.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://n9.cl/745yzh" group-title="🔘ENTRETENIMIENTO",AMC SERIES
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439827.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/47m8kn" group-title="🔘ENTRETENIMIENTO",ANTENA 3 INT HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/619860.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/47m8kn" group-title="🔘ENTRETENIMIENTO",ANTENA 3 INT
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/211202.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/oosysr" group-title="🔘ENTRETENIMIENTO",COMEDY CENTRAL FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/241997.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/oosysr" group-title="🔘ENTRETENIMIENTO",COMEDY CENTRAL
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53049.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/j0uhit" group-title="🔘ENTRETENIMIENTO",DISTRITO COMEDIA
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/469064.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/j0uhit" group-title="🔘ENTRETENIMIENTO",DISTRITO COMEDIA HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9412.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/j0uhit" group-title="🔘ENTRETENIMIENTO",DISTRITO COMEDIA SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9565.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="https://n9.cl/2j0d3" group-title="🔘ENTRETENIMIENTO",ESTRELLA TV
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/51169.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="https://n9.cl/n2vqt" group-title="🔘ENTRETENIMIENTO",ETC 
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/394826.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/df5nr" group-title="🔘ENTRETENIMIENTO",FX FHD NORTE
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/242001.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/df5nr" group-title="🔘ENTRETENIMIENTO",FX HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/167656.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/df5nr" group-title="🔘ENTRETENIMIENTO",FX SD SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9546.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALA TV" tvg-logo="https://n9.cl/5uzub" group-title="🔘ENTRETENIMIENTO",GALA TV
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/54962.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA" tvg-logo="https://n9.cl/tsmq7r" group-title="🔘ENTRETENIMIENTO",KANAL D DRAMA
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/183185.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://n9.cl/0q07g" group-title="🔘ENTRETENIMIENTO",NBC UNIVERSO
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/185096.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://n9.cl/0q07g" group-title="🔘ENTRETENIMIENTO",NBC UNIVERSO HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/199524.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://n9.cl/8i3426" group-title="🔘ENTRETENIMIENTO",PASIONES NORTE
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439781.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://n9.cl/8i3426" group-title="🔘ENTRETENIMIENTO",PASIONES SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/242017.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://n9.cl/xypap" group-title="🔘ENTRETENIMIENTO",SONY CHANNEL FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439783.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://n9.cl/xypap" group-title="🔘ENTRETENIMIENTO",SONY CHANNEL HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53039.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://n9.cl/xypap" group-title="🔘ENTRETENIMIENTO",SONY CHANNEL SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/211310.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="https://n9.cl/t756h" group-title="🔘ENTRETENIMIENTO",SONY COMEDIAS
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/276162.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMPETENCIAS" tvg-logo="https://n9.cl/ytk9ii" group-title="🔘ENTRETENIMIENTO",SONY COMPETENCIAS
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/218342.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY ÉXITOS" tvg-logo="https://n9.cl/l0euf5" group-title="🔘ENTRETENIMIENTO",SONY ÉXITOS
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/619024.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="https://n9.cl/6g5csl" group-title="🔘ENTRETENIMIENTO",SONY NOVELAS
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/276161.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="https://n9.cl/u30rz" group-title="🔘ENTRETENIMIENTO",TNT NOVELAS
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/542720.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://n9.cl/vytmvo" group-title="🔘ENTRETENIMIENTO",TNT SERIES FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439780.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://n9.cl/vytmvo" group-title="🔘ENTRETENIMIENTO",TNT SERIES HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9560.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://n9.cl/vytmvo" group-title="🔘ENTRETENIMIENTO",TNT SERIES SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53054.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://n9.cl/qaauv7" group-title="🔘ENTRETENIMIENTO",UNICABLE FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/242004.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://n9.cl/2uzr7c" group-title="🔘ENTRETENIMIENTO",WARNER TV NORTE FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53040.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://n9.cl/2uzr7c" group-title="🔘ENTRETENIMIENTO",WARNER TV SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439740.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://n9.cl/2uzr7c" group-title="🔘ENTRETENIMIENTO",WARNER TV SUR SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53044.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL P" tvg-logo="https://n9.cl/h45odu" group-title="✳️CULTURA",ANIMAL PLANET HD
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/9517.ts
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL P" tvg-logo="https://n9.cl/h45odu" group-title="✳️CULTURA",ANIMAL PLANET SUR
