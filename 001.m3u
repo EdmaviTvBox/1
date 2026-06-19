@@ -1,5 +1,56 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST" tvg-logo="https://n9.cl/6qfdh" group-title="👶INFANTIL",BABY FIRST
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9419.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://n9.cl/lji5ua" group-title="👶INFANTIL",BABY TV SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/56214.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://n9.cl/qkyd5" group-title="👶INFANTIL",BOING HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/186608.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/f1464" group-title="👶INFANTIL",CARTOON NETWORK HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/54404.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/f1464" group-title="👶INFANTIL",CARTOON NETWORK SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/19458.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/f1464" group-title="👶INFANTIL",CARTOON NETWORK NORTE FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/211218.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/f1464" group-title="👶INFANTIL",CARTOON NETWORK SUR FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439761.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://n9.cl/mp9z2yb" group-title="👶INFANTIL",CARTOONITO
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/54405.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://n9.cl/mp9z2yb" group-title="👶INFANTIL",CARTOONITO SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/19474.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC KIDS" tvg-logo="https://n9.cl/3omx6" group-title="👶INFANTIL",DISC KIDS NORTE FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9426.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC KIDS" tvg-logo="https://n9.cl/3omx6" group-title="👶INFANTIL",DISC KIDS SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/36459.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISC KIDS" tvg-logo="https://n9.cl/3omx6" group-title="👶INFANTIL",DISC KIDS SUR FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439758.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/824yd" group-title="👶INFANTIL",DISNEY CHANNEL FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439800.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/824yd" group-title="👶INFANTIL",DISNEY CHANNEL SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/211237.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/824yd" group-title="👶INFANTIL",DISNEY CHANNEL SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439795.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/umvj5" group-title="👶INFANTIL",DISNEY JR FHD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/225866.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/umvj5" group-title="👶INFANTIL",DISNEY JR HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/53062.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/umvj5" group-title="👶INFANTIL",DISNEY JR SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439825.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/umvj5" group-title="👶INFANTIL",DISNEY JR SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/211238.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/1amk3" group-title="👶INFANTIL",NICK JR HD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/242022.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/1amk3" group-title="👶INFANTIL",NICK JR SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/211305.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://n9.cl/sqdlj" group-title="👶INFANTIL",NICKELODEON SD
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/9576.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://n9.cl/sqdlj" group-title="👶INFANTIL",NICKELODEON SUR
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/439807.ts
+#EXTINF:-1 tvg-id="" tvg-name="RETRO MÁGICO" tvg-logo="https://n9.cl/pb9h9" group-title="👶INFANTIL",RETRO MÁGICO
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/550155.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://n9.cl/olanq" group-title="👶INFANTIL",TOONCAST
+http://livetv-plus.com:8880//live/RGCRM/RCQAE/19567.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://n9.cl/f4o94" group-title="🔘ENTRETENIMIENTO",A&E HD
 http://livetv-plus.com:8880//live/RGCRM/RCQAE/9547.ts
 #EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://n9.cl/h7wk7" group-title="🔘ENTRETENIMIENTO",A3SERIES
