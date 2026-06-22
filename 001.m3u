@@ -1,30 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="FIFA +" tvg-logo="" group-title="DEPORTES",FIFA +
+#EXTINF:-1 tvg-id="" tvg-name="FIFA +" tvg-logo="" group-title="DEPORTES",FIFA + (E)
 https://list.iptvcat.com/my_list/s/18938e0e699bfbf5ddbc2fd9a790f4dd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="tvs retro " tvg-logo="" group-title="PRUEBA",tvs retro
+#EXTINF:-1 tvg-id="" tvg-name="tvs retro " tvg-logo="" group-title="PRUEBA",tvs retro (E)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="" group-title="PRUEBA",amc
+#EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="" group-title="PRUEBA",amc (E)
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PRUEBA",ZYOONTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PRUEBA",ZYOONTV (E)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PRUEBA",energeek
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PRUEBA",energeek (E)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="" group-title="Variedades",Dodo TV
+#EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="" group-title="Variedades",Dodo TV (E)
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?ChileTv
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="Variedades",Las Estrellas
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="Variedades",Las Estrellas (E)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Frecuencia Musical TV" tvg-logo="" group-title="Variedades",Frecuencia Musical TV
+#EXTINF:-1 tvg-id="" tvg-name="Frecuencia Musical TV" tvg-logo="" group-title="Variedades",Frecuencia Musical TV (E)
 https://list.iptvcat.com/my_list/s/13e793b9be1905380a4938976cc384a6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecentro" tvg-logo="" group-title="Variedades",Telecentro
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro" tvg-logo="" group-title="Variedades",Telecentro (E)
 https://list.iptvcat.com/my_list/s/18310c89299aae766dab50f49eff72d0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemicro" tvg-logo="" group-title="Variedades",Telemicro
+#EXTINF:-1 tvg-id="" tvg-name="Telemicro" tvg-logo="" group-title="Variedades",Telemicro (E)
 https://list.iptvcat.com/my_list/s/7a688711082cc9d0dd75193c266073cc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-logo="" group-title="Variedades",Digital 15
+#EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-logo="" group-title="Variedades",Digital 15 (E)
 https://list.iptvcat.com/my_list/s/7e66cb4da90c48cc6a48e43ae538ec0e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-logo="" group-title="Variedades",Telemax
+#EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-logo="" group-title="Variedades",Telemax (E)
 https://list.iptvcat.com/my_list/s/4955777ac1aad3d94f29f864184cd64b.m3u8
 
 === Religiosos ===
