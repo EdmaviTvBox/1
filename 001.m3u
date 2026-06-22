@@ -1,241 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST" tvg-logo="https://n9.cl/6qfdh" group-title="👶INFANTIL",BABY FIRST
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9419.ts
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://n9.cl/lji5ua" group-title="👶INFANTIL",BABY TV SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/56214.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://n9.cl/qkyd5" group-title="👶INFANTIL",BOING HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/186608.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/f1464" group-title="👶INFANTIL",CARTOON NETWORK HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/54404.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/f1464" group-title="👶INFANTIL",CARTOON NETWORK SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/19458.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/f1464" group-title="👶INFANTIL",CARTOON NETWORK NORTE FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/211218.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://n9.cl/f1464" group-title="👶INFANTIL",CARTOON NETWORK SUR FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439761.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://n9.cl/mp9z2yb" group-title="👶INFANTIL",CARTOONITO
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/54405.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://n9.cl/mp9z2yb" group-title="👶INFANTIL",CARTOONITO SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/19474.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC KIDS" tvg-logo="https://n9.cl/3omx6" group-title="👶INFANTIL",DISC KIDS NORTE FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9426.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC KIDS" tvg-logo="https://n9.cl/3omx6" group-title="👶INFANTIL",DISC KIDS SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/36459.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC KIDS" tvg-logo="https://n9.cl/3omx6" group-title="👶INFANTIL",DISC KIDS SUR FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439758.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/824yd" group-title="👶INFANTIL",DISNEY CHANNEL FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439800.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/824yd" group-title="👶INFANTIL",DISNEY CHANNEL SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/211237.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/824yd" group-title="👶INFANTIL",DISNEY CHANNEL SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439795.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/umvj5" group-title="👶INFANTIL",DISNEY JR FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/225866.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/umvj5" group-title="👶INFANTIL",DISNEY JR HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53062.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/umvj5" group-title="👶INFANTIL",DISNEY JR SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439825.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://n9.cl/umvj5" group-title="👶INFANTIL",DISNEY JR SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/211238.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/1amk3" group-title="👶INFANTIL",NICK JR HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242022.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://n9.cl/1amk3" group-title="👶INFANTIL",NICK JR SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/211305.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://n9.cl/sqdlj" group-title="👶INFANTIL",NICKELODEON SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9576.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://n9.cl/sqdlj" group-title="👶INFANTIL",NICKELODEON SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439807.ts
-#EXTINF:-1 tvg-id="" tvg-name="RETRO MÁGICO" tvg-logo="https://n9.cl/pb9h9" group-title="👶INFANTIL",RETRO MÁGICO
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/550155.ts
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://n9.cl/olanq" group-title="👶INFANTIL",TOONCAST
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/19567.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://n9.cl/f4o94" group-title="🔘ENTRETENIMIENTO",A&E HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9547.ts
-#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://n9.cl/h7wk7" group-title="🔘ENTRETENIMIENTO",A3SERIES
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/211198.ts
-#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://n9.cl/h7wk7" group-title="🔘ENTRETENIMIENTO",A3SERIES FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/171484.ts
-#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://n9.cl/h7wk7" group-title="🔘ENTRETENIMIENTO",A3SERIES HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53059.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM" tvg-logo="https://n9.cl/95gue" group-title="🔘ENTRETENIMIENTO",ADULT SWIM
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/622513.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://n9.cl/745yzh" group-title="🔘ENTRETENIMIENTO",AMC SERIES
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439827.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/47m8kn" group-title="🔘ENTRETENIMIENTO",ANTENA 3 INT HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/619860.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 INT" tvg-logo="https://n9.cl/47m8kn" group-title="🔘ENTRETENIMIENTO",ANTENA 3 INT
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/211202.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/oosysr" group-title="🔘ENTRETENIMIENTO",COMEDY CENTRAL FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/241997.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://n9.cl/oosysr" group-title="🔘ENTRETENIMIENTO",COMEDY CENTRAL
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53049.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/j0uhit" group-title="🔘ENTRETENIMIENTO",DISTRITO COMEDIA
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/469064.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/j0uhit" group-title="🔘ENTRETENIMIENTO",DISTRITO COMEDIA HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9412.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://n9.cl/j0uhit" group-title="🔘ENTRETENIMIENTO",DISTRITO COMEDIA SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9565.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="https://n9.cl/2j0d3" group-title="🔘ENTRETENIMIENTO",ESTRELLA TV
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/51169.ts
-#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="https://n9.cl/n2vqt" group-title="🔘ENTRETENIMIENTO",ETC 
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/394826.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/df5nr" group-title="🔘ENTRETENIMIENTO",FX FHD NORTE
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242001.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/df5nr" group-title="🔘ENTRETENIMIENTO",FX HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/167656.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/df5nr" group-title="🔘ENTRETENIMIENTO",FX SD SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9546.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALA TV" tvg-logo="https://n9.cl/5uzub" group-title="🔘ENTRETENIMIENTO",GALA TV
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/54962.ts
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA" tvg-logo="https://n9.cl/tsmq7r" group-title="🔘ENTRETENIMIENTO",KANAL D DRAMA
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/183185.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://n9.cl/0q07g" group-title="🔘ENTRETENIMIENTO",NBC UNIVERSO
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/185096.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://n9.cl/0q07g" group-title="🔘ENTRETENIMIENTO",NBC UNIVERSO HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/199524.ts
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://n9.cl/8i3426" group-title="🔘ENTRETENIMIENTO",PASIONES NORTE
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439781.ts
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://n9.cl/8i3426" group-title="🔘ENTRETENIMIENTO",PASIONES SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242017.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://n9.cl/xypap" group-title="🔘ENTRETENIMIENTO",SONY CHANNEL FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439783.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://n9.cl/xypap" group-title="🔘ENTRETENIMIENTO",SONY CHANNEL HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53039.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://n9.cl/xypap" group-title="🔘ENTRETENIMIENTO",SONY CHANNEL SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/211310.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="https://n9.cl/t756h" group-title="🔘ENTRETENIMIENTO",SONY COMEDIAS
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/276162.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY COMPETENCIAS" tvg-logo="https://n9.cl/ytk9ii" group-title="🔘ENTRETENIMIENTO",SONY COMPETENCIAS
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/218342.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY ÉXITOS" tvg-logo="https://n9.cl/l0euf5" group-title="🔘ENTRETENIMIENTO",SONY ÉXITOS
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/619024.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="https://n9.cl/6g5csl" group-title="🔘ENTRETENIMIENTO",SONY NOVELAS
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/276161.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="https://n9.cl/u30rz" group-title="🔘ENTRETENIMIENTO",TNT NOVELAS
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/542720.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://n9.cl/vytmvo" group-title="🔘ENTRETENIMIENTO",TNT SERIES FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439780.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://n9.cl/vytmvo" group-title="🔘ENTRETENIMIENTO",TNT SERIES HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9560.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://n9.cl/vytmvo" group-title="🔘ENTRETENIMIENTO",TNT SERIES SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53054.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://n9.cl/qaauv7" group-title="🔘ENTRETENIMIENTO",UNICABLE FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242004.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://n9.cl/2uzr7c" group-title="🔘ENTRETENIMIENTO",WARNER TV NORTE FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53040.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://n9.cl/2uzr7c" group-title="🔘ENTRETENIMIENTO",WARNER TV SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439740.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://n9.cl/2uzr7c" group-title="🔘ENTRETENIMIENTO",WARNER TV SUR SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53044.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL P" tvg-logo="https://n9.cl/h45odu" group-title="✳️CULTURA",ANIMAL PLANET HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9517.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL P" tvg-logo="https://n9.cl/h45odu" group-title="✳️CULTURA",ANIMAL PLANET SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/276193.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL P SUR" tvg-logo="https://n9.cl/h45odu" group-title="✳️CULTURA",ANIMAL PLANET SUR HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/229242.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://n9.cl/ulzhf" group-title="✳️CULTURA",CANAL COCINA
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/453809.ts
-#EXTINF:-1 tvg-id="" tvg-name="CURIOSITY" tvg-logo="https://n9.cl/0yf469" group-title="✳️CULTURA",CURIOSITY
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/640485.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/n4h7a8" group-title="✳️CULTURA",DISC CHANNEL LAT
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/186572.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/n4h7a8" group-title="✳️CULTURA",DISC CHANNEL SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/93442.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/n4h7a8" group-title="✳️CULTURA",DISCOVERY CHANNEL NORTE FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9520.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC EN ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="✳️CULTURA",DISCOVERY EN ESPAÑOL
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/452236.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC FAMILIA" tvg-logo="https://n9.cl/gd2s1" group-title="✳️CULTURA",DISCOVERY FAMILIA
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/10769.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/dsavw" group-title="✳️CULTURA",DISCOVERY H&H LAT
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/273322.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/dsavw" group-title="✳️CULTURA",DISCOVERY H&H NORTE FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242008.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/dsavw" group-title="✳️CULTURA",DISCOVERY H&H SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53078.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC H&H" tvg-logo="https://n9.cl/dsavw" group-title="✳️CULTURA",DISCOVERY H&H SUR FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439759.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="✳️CULTURA",DISCOVERY ID SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53051.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="✳️CULTURA",DISCOVERY ID SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/36458.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="✳️CULTURA",DISCOVERY ID NORTE
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439789.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC SCIENCE" tvg-logo="https://n9.cl/gq7q2" group-title="✳️CULTURA",DISCOVERY SCIENCE FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/36466.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC THEATER" tvg-logo="https://n9.cl/1fj14" group-title="✳️CULTURA",DISCOVERY THEATER SUR FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439786.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="✳️CULTURA",DISCOVERY TLC
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/268886.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="✳️CULTURA",DISCOVERY TLC HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/199201.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="✳️CULTURA",DISCOVERY TLC FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242009.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="✳️CULTURA",DISCOVERY TLC MEX HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/19596.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="✳️CULTURA",DISCOVERY TURBO SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/19505.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="✳️CULTURA",DISCOVERY TURBO HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/54283.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="✳️CULTURA",DISCOVERY WORLD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9516.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="✳️CULTURA",DISCOVERY WORLD FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53077.ts
-#EXTINF:-1 tvg-id="" tvg-name="DW AMERICA" tvg-logo="https://n9.cl/qdwo7" group-title="✳️CULTURA",DW AMERICA
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/181177.ts
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAIMENT" tvg-logo="https://n9.cl/jondic" group-title="✳️CULTURA",E! ENTERTAIMENT SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9405.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://n9.cl/bujpue" group-title="✳️CULTURA",EL GOURMET HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/186629.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/ndxbw" group-title="✳️CULTURA",FOOD NETWORK HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/9554.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="✳️CULTURA",HGTV HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/452238.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="✳️CULTURA",HGTV MEX
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/178146.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://n9.cl/ip14l" group-title="✳️CULTURA",HISTORIA
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/56221.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CH" tvg-logo="https://n9.cl/mueg2" group-title="✳️CULTURA",HISTORY CHANNEL
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242013.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CH" tvg-logo="https://n9.cl/mueg2" group-title="✳️CULTURA",HISTORY CHANNEL NORTE
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/53074.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CH" tvg-logo="https://n9.cl/mueg2" group-title="✳️CULTURA",HISTORY CHANNEL SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/186570.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CH" tvg-logo="https://n9.cl/mueg2" group-title="✳️CULTURA",HISTORY EN ESPAÑOL
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/610874.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="✳️CULTURA",HISTORY 2 SUR FHD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/105685.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="✳️CULTURA",HISTORY 2 SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439767.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="✳️CULTURA",HISTORY 2 HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/19542.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/tl4en" group-title="✳️CULTURA",LIFETIME SD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242002.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/tl4en" group-title="✳️CULTURA",LIFETIME HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/19536.ts
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://n9.cl/s136r" group-title="✳️CULTURA",LOVE NATURE
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/276310.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="✳️CULTURA",NAT GEO NORTE
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/439788.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="✳️CULTURA",NAT GEO SUR
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/242015.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO MUNDO" tvg-logo="https://n9.cl/f0fhz" group-title="✳️CULTURA",NAT GEO MUNDO
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/54154.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="✳️CULTURA",NAT GEO WILD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/452237.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="✳️CULTURA",NAT GEO WILD HD
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/36470.ts
-#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://n9.cl/ineqo8" group-title="✳️CULTURA",ODISEA
-http://livetv-plus.com:8880//live/RGCRM/RCQAE/56105.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="FIFA +" tvg-logo="" group-title="DEPORTES",FIFA +
+https://list.iptvcat.com/my_list/s/18938e0e699bfbf5ddbc2fd9a790f4dd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",ZYOONTV
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",energeek
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="" group-title="Variedades",Dodo TV
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?ChileTv
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="Variedades",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Frecuencia Musical TV" tvg-logo="" group-title="Variedades",Frecuencia Musical TV
+https://list.iptvcat.com/my_list/s/13e793b9be1905380a4938976cc384a6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro" tvg-logo="" group-title="Variedades",Telecentro
+https://list.iptvcat.com/my_list/s/18310c89299aae766dab50f49eff72d0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemicro" tvg-logo="" group-title="Variedades",Telemicro
+https://list.iptvcat.com/my_list/s/7a688711082cc9d0dd75193c266073cc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-logo="" group-title="Variedades",Digital 15
+https://list.iptvcat.com/my_list/s/7e66cb4da90c48cc6a48e43ae538ec0e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-logo="" group-title="Variedades",Telemax
+https://list.iptvcat.com/my_list/s/4955777ac1aad3d94f29f864184cd64b.m3u8
 
 === Religiosos ===
 #EXTINF:-1 tvg-id="" tvg-name="ENLACE" tvg-logo="https://n9.cl/tcorzp" group-title="✝️Religiosos",ENLACE 
@@ -260,44 +46,16 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="✝️Religiosos",
 
 === 💫Colombia ===
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://n9.cl/9umi64" group-title="💫Colombia II",CARACOL
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7643
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://n9.cl/gchzpb" group-title="💫Colombia II",CITY TV
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7641
-#EXTINF:-1 tvg-id="" tvg-name="CANAL CAPITAL" tvg-logo="https://n9.cl/mtmd3" group-title="💫Colombia II",CANAL CAPITAL (E)
-https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/tpdmz" group-title="💫Colombia II",RCN COL
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7647
-#EXTINF:-1 tvg-id="" tvg-name="RCN INT" tvg-logo="https://n9.cl/5eaw9s" group-title="💫Colombia II",RCN INT
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7646
 #EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS (E)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/30760
 #EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia II",SENAL COLOMBIA (E)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia II",SENAL COLOMBIA
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7352
 #EXTINF:-1 tvg-id="" tvg-name="CANAL INSTITUCIONAL" tvg-logo="https://n9.cl/f50pm" group-title="💫Colombia II",CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/gqfbb" group-title="💫Colombia II",TELECARIBE
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/11748
 #EXTINF:-1 tvg-id="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia II",RED+ (E) 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia II",Canal TRO (E)
 https://liveingesta318.cdnmedia.tv/canaltro2live/live-3000/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="TELEANTIOQUIA" tvg-logo="https://n9.cl/9oovj" group-title="💫Colombia II",TELEANTIOQUIA
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7645
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://n9.cl/dny0q" group-title="💫Colombia II",TELEPACIFICO
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7157
-#EXTINF:-1 tvg-id="" tvg-name="WIN+" tvg-logo="https://n9.cl/tr3uw3" group-title="💫Colombia II",WIN+ 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7827
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://n9.cl/vdbp0w" group-title="💫Colombia II",WIN SPORTS
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7826
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://n9.cl/j6zx6" group-title="💫Colombia II",DIRECTV SPORTS  COL
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7815
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://n9.cl/e72ns" group-title="💫Colombia II",DIRECTV SPORTS 2 COL
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/11775
 #EXTINF:-1 tvg-id="" tvg-name="Canal Nets" tvg-logo="https://n9.cl/khian6" group-title="💫Colombia II",Canal Nets (E)
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia II",mas (E)
@@ -326,253 +84,6 @@ https://liveingesta118.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
 https://asucap.com/livestream/asucap_envivo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II", (E)
-
-
-
-=== 🎞️Cine & Series ===
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7552
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13924
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC SUR 
-pttp://alfa.7057460.xyz:2095/julinnn2/Camion01/7236
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC SUR 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7187
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC ESP 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7329
-#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://n9.cl/3uc96v" group-title="🎞️Cine & Series",AMC SERIES 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/28915
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series",CINECANAL 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7357
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/jckpa" group-title="🎞️Cine & Series",CINECANAL 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7090
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series",CINEMAX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7337
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/s44jm" group-title="🎞️Cine & Series",CINEMAX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7220
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7031
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7321
-#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/ymto3" group-title="🎞️Cine & Series",AXN ESP 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8456
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://n9.cl/7s2n37" group-title="🎞️Cine & Series",CINE LATINO  
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/9263
-#EXTINF:-1 tvg-id="" tvg-name="CINE DINAMITA" tvg-logo="https://n9.cl/828xd" group-title="🎞️Cine & Series",CINE DINAMITA  
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7460
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/vy7m5" group-title="🎞️Cine & Series",DE PELICULA 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7194
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series",DE PELICULA PLUS 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7099
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://n9.cl/5kydp8" group-title="🎞️Cine & Series",DE PELICULA PLUS 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
-#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/yknmta" group-title="🎞️Cine & Series",DHE  
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7477
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-name="" tvg-logo="" group-title="🎞️Cine & Series",
-
-=== 🎫Cine Premium ===
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7472
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1 MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7323
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-logo="https://n9.cl/u1sxq" group-title="🎫Cine Premium",HBO 1 MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7431
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://n9.cl/im7pq" group-title="🎫Cine Premium",HBO 2 MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7325
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://n9.cl/im7pq" group-title="🎫Cine Premium",HBO 2 MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7432
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://n9.cl/bn04l" group-title="🎫Cine Premium",HBO PLUS MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7324
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://n9.cl/bn04l" group-title="🎫Cine Premium",HBO PLUS MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7434
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://n9.cl/ouw2v" group-title="🎫Cine Premium",HBO FAMILY MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7326
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://n9.cl/ouw2v" group-title="🎫Cine Premium",HBO FAMILY MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7433
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://n9.cl/dhpcd" group-title="🎫Cine Premium",HBO SIGNATURE MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7435
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://n9.cl/eqsye" group-title="🎫Cine Premium",HBO XTREME MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7327
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://n9.cl/eqsye" group-title="🎫Cine Premium",HBO XTREME MEX HD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7437
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://n9.cl/w4zp3x" group-title="🎫Cine Premium",HBO POP MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7305
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://n9.cl/w4zp3x" group-title="🎫Cine Premium",HBO POP MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7438
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://n9.cl/vwr7vh" group-title="🎫Cine Premium",HBO MUNDI MEX 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7304
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://n9.cl/vwr7vh" group-title="🎫Cine Premium",HBO MUNDI MEX HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7436
-#EXTINF:-1 tvg-id="" tvg-name="MGM+" tvg-logo="https://n9.cl/3uf4w" group-title="🎫Cine Premium",MGM+
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7864
-#EXTINF:-1 tvg-id="" tvg-name="MGM+ DRIVE IN" tvg-logo="https://n9.cl/yhqly" group-title="🎫Cine Premium",MGM+ DRIVE IN 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8500
-#EXTINF:-1 tvg-id="" tvg-name="MGM+ MARQUEE" tvg-logo="https://n9.cl/bgmk9" group-title="🎫Cine Premium",MGM+ MARQUEE 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7590
-#EXTINF:-1 tvg-id="" tvg-name="MGM+ HITS" tvg-logo="https://n9.cl/6yiukd" group-title="🎫Cine Premium",MGM+ HITS 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7592
-#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE BLACK" tvg-logo="https://n9.cl/tiryf" group-title="🎫Cine Premium",STARZ ENCORE BLACK
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/14050
-#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://n9.cl/i7uzly" group-title="🎫Cine Premium",STARZ ENCORE CLASSIC 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/14051
-#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="https://n9.cl/oe0ln4" group-title="🎫Cine Premium",STARZ ENCORE WESTERNS 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/14052
-#EXTINF:-1 tvg-id="" tvg-name="STARZ IN BLACK" tvg-logo="https://n9.cl/f84tu1" group-title="🎫Cine Premium",STARZ IN BLACK 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/14053
-#EXTINF:-1 tvg-id="" tvg-name="STARZ KIDS AND FAMILY" tvg-logo="https://n9.cl/qq15x" group-title="🎫Cine Premium",STARZ KIDS AND FAMILY 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/14054
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎫Cine Premium",
-
-=== 🪲Nat y Cultura ===
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7368
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7257
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7367
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7092
-#EXTINF:-1 tvg-id="" tvg-name="DISC ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="🪲Nat y Cultura",DISC ESPAÑOL
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7613
-#EXTINF:-1 tvg-id="" tvg-name="DISC ESPAÑOL" tvg-logo="https://n9.cl/7az6pv" group-title="🪲Nat y Cultura",DISC ESPAÑA
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8459
-#EXTINF:-1 tvg-id="" tvg-name="DISC FAMILIA" tvg-logo="https://n9.cl/gd2s1" group-title="🪲Nat y Cultura",DISC FAMILIA
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7614
-#EXTINF:-1 tvg-id="" tvg-name="DISC HYH" tvg-logo="https://n9.cl/dsavw" group-title="🪲Nat y Cultura",DISC HYH 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7093
-#EXTINF:-1 tvg-id="" tvg-name="DISC HYH" tvg-logo="https://n9.cl/dsavw" group-title="🪲Nat y Cultura",DISC HYH HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7251
-#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="🪲Nat y Cultura",DISC ID  
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7340
-#EXTINF:-1 tvg-id="" tvg-name="DISC ID" tvg-logo="https://n9.cl/5s3k96" group-title="🪲Nat y Cultura",DISC ID HD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7258
-#EXTINF:-1 tvg-id="" tvg-name="DISC SCIENCE" tvg-logo="https://n9.cl/gq7q2" group-title="🪲Nat y Cultura",DISC SCIENCE
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7100
-#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="🪲Nat y Cultura",DISC TURBO
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7103
-#EXTINF:-1 tvg-id="" tvg-name="DISC TURBO" tvg-logo="https://n9.cl/2lphl" group-title="🪲Nat y Cultura",DISC TURBO HD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13912
-#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7102
-#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC HD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7254
-#EXTINF:-1 tvg-id="" tvg-name="DISC TEATHER" tvg-logo="https://n9.cl/1fj14" group-title="🪲Nat y Cultura",DISC TEATHER
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7101
-#EXTINF:-1 tvg-id="" tvg-name="DISC TEATHER" tvg-logo="https://n9.cl/1fj14" group-title="🪲Nat y Cultura",DISC THEATER HD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7468
-#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="🪲Nat y Cultura",DISC WORLD
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7104
-#EXTINF:-1 tvg-id="" tvg-name="DISC WORLD" tvg-logo="https://n9.cl/oadzw" group-title="🪲Nat y Cultura",DISC WORLD HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7469
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7043
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7250
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://n9.cl/x1gdp" group-title="🪲Nat y Cultura",EL GOURMET
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7125
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://n9.cl/x1gdp" group-title="🪲Nat y Cultura",EL GOURMET HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8405
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://n9.cl/3ejbo" group-title="🪲Nat y Cultura",FOOD NETWORK
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7172
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="🪲Nat y Cultura",HGTV
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7204
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://n9.cl/8ka9g" group-title="🪲Nat y Cultura",HGTV HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7443
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://n9.cl/ip14l" group-title="🪲Nat y Cultura",HISTORIA
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7545
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7126
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7225
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7353
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://n9.cl/5ylyg" group-title="🪲Nat y Cultura",HISTORY 2 HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7476
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7129
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7242
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7379
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO HD 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7253
-#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://n9.cl/ineqo8" group-title="🪲Nat y Cultura",ODISEA
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8461
-==
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET " tvg-logo="https://n9.cl/h45odu" group-title="🪲Nat y Cultura",ANIMAL PLANET (ENG)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7546
-#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/ynzo0a" group-title="🪲Nat y Cultura",DISC CHANNEL (ENG) 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7547
-#EXTINF:-1 tvg-id="" tvg-name="DISC TLC" tvg-logo="https://n9.cl/5pbnq9" group-title="🪲Nat y Cultura",DISC TLC (ENG) 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8477
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://n9.cl/ucnip" group-title="🪲Nat y Cultura",E! ENTERTAINMENT (ENG)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7588
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://n9.cl/mueg2" group-title="🪲Nat y Cultura",HISTORY (ENG)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8475
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://n9.cl/hsyit4" group-title="🪲Nat y Cultura",LIFETIME (ENG)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7583
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://n9.cl/ac33f" group-title="🪲Nat y Cultura",NAT GEO (ENG)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/8476
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://n9.cl/gdgqv3" group-title="🪲Nat y Cultura",NAT GEO WILD (ENG)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/14065
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲Nat y Cultura",
-
-=== ⚽Eventos Deport ===
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 1
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13955
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 2" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 2
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13956
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 3" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 3
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13957
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 4" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 4
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13958
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 5" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 5
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13959
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 6" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 6
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13960
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 7" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 7
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13961
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 8" tvg-logo="https://n9.cl/7k9vqz" group-title="⚽Eventos Deport",SKY SPORTS 8
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/13962
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⚽Eventos Deport",
-
-=== 🏄‍♂️Premium Latino ===
-#EXTINF:-1 tvg-id="" tvg-name="AXN NORTE" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN NORTE 540p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31032
-#EXTINF:-1 tvg-id="" tvg-name="AXN SUR" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN SUR 480P
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/288079
-#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN ESP 1080p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/791982
-#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN ESP 360p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/55853
-#EXTINF:-1 tvg-id="" tvg-name="AXN ESP" tvg-logo="https://n9.cl/5nty7" group-title="🏄‍♂️Premium Latino",AXN ESP 360p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/67566
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="https://n9.cl/1imxk" group-title="🏄‍♂️Premium Latino",AXN MOVIES 1080p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/781915
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/7tzker" group-title="🏄‍♂️Premium Latino",CINECANAL 720p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31016
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/7tzker" group-title="🏄‍♂️Premium Latino",CINECANAL 720p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/164036
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/7tzker" group-title="🏄‍♂️Premium Latino",CINECANAL 720p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31015
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://n9.cl/7tzker" group-title="🏄‍♂️Premium Latino",CINECANAL 720p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/43190
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/rw17mm" group-title="🏄‍♂️Premium Latino",CINEMAX 480p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/164034
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/rw17mm" group-title="🏄‍♂️Premium Latino",CINEMAX 480p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/67
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://n9.cl/rw17mm" group-title="🏄‍♂️Premium Latino",CINEMAX 480p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31014
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/77hj3" group-title="🏄‍♂️Premium Latino",DE PELICULA 540p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/109986
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://n9.cl/77hj3" group-title="🏄‍♂️Premium Latino",DE PELICULA 540p
-http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/31044
-
-
 === ⛔ADULT ===
 #EXTINF:-1 tvg-id="" tvg-name="Babes TV " tvg-logo="https://n9.cl/sinmf" group-title="⛔ADULT",Babes TV 
 http://vporpahe.top:8080/VIP013201751290218503/adb698998b73/157157
@@ -661,146 +172,20 @@ https://live.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="threesome" tvg-logo="https://n9.cl/0wowg" group-title="💋MyCamTv",threesome
 https://live.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AlisaFreshly" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_AlisaFreshly" group-title="⛔CAM SEX",AlisaFreshly
-https://adultiptv.net/livecams/stream.php?id=bc_AlisaFreshly
-#EXTINF:-1 tvg-id="" tvg-name="Buzzyd" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_Buzzyd" group-title="⛔CAM SEX",Buzzyd
-https://adultiptv.net/livecams/stream.php?id=bc_Buzzyd
-#EXTINF:-1 tvg-id="" tvg-name="Travel-couple" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_Travel-Couple" group-title="⛔CAM SEX",Travel-couple
-https://adultiptv.net/livecams/stream.php?id=bc_Travel-Couple
-#EXTINF:-1 tvg-id="" tvg-name="Yana-Olya" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_Lora-Rebecca" group-title="⛔CAM SEX",Yana-Olya
-https://adultiptv.net/livecams/stream.php?id=bc_Lora-Rebecca
-#EXTINF:-1 tvg-id="" tvg-name="SydneySi" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_Princess-Dia" group-title="⛔CAM SEX",SydneySi
-https://adultiptv.net/livecams/stream.php?id=bc_Princess-Dia
-#EXTINF:-1 tvg-id="" tvg-name="AnzuKim" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_AnzuKim" group-title="⛔CAM SEX",AnzuKim
-
-#EXTINF:-1 tvg-id="" tvg-name="AlisaFreshly" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_AlisaFreshly" group-title="💫CAM SEX",AlisaFreshly
-https://adultiptv.net/livecams/stream.php?id=bc_AlisaFreshly
-#EXTINF:-1 tvg-id="" tvg-name="Buzzyd" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_Buzzyd" group-title="💫CAM SEX",Buzzyd
-https://adultiptv.net/livecams/stream.php?id=bc_Buzzyd
-#EXTINF:-1 tvg-id="" tvg-name="Travel-couple" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_Travel-Couple" group-title="💫CAM SEX",Travel-couple
-https://adultiptv.net/livecams/stream.php?id=bc_Travel-Couple
-#EXTINF:-1 tvg-id="" tvg-name="Yana-Olya" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_Lora-Rebecca" group-title="💫CAM SEX",Yana-Olya
-https://adultiptv.net/livecams/stream.php?id=bc_Lora-Rebecca
-#EXTINF:-1 tvg-id="" tvg-name="SydneySi" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_Princess-Dia" group-title="💫CAM SEX",SydneySi
-https://adultiptv.net/livecams/stream.php?id=bc_Princess-Dia
-#EXTINF:-1 tvg-id="" tvg-name="AnzuKim" tvg-logo="https://adultiptv.net/livecams/image.php?id=bc_AnzuKim" group-title="💫CAM SEX",AnzuKim
-
-#EXTINF:-1 tvg-id="Mortal Kombat II" tvg-logo="https://n9.cl/bx4l4" group-title="VOD",Mortal Kombat II
-https://powvideo.org/imbj3rcqqsa1
-#EXTINF:-1 tvg-id="Michael" tvg-logo="https://n9.cl/zaf98d" group-title="VOD",Michael (2026) CAM
-https://minochinos.com/stream/qKAeWdrVE6-E6m7P8Ud7qw/hjkrhuihghfvu/1779418993/40079698/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="La Posesión de la Momia" tvg-logo="https://n9.cl/i8i4jo" group-title="VOD",La Posesión de la Momia
-https://minochinos.com/stream/qhm4_HbFrxrRvELsQ9RSxg/hjkrhuihghfvu/1779418826/41141180/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="Star Wars: The Mandalorian and Grogu" tvg-logo="https://n9.cl/ab21gz" group-title="VOD",Star Wars: The Mandalorian and Grogu (2026) CAM
-https://minochinos.com/stream/48HDFFMS5fRq7_nEIew7XA/hjkrhuihghfvu/1779418374/41227812/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="Jack Ryan de Tom Clancy: Guerra fantasma" tvg-logo="https://n9.cl/nwag9" group-title="VOD",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
-https://minochinos.com/stream/dELZWWsPVmXfmTnOBUZl4A/hjkrhuihghfvu/1779418469/41191778/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VOD",
-
-#EXTINF:-1 tvg-name="Boda sangrienta 2" tvg-logo="" tvg-id="Boda sangrienta 2" group-title="VOD Movies",Boda sangrienta 2 - 6.5/10
-http://alfa.7057460.xyz:2095/movie/julinnn2/Camion01/33248.mkv
-#EXTINF:-1,Criaturas luminosas (2026) - 7.8/10
-http://alfa.7057460.xyz:2095/movie/julinnn2/Camion01/33249.mkv
-#EXTINF:-1,Familia a la deriva (2026) 4.6/10
-http://alfa.7057460.xyz:2095/movie/julinnn2/Camion01/33250.mkv
-#EXTINF:-1,Les digo almas (2026)
-http://alfa.7057460.xyz:2095/movie Colombia/julinnn2/Camion01/33251.mkv
-#EXTINF:-1,No es país para solteros (2026)
-http://alfa.7057460.xyz:2095/movie/julinnn2/Camion01/33252.mkv
-#EXTINF:-1,Sangre asesina (2026)
-http://alfa.7057460.xyz:2095/movie/julinnn2/Camion01/33253.mkv
-#EXTINF:-1,Socias por accidente (2026)
-http://alfa.7057460.xyz:2095/movie/julinnn2/Camion01/33254.mkv
-#EXTINF:-1,Proyecto Fin del mundo (2026)
-http://alfa.7057460.xyz:2095/movie/julinnn2/Camion01/33255.mkv
-#EXTINF:-1,The Punisher La última muerte (2026)
-http://alfa.7057460.xyz:2095/movie/julinnn2/Camion01/33256.mkv
-
-
-✨ KIDS
-
-
-✨ LAT COLOMBIA
-
-
-✨ VARIEDADES PREMIUM
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",A&E »1«
-http://canal-pro.xyz:8080/998876166tv/z5f870/100
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",A&E »2«
-http://canal-pro.xyz:8080/998876166tv/z5f870/102
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN »1«
-http://canal-pro.xyz:8080/998876166tv/z5f870/107
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN »2«
-http://canal-pro.xyz:8080/998876166tv/z5f870/59479
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN »ESP«
-http://canal-pro.xyz:8080/998876166tv/z5f870/54448
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",AXN MOVIES »ESP«
-http://canal-pro.xyz:8080/998876166tv/z5f870/12320
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",EL GOURMET
-http://canal-pro.xyz:8080/998876166tv/z5f870/59409
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",FX
-http://canal-pro.xyz:8080/998876166tv/z5f870/59395
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",SONY CHANNEL »1«
-http://canal-pro.xyz:8080/998876166tv/z5f870/199
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES PREMIUM",SONY CHANNEL »2«
-http://canal-pro.xyz:8080/998876166tv/z5f870/200
-
-✨ CULTURAL
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURAL",DISC SCI 
-http://canal-pro.xyz:8080/998876166tv/z5f870/59436
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURAL",NAT GEO
-http://canal-pro.xyz:8080/998876166tv/z5f870/59398
-
-✨ DEPORTES
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN »MEX«
-http://canal-pro.xyz:8080/998876166tv/z5f870/59420
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN2 »MEX«
-http://canal-pro.xyz:8080/998876166tv/z5f870/59419
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN3 »MEX«
-http://canal-pro.xyz:8080/998876166tv/z5f870/59421
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 »MEX«
-http://canal-pro.xyz:8080/998876166tv/z5f870/59401
-
-✨ LAT MEXICO
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT MEXICO",LAS ESTRELLAS
-http://canal-pro.xyz:8080/998876166tv/z5f870/59422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LAT MEXICO",MEXIQUENSE
-http://canal-pro.xyz:8080/998876166tv/z5f870/59408
-
-✨ ESPAÑA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPAÑA",TVE
-http://canal-pro.xyz:8080/998876166tv/z5f870/59418
-
-
-✨ MUSICA VARIEDADES
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA VARIEDADES",BANDAMAX
-http://canal-pro.xyz:8080/998876166tv/z5f870/59411
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA VARIEDADES",MTV 
-http://canal-pro.xyz:8080/998876166tv/z5f870/59397
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA VARIEDADES",TELEHIT
-http://canal-pro.xyz:8080/998876166tv/z5f870/59412
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://n9.cl/jremt
 001.m3u
 
+=== 🎞️Cine & Series ===
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️Cine & Series",
 
+=== 🎫Cine Premium ===
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎫Cine Premium",
+
+=== 🪲Nat y Cultura ===
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲Nat y Cultura",
+
+=== ⚽Eventos Deport ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⚽Eventos Deport",
 
 
 
