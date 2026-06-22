@@ -3,9 +3,13 @@
 #EXTINF:-1 tvg-id="" tvg-name="FIFA +" tvg-logo="" group-title="DEPORTES",FIFA +
 https://list.iptvcat.com/my_list/s/18938e0e699bfbf5ddbc2fd9a790f4dd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",ZYOONTV
+#EXTINF:-1 tvg-id="" tvg-name="tvs retro " tvg-logo="" group-title="PRUEBA",tvs retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="" group-title="PRUEBA",amc
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PRUEBA",ZYOONTV
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🪲",energeek
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PRUEBA",energeek
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="" group-title="Variedades",Dodo TV
