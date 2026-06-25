@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="FIFA +" tvg-logo="" group-title="DEPORTES",FIFA + (E)
-https://list.iptvcat.com/my_list/s/18938e0e699bfbf5ddbc2fd9a790f4dd.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="tvs retro " tvg-logo="" group-title="PRUEBA",tvs retro (E)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -26,6 +25,147 @@ https://list.iptvcat.com/my_list/s/7a688711082cc9d0dd75193c266073cc.m3u8
 https://list.iptvcat.com/my_list/s/7e66cb4da90c48cc6a48e43ae538ec0e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-logo="" group-title="Variedades",Telemax (E)
 https://list.iptvcat.com/my_list/s/4955777ac1aad3d94f29f864184cd64b.m3u8
+=== ESPAÑA PREMIUM ===
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://n9.cl/c4o7f3" group-title="ESP PREMIUM",BABY TV
+http://001122.org:2095/ibo9875412309/ibo987541299/5742
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://n9.cl/kxnnd" group-title="ESP PREMIUM",BOING
+http://001122.org:2095/ibo9875412309/ibo987541299/7536
+#EXTINF:-1 tvg-id="" tvg-name="CLAN" tvg-logo="https://n9.cl/ljqe2" group-title="ESP PREMIUM",CLAN
+http://001122.org:2095/ibo9875412309/ibo987541299/5745
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL LAT" tvg-logo="https://n9.cl/8t0uxy" group-title="ESP PREMIUM",DISNEY CHANNEL LAT
+http://001122.org:2095/ibo9875412309/ibo987541299/7533
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/8t0uxy" group-title="ESP PREMIUM",DISNEY CHANNEL1️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/7534
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://n9.cl/8t0uxy" group-title="ESP PREMIUM",DISNEY CHANNEL2️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/7535
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://n9.cl/5ntsbi" group-title="ESP PREMIUM",NICKELODEON
+http://001122.org:2095/ibo9875412309/ibo987541299/7537
+
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://n9.cl/mp1e7" group-title="ESP PREMIUM",HISTORIA
+http://001122.org:2095/ibo9875412309/ibo987541299/5718
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA	" tvg-logo="https://n9.cl/ielhv" group-title="ESP PREMIUM",ODISEA	
+http://001122.org:2095/ibo9875412309/ibo987541299/7523
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="https://n9.cl/gk2o4" group-title="ESP PREMIUM",NATGEO
+http://001122.org:2095/ibo9875412309/ibo987541299/5978
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://n9.cl/hji8b6" group-title="ESP PREMIUM",NATGEO WILD
+http://001122.org:2095/ibo9875412309/ibo987541299/5977
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME " tvg-logo="https://n9.cl/dn7r60" group-title="ESP PREMIUM",AMC CRIME 
+http://001122.org:2095/ibo9875412309/ibo987541299/7525
+#EXTINF:-1 tvg-id="" tvg-name="AMC LIVING	" tvg-logo="https://n9.cl/l950w" group-title="ESP PREMIUM",AMC LIVING	
+http://001122.org:2095/ibo9875412309/ibo987541299/7529
+#EXTINF:-1 tvg-id="" tvg-name="DISC CHANNEL" tvg-logo="https://n9.cl/zaihn" group-title="ESP PREMIUM",DISC CHANNEL
+http://001122.org:2095/ibo9875412309/ibo987541299/5976
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="https://n9.cl/ixsor" group-title="ESP PREMIUM",CAZA Y PESCA
+http://001122.org:2095/ibo9875412309/ibo987541299/7524
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA ORIG" tvg-logo="https://n9.cl/ox1nod" group-title="ESP PREMIUM",IBERALIA ORIG
+http://001122.org:2095/ibo9875412309/ibo987541299/7527
+##EXTINF:-1 tvg-id="" tvg-name="CGTN EN ESP" tvg-logo="https://n9.cl/pde26w" group-title="ESP PREMIUM",CGTN EN ESPAÑOL
+http://001122.org:2095/ibo9875412309/ibo987541299/5974
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/0rvfg" group-title="ESP PREMIUM",AXN
+http://001122.org:2095/ibo9875412309/ibo987541299/5971
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="https://n9.cl/zpssq" group-title="ESP PREMIUM",AXN MOVIES
+http://001122.org:2095/ibo9875412309/ibo987541299/5721
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="https://n9.cl/5rqg3o" group-title="ESP PREMIUM",BE MAD
+http://001122.org:2095/ibo9875412309/ibo987541299/5957
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="https://n9.cl/2mucw" group-title="ESP PREMIUM",BOM CINE
+http://001122.org:2095/ibo9875412309/ibo987541299/5963
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="https://n9.cl/l5rtex" group-title="ESP PREMIUM",CALLE 13
+http://001122.org:2095/ibo9875412309/ibo987541299/5980
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="https://n9.cl/6ui0on" group-title="ESP PREMIUM",COSMO
+http://001122.org:2095/ibo9875412309/ibo987541299/5981
+#EXTINF:-1 tvg-id="" tvg-name="DKISS" tvg-logo="https://n9.cl/96m3h" group-title="ESP PREMIUM",DKISS
+http://001122.org:2095/ibo9875412309/ibo987541299/5966
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="https://n9.cl/vsr1n" group-title="ESP PREMIUM",HOLLYWOOD
+http://001122.org:2095/ibo9875412309/ibo987541299/5756
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://n9.cl/s7gko" group-title="ESP PREMIUM",STAR CHANNEL
+http://001122.org:2095/ibo9875412309/ibo987541299/5972
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="https://n9.cl/5g7n37" group-title="ESP PREMIUM",SUNDANCE TV
+http://001122.org:2095/ibo9875412309/ibo987541299/5750
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://n9.cl/bcjl4" group-title="ESP PREMIUM",SYFY
+http://001122.org:2095/ibo9875412309/ibo987541299/7519
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://n9.cl/dashji" group-title="ESP PREMIUM",TCM
+http://001122.org:2095/ibo9875412309/ibo987541299/7526
+#EXTINF:-1 tvg-id="" tvg-name="VIN TV" tvg-logo="https://n9.cl/egkq2" group-title="ESP PREMIUM",VIN TV
+http://001122.org:2095/ibo9875412309/ibo987541299/7538
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://n9.cl/clr8ug" group-title="ESP PREMIUM",WARNER CHANNEL
+http://001122.org:2095/ibo9875412309/ibo987541299/75551
+
+#EXTINF:-1 tvg-id="" tvg-name="ACCION POR M+" tvg-logo="https://n9.cl/xz4fn" group-title="ESP PREMIUM",ACCION POR M+
+http://001122.org:2095/ibo9875412309/ibo987541299/5954
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIA POR M+" tvg-logo="https://n9.cl/isnqt" group-title="ESP PREMIUM",COMEDIA POR M+
+http://001122.org:2095/ibo9875412309/ibo987541299/5748
+#EXTINF:-1 tvg-id="" tvg-name="DRAMA POR M+" tvg-logo="https://n9.cl/71kbf" group-title="ESP PREMIUM",DRAMA POR M+
+http://001122.org:2095/ibo9875412309/ibo987541299/5749
+#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS POR M+" tvg-logo="https://n9.cl/hhvw4" group-title="ESP PREMIUM",ESTRENOS POR M+1️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/5975
+#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS POR M+" tvg-logo="https://n9.cl/hhvw4" group-title="ESP PREMIUM",ESTRENOS POR M+2️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/7518
+#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS POR M+" tvg-logo="https://n9.cl/hhvw4" group-title="ESP PREMIUM",ESTRENOS POR M+3️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/5747
+#EXTINF:-1 tvg-id="" tvg-name="HITS POR M+" tvg-logo="https://n9.cl/wwfh08" group-title="ESP PREMIUM",HITS POR M+1️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/5746
+#EXTINF:-1 tvg-id="" tvg-name="HITS POR M+" tvg-logo="https://n9.cl/wwfh08" group-title="ESP PREMIUM",HITS POR M+2️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/5968
+#EXTINF:-1 tvg-id="" tvg-name="HITS POR M+" tvg-logo="https://n9.cl/wwfh08" group-title="ESP PREMIUM",HITS POR M+3️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/75550
+
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="https://n9.cl/3lvpdg" group-title="ESP PREMIUM",TEN 
+http://001122.org:2095/ibo9875412309/ibo987541299/5965
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://n9.cl/vzpgv" group-title="ESP PREMIUM",CANAL COCINA
+http://001122.org:2095/ibo9875412309/ibo987541299/5744
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="https://n9.cl/28y5od" group-title="ESP PREMIUM",LA 1
+http://001122.org:2095/ibo9875412309/ibo987541299/5724
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="https://n9.cl/npma0" group-title="ESP PREMIUM",LA 2
+http://001122.org:2095/ibo9875412309/ibo987541299/5726
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="https://n9.cl/zbdeo" group-title="ESP PREMIUM",ANTENA 3
+http://001122.org:2095/ibo9875412309/ibo987541299/63740
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="https://n9.cl/xzfr2i" group-title="ESP PREMIUM",CUATRO
+http://001122.org:2095/ibo9875412309/ibo987541299/14414
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="https://n9.cl/j44vz" group-title="ESP PREMIUM",TELECINCO
+http://001122.org:2095/ibo9875412309/ibo987541299/14415
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="https://n9.cl/0y37n" group-title="ESP PREMIUM",LA SEXTA
+http://001122.org:2095/ibo9875412309/ibo987541299/5727
+#EXTINF:-1 tvg-id="" tvg-name="7 MALAGA" tvg-logo="https://n9.cl/5cyew" group-title="ESP PREMIUM",7 MALAGA
+http://001122.org:2095/ibo9875412309/ibo987541299/5730
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="https://n9.cl/scliz" group-title="ESP PREMIUM",ARAGON TV
+http://001122.org:2095/ibo9875412309/ibo987541299/5962
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA" tvg-logo="https://n9.cl/ki1ls" group-title="ESP PREMIUM",TV GALICIA
+http://001122.org:2095/ibo9875412309/ibo987541299/5719
+#EXTINF:-1 tvg-id="" tvg-name="24H" tvg-logo="https://n9.cl/vzlis" group-title="ESP PREMIUM",24H
+http://001122.org:2095/ibo9875412309/ibo987541299/5982
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://n9.cl/qq2gr" group-title="ESP PREMIUM",MTV1️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/7530
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://n9.cl/qq2gr" group-title="ESP PREMIUM",MTV2️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/7531
+#EXTINF:-1 tvg-id="" tvg-name="CARACOLA TV" tvg-logo="https://n9.cl/srj87" group-title="ESP PREMIUM",CARACOLA TV CL
+http://001122.org:2095/ibo9875412309/ibo987541299/5964
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://n9.cl/m0bvy" group-title="ESP PREMIUM",DAZN 11️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/5760
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://n9.cl/m0bvy" group-title="ESP PREMIUM",DAZN 12️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/7521
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://n9.cl/i5w5da" group-title="ESP PREMIUM",DAZN 3		
+http://001122.org:2095/ibo9875412309/ibo987541299/5969
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://n9.cl/lcv4l" group-title="ESP PREMIUM",DAZN F1	
+http://001122.org:2095/ibo9875412309/ibo987541299/5754
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES POR M+" tvg-logo="https://n9.cl/4tkqs" group-title="ESP PREMIUM",DEPORTES POR M+1️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/5958
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES POR M+" tvg-logo="https://n9.cl/4tkqs" group-title="ESP PREMIUM",DEPORTES POR M+2️⃣
+http://001122.org:2095/ibo9875412309/ibo987541299/7520
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA POR M+" tvg-logo="https://n9.cl/ybd7e" group-title="ESP PREMIUM",LA LIGA POR M+
+http://001122.org:2095/ibo9875412309/ibo987541299/5959
+#EXTINF:-1 tvg-id="" tvg-name="GOLF POR M+ " tvg-logo="https://n9.cl/zz5qa" group-title="ESP PREMIUM",GOLF POR M+ 
+http://001122.org:2095/ibo9875412309/ibo987541299/5956
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://n9.cl/u1nur" group-title="ESP PREMIUM",REAL MADRID TV
+http://001122.org:2095/ibo9875412309/ibo987541299/5731
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://n9.cl/v0eu0r" group-title="ESP PREMIUM",GOL TV
+http://001122.org:2095/ibo9875412309/ibo987541299/7522
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://n9.cl/at9kg" group-title="ESP PREMIUM",TELEDEPORTE
+http://001122.org:2095/ibo9875412309/ibo987541299/5751
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO" tvg-logo="https://n9.cl/hndvl" group-title="ESP PREMIUM",ONETORO
+http://001122.org:2095/ibo9875412309/ibo987541299/5743
 
 === Religiosos ===
 #EXTINF:-1 tvg-id="" tvg-name="ENLACE" tvg-logo="https://n9.cl/tcorzp" group-title="✝️Religiosos",ENLACE 
