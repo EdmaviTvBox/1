@@ -178,13 +178,11 @@ https://s.emisoras.tv:8081/bendicionchannel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oracion con Son" tvg-logo="https://n9.cl/jm5vah" group-title="✝️Religiosos",Oracion con Son (E) 
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefamilia" tvg-logo="https://n9.cl/ahi4m" group-title="✝️Religiosos",Telefamilia (E)
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?hls_ctx=331z8n7e
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cristovision" tvg-logo="https://n9.cl/0agvx" group-title="✝️Religiosos",Cristovision (E)
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w2054941854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Frecuencia F" tvg-logo="https://n9.cl/z95am7" group-title="✝️Religiosos",Frecuencia F (E)
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARIA VISION" tvg-logo="https://n9.cl/rnk0j" group-title="✝️Religiosos",MARIA VISION 
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7492
 #EXTINF:-1 tvg-id="" tvg-name="Maria Vision" tvg-logo="https://n9.cl/rnk0j" group-title="✝️Religiosos",Maria Vision (E) 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
@@ -201,8 +199,6 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia II",Telepacifico (E)
 https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia II",Canal TRO (E)
-https://liveingesta318.cdnmedia.tv/canaltro2live/live-3000/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="Canal Nets" tvg-logo="https://n9.cl/khian6" group-title="💫Colombia II",Canal Nets (E)
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia II",mas (E)
@@ -215,22 +211,14 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="https://n9.cl/zjdla" group-title="💫Colombia II",Cosmovision (E)
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Classic" tvg-logo="https://n9.cl/r103vr" group-title="💫Colombia II",Memorias Classic (E)
-https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Film" tvg-logo="https://n9.cl/e99lr" group-title="💫Colombia II",Memorias Film (E)
-https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia II",Mi Gente (E)
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Noticiero 90Min" tvg-logo="" group-title="💫Colombia II",Canal Noticiero 90Min (E)
 https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesangil" tvg-logo="" group-title="💫Colombia II",Telesangil (E)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trece TV" tvg-logo="" group-title="💫Colombia II",Trece TV (E)
-https://liveingesta118.cdnmedia.tv/trecetvlive/rtmp01-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="TV San Jorge" tvg-logo="" group-title="💫Colombia II",TV San Jorge (E)
-https://asucap.com/livestream/asucap_envivo.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Colombia II", (E)
+
 === ⛔ADULT ===
 #EXTINF:-1 tvg-id="" tvg-name="21 Sextury" tvg-logo="" group-title="⛔ADULT",21 Sextury
 http://zk85.hofcepesp1.top:8080/es2221758090117329/5c02cc24e71f/32328
