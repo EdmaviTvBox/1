@@ -1,81 +1,9 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 COL (PM)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9516
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 COL (e)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9517
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 ARG (TV)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9521
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 ARG (i)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9520
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 CHI (TV)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/99538
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 CHI (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/99539
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 CHI (e)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179479
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 MEX (i)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9525
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="https://n9.cl/9c5cm" group-title="DEPORTES",Espn 1 MEX (L)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9523
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="https://n9.cl/38354" group-title="DEPORTES",Espn 2 ARG (PM)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9527
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="https://n9.cl/38354" group-title="DEPORTES",Espn 2 ARG (e)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9526
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="https://n9.cl/38354" group-title="DEPORTES",Espn 2 COL (TV)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9529
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="https://n9.cl/38354" group-title="DEPORTES",Espn 2 MEX (L)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9530
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="https://n9.cl/38354" group-title="DEPORTES",Espn 2 MEX (TV)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9531
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="https://n9.cl/38354" group-title="DEPORTES",Espn 2 SUR (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179489
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="https://n9.cl/pbsd2" group-title="DEPORTES",Espn 3 ARG (L)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9533
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="https://n9.cl/pbsd2" group-title="DEPORTES",Espn 3 ARG (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9534
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="https://n9.cl/pbsd2" group-title="DEPORTES",Espn 3 COL (M)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9532
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="https://n9.cl/pbsd2" group-title="DEPORTES",Espn 3 MEX (M)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9536
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3" tvg-logo="https://n9.cl/pbsd2" group-title="DEPORTES",Espn 3 Sur (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179498
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="https://n9.cl/g5bv1g" group-title="DEPORTES",Espn 4 (TV)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9538
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="https://n9.cl/g5bv1g" group-title="DEPORTES",Espn 4 COL (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179509
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="https://n9.cl/g5bv1g" group-title="DEPORTES",Espn 4 MEX (M)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9537
-#EXTINF:-1 tvg-id="" tvg-name="Espn 5" tvg-logo="https://n9.cl/t0962w" group-title="DEPORTES",Espn 5 (M)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9539
-#EXTINF:-1 tvg-id="" tvg-name="Espn 5" tvg-logo="https://n9.cl/t0962w" group-title="DEPORTES",Espn 5 (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179513
-#EXTINF:-1 tvg-id="" tvg-name="Espn 6" tvg-logo="https://n9.cl/1gzaam" group-title="DEPORTES",Espn 6 (M)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179518
-#EXTINF:-1 tvg-id="" tvg-name="Espn 7" tvg-logo="https://n9.cl/zklzhi" group-title="DEPORTES",Espn 7 (M)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9543
-#EXTINF:-1 tvg-id="" tvg-name="Espn 7" tvg-logo="https://n9.cl/zklzhi" group-title="DEPORTES",Espn 7 CH (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179519
-#EXTINF:-1 tvg-id="" tvg-name="Espn Deportes" tvg-logo="https://n9.cl/b38x3t" group-title="DEPORTES",Espn Deportes (MEX) (M)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9544
-#EXTINF:-1 tvg-id="" tvg-name="Espn Extra" tvg-logo="https://n9.cl/1m1pho" group-title="DEPORTES",Espn Extra MEX (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9547
-#EXTINF:-1 tvg-id="" tvg-name="Espn News" tvg-logo="https://n9.cl/tuxti" group-title="DEPORTES",Espn News (Z)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179490
-#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://n9.cl/chagn" group-title="DEPORTES",ESPN Premium ARG (L)(SD)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9549
-#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://n9.cl/chagn" group-title="DEPORTES",Espn Premium ARG (M)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9546
-#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://n9.cl/chagn" group-title="DEPORTES",ESPN Premium ARG (TV)(1080)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/9550
-#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://n9.cl/chagn" group-title="DEPORTES",Espn Premium ARG (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179511
-#EXTINF:-1 tvg-id="" tvg-name="Espn Premium" tvg-logo="https://n9.cl/chagn" group-title="DEPORTES",ESPN Premium CL (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/115016
-#EXTINF:-1 tvg-id="" tvg-name="Espn U" tvg-logo="https://n9.cl/jaolag" group-title="DEPORTES",Espn U (Z)(720)
-http://tv.zeuspro.xyz:8080/PezEkon25/zwTYsUazr9/179512
-
-#EXTINF:-1 tvg-id="" tvg-name="tvs retro " tvg-logo="" group-title="PRUEBA",tvs retro (E)
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="" group-title="PRUEBA",telecaribe
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="" group-title="PRUEBA",Zoom TV (E)
+https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvs retro " tvg-logo="" group-title="PRUEBA",Vision TV (E)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="" group-title="PRUEBA",amc (E)
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
@@ -271,6 +199,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia II",RED+ (E) 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia II",Telepacifico (E)
+https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://n9.cl/9ybrz" group-title="💫Colombia II",Canal TRO (E)
 https://liveingesta318.cdnmedia.tv/canaltro2live/live-3000/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="Canal Nets" tvg-logo="https://n9.cl/khian6" group-title="💫Colombia II",Canal Nets (E)
