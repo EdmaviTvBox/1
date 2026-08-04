@@ -45,6 +45,66 @@ http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9549
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9546
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://n9.cl/u6wo3" group-title="⚽Deportes",ESPN Premium ARG (TV)(1080)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9550
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="" group-title="⚽Deportes",Fox Deportes (TV)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9571
+#EXTINF:-1,DEPORTES - Fox Sports 1 ARG (L)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9575
+#EXTINF:-1,DEPORTES - Fox Sports 1 ARG (M)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9576
+#EXTINF:-1,DEPORTES - Fox Sports 1 COL (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9577
+#EXTINF:-1,DEPORTES - Fox Sports 1 MEX (M)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9579
+#EXTINF:-1,DEPORTES - Fox Sports 2 ARG (L)(SD)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9581
+#EXTINF:-1,DEPORTES - Fox Sports 2 COL (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9583
+#EXTINF:-1,DEPORTES - Fox Sports 2 MEX (L)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9584
+#EXTINF:-1,DEPORTES - Fox Sports 2 MEX (M)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9585
+
+#EXTINF:-1,DEPORTES - Fox Sports 3 MEX (M)(SD)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9591
+#EXTINF:-1,DEPORTES - TUDN - MEX (M)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9603
+#EXTINF:-1,DEPORTES - TUDN - USA (TV)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9605
+#EXTINF:-1,DEPORTES - beIN Sports Xtra Ñ (TV)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9552
+#EXTINF:-1,DEPORTES - Directv Sports + (L)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9557
+#EXTINF:-1,DEPORTES - Directv Sports + (TV)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9558
+#EXTINF:-1,DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9560
+#EXTINF:-1,DEPORTES - Directv Sports 1 CHI (e)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9561
+#EXTINF:-1,DEPORTES - Directv Sports 1 ECU (e)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9562
+#EXTINF:-1,DEPORTES - Directv Sports 1 ECU (e)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9563
+#EXTINF:-1,DEPORTES - Directv Sports 2 (e)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9564
+#EXTINF:-1,DEPORTES - Directv Sports 2 (e)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9565
+#EXTINF:-1,DEPORTES - Directv Sports 2 ARG (L)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9566
+#EXTINF:-1,DEPORTES - Fight BOX  (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9570
+#EXTINF:-1,DEPORTES - Gol TV ES (M)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9594
+#EXTINF:-1,DEPORTES - Golf Latin America (M)(SD)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9596
+#EXTINF:-1,DEPORTES - Golf Latin MEX (M)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9597
+#EXTINF:-1,DEPORTES - Tennis Channel (L)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9602
+#EXTINF:-1,DEPORTES - TVC Deportes (L)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9607
+#EXTINF:-1,DEPORTES - TyC Sports INT (TV)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9609
 === 🎞️Cine & Series ===
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7552
