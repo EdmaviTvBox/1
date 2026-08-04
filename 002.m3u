@@ -45,28 +45,29 @@ http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9549
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9546
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://n9.cl/u6wo3" group-title="⚽Deportes",ESPN Premium ARG (TV)(1080)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9550
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="" group-title="⚽Deportes",Fox Deportes (TV)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9571
-#EXTINF:-1,DEPORTES - Fox Sports 1 ARG (L)(720)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://n9.cl/gscb3" group-title="⚽Deportes",Fox Sports 1 ARG (L)(720)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9575
-#EXTINF:-1,DEPORTES - Fox Sports 1 ARG (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://n9.cl/gscb3" group-title="⚽Deportes",Fox Sports 1 ARG (M)(720)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9576
-#EXTINF:-1,DEPORTES - Fox Sports 1 COL (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://n9.cl/gscb3" group-title="⚽Deportes",Fox Sports 1 COL (TV)(1080)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9577
-#EXTINF:-1,DEPORTES - Fox Sports 1 MEX (M)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9579
-#EXTINF:-1,DEPORTES - Fox Sports 2 ARG (L)(SD)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://n9.cl/9vap0" group-title="⚽Deportes",Fox Sports 2 ARG (L)(SD)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9581
-#EXTINF:-1,DEPORTES - Fox Sports 2 COL (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://n9.cl/9vap0" group-title="⚽Deportes",Fox Sports 2 COL (TV)(1080)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9583
-#EXTINF:-1,DEPORTES - Fox Sports 2 MEX (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="https://n9.cl/u8034" group-title="⚽Deportes",Fox Deportes (TV)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9571
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://n9.cl/ynsygq" group-title="⚽Deportes",Fox Sports 1 MEX (M)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9579
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://n9.cl/8ednop" group-title="⚽Deportes",Fox Sports 2 MEX (L)(1080)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9584
-#EXTINF:-1,DEPORTES - Fox Sports 2 MEX (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://n9.cl/8ednop" group-title="⚽Deportes",Fox Sports 2 MEX (M)(1080)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9585
-
-#EXTINF:-1,DEPORTES - Fox Sports 3 MEX (M)(SD)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://n9.cl/n9hao" group-title="⚽Deportes",Fox Sports 3 MEX (M)(SD)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9591
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://n9.cl/n9hao" group-title="⚽Deportes",Fox Sports 3 MEX (M)(SD)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9591
+
 #EXTINF:-1,DEPORTES - TUDN - MEX (M)(720)
 http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9603
 #EXTINF:-1,DEPORTES - TUDN - USA (TV)(720)
