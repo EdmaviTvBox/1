@@ -1,4 +1,50 @@
 #EXTM3U
+
+===⚽Deportes===
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1 ARG" tvg-logo="https://n9.cl/lf32ay" group-title="⚽Deportes",Espn 1 ARG (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9521
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1 CHI" tvg-logo="https://n9.cl/lf32ay" group-title="⚽Deportes",Espn 1 CHI (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/99538
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1 COL" tvg-logo="https://n9.cl/lf32ay" group-title="⚽Deportes",Espn 1 COL (e)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9517
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1 COL" tvg-logo="https://n9.cl/lf32ay" group-title="⚽Deportes",Espn 1 COL (PM)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9516
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1 MEX" tvg-logo="https://n9.cl/lf32ay" group-title="⚽Deportes",Espn 1 MEX (L)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9523
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 ARG" tvg-logo="https://n9.cl/tbrfc" group-title="⚽Deportes",Espn 2 ARG (PM)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9527
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 ARG" tvg-logo="https://n9.cl/tbrfc" group-title="⚽Deportes",Espn 2 ARG (e)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9526
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 COL" tvg-logo="https://n9.cl/tbrfc" group-title="⚽Deportes",Espn 2 COL (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9529
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 MEX" tvg-logo="https://n9.cl/tbrfc" group-title="⚽Deportes",Espn 2 MEX (L)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9530
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 MEX" tvg-logo="https://n9.cl/tbrfc" group-title="⚽Deportes",Espn 2 MEX (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9531
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 ARG" tvg-logo="https://n9.cl/xk3aam" group-title="⚽Deportes",Espn 3 ARG (L)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9533
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 COL" tvg-logo="https://n9.cl/xk3aam" group-title="⚽Deportes",Espn 3 COL (M)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9532
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 MEX" tvg-logo="https://n9.cl/xk3aam" group-title="⚽Deportes",Espn 3 MEX (M)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9536
+#EXTINF:-1 tvg-id="" tvg-name="Espn 4" tvg-logo="https://n9.cl/quji6" group-title="⚽Deportes",Espn 4 (TV)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9538
+#EXTINF:-1 tvg-id="" tvg-name="Espn 4 MEX" tvg-logo="https://n9.cl/quji6" group-title="⚽Deportes",Espn 4 MEX (M)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9537
+#EXTINF:-1 tvg-id="" tvg-name="Espn 5" tvg-logo="https://n9.cl/fjq5g" group-title="⚽Deportes",Espn 5 (M)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9539
+#EXTINF:-1 tvg-id="" tvg-name="Espn 6" tvg-logo="https://n9.cl/8s04z" group-title="⚽Deportes",Espn 6 (M)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/179518
+#EXTINF:-1 tvg-id="" tvg-name="Espn 7" tvg-logo="https://n9.cl/gj9c4" group-title="⚽Deportes",Espn 7 (M)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9543
+#EXTINF:-1 tvg-id="" tvg-name="Espn Deportes" tvg-logo="https://n9.cl/rswg2" group-title="⚽Deportes",Espn Deportes (MEX) (M)(720)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9544
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://n9.cl/u6wo3" group-title="⚽Deportes",ESPN Premium ARG (L)(SD)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9549
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://n9.cl/u6wo3" group-title="⚽Deportes",Espn Premium ARG (M)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9546
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://n9.cl/u6wo3" group-title="⚽Deportes",ESPN Premium ARG (TV)(1080)
+http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/9550
 === 🎞️Cine & Series ===
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/c655b" group-title="🎞️Cine & Series",AMC NORTE 
 http://alfa.7057460.xyz:2095/julinnn2/Camion01/7552
