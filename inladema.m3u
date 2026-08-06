@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »1«
-http://23.153.217.158:8080/974324183tv/533anc/331
-#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »2«
-http://23.153.217.158:8080/974324183tv/533anc/332
-#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »3«
-http://23.153.217.158:8080/974324183tv/533anc/333
-#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »4«
-http://23.153.217.158:8080/974324183tv/533anc/334
-#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL INT" tvg-logo="https://n9.cl/gr2kn" group-title="🟨 Colombia",🟠CARACOL INT (HD) »1«
-http://23.153.217.158:8080/974324183tv/533anc/335
-#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL INT" tvg-logo="https://n9.cl/gr2kn" group-title="🟨 Colombia",🟠CARACOL INT (HD) »2«
-http://23.153.217.158:8080/974324183tv/533anc/336
 #EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »1«
 http://23.153.217.158:8080/974324183tv/533anc/343
 #EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »2«
@@ -27,6 +15,18 @@ http://23.153.217.158:8080/974324183tv/533anc/347
 http://23.153.217.158:8080/974324183tv/533anc/348
 #EXTINF:-1 tvg-id="" tvg-name="🟠RCN Mas" tvg-logo="https://n9.cl/hkzt2b" group-title="🟨 Colombia",🟠RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/331
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/332
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »3«
+http://23.153.217.158:8080/974324183tv/533anc/333
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »4«
+http://23.153.217.158:8080/974324183tv/533anc/334
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL INT" tvg-logo="https://n9.cl/gr2kn" group-title="🟨 Colombia",🟠CARACOL INT (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/335
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL INT" tvg-logo="https://n9.cl/gr2kn" group-title="🟨 Colombia",🟠CARACOL INT (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/336
 #EXTINF:-1 tvg-id="" tvg-name="🟠TELECARIBE" tvg-logo="https://n9.cl/yxwqhv" group-title="🟨 Colombia",🟠TELECARIBE (HD) »1«
 http://23.153.217.158:8080/974324183tv/533anc/353
 #EXTINF:-1 tvg-id="" tvg-name="🟠TELECARIBE" tvg-logo="https://n9.cl/yxwqhv" group-title="🟨 Colombia",🟠TELECARIBE (HD) »2«
