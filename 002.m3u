@@ -1,95 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="🟠 Canal Uno HD" tvg-logo="https://n9.cl/4mep9" group-title="🟨 Colombia",🟠 Canal Uno HD
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8478
-#EXTINF:-1,COL-WinSports + (L)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8510
-#EXTINF:-1,COL-WinSports + (M)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8511
-#EXTINF:-1,COL-Winsports + (TV)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/84896
-#EXTINF:-1,COL-WinSports (L)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8505
-#EXTINF:-1,COL-WinSports (L)(SD)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8506
-#EXTINF:-1,COL-WinSports (M)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8507
-#EXTINF:-1,COL-Claro Sports (M)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8488
-
-#EXTINF:-1,COL-ditu Caracol(TV)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8489
-#EXTINF:-1,COL-Caracol (L)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8480
-#EXTINF:-1,COL-Caracol (M)(SD)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8481
-#EXTINF:-1,COL-Caracol (V)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8483
-#EXTINF:-1,COL-Caracol 2 (L)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/130358
-#EXTINF:-1,COL-Caracol Internacional (M)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8485
-
-#EXTINF:-1,COL-Pasiones (M)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/84909
-#EXTINF:-1,COL-RCN (L)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/84350
-#EXTINF:-1,COL-RCN (M)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8491
-#EXTINF:-1,COL-RCN Nuestra Tele (TV)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8496
-#EXTINF:-1,COL-Suram TV (W)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160854
-#EXTINF:-1,COL-TV Agro (M)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/8503
-#EXTINF:-1,COL-BUM Televisión (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160790
-#EXTINF:-1,COL-Cablenoticias (W)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160791
-#EXTINF:-1,COL-Canal 14 Codazzi (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160797
-#EXTINF:-1,COL-Canal 2 Alpavisión Neiva (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160794
-#EXTINF:-1,COL-Canica TV (240p)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160810
-#EXTINF:-1,COL-Canal 8 TV+ (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160795
-#EXTINF:-1,COL-Canal Dos Yopal (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160800
-#EXTINF:-1,COL-Canal Nets (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160803
-#EXTINF:-1,COL-Canal Oración Con Son (W)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160804
-#EXTINF:-1,COL-Canal Telefamilia (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160807
-#EXTINF:-1,COL-CNC Santander de Quilichao (W)(SD)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160821
-#EXTINF:-1,COL-Eduvision (W)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160827
-#EXTINF:-1,COL-La Hermandad Salsera (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160833
-#EXTINF:-1,COL-La Morada Radio TV (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160835
-#EXTINF:-1,COL-NSTV (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160844
-#EXTINF:-1,COL-Oasis TV (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160845
-#EXTINF:-1,COL-Ondambiental TV (360p)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160846
-#EXTINF:-1,COL-Parranda Vallenata (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160847
-#EXTINF:-1,COL-Reyali (614p)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160849
-#EXTINF:-1,COL-Supermúsica TV (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160853
-#EXTINF:-1,COL-Teleislas (486p) (W)(SD)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160866
-#EXTINF:-1,COL-Tu Universo TV (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160870
-#EXTINF:-1,COL-Ultra Casanare TV (W)(720)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160875
-#EXTINF:-1,COL-Vive TV Colombia (W)(1080)
-http://tv.zeuspro.xyz:8080/FliaDuarBalle/D9nAtHh5Zm/160878
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »1«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/331
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »2«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/332
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »3«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/333
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »4«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/334
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL INT" tvg-logo="https://n9.cl/gr2kn" group-title="🟨 Colombia",🟠CARACOL INT (HD) »1«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/335
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL INT" tvg-logo="https://n9.cl/gr2kn" group-title="🟨 Colombia",🟠CARACOL INT (HD) »2«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/336
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »1«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/343
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »2«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/344
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »3«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/345
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »4«
+http://23.153.217.158:8080/66073650tv/8fhfu94r89/346
 
 ===⚽Deportes===
 #EXTINF:-1 tvg-id="" tvg-name="Espn 1 ARG" tvg-logo="https://n9.cl/lf32ay" group-title="⚽Deportes",Espn 1 ARG (TV)(1080)
