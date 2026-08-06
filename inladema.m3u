@@ -1,4 +1,96 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/331
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/332
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »3«
+http://23.153.217.158:8080/974324183tv/533anc/333
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL" tvg-logo="https://n9.cl/lka6io" group-title="🟨 Colombia",🟠CARACOL (HD) »4«
+http://23.153.217.158:8080/974324183tv/533anc/334
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL INT" tvg-logo="https://n9.cl/gr2kn" group-title="🟨 Colombia",🟠CARACOL INT (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/335
+#EXTINF:-1 tvg-id="" tvg-name="🟠CARACOL INT" tvg-logo="https://n9.cl/gr2kn" group-title="🟨 Colombia",🟠CARACOL INT (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/336
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/343
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/344
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »3«
+http://23.153.217.158:8080/974324183tv/533anc/345
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="🟨 Colombia",🟠RCN (HD) »4«
+http://23.153.217.158:8080/974324183tv/533anc/346
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN NUESTRA TELE" tvg-logo="https://n9.cl/pm6cq" group-title="🟨 Colombia",🟠RCN NUESTRA TELE (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/349
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN NUESTRA TELE" tvg-logo="https://n9.cl/pm6cq" group-title="🟨 Colombia",🟠RCN NUESTRA TELE (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/347
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN NOVELAS" tvg-logo="https://n9.cl/kc5z1" group-title="🟨 Colombia",🟠RCN NOVELAS (HD)
+http://23.153.217.158:8080/974324183tv/533anc/348
+#EXTINF:-1 tvg-id="" tvg-name="🟠RCN Mas" tvg-logo="https://n9.cl/hkzt2b" group-title="🟨 Colombia",🟠RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="🟠TELECARIBE" tvg-logo="https://n9.cl/yxwqhv" group-title="🟨 Colombia",🟠TELECARIBE (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/353
+#EXTINF:-1 tvg-id="" tvg-name="🟠TELECARIBE" tvg-logo="https://n9.cl/yxwqhv" group-title="🟨 Colombia",🟠TELECARIBE (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/354
+#EXTINF:-1 tvg-id="" tvg-name="🟠CABLE NOTICIAS" tvg-logo="https://n9.cl/u2v2tj" group-title="🟨 Colombia",🟠CABLE NOTICIAS (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/326
+#EXTINF:-1 tvg-id="" tvg-name="🟠CABLE NOTICIAS" tvg-logo="https://n9.cl/u2v2tj" group-title="🟨 Colombia",🟠CABLE NOTICIAS (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/327
+#EXTINF:-1 tvg-id="" tvg-name="🟠NTN 24" tvg-logo="https://n9.cl/i73zw" group-title="🟨 Colombia",🟠NTN 24 (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/339
+#EXTINF:-1 tvg-id="" tvg-name="🟠NTN 24" tvg-logo="https://n9.cl/i73zw" group-title="🟨 Colombia",🟠NTN 24 (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/340
+#EXTINF:-1 tvg-id="" tvg-name="🟠PASIONES" tvg-logo="https://n9.cl/hajzab" group-title="🟨 Colombia",🟠PASIONES (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/341
+#EXTINF:-1 tvg-id="" tvg-name="🟠PASIONES" tvg-logo="https://n9.cl/hajzab" group-title="🟨 Colombia",🟠PASIONES (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/342
+#EXTINF:-1 tvg-id="" tvg-name="🟠TELEMEDELLIN" tvg-logo="https://n9.cl/4m51jf" group-title="🟨 Colombia",🟠TELEMEDELLIN (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/355
+#EXTINF:-1 tvg-id="" tvg-name="🟠TELEMEDELLIN" tvg-logo="https://n9.cl/4m51jf" group-title="🟨 Colombia",🟠TELEMEDELLIN (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/356
+#EXTINF:-1 tvg-id="" tvg-name="🟠TELEPACIFICO" tvg-logo="https://n9.cl/j2md5x" group-title="🟨 Colombia",🟠TELEPACIFICO (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/357
+#EXTINF:-1 tvg-id="" tvg-name="🟠TELEPACIFICO" tvg-logo="https://n9.cl/j2md5x" group-title="🟨 Colombia",🟠TELEPACIFICO (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/358
+#EXTINF:-1 tvg-id="" tvg-name="🟠CANAL 1" tvg-logo="https://n9.cl/bq7df" group-title="🟨 Colombia",🟠CANAL 1 (HD)
+http://23.153.217.158:8080/974324183tv/533anc/330
+#EXTINF:-1 tvg-id="" tvg-name="🟠CANAL TRO" tvg-logo="https://n9.cl/cftc3" group-title="🟨 Colombia",🟠CANAL TRO (HD)
+http://23.153.217.158:8080/974324183tv/533anc/329
+#EXTINF:-1 tvg-id="" tvg-name="🟠CITY TV" tvg-logo="https://n9.cl/og04yk" group-title="🟨 Colombia",🟠CITY TV (HD)
+http://23.153.217.158:8080/974324183tv/533anc/337
+#EXTINF:-1 tvg-id="" tvg-name="🟠CITY TV" tvg-logo="https://n9.cl/og04yk" group-title="🟨 Colombia",🟠CITY TV  FHD**
+http://23.153.217.158:8080/974324183tv/533anc/270523
+#EXTINF:-1 tvg-id="" tvg-name="🟠EL TRECE" tvg-logo="https://n9.cl/3qcc5" group-title="🟨 Colombia",🟠EL TRECE (HD)
+http://23.153.217.158:8080/974324183tv/533anc/338
+#EXTINF:-1 tvg-id="" tvg-name="🟠TELECAFE" tvg-logo="https://n9.cl/tll94a" group-title="🟨 Colombia",🟠TELECAFE (HD)
+http://23.153.217.158:8080/974324183tv/533anc/352
+#EXTINF:-1 tvg-id="" tvg-name="🟠TELEANTIOQUIA" tvg-logo="https://n9.cl/lmp77" group-title="🟨 Colombia",🟠TELEANTIOQUIA (HD)
+http://23.153.217.158:8080/974324183tv/533anc/351
+#EXTINF:-1 tvg-id="" tvg-name="🟠CANAL CAPITAL" tvg-logo="https://n9.cl/ylkf6" group-title="🟨 Colombia",🟠CANAL CAPITAL (HD)
+http://23.153.217.158:8080/974324183tv/533anc/328
+#EXTINF:-1 tvg-id="" tvg-name="🟠SENAL COLOMBIA" tvg-logo="https://n9.cl/tq74te" group-title="🟨 Colombia",🟠SENAL COLOMBIA (HD)
+http://23.153.217.158:8080/974324183tv/533anc/350
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN+ FUTBOL" tvg-logo="https://n9.cl/mn1pp" group-title="🟨 Colombia",🟠WIN+ FUTBOL (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/359
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN+ FUTBOL" tvg-logo="https://n9.cl/mn1pp" group-title="🟨 Colombia",🟠WIN+ FUTBOL (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/360
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN+ FUTBOL" tvg-logo="https://n9.cl/mn1pp" group-title="🟨 Colombia",🟠WIN+ FUTBOL (HD) »3«
+http://23.153.217.158:8080/974324183tv/533anc/361
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN SPORTS " tvg-logo="https://n9.cl/0ib3gi" group-title="🟨 Colombia",🟠WIN SPORTS (HD) »1«
+http://23.153.217.158:8080/974324183tv/533anc/362
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN SPORTS " tvg-logo="https://n9.cl/0ib3gi" group-title="🟨 Colombia",🟠WIN SPORTS (HD) »2«
+http://23.153.217.158:8080/974324183tv/533anc/363
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN SPORTS " tvg-logo="https://n9.cl/0ib3gi" group-title="🟨 Colombia",🟠WIN SPORTS (HD) »3«
+http://23.153.217.158:8080/974324183tv/533anc/364
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN SPORTS " tvg-logo="https://n9.cl/0ib3gi" group-title="🟨 Colombia",🟠WIN SPORTS (HD) »4«
+http://23.153.217.158:8080/974324183tv/533anc/365
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN SPORTS " tvg-logo="https://n9.cl/0ib3gi" group-title="🟨 Colombia",🟠WIN SPORTS (HD) »5«
+http://23.153.217.158:8080/974324183tv/533anc/366
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN SPORTS " tvg-logo="https://n9.cl/0ib3gi" group-title="🟨 Colombia",🟠WIN SPORTS (HD) »6«
+http://23.153.217.158:8080/974324183tv/533anc/367
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN SPORTS " tvg-logo="https://n9.cl/0ib3gi" group-title="🟨 Colombia",🟠WIN SPORTS (HD) »7«
+http://23.153.217.158:8080/974324183tv/533anc/368
+#EXTINF:-1 tvg-id="" tvg-name="🟠WIN SPORTS " tvg-logo="https://n9.cl/0ib3gi" group-title="🟨 Colombia",🟠WIN SPORTS (HD) »8«
+http://23.153.217.158:8080/974324183tv/533anc/369
 
 === 💫Entretenimiento ===
 #EXTINF:-1 tvg-id="" tvg-name="ent Channel" tvg-logo="https://n9.cl/72ny0" group-title="💫Entretenimiento",ent Channel (E)
