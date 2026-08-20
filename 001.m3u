@@ -12,13 +12,19 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&Playlis
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="" group-title="Cine & Series",SONY MOVIES HD
 http://179.51.136.19:8000/play/a1aa/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="Cine & Series",Warner HD
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="Cine & Series",Warner (M Audio) 
 http://179.51.136.19:8000/play/a0wx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTime" tvg-logo="" group-title="Cine & Series",MyTime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="tvs retro " tvg-logo="" group-title="Variedades",TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tvs retro " tvg-logo="" group-title="Variedades",Vision TV (E)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="Variedades",Las Estrellas (E)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D DRAMA" tvg-logo="" group-title="Variedades",KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 === Religiosos ===
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="✝️Religiosos",TV Familia (E) 
@@ -37,6 +43,13 @@ https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="✝️Religiosos",
+
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="Music",HTV
+http://179.51.136.19:8000/play/a14l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FARRA PLAY" tvg-logo="" group-title="Music",FARRA PLAY
+http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="1 Mus" tvg-logo="" group-title="Music",1 Mus
+http://rtmp.one.by:2300/
 
 === 💫Colombia ===
 #EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia II",RCN MAS (E)
