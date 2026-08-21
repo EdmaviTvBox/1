@@ -18,6 +18,10 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="" group-title="💫Animados",Dodo TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?ChileTv
 
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="💫Cine y Series",HBO
+https://streamer.metronethn.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="💫Cine y Series",HBO2
+https://streamer.metronethn.com/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="💫Cine y Series",AMC
 https://streamer.metronethn.com/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="💫Cine y Series",AMC SERIES
