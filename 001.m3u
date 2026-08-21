@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="MAX Anime" tvg-logo="" group-title="💫Animados",MAX Anime
-#EXTVLCOPT:network-caching=1000
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tvg-logo="" group-title="💫Animados",Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="💫Animados",Disney Channel
