@@ -1,12 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="Animados",TOONCAST
+#EXTINF:-1 tvg-id="" tvg-name="MAX Anime" tvg-logo="" group-title="💫Animados",MAX Anime
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tvg-logo="" group-title="💫Animados",Extrema Kids
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="💫Animados",Disney Channel
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Classics" tvg-logo="" group-title="💫Animados",Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="💫Animados",Nick Jr.
+https://streamer.metronethn.com/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="💫Animados",Nickelodeon
+https://streamer.metronethn.com/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="💫Animados",Tooncast
 http://179.51.136.19:8000/play/a0wh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZYOONTV" tvg-logo="" group-title="Animados",ZYOONTV (E)
+#EXTINF:-1 tvg-id="" tvg-name="ZYOONTV" tvg-logo="" group-title="💫Animados",Zyoon TV 
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="" group-title="Animados",Dodo TV (E)
+#EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="" group-title="💫Animados",Dodo TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?ChileTv
-#EXTINF:-1 tvg-id="" tvg-name="energeek" tvg-logo="" group-title="Animados",energeek (E)
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="" group-title="Cine & Series",amc (E)
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
