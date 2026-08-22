@@ -1,41 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MAX Anime" tvg-logo="" group-title="💫Animados",MAX Anime
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+
+💫Animados
 #EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tvg-logo="" group-title="💫Animados",Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="💫Animados",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/daw3gw" group-title="💫Animados",Disney Channel
+https://cdn1tlinkgo.tlink.cl/disneychannelhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/daw3gw" group-title="💫Animados",Disney Channel
 http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Classics" tvg-logo="" group-title="💫Animados",Cartoon Classics
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="💫Animados",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://n9.cl/m807cx" group-title="💫Animados",Nick Jr.
 https://streamer.metronethn.com/NickJr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="💫Animados",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://n9.cl/m807cx" group-title="💫Animados",Nick Jr. Latam
+https://streamer.metronethn.com/NickJr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/dqq8m" group-title="💫Animados",Nickelodeon
 https://streamer.metronethn.com/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="💫Animados",Tooncast
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/dqq8m" group-title="💫Animados",Nickelodeon Latam
+https://streamer.metronethn.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://n9.cl/kmbfv8" group-title="💫Animados",Tooncast
 http://179.51.136.19:8000/play/a0wh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZYOONTV" tvg-logo="" group-title="💫Animados",Zyoon TV 
+#EXTINF:-1 tvg-id="" tvg-name="Clan Int" tvg-logo="https://n9.cl/66wjo" group-title="💫Animados",Clan Int
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Anime" tvg-logo="https://n9.cl/j7t5k" group-title="💫Animados",MAX Anime
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Zyoon TV" tvg-logo="https://n9.cl/q14qi" group-title="💫Animados",Zyoon TV 
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="" group-title="💫Animados",Dodo TV
+#EXTINF:-1 tvg-id="" tvg-name="Dodo TV" tvg-logo="https://n9.cl/q1s18" group-title="💫Animados",Dodo TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?ChileTv
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Classics" tvg-logo="https://n9.cl/wgzvhu" group-title="💫Animados",Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="💫Cine y Series",HBO
-https://streamer.metronethn.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="💫Cine y Series",HBO2
-https://streamer.metronethn.com/HBO2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="💫Cine y Series",AMC
-https://streamer.metronethn.com/AMC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="💫Cine y Series",AMC SERIES
-https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="💫Cine y Series",AXN
-https://streamer.metronethn.com/AXN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="💫Cine y Series",TCM
-http://181.205.130.194:4000/play/a06l
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="" group-title="💫Cine y Series",SONY MOVIES
-http://179.51.136.19:8000/play/a1aa/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="" group-title="💫Cine y Series",WARNER TV
-http://179.51.136.19:8000/play/a0wx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MYTIME" tvg-logo="" group-title="💫Cine y Series",MYTIME
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="" group-title="💫24/7",South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
