@@ -28,26 +28,30 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tvg-logo="" group-title="💫Animados",Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="" group-title="💫24/7",South Park
+💫24/7
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho" tvg-logo="https://n9.cl/qzoh8m" group-title="💫24/7",El Chavo del Ocho
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://n9.cl/dydvx" group-title="💫24/7",South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="" group-title="💫24/7",South Park (Esp)
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://n9.cl/dydvx" group-title="💫24/7",South Park (Esp)
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="South Park Cartman" tvg-logo="" group-title="💫24/7",South Park Coleccion Cartman
+#EXTINF:-1 tvg-id="" tvg-name="South Park Cartman" tvg-logo="https://n9.cl/znqqa" group-title="💫24/7",South Park Coleccion Cartman
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="South Park Kenny" tvg-logo="" group-title="💫24/7",South Park Coleccion Kenny
+#EXTINF:-1 tvg-id="" tvg-name="South Park Kenny" tvg-logo="https://n9.cl/zf2ry" group-title="💫24/7",South Park Coleccion Kenny
 https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="South Park Kyle" tvg-logo="" group-title="💫24/7",South Park Coleccion Kyle
+#EXTINF:-1 tvg-id="" tvg-name="South Park Kyle" tvg-logo="https://n9.cl/ix0i1" group-title="💫24/7",South Park Coleccion Kyle
 https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="South Park Stan" tvg-logo="" group-title="💫24/7",South Park Coleccion Stan
+#EXTINF:-1 tvg-id="" tvg-name="South Park Stan" tvg-logo="https://n9.cl/7b2why" group-title="💫24/7",South Park Coleccion Stan
 https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Detective Conan" tvg-logo="" group-title="💫24/7",Detective Conan
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan" tvg-logo="https://n9.cl/78nr5" group-title="💫24/7",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="One Piece Subt" tvg-logo="" group-title="💫24/7",One Piece Subt
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan" tvg-logo="https://n9.cl/zgp5q5" group-title="💫24/7",Mr Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One Piece Subt" tvg-logo="https://n9.cl/4iuzd" group-title="💫24/7",One Piece Subt
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="One Piece (Esp)" tvg-logo="" group-title="💫24/7",One Piece (Esp)
+#EXTINF:-1 tvg-id="" tvg-name="One Piece (Esp)" tvg-logo="https://n9.cl/4iuzd" group-title="💫24/7",One Piece (Esp)
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+
 === Religiosos ===
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="✝️Religiosos",TV Familia (E) 
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w540890667.m3u8
