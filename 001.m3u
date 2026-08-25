@@ -52,6 +52,50 @@ https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="One Piece (Esp)" tvg-logo="https://n9.cl/4iuzd" group-title="💫24/7",One Piece (Esp)
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 
+💫Cine y Series
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://n9.cl/8n10m" group-title="💫",HBO
+https://streamer.metronethn.com/HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://n9.cl/d2o7bz" group-title="💫",HBO2
+https://streamer.metronethn.com/HBO2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://n9.cl/cl6fg" group-title="💫",AMC
+https://cdn1tlinkgo.tlink.cl/amchd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/kpr6o" group-title="💫",AXN
+https://streamer.metronethn.com/TNTSERIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://n9.cl/xmwpl9" group-title="💫",Cinecanal
+https://cdn1tlinkgo.tlink.cl/cinecanalhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/9371r" group-title="💫",DHE
+https://streamer.metronethn.com/DHE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://n9.cl/9371r" group-title="💫",DHE
+https://cdn1tlinkgo.tlink.cl/dhehd/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="https://n9.cl/1685oa" group-title="💫",Europa Europa
+https://cdn1tlinkgo.tlink.cl/europaeuropa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/qwe8t" group-title="💫",FX
+https://streamer.metronethn.com/FX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="https://n9.cl/cmu5fx" group-title="💫",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://n9.cl/1064c" group-title="💫",Studio Universal
+https://cdn1tlinkgo.tlink.cl/studiouniversalhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://n9.cl/65uic" group-title="💫",TNT
+https://streamer.metronethn.com/TNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Az Cinema" tvg-logo="https://n9.cl/krfal7" group-title="💫",Az Cinema
+https://cdn1tlinkgo.tlink.cl/azcinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-logo="https://n9.cl/srxk3k" group-title="💫",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boreal TV" tvg-logo="https://n9.cl/mddac" group-title="💫",Boreal TV
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV" tvg-logo="https://n9.cl/wye9i" group-title="💫",Cosmos TV
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FMH Movies" tvg-logo="https://n9.cl/y8e61" group-title="💫",FMH Movies
+https://cdn1tlinkgo.tlink.cl/fmhmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Dios" tvg-logo="https://n9.cl/kgyeo" group-title="💫",Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Friki" tvg-logo="https://n9.cl/edvye" group-title="💫",Cine Friki
+https://d2mr4fu91mjx9m.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/a01f1612-d805-441d-991a-4a0138f8497a/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Time Movie Network" tvg-logo="https://n9.cl/u1ogo" group-title="💫",My Time Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mega Cine TV" tvg-logo="https://n9.cl/r8umgy" group-title="💫",Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
 === Religiosos ===
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="✝️Religiosos",TV Familia (E) 
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w540890667.m3u8
