@@ -1,4 +1,73 @@
 #EXTM3U
+#EXTINF:11 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/lka6io" group-title="💫Colombia",CARACOL TV
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a08t/index.m3u8
+#EXTINF:11 tvg-id="" tvg-name="WIN+" tvg-logo="https://n9.cl/mn1pp" group-title="💫Colombia",WIN+
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a08x/index.m3u8
+#EXTINF:11 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="💫Colombia",RCN
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a08u/index.m3u8
+#EXTINF:11 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/yxwqhv" group-title="💫Colombia",TELECARIBE
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a08v/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://n9.cl/mrcc6" group-title="💫Hist y Cultura",Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07x/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://n9.cl/tl4deo" group-title="💫Hist y Cultura",Discov Channel
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a075/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Discovery H&H" tvg-logo="https://n9.cl/3duiz" group-title="💫Hist y Cultura",Discov H&H
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a08f/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://n9.cl/25ckoy" group-title="💫Hist y Cultura",Discov Science
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a04g/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://n9.cl/6vbj2" group-title="💫Hist y Cultura",Discov Turbo
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a04d/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Discovery World" tvg-logo="https://n9.cl/627sj" group-title="💫Hist y Cultura",Discov World
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07i/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ID" tvg-logo="https://n9.cl/6bm73c" group-title="💫Hist y Cultura",ID
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07v/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="TLC" tvg-logo="https://n9.cl/q2vnh" group-title="💫Hist y Cultura",TLC
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a056/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="History Channel" tvg-logo="https://n9.cl/zibkj" group-title="💫Hist y Cultura",History Channel
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07u/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/tl4deo" group-title="💫Hist y Cultura",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07z/index.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="ESPN" tvg-logo="https://n9.cl/4al55" group-title="💫ESPN",ESPN
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a08p/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ESPN2" tvg-logo="https://n9.cl/v97z4" group-title="💫ESPN",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07d/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ESPN3" tvg-logo="https://n9.cl/u0vwt" group-title="💫ESPN",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07j/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ESPN4" tvg-logo="https://n9.cl/3cy4h" group-title="💫ESPN",ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07k/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ESPN5" tvg-logo="https://n9.cl/efonix" group-title="💫ESPN",ESPN 5 
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a03p/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ESPN6" tvg-logo="https://n9.cl/mf2h0" group-title="💫ESPN",ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a03n/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ESPN7" tvg-logo="https://n9.cl/tnkx7i" group-title="💫ESPN",ESPN 7 
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a080/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://n9.cl/606eje" group-title="💫ESPN",ESPN Premium
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a05o/index.m3u8
 
 💫Animados
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/daw3gw" group-title="💫Animados",Disney Channel
