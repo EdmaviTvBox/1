@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:11 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/lka6io" group-title="💫Colombia",CARACOL TV
-#EXTVLCOPT:network-caching=1000
-http://181.78.0.107:8006/play/a08t/index.m3u8
 #EXTINF:11 tvg-id="" tvg-name="WIN+" tvg-logo="https://n9.cl/mn1pp" group-title="💫Colombia",WIN+
 #EXTVLCOPT:network-caching=1000
 http://181.78.0.107:8006/play/a08x/index.m3u8
+#EXTINF:11 tvg-id="" tvg-name="CARACOL TV" tvg-logo="https://n9.cl/lka6io" group-title="💫Colombia",CARACOL TV
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a08t/index.m3u8
 #EXTINF:11 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="💫Colombia",RCN
 #EXTVLCOPT:network-caching=1000
 http://181.78.0.107:8006/play/a08u/index.m3u8
