@@ -1,4 +1,82 @@
 #EXTM3U
+
+=== 💫Hist y Cultura ===
+#EXTINF:1 tvg-id="" tvg-name="" tvg-logo="" group-title="💫Hist y Cultura",
+
+#EXTINF:1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/PsNK0JYK/Animal-Planet-150.png" group-title="💫Hist y Cultura",ANIMAL PLANET 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/30074
+#EXTINF:1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/PsNK0JYK/Animal-Planet-150.png" group-title="💫Hist y Cultura",ANIMAL PLANET
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/440869
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/gMfx8p10/Discov-channel-150.png" group-title="💫Hist y Cultura",DISCOVERY CHANNEL HD 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/30076
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/gMfx8p10/Discov-channel-150.png" group-title="💫Hist y Cultura",DISCOVERY CHANNEL 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/287610
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/gMfx8p10/Discov-channel-150.png" group-title="💫Hist y Cultura",DISCOVERY CHANNEL SD SUR
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/440853
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY CHANNEL (ESP)" tvg-logo="https://i.ibb.co/gMfx8p10/Discov-channel-150.png" group-title="💫Hist y Cultura",DISCOVERY CHANNEL (ESP)
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/55860
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://i.ibb.co/Q31MmC8Q/Discov-Civilization-150.png" group-title="💫Hist y Cultura",DISCOVERY CIVILIZATION HD
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/30082
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://i.ibb.co/SXV5tmqm/Discov-familia-150.png" group-title="💫Hist y Cultura",DISCOVERY FAMILIA 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31053
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY H&H NORTE" tvg-logo="https://i.ibb.co/0VDqcngW/Discov-H-H-150.png" group-title="💫Hist y Cultura",DISCOVERY H&H NORTE 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31064
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY H&H SUR" tvg-logo="https://i.ibb.co/0VDqcngW/Discov-H-H-150.png" group-title="💫Hist y Cultura",DISCOVERY H&H SUR 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/287616
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/0VDqcngW/Discov-H-H-150.png" group-title="💫Hist y Cultura",DISCOVERY H&H SD
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/30084
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/0VDqcngW/Discov-H-H-150.png" group-title="💫Hist y Cultura",DISCOVERY H&H SD SUR 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/440852
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/3yJVYg3f/Discov-Science-150.png" group-title="💫Hist y Cultura",DISCOVERY SCIENCE SD
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31047
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/3yJVYg3f/Discov-Science-150.png" group-title="💫Hist y Cultura",DISCOVERY SCIENCE HD  
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31048
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/3yJVYg3f/Discov-Science-150.png" group-title="💫Hist y Cultura",DISCOVERY SCIENCE SD SUR 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/440851
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/nqFbCnd9/Discov-theater-150.png" group-title="💫Hist y Cultura",DISCOVERY THEATER 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31052
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/nqFbCnd9/Discov-theater-150.png" group-title="💫Hist y Cultura",DISCOVERY THEATER SD
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/110775
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://i.ibb.co/Xr11hj13/Discov-TLC-150.png" group-title="💫Hist y Cultura",DISCOVERY TLC HD.
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/110781
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/v4fY1Bdm/Discov-Turbo-150.png" group-title="💫Hist y Cultura",DISCOVERY TURBO MX HD
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/30078
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/v4fY1Bdm/Discov-Turbo-150.png" group-title="💫Hist y Cultura",DISCOVERY TURBO SD SUR
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/440850
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/gZ5R20pq/Discov-World-150.png" group-title="💫Hist y Cultura",DISCOVERY WORLD LAT HD  
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31050
+#EXTINF:1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/gZ5R20pq/Discov-World-150.png" group-title="💫Hist y Cultura",DISCOVERY WORLD 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/287611
+#EXTINF:1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://n9.cl/6bm73c" group-title="💫Hist y Cultura",INVESTIGATION DISCOVERY HD
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31049
+#EXTINF:1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://n9.cl/6bm73c" group-title="💫Hist y Cultura",INVESTIGATION DISCOVERY 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/287612
+#EXTINF:1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://n9.cl/6bm73c" group-title="💫Hist y Cultura",INVESTIGATION DISCOVERY SD SUR
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/440822
+#EXTINF:1 tvg-id="" tvg-name="HGTV MX" tvg-logo="https://i.ibb.co/fVyDc8qG/hgtv-150.png" group-title="💫Hist y Cultura",HGTV MX
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/110851
+#EXTINF:1 tvg-id="" tvg-name="HGTV MX" tvg-logo="https://i.ibb.co/fVyDc8qG/hgtv-150.png" group-title="💫Hist y Cultura",HGTV SD SUR 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/440824
+#EXTINF:1 tvg-id="" tvg-name="HISTORIA (ESP)" tvg-logo="https://i.ibb.co/bgxg517v/HISTORIA-150.png" group-title="💫Hist y Cultura",HISTORIA (ESP)
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/55859
+#EXTINF:1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.ibb.co/dw1hvFmj/History-150.png" group-title="💫Hist y Cultura",HISTORY
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/197030
+#EXTINF:1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.ibb.co/dw1hvFmj/History-150.png" group-title="💫Hist y Cultura",HISTORY NORTE 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31056
+#EXTINF:1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/KcCn1ddV/History2-150.png" group-title="💫Hist y Cultura",HISTORY 2
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31054
+#EXTINF:1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/KcCn1ddV/History2-150.png" group-title="💫Hist y Cultura",HISTORY 2 SUR 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/287607
+#EXTINF:1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/4ZnC2jmr/love-nature-150.png" group-title="💫Hist y Cultura",LOVE NATURE SD SUR
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/440816
+#EXTINF:1 tvg-id="" tvg-name="NATGEO" tvg-logo="https://i.ibb.co/zhjbXkvR/Nat-geo-150.png" group-title="💫Hist y Cultura",NATGEO 
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/287613
+#EXTINF:1 tvg-id="" tvg-name="NATGEO MUNDO" tvg-logo="https://i.ibb.co/RGWhhPrj/Nat-Geo-mundo-150.png" group-title="💫Hist y Cultura",NATGEO MUNDO
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/31058
+#EXTINF:1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://i.ibb.co/n8ncbSTZ/Nat-Geo-Wild-150.png" group-title="💫Hist y Cultura",NATGEO WILD
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/182223
+#EXTINF:1 tvg-id="" tvg-name="NAT GEO WILD (ESP)" tvg-logo="https://i.ibb.co/n8ncbSTZ/Nat-Geo-Wild-150.png" group-title="💫Hist y Cultura",NAT GEO WILD (ESP)
+http://skynetdigital.us:8080/MmKU@danli/CEN6KqB23/55858
 === ✨COLOMBIA ===
 #EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6aqby3" group-title="Colombia",Canal Uno (UHD) 
 http://gama-mx.com:8085/EDGAR2022/EDGAR060722/93754
