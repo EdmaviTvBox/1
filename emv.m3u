@@ -71,7 +71,7 @@ http://45.70.168.162:12339/play/a01k/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="" group-title="💫Variedades Premium",TNT Novelas
 http://45.70.168.162:12339/play/a00l/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Warner TV" tvg-logo="" group-title="💫Variedades Premium",Warner TV
-Warner http://45.70.168.162:12339/play/a00c/index.m3u8
+http://45.70.168.162:12339/play/a00c/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="💫Cine y Series",AXN 
 http://45.70.168.162:12339/play/a00z/index.m3u8
@@ -111,6 +111,8 @@ http://45.70.168.162:12339/play/a00j/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="ESPN 7" tvg-logo="" group-title="💫Deportes",ESPN 7
 http://45.70.168.162:12339/play/a00i/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Win" tvg-logo="" group-title="💫Deportes",Win
-Win http://45.70.168.162:12339/play/a013/index.m3u8
+http://45.70.168.162:12339/play/a013/index.m3u8
 
 /// https://n9.cl/p5ifb ///
+/// emv.m3u ///
+/// Venc: 31/12/2026 ///
