@@ -1,43 +1,114 @@
 #EXTM3U
-✨CINE Y SERIES
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jr49fw" group-title="CINE Y SERIES",AMC
-http://canal-pro.xyz:8080/975483113tv/jsn271a/104
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0fyfi" group-title="CINE Y SERIES",AXN
-http://canal-pro.xyz:8080/975483113tv/jsn271a/108
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b8ryi" group-title="CINE Y SERIES",CINE LATINO
-http://canal-pro.xyz:8080/975483113tv/jsn271a/110
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hhelq" group-title="CINE Y SERIES",CINECANAL »1«
-http://canal-pro.xyz:8080/975483113tv/jsn271a/113
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hhelq" group-title="CINE Y SERIES",CINECANAL »2«
-http://canal-pro.xyz:8080/975483113tv/jsn271a/115
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hhelq" group-title="CINE Y SERIES",CINECANAL »3«
-http://canal-pro.xyz:8080/975483113tv/jsn271a/112
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bk3lb7" group-title="CINE Y SERIES",CINEMAX
-http://canal-pro.xyz:8080/975483113tv/jsn271a/118
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9h221" group-title="CINE Y SERIES",DE PELÍCULA
-http://canal-pro.xyz:8080/975483113tv/jsn271a/183
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hiezt" group-title="CINE Y SERIES",DE PELÍCULA CLASICO
-http://canal-pro.xyz:8080/975483113tv/jsn271a/182
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/brs9p" group-title="CINE Y SERIES",EURO CHANNEL
-http://canal-pro.xyz:8080/975483113tv/jsn271a/184
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s4eyai" group-title="CINE Y SERIES",EUROPA EUROPA
-http://canal-pro.xyz:8080/975483113tv/jsn271a/187
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/l3jjl" group-title="CINE Y SERIES",FX
-http://canal-pro.xyz:8080/975483113tv/jsn271a/124
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hvnxid" group-title="CINE Y SERIES",GOLDEN
-http://canal-pro.xyz:8080/975483113tv/jsn271a/127
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lp5qf" group-title="CINE Y SERIES",USA
-http://canal-pro.xyz:8080/975483113tv/jsn271a/222
-#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/geuj7" group-title="CINE Y SERIES",TCM (HD) »1«
-http://canal-pro.xyz:8080/975483113tv/jsn271a/229
+#EXTINF:1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="💫Animados",Baby First
+http://45.70.168.162:12339/play/a01i/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="💫Animados",Cartoon Network (Dob)
+http://45.70.168.162:12339/play/a007/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="💫Animados",Disney Channel
+http://45.70.168.162:12339/play/a009/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Nick JR" tvg-logo="" group-title="💫Animados",Nick JR
+http://45.70.168.162:12339/play/a015/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="💫Animados",Nickelodeon
+http://45.70.168.162:12339/play/a001/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-name="Caracol" tvg-logo="" group-title="💫Colombia",Caracol
+http://45.70.168.162:12339/play/a00o/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="RCN" tvg-logo="" group-title="💫Colombia",RCN
+http://45.70.168.162:12339/play/a00p/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Canal Uno" tvg-logo="" group-title="💫Colombia",Canal Uno
+http://45.70.168.162:12339/play/a00n/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Telecaribe " tvg-logo="" group-title="💫Colombia",Telecaribe 
+http://45.70.168.162:12339/play/a018/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Senal Colombia" tvg-logo="" group-title="💫Colombia",Senal Colombia
+http://45.70.168.162:12339/play/a00s/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Capital" tvg-logo="" group-title="💫Colombia",Capital
+http://45.70.168.162:12339/play/a00v/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="City TV" tvg-logo="" group-title="💫Colombia",City TV
+http://45.70.168.162:12339/play/a00u/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Trece" tvg-logo="" group-title="💫Colombia",Trece
+http://45.70.168.162:12339/play/a019/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="💫Colombia",Zoom
+http://45.70.168.162:12339/play/a01m/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Institucional" tvg-logo="" group-title="💫Colombia",Institucional
+http://45.70.168.162:12339/play/a00q/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="💫Colombia",Canal del Congreso
+http://45.70.168.162:12339/play/a00r/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="" group-title="💫Colombia",Teleantioquia 
+http://45.70.168.162:12339/play/a012/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Telepacifico" tvg-logo="" group-title="💫Colombia",Telepacifico 
+http://45.70.168.162:12339/play/a014/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="TRO" tvg-logo="" group-title="💫Colombia",TRO
+http://45.70.168.162:12339/play/a01n/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="💫Hist y Cultura",Animal Planet
+http://45.70.168.162:12339/play/a00b/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Discov Channel" tvg-logo="" group-title="💫Hist y Cultura",Discov Channel
+http://45.70.168.162:12339/play/a00a/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Discov H&H" tvg-logo="" group-title="💫Hist y Cultura",Discov H&H
+http://45.70.168.162:12339/play/a01q/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Discov ID" tvg-logo="" group-title="💫Hist y Cultura",Discov ID
+http://45.70.168.162:12339/play/a00k/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Discov Turbo" tvg-logo="" group-title="💫Hist y Cultura",Discov Turbo
+http://45.70.168.162:12339/play/a016/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="💫Hist y Cultura",El Gourmet
+http://45.70.168.162:12339/play/a024/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="History" tvg-logo="" group-title="💫Hist y Cultura",History
+http://45.70.168.162:12339/play/a003/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="💫Hist y Cultura",Love Nature (Dob)
+http://45.70.168.162:12339/play/a02c/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Nat Geo" tvg-logo="" group-title="💫Hist y Cultura",Nat Geo
+http://45.70.168.162:12339/play/a002/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-name="AE" tvg-logo="" group-title="💫Variedades Premium",AE
+http://45.70.168.162:12339/play/a00h/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="E Ent" tvg-logo="" group-title="💫Variedades Premium",E Ent
+http://45.70.168.162:12339/play/a00d/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="💫Variedades Premium",Las Estrellas
+http://45.70.168.162:12339/play/a01j/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="💫Variedades Premium",MTV
+http://45.70.168.162:12339/play/a01p/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="💫Variedades Premium",Telemundo 
+http://45.70.168.162:12339/play/a01k/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="" group-title="💫Variedades Premium",TNT Novelas
+http://45.70.168.162:12339/play/a00l/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Warner TV" tvg-logo="" group-title="💫Variedades Premium",Warner TV
+Warner http://45.70.168.162:12339/play/a00c/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="💫Cine y Series",AXN 
+http://45.70.168.162:12339/play/a00z/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cinecanal" tvg-logo="" group-title="💫Cine y Series",Cinecanal
+http://45.70.168.162:12339/play/a004/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="💫Cine y Series",Cinemax
+http://45.70.168.162:12339/play/a00x/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="💫Cine y Series",FX
+http://45.70.168.162:12339/play/a011/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="💫Cine y Series",HBO
+http://45.70.168.162:12339/play/a00w/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Sony Channel" tvg-logo="" group-title="💫Cine y Series",Sony Channel
+http://45.70.168.162:12339/play/a028/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="💫Cine y Series",Space
+http://45.70.168.162:12339/play/a010/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="💫Cine y Series",Star Channel
+http://45.70.168.162:12339/play/a006/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="💫Cine y Series",TNT
+http://45.70.168.162:12339/play/a01z/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="💫Cine y Series",Universal 
+http://45.70.168.162:12339/play/a005/index.m3u8
 
-
-
-
-
-
-
+#EXTINF:1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="💫Deportes",Claro Sports
+http://45.70.168.162:12339/play/a029/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="💫Deportes",ESPN
+http://45.70.168.162:12339/play/a00g/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="💫Deportes",ESPN 2
+http://45.70.168.162:12339/play/a00f/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="💫Deportes",ESPN 3
+http://45.70.168.162:12339/play/a017/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 5" tvg-logo="" group-title="💫Deportes",ESPN 5
+http://45.70.168.162:12339/play/a00m/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 5" tvg-logo="" group-title="💫Deportes",ESPN 5
+http://45.70.168.162:12339/play/a00e/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 6" tvg-logo="" group-title="💫Deportes",ESPN 6
+http://45.70.168.162:12339/play/a00j/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 7" tvg-logo="" group-title="💫Deportes",ESPN 7
+http://45.70.168.162:12339/play/a00i/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Win" tvg-logo="" group-title="💫Deportes",Win
+Win http://45.70.168.162:12339/play/a013/index.m3u8
