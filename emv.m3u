@@ -22,15 +22,15 @@ http://45.70.168.162:12339/play/a018/index.m3u8
 http://45.70.168.162:12339/play/a00s/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Capital" tvg-logo="https://n9.cl/ylkf6" group-title="💫Colombia",Capital
 http://45.70.168.162:12339/play/a00v/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="City TV" tvg-logo="https://n9.cl/og04yk" group-title="💫Colombia",City TV
+#EXTINF:1 tvg-id="" tvg-name="City TV" tvg-logo="https://n9.cl/c8ni1" group-title="💫Colombia",City TV
 http://45.70.168.162:12339/play/a00u/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Trece" tvg-logo="https://n9.cl/3qcc5" group-title="💫Colombia",Trece
 http://45.70.168.162:12339/play/a019/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Zoom" tvg-logo="https://n9.cl/12x76" group-title="💫Colombia",Zoom
 http://45.70.168.162:12339/play/a01m/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Institucional" tvg-logo="" group-title="💫Colombia",Institucional
+#EXTINF:1 tvg-id="" tvg-name="Institucional" tvg-logo="https://n9.cl/d87xix" group-title="💫Colombia",Institucional
 http://45.70.168.162:12339/play/a00q/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="💫Colombia",Canal del Congreso
+#EXTINF:1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="https://n9.cl/eih2j" group-title="💫Colombia",Canal del Congreso
 http://45.70.168.162:12339/play/a00r/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="https://n9.cl/lmp77" group-title="💫Colombia",Teleantioquia 
 http://45.70.168.162:12339/play/a012/index.m3u8
