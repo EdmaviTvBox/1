@@ -73,25 +73,25 @@ http://45.70.168.162:12339/play/a00l/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Warner TV" tvg-logo="" group-title="💫Variedades Premium",Warner TV
 http://45.70.168.162:12339/play/a00c/index.m3u8
 
-#EXTINF:1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="💫Cine y Series",AXN 
+#EXTINF:1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/l99um" group-title="💫Cine y Series",AXN 
 http://45.70.168.162:12339/play/a00z/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Cinecanal" tvg-logo="" group-title="💫Cine y Series",Cinecanal
+#EXTINF:1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://n9.cl/k1zio" group-title="💫Cine y Series",Cinecanal
 http://45.70.168.162:12339/play/a004/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="💫Cine y Series",Cinemax
+#EXTINF:1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://n9.cl/5wy94" group-title="💫Cine y Series",Cinemax
 http://45.70.168.162:12339/play/a00x/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="💫Cine y Series",FX
+#EXTINF:1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/rwz8dn" group-title="💫Cine y Series",FX
 http://45.70.168.162:12339/play/a011/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="💫Cine y Series",HBO
+#EXTINF:1 tvg-id="" tvg-name="HBO" tvg-logo="https://n9.cl/avayu" group-title="💫Cine y Series",HBO
 http://45.70.168.162:12339/play/a00w/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Sony Channel" tvg-logo="" group-title="💫Cine y Series",Sony Channel
+#EXTINF:1 tvg-id="" tvg-name="Sony Channel" tvg-logo="https://n9.cl/84j5se" group-title="💫Cine y Series",Sony Channel
 http://45.70.168.162:12339/play/a028/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="💫Cine y Series",Space
+#EXTINF:1 tvg-id="" tvg-name="Space" tvg-logo="https://n9.cl/79l5r" group-title="💫Cine y Series",Space
 http://45.70.168.162:12339/play/a010/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Star Channel" tvg-logo="" group-title="💫Cine y Series",Star Channel
+#EXTINF:1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://n9.cl/740tm" group-title="💫Cine y Series",Star Channel
 http://45.70.168.162:12339/play/a006/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="💫Cine y Series",TNT
+#EXTINF:1 tvg-id="" tvg-name="TNT" tvg-logo="https://n9.cl/hgc2f" group-title="💫Cine y Series",TNT
 http://45.70.168.162:12339/play/a01z/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="💫Cine y Series",Universal 
+#EXTINF:1 tvg-id="" tvg-name="Universal" tvg-logo="https://n9.cl/sys9ir" group-title="💫Cine y Series",Universal 
 http://45.70.168.162:12339/play/a005/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="💫Deportes",Claro Sports
