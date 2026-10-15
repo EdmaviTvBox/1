@@ -10,33 +10,33 @@ http://45.70.168.162:12339/play/a015/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="💫Animados",Nickelodeon
 http://45.70.168.162:12339/play/a001/index.m3u8
 
-#EXTINF:1 tvg-id="" tvg-name="Caracol" tvg-logo="" group-title="💫Colombia",Caracol
+#EXTINF:1 tvg-id="" tvg-name="Caracol" tvg-logo="https://n9.cl/lka6io" group-title="💫Colombia",Caracol
 http://45.70.168.162:12339/play/a00o/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="RCN" tvg-logo="" group-title="💫Colombia",RCN
+#EXTINF:1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="💫Colombia",RCN
 http://45.70.168.162:12339/play/a00p/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Canal Uno" tvg-logo="" group-title="💫Colombia",Canal Uno
+#EXTINF:1 tvg-id="" tvg-name="Canal Uno" tvg-logo="https://n9.cl/bq7df" group-title="💫Colombia",Canal Uno
 http://45.70.168.162:12339/play/a00n/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Telecaribe " tvg-logo="" group-title="💫Colombia",Telecaribe 
+#EXTINF:1 tvg-id="" tvg-name="Telecaribe " tvg-logo="https://n9.cl/yxwqhv" group-title="💫Colombia",Telecaribe 
 http://45.70.168.162:12339/play/a018/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Senal Colombia" tvg-logo="" group-title="💫Colombia",Senal Colombia
+#EXTINF:1 tvg-id="" tvg-name="Senal Colombia" tvg-logo="https://n9.cl/tq74te" group-title="💫Colombia",Senal Colombia
 http://45.70.168.162:12339/play/a00s/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Capital" tvg-logo="" group-title="💫Colombia",Capital
+#EXTINF:1 tvg-id="" tvg-name="Capital" tvg-logo="https://n9.cl/ylkf6" group-title="💫Colombia",Capital
 http://45.70.168.162:12339/play/a00v/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="City TV" tvg-logo="" group-title="💫Colombia",City TV
+#EXTINF:1 tvg-id="" tvg-name="City TV" tvg-logo="https://n9.cl/og04yk" group-title="💫Colombia",City TV
 http://45.70.168.162:12339/play/a00u/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Trece" tvg-logo="" group-title="💫Colombia",Trece
+#EXTINF:1 tvg-id="" tvg-name="Trece" tvg-logo="https://n9.cl/3qcc5" group-title="💫Colombia",Trece
 http://45.70.168.162:12339/play/a019/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="💫Colombia",Zoom
+#EXTINF:1 tvg-id="" tvg-name="Zoom" tvg-logo="https://n9.cl/12x76" group-title="💫Colombia",Zoom
 http://45.70.168.162:12339/play/a01m/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Institucional" tvg-logo="" group-title="💫Colombia",Institucional
 http://45.70.168.162:12339/play/a00q/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="💫Colombia",Canal del Congreso
 http://45.70.168.162:12339/play/a00r/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="" group-title="💫Colombia",Teleantioquia 
+#EXTINF:1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="https://n9.cl/lmp77" group-title="💫Colombia",Teleantioquia 
 http://45.70.168.162:12339/play/a012/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Telepacifico" tvg-logo="" group-title="💫Colombia",Telepacifico 
+#EXTINF:1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/j2md5x" group-title="💫Colombia",Telepacifico 
 http://45.70.168.162:12339/play/a014/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="TRO" tvg-logo="" group-title="💫Colombia",TRO
+#EXTINF:1 tvg-id="" tvg-name="TRO" tvg-logo="https://n9.cl/cftc3" group-title="💫Colombia",TRO
 http://45.70.168.162:12339/play/a01n/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="💫Hist y Cultura",Animal Planet
