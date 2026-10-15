@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="💫Animados",Baby First
+#EXTINF:1 tvg-id="" tvg-name="Baby First" tvg-logo="https://n9.cl/sikud" group-title="💫Animados",Baby First
 http://45.70.168.162:12339/play/a01i/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="💫Animados",Cartoon Network (Dob)
+#EXTINF:1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://n9.cl/2x3rk8" group-title="💫Animados",Cartoon Network (Dob)
 http://45.70.168.162:12339/play/a007/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="💫Animados",Disney Channel
+#EXTINF:1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/daw3gw" group-title="💫Animados",Disney Channel
 http://45.70.168.162:12339/play/a009/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Nick JR" tvg-logo="" group-title="💫Animados",Nick JR
+#EXTINF:1 tvg-id="" tvg-name="Nick JR" tvg-logo="https://n9.cl/m807cx" group-title="💫Animados",Nick JR
 http://45.70.168.162:12339/play/a015/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="💫Animados",Nickelodeon
+#EXTINF:1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/dqq8m" group-title="💫Animados",Nickelodeon
 http://45.70.168.162:12339/play/a001/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-name="Caracol" tvg-logo="https://n9.cl/lka6io" group-title="💫Colombia",Caracol
