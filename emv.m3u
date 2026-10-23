@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:1 tvg-id="" tvg-name="Baby First" tvg-logo="https://n9.cl/sikud" group-title="💫Animados",Baby First
 http://45.70.168.162:12339/play/a01i/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://n9.cl/2x3rk8" group-title="💫Animados",Cartoon Network
+http://181.78.0.107:8006/play/a07b/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://n9.cl/2x3rk8" group-title="💫Animados",Cartoon Network (Dob)
 http://45.70.168.162:12339/play/a007/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/daw3gw" group-title="💫Animados",Disney Channel
@@ -10,12 +12,22 @@ http://45.70.168.162:12339/play/a015/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/dqq8m" group-title="💫Animados",Nickelodeon
 http://45.70.168.162:12339/play/a001/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-name="Win" tvg-logo="https://n9.cl/0ib3gi" group-title="💫Deportes",Win
+http://45.70.168.162:12339/play/a013/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Win+" tvg-logo="" group-title="💫Deportes",Win+
+http://181.78.0.107:8006/play/a08x/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Caracol" tvg-logo="https://n9.cl/lka6io" group-title="💫Colombia",Caracol
+http://181.78.0.107:8006/play/a08t/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Caracol" tvg-logo="https://n9.cl/lka6io" group-title="💫Colombia",Caracol
 http://45.70.168.162:12339/play/a00o/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="💫Colombia",RCN
+http://181.78.0.107:8006/play/a08u/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="💫Colombia",RCN
 http://45.70.168.162:12339/play/a00p/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Canal Uno" tvg-logo="https://n9.cl/bq7df" group-title="💫Colombia",Canal Uno
 http://45.70.168.162:12339/play/a00n/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Telecaribe " tvg-logo="https://n9.cl/yxwqhv" group-title="💫Colombia",Telecaribe 
+http://181.78.0.107:8006/play/a08v/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Telecaribe " tvg-logo="https://n9.cl/yxwqhv" group-title="💫Colombia",Telecaribe 
 http://45.70.168.162:12339/play/a018/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Senal Colombia" tvg-logo="https://n9.cl/tq74te" group-title="💫Colombia",Senal Colombia
@@ -78,6 +90,8 @@ http://45.70.168.162:12339/play/a00z/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://n9.cl/k1zio" group-title="💫Cine y Series",Cinecanal
 http://45.70.168.162:12339/play/a004/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://n9.cl/5wy94" group-title="💫Cine y Series",Cinemax
+http://181.78.0.107:8006/play/a05l/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://n9.cl/5wy94" group-title="💫Cine y Series",Cinemax
 http://45.70.168.162:12339/play/a00x/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/rwz8dn" group-title="💫Cine y Series",FX
 http://45.70.168.162:12339/play/a011/index.m3u8
@@ -110,8 +124,7 @@ http://45.70.168.162:12339/play/a00e/index.m3u8
 http://45.70.168.162:12339/play/a00j/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://n9.cl/652ub5" group-title="💫Deportes",ESPN 7
 http://45.70.168.162:12339/play/a00i/index.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Win" tvg-logo="https://n9.cl/0ib3gi" group-title="💫Deportes",Win
-http://45.70.168.162:12339/play/a013/index.m3u8
+
 
 /// https://n9.cl/p5ifb ///
 /// emv.m3u ///
