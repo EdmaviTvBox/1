@@ -1,18 +1,37 @@
 #EXTM3U
 === 💫Colombia ===
+#EXTINF:1 tvg-id="" tvg-name="Win" tvg-logo="https://n9.cl/0ib3gi" group-title="💫Deportes",Win
+http://45.70.168.162:12339/play/a013/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Caracol" tvg-logo="https://n9.cl/lka6io" group-title="💫Colombia",Caracol
+http://45.70.168.162:12339/play/a00o/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="RCN" tvg-logo="https://n9.cl/p0k7yv" group-title="💫Colombia",RCN
+http://45.70.168.162:12339/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCN MAS" tvg-logo="https://n9.cl/mof8k" group-title="💫Colombia",RCN MAS (E)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Canal Uno" tvg-logo="https://n9.cl/bq7df" group-title="💫Colombia",Canal Uno
+http://45.70.168.162:12339/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="https://n9.cl/63ffm" group-title="💫Colombia",SENAL COLOMBIA (E)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL INSTITUCIONAL" tvg-logo="https://n9.cl/f50pm" group-title="💫Colombia",CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:11 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://n9.cl/yxwqhv" group-title="💫Colombia",TELECARIBE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="https://n9.cl/eih2j" group-title="💫Colombia",Canal del Congreso
+http://45.70.168.162:12339/play/a00r/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Telecaribe " tvg-logo="https://n9.cl/yxwqhv" group-title="💫Colombia",Telecaribe 
 http://181.78.0.107:8006/play/a08v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia",RED+ (E) 
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="https://n9.cl/lmp77" group-title="💫Colombia",Teleantioquia 
+http://45.70.168.162:12339/play/a012/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="TRO" tvg-logo="https://n9.cl/cftc3" group-title="💫Colombia",TRO
+http://45.70.168.162:12339/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/q190w" group-title="💫Colombia",Telepacifico (E)
 https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED+" tvg-logo="https://n9.cl/3mgj6" group-title="💫Colombia",RED+ (E) 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/04.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Trece" tvg-logo="https://n9.cl/3qcc5" group-title="💫Colombia",Trece
+http://45.70.168.162:12339/play/a019/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Capital" tvg-logo="https://n9.cl/ylkf6" group-title="💫Colombia",Capital
+http://45.70.168.162:12339/play/a00v/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="City TV" tvg-logo="https://n9.cl/c8ni1" group-title="💫Colombia",City TV
+http://45.70.168.162:12339/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia",mas (E)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 8 TV" tvg-logo="https://n9.cl/cjivm" group-title="💫Colombia",Canal 8 TV (E)
@@ -23,12 +42,23 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1119843796.m
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-id="" tvg-name="Mi Gente" tvg-logo="https://n9.cl/e3d6f" group-title="💫Colombia",Mi Gente (E)
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="" group-title="💫Colombia",Zoom TV (E)
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="https://n9.cl/12x76" group-title="💫Colombia",Zoom TV (E)
 https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Noticiero 90Min" tvg-logo="" group-title="💫Colombia",Canal Noticiero 90Min (E)
 https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesangil" tvg-logo="" group-title="💫Colombia",Telesangil (E)
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+
+#EXTINF:1 tvg-id="" tvg-name="Institucional" tvg-logo="https://n9.cl/d87xix" group-title="💫Colombia",Institucional
+http://45.70.168.162:12339/play/a00q/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Senal Colombia" tvg-logo="https://n9.cl/tq74te" group-title="💫Colombia",Senal Colombia
+http://45.70.168.162:12339/play/a00s/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Telecaribe " tvg-logo="https://n9.cl/yxwqhv" group-title="💫Colombia",Telecaribe 
+http://45.70.168.162:12339/play/a018/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Zoom" tvg-logo="https://n9.cl/12x76" group-title="💫Colombia",Zoom
+http://45.70.168.162:12339/play/a01m/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Telepacifico" tvg-logo="https://n9.cl/j2md5x" group-title="💫Colombia",Telepacifico 
+http://45.70.168.162:12339/play/a014/index.m3u8
 
 ✝️Religiosos
 #EXTINF:-1 tvg-id="" tvg-name="TV Familia" tvg-logo="https://n9.cl/o66ue" group-title="✝️Religiosos",TV Familia (E) 
@@ -47,8 +77,20 @@ https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
 💫Animados
+#EXTINF:1 tvg-id="" tvg-name="Baby First" tvg-logo="https://n9.cl/sikud" group-title="💫Animados",Baby First
+http://45.70.168.162:12339/play/a01i/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://n9.cl/2x3rk8" group-title="💫Animados",Cartoon Network
+http://181.78.0.107:8006/play/a07b/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://n9.cl/2x3rk8" group-title="💫Animados",Cartoon Network (Dob)
+http://45.70.168.162:12339/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/daw3gw" group-title="💫Animados",Disney Channel
 http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://n9.cl/daw3gw" group-title="💫Animados",Disney Channel
+http://45.70.168.162:12339/play/a009/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Nick JR" tvg-logo="https://n9.cl/m807cx" group-title="💫Animados",Nick JR
+http://45.70.168.162:12339/play/a015/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://n9.cl/dqq8m" group-title="💫Animados",Nickelodeon
+http://45.70.168.162:12339/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://n9.cl/kmbfv8" group-title="💫Animados",Tooncast
 http://179.51.136.19:8000/play/a0wh/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clan Int" tvg-logo="https://n9.cl/66wjo" group-title="💫Animados",Clan Int
@@ -71,26 +113,83 @@ http://181.78.0.107:8006/play/a07x/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://n9.cl/tl4deo" group-title="💫Hist y Cultura",Discov Channel
 #EXTVLCOPT:network-caching=1000
 http://181.78.0.107:8006/play/a075/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://n9.cl/25ckoy" group-title="💫Hist y Cultura",Discov Science
-#EXTVLCOPT:network-caching=1000
-http://181.78.0.107:8006/play/a04g/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://n9.cl/6vbj2" group-title="💫Hist y Cultura",Discov Turbo
-#EXTVLCOPT:network-caching=1000
-http://181.78.0.107:8006/play/a04d/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Discovery World" tvg-logo="https://n9.cl/627sj" group-title="💫Hist y Cultura",Discov World
-#EXTVLCOPT:network-caching=1000
-http://181.78.0.107:8006/play/a07i/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="ID" tvg-logo="https://n9.cl/6bm73c" group-title="💫Hist y Cultura",ID
+#EXTINF:1 tvg-id="" tvg-name="Discov H&H" tvg-logo="https://n9.cl/suu9b" group-title="💫Hist y Cultura",Discov H&H
+http://45.70.168.162:12339/play/a01q/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ID" tvg-logo="https://n9.cl/6bm73c" group-title="💫Hist y Cultura",Discov ID
 #EXTVLCOPT:network-caching=1000
 http://181.78.0.107:8006/play/a07v/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="TLC" tvg-logo="https://n9.cl/q2vnh" group-title="💫Hist y Cultura",TLC
+#EXTINF:0 tvg-id="" tvg-name="Discov Science" tvg-logo="https://n9.cl/25ckoy" group-title="💫Hist y Cultura",Discov Science
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a04g/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Discov TLC" tvg-logo="https://n9.cl/q2vnh" group-title="💫Hist y Cultura",Discov TLC
 #EXTVLCOPT:network-caching=1000
 http://181.78.0.107:8006/play/a056/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Discov Turbo" tvg-logo="https://n9.cl/6vbj2" group-title="💫Hist y Cultura",Discov Turbo
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a04d/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Discov World" tvg-logo="https://n9.cl/627sj" group-title="💫Hist y Cultura",Discov World
+#EXTVLCOPT:network-caching=1000
+http://181.78.0.107:8006/play/a07i/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://n9.cl/l23jt" group-title="💫Hist y Cultura",El Gourmet
+http://45.70.168.162:12339/play/a024/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="History" tvg-logo="https://n9.cl/k8e42" group-title="💫Hist y Cultura",History
+http://45.70.168.162:12339/play/a003/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://n9.cl/hmxki4" group-title="💫Hist y Cultura",Love Nature (Dob)
+http://45.70.168.162:12339/play/a02c/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/ev8bb1" group-title="💫Hist y Cultura",Nat Geo HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.0.107:8006/play/a07z/index.m3u8
 
+#EXTINF:1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://n9.cl/bfsw4j" group-title="💫Hist y Cultura",Animal Planet
+http://45.70.168.162:12339/play/a00b/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Discov Channel" tvg-logo="https://n9.cl/upm1k" group-title="💫Hist y Cultura",Discov Channel
+http://45.70.168.162:12339/play/a00a/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Discov ID" tvg-logo="https://n9.cl/063tk" group-title="💫Hist y Cultura",Discov ID
+http://45.70.168.162:12339/play/a00k/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Discov Turbo" tvg-logo="https://n9.cl/vd2bm" group-title="💫Hist y Cultura",Discov Turbo
+http://45.70.168.162:12339/play/a016/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://n9.cl/vv8dw" group-title="💫Hist y Cultura",Nat Geo
+http://45.70.168.162:12339/play/a002/index.m3u8
+
+💫Variedades Premium
+#EXTINF:1 tvg-id="" tvg-name="AE" tvg-logo="https://n9.cl/qf14y" group-title="💫Variedades Premium",AE
+http://45.70.168.162:12339/play/a00h/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="E Ent" tvg-logo="https://n9.cl/1gdd1" group-title="💫Variedades Premium",E Ent
+http://45.70.168.162:12339/play/a00d/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="https://n9.cl/zlg8ox" group-title="💫Variedades Premium",Las Estrellas
+http://45.70.168.162:12339/play/a01j/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="MTV" tvg-logo="https://n9.cl/r22oe0" group-title="💫Variedades Premium",MTV
+http://45.70.168.162:12339/play/a01p/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://n9.cl/etzj4" group-title="💫Variedades Premium",Telemundo 
+http://45.70.168.162:12339/play/a01k/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="https://n9.cl/rv9id" group-title="💫Variedades Premium",TNT Novelas
+http://45.70.168.162:12339/play/a00l/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://n9.cl/qu9vna" group-title="💫Variedades Premium",Warner TV
+http://45.70.168.162:12339/play/a00c/index.m3u8
+
 💫Cine y Series
+#EXTINF:1 tvg-id="" tvg-name="AXN" tvg-logo="https://n9.cl/l99um" group-title="💫Cine y Series",AXN 
+http://45.70.168.162:12339/play/a00z/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://n9.cl/k1zio" group-title="💫Cine y Series",Cinecanal
+http://45.70.168.162:12339/play/a004/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://n9.cl/5wy94" group-title="💫Cine y Series",Cinemax
+http://181.78.0.107:8006/play/a05l/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://n9.cl/5wy94" group-title="💫Cine y Series",Cinemax
+http://45.70.168.162:12339/play/a00x/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="FX" tvg-logo="https://n9.cl/rwz8dn" group-title="💫Cine y Series",FX
+http://45.70.168.162:12339/play/a011/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="HBO" tvg-logo="https://n9.cl/avayu" group-title="💫Cine y Series",HBO
+http://45.70.168.162:12339/play/a00w/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Sony Channel" tvg-logo="https://n9.cl/84j5se" group-title="💫Cine y Series",Sony Channel
+http://45.70.168.162:12339/play/a028/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Space" tvg-logo="https://n9.cl/79l5r" group-title="💫Cine y Series",Space
+http://45.70.168.162:12339/play/a010/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://n9.cl/740tm" group-title="💫Cine y Series",Star Channel
+http://45.70.168.162:12339/play/a006/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="TNT" tvg-logo="https://n9.cl/hgc2f" group-title="💫Cine y Series",TNT
+http://45.70.168.162:12339/play/a01z/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="Universal" tvg-logo="https://n9.cl/sys9ir" group-title="💫Cine y Series",Universal 
+http://45.70.168.162:12339/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="https://n9.cl/cmu5fx" group-title="💫Cine y Series",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-logo="https://n9.cl/srxk3k" group-title="💫Cine y Series",BBC Drama
@@ -130,6 +229,26 @@ http://181.78.0.107:8006/play/a080/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://n9.cl/606eje" group-title="💫ESPN",ESPN Premium
 #EXTVLCOPT:network-caching=1000
 http://181.78.0.107:8006/play/a05o/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-name="ESPN" tvg-logo="https://n9.cl/56ha0" group-title="💫ESPN",ESPN
+http://45.70.168.162:12339/play/a00g/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://n9.cl/6p4tu" group-title="💫ESPN",ESPN 2
+http://45.70.168.162:12339/play/a00f/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://n9.cl/jcemj" group-title="💫ESPN",ESPN 3
+http://45.70.168.162:12339/play/a017/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://n9.cl/3677y" group-title="💫ESPN",ESPN 5
+http://45.70.168.162:12339/play/a00m/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://n9.cl/3677y" group-title="💫ESPN",ESPN 5
+http://45.70.168.162:12339/play/a00e/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://n9.cl/cp6cs" group-title="💫ESPN",ESPN 6
+http://45.70.168.162:12339/play/a00j/index.m3u8
+#EXTINF:1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://n9.cl/652ub5" group-title="💫ESPN",ESPN 7
+http://45.70.168.162:12339/play/a00i/index.m3u8
+
+💫Deportes
+#EXTINF:1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://n9.cl/q3t7t" group-title="💫Deportes",Claro Sports
+http://45.70.168.162:12339/play/a029/index.m3u8
+
 
 💫24/7
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho" tvg-logo="https://n9.cl/qzoh8m" group-title="💫24/7",El Chavo del Ocho
