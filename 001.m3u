@@ -250,9 +250,22 @@ http://45.70.168.162:12339/play/a00i/index.m3u8
 💫Deportes
 #EXTINF:1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://n9.cl/q3t7t" group-title="💫Deportes",Claro Sports
 http://45.70.168.162:12339/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-logo="https://n9.cl/d3ypls" group-title="💫Deportes",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="https://n9.cl/4ou1co" group-title="💫Deportes",Red Bull TV FHD (Esp)
+https://freqsyndlin.redbull.com/957/rbtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="https://n9.cl/4ou1co" group-title="💫Deportes",Red Bull TV FHD (Eng)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="https://n9.cl/4ou1co" group-title="💫Deportes",RED BULL HD (Eng)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="https://n9.cl/4ou1co" group-title="💫Deportes",RED BULL SD (Eng)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
 
 
 💫24/7
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://n9.cl/rq5rpg" group-title="💫24/7",Bob Esponja
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho" tvg-logo="https://n9.cl/qzoh8m" group-title="💫24/7",El Chavo del Ocho
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://n9.cl/dydvx" group-title="💫24/7",South Park
@@ -275,6 +288,20 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="One Piece (Esp)" tvg-logo="https://n9.cl/4iuzd" group-title="💫24/7",One Piece (Esp)
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+
+💫Music
+#EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="https://n9.cl/a4lvhb" group-title="💫Music",Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now 70's" tvg-logo="https://n9.cl/6g1yei" group-title="💫Music",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now 80's" tvg-logo="https://n9.cl/7rkmxt" group-title="💫Music",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW Rock" tvg-logo="https://n9.cl/irhtvp" group-title="💫Music",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://n9.cl/gnio0t" group-title="💫Music",HTV
+http://179.51.136.19:8000/play/a14l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Nets" tvg-logo="https://n9.cl/khian6" group-title="💫Music",Canal Nets (E)
+https://movil.ejeserver.com/live/nets.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boreal TV" tvg-logo="https://n9.cl/mddac" group-title="💫Variedades",Boreal TV
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
