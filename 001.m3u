@@ -30,6 +30,8 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 http://45.70.168.162:12339/play/a019/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Capital" tvg-logo="https://n9.cl/ylkf6" group-title="💫Colombia",Capital
 http://45.70.168.162:12339/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias" tvg-logo="https://n9.cl/fgqqg" group-title="💫Colombia",Cablenoticias
+http://181.78.211.244:8005/play/a09u/index.m3u8
 #EXTINF:1 tvg-id="" tvg-name="City TV" tvg-logo="https://n9.cl/c8ni1" group-title="💫Colombia",City TV
 http://45.70.168.162:12339/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mas" tvg-logo="https://n9.cl/ui4ao" group-title="💫Colombia",mas (E)
